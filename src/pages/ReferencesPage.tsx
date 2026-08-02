@@ -5,6 +5,64 @@ import Header from '../components/layout/Header';
 import Footer from '../components/layout/Footer';
 // import PageIntro from '../components/report/PageIntro';
 import {BIB_ENTRIES, REFERENCES} from '../data/latestReportData';
+import type {ReferenceEntry} from '../data/latestReportData';
+
+const CITE_TYPE_TABS = [
+    {key: 'all', label: '全部'},
+    {key: 'article', label: '期刊论文'},
+    {key: 'conference', label: '会议论文'},
+    {key: 'govdoc', label: '政府政策与报告'},
+    {key: 'arxiv', label: '预印本论文'},
+    {key: 'techdoc', label: '技术文档'},
+    {key: 'researchwebpage', label: '学术与项目主页'},
+] as const;
+
+type ReferenceTypeTab = (typeof CITE_TYPE_TABS)[number]['key'];
+type ReferenceCategory = Exclude<ReferenceTypeTab, 'all'>;
+
+const BIB_ENTRY_BY_KEY = new Map(BIB_ENTRIES.map((entry) => [entry.key, entry]));
+
+const GOVERNMENT_SOURCE_PATTERN = /(?:\.gov(?:\.|\/)|\.gouv(?:\.|\/)|gov\.cn|europa\.eu|canada\.ca|parliament|commission|government|ministry|国务院|政府|委员会|管理局|法案|条例|政策文件)/i;
+const TECHNICAL_SOURCE_PATTERN = /(?:\/docs?\/|documentation|developer|api[-_ ]?reference|technical[-_ ]?report|whitepaper|system[-_ ]?card|security[-_ ]?card|技术文档|开发者文档|用户指南|白皮书)/i;
+
+function classifyReference(reference: ReferenceEntry): ReferenceCategory {
+    const bibEntry = reference.key ? BIB_ENTRY_BY_KEY.get(reference.key) : undefined;
+    const bibType = bibEntry?.type.toLowerCase() ?? '';
+    const searchableText = [
+        reference.citation,
+        reference.url,
+        bibEntry?.title,
+        bibEntry?.venue,
+        bibEntry?.url,
+    ].filter(Boolean).join(' ');
+
+    if (/arxiv|preprint|预印本/i.test(searchableText)) {
+        return 'arxiv';
+    }
+
+    if (GOVERNMENT_SOURCE_PATTERN.test(searchableText)) {
+        return 'govdoc';
+    }
+
+    if (bibType === 'inproceedings' || bibType === 'incollection' || bibType === 'book') {
+        return 'conference';
+    }
+
+    if (bibType === 'article' || bibType === 'artile') {
+        return 'article';
+    }
+
+    if (
+        bibType === 'techreport' ||
+        bibType === 'report' ||
+        bibType === 'software' ||
+        TECHNICAL_SOURCE_PATTERN.test(searchableText)
+    ) {
+        return 'techdoc';
+    }
+
+    return 'researchwebpage';
+}
 
 export default function ReferencesPage() {
     const location = useLocation();
@@ -12,17 +70,7 @@ export default function ReferencesPage() {
     const citationKey = params.get('key') ?? '';
     const [query, setQuery] = useState(citationKey);
     // ========== 新增：文献分类Tab状态 ==========
-    const [activeTypeTab, setActiveTypeTab] = useState<string>("all");
-
-    const citeTypeTabs = [
-        {key: "all", label: "全部"},
-        {key: "article", label: "期刊论文"},
-        {key: "conference", label: "会议论文"},
-        {key: "govdoc", label: "政府政策与报告"},
-        {key: "arxiv", label: "预印本论文"},
-        {key: "techdoc", label: "技术文档"},
-        {key: "researchwebpage", label: "学术与项目主页"},
-    ];
+    const [activeTypeTab, setActiveTypeTab] = useState<ReferenceTypeTab>('all');
 
     useEffect(() => {
         setQuery(citationKey);
@@ -46,8 +94,8 @@ export default function ReferencesPage() {
         let list = REFERENCES;
 
         // 1. 文献类型过滤
-        if (activeTypeTab !== "all") {
-            list = list.filter(ref => ref.type === activeTypeTab);
+        if (activeTypeTab !== 'all') {
+            list = list.filter((reference) => classifyReference(reference) === activeTypeTab);
         }
 
         // 2. 关键词搜索过滤
@@ -73,7 +121,7 @@ export default function ReferencesPage() {
             {/* ==========【新增Tab区域，放在PageIntro与搜索框中间】========== */}
             <div className="mx-auto max-w-5xl px-5 md:px-8 py-6">
                 <div className="flex flex-wrap gap-3">
-                    {citeTypeTabs.map((tab) => (
+                    {CITE_TYPE_TABS.map((tab) => (
                         <button
                             key={tab.key}
                             onClick={() => setActiveTypeTab(tab.key)}
