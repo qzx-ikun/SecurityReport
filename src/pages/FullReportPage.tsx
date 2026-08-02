@@ -135,7 +135,7 @@ export default function FullReportPage() {
                                         <Icon size={17} className="mt-0.5 flex-none"/>
                                         <span className="min-w-0 flex-1">
                       <span className="block text-sm font-bold opacity-99">
-                        {item.id === 'frontmatter' ? '序言' : `第 ${item.number} 章`}
+                        {item.id === 'frontmatter' ? '' : `第 ${item.number} 章`}
                       </span>
                       <span className="mt-1 block text-sm font-bold leading-5">{item.title}</span>
                     </span>
@@ -199,7 +199,7 @@ export default function FullReportPage() {
 
                     <header className="mb-8 border-b border-slate-200 pb-6">
                         <div className="mb-0.1 text-lg font-bold text-blue-600">
-                            {chapter.id === 'frontmatter' ? '序言' : `第 ${chapter.number} 章`} {chapter.title} · {section.number} {section.title}
+                            {chapter.id === 'frontmatter' ? '' : `第 ${chapter.number} 章`} {chapter.title} · {section.number} {section.title}
                         </div>
                         {/*<h2 className="text-2xl font-bold leading-tight text-slate-950">{section.title}</h2>*/}
                         {/*/!*<p className="mt-3 text-sm text-slate-500">{chapter.title}</p>*!/*/}

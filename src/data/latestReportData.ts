@@ -1,5 +1,11 @@
 export interface ReportTable { id: string; number: string; title: string; category: string; columns: string[]; rows: string[][]; }
-export interface ReferenceEntry { number: number; key: string; citation: string; url: string; }
+export interface ReferenceEntry {
+  number: number;
+  key?: string;
+  citation: string;
+  url?: string;
+  type?: "article" | "conference" | "govdoc" | "arxiv" | "techdoc" | "researchwebpage";
+}
 export interface BibEntry { key: string; type: string; title: string; author: string; year: string; venue: string; url: string; }
 export interface LifecycleStage { id: string; title: string; problems: string[]; solutions: string[]; trends: string[]; }
 
@@ -180,12 +186,12 @@ const DATA = {
   "surveyChapters": [
     {
       "id": "frontmatter",
-      "number": "前",
+      "number": "",
       "title": "序言与报告信息",
       "sections": [
         {
           "id": "report-note",
-          "number": "说明",
+          "number": "",
           "title": "报告说明",
           "paragraphs": [
             "AI 智能体安全调研报告——全生命周期视角下的风险机理、威胁演化与趋势分析（2026 版）",
@@ -195,7 +201,7 @@ const DATA = {
         },
         {
           "id": "preface",
-          "number": "序",
+          "number": "",
           "title": "序言",
           "paragraphs": [
             "序言当前，全球自主式 AI 智能体（AI Agent）产业已进入规模化落地与高速扩张阶段，具备环境感知、自主规划决策、跨工具链路执行能力的智能体系统，已在政务、金融、医疗、工业等关键行业实现大规模部署。伴随技术落地进程，区别于传统大模型的专属安全风险持续迭代涌现，记忆投毒、分布式碎片化后门、权限越权滥用、多智能体协同共谋等新型威胁，构成了制约智能体安全应用的核心瓶颈。与此同时，全球各国围绕 AI 智能体的技术演进路线、安全防护标准、合规监管体系展开深度博弈，不同区域的治理规则与技术防护侧重点呈现明显分化特征。现阶段学界与产业界的相关研究多聚焦单点技术与碎片化风险分析，尚未形成覆盖技术、风险、治理的系统性安全分析框架。",
@@ -208,13 +214,13 @@ const DATA = {
         },
         {
           "id": "credits",
-          "number": "成员",
-          "title": "调研组成员信息",
+          "number": "",
+          "title": "调研小组成员",
           "paragraphs": [
             "策划：孙德刚、龙春",
-            "课题组长：杨琨",
-            "研究成员：丁文乐、李兴元、刘亚伟、钱郑希、王耀辉、张驰、郑思成、祝慕",
-            "研究成员依照姓氏排序。感谢王蓉参与第四章前期内容的撰写工作。"
+            "调研小组组长：杨琨",
+            "调研小组成员：丁文乐、李兴元、刘亚伟、钱郑希、王耀辉、张驰、郑思成、祝慕",
+            "调研小组成员依照姓氏排序。感谢王蓉参与第四章前期内容的撰写工作。"
           ]
         }
       ]

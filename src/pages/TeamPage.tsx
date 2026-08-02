@@ -19,7 +19,7 @@ type TeamGroup = {
 
 const TEAM_DATA: TeamGroup[] = [
     {
-        label: "策划人",
+        label: "策划",
         key: "leadership",
         members: [
             {
@@ -59,21 +59,21 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "丁文乐",
                 title: "本科生",
-                avatar: "/assets/avatar/clark.jpg",
+                avatar: "/assets/avatar/male.png",
                 research: "网络空间安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },
             {
                 name: "李兴元",
                 title: "本科生",
-                avatar: "/assets/avatar/clark.jpg",
+                avatar: "/assets/avatar/male.png",
                 research: "网络空间安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },
             {
                 name: "刘亚伟",
                 title: "算法工程师",
-                avatar: "/assets/avatar/clark.jpg",
+                avatar: "/assets/avatar/male.png",
                 research: "网络空间安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },
@@ -87,7 +87,7 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "王耀辉",
                 title: "博士",
-                avatar: "/assets/avatar/wangyaohui.png",
+                avatar: "/assets/avatar/male.png",
                 research: "恶意加密流量检测，智能体安全，大模型安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },
@@ -108,14 +108,14 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "郑思成",
                 title: "本科生",
-                avatar: "/assets/avatar/clark.jpg",
+                avatar: "/assets/avatar/male.png",
                 research: "网络空间安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },
             {
                 name: "祝慕",
                 title: "博士后",
-                avatar: "/assets/avatar/clark.jpg",
+                avatar: "/assets/avatar/male.png",
                 research: "网络空间安全",
                 link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
             },

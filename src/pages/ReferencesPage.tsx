@@ -72,6 +72,7 @@ export default function ReferencesPage() {
     // ========== 新增：文献分类Tab状态 ==========
     const [activeTypeTab, setActiveTypeTab] = useState<ReferenceTypeTab>('all');
 
+
     useEffect(() => {
         setQuery(citationKey);
     }, [citationKey]);
@@ -102,7 +103,7 @@ export default function ReferencesPage() {
         if (!needle) return list;
         return list.filter((reference) =>
             reference.citation.toLowerCase().includes(needle) ||
-            reference.key.toLowerCase().includes(needle) ||
+            reference.key?.toLowerCase().includes(needle) ||
             String(reference.number) === needle,
         );
     }, [query, activeTypeTab]);
