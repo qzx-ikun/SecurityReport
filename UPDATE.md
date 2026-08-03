@@ -1,3 +1,9 @@
+
+# v0.1.3-1: Replace /survey to /fullreport
+
+1. /survey was named to /fullreport 
+2. Fix errors in figure-2-7.png
+
 # v0.1.3: Add All Avatars
 
 1. Add all avatars 
