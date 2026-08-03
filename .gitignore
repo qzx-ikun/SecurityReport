@@ -42,4 +42,4 @@ pdf_extracted/
 output/
 
 # Large report source files are hosted outside the frontend repository
-*.pdf
+
