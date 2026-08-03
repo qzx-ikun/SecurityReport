@@ -66,16 +66,16 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "李兴元",
                 title: "本科生",
-                avatar: "/assets/avatar/male.png",
-                research: "网络空间安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                avatar: "/assets/avatar/lixingyuan.png",
+                research: "大语言模型安全、智能体安全",
+                link: "https://orcid.org/0009-0009-2259-0922"
             },
             {
                 name: "刘亚伟",
                 title: "算法工程师",
-                avatar: "/assets/avatar/male.png",
-                research: "网络空间安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                avatar: "/assets/avatar/liuyawei.png",
+                research: "自然语言处理、人工智能安全、智能体",
+                link: "https://scholar.google.com/citations?user=Fac-3DEAAAAJ&hl=zh-CN"
             },
             {
                 name: "钱政希",
@@ -87,9 +87,9 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "王耀辉",
                 title: "博士",
-                avatar: "/assets/avatar/male.png",
+                avatar: "/assets/avatar/wangyaohui.png",
                 research: "恶意加密流量检测，智能体安全，大模型安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                link: "https://2026.securityreportcnic.dpdns.org/"
             },
             {
                 name: "王蓉",
@@ -115,9 +115,9 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "祝慕",
                 title: "博士后",
-                avatar: "/assets/avatar/male.png",
-                research: "网络空间安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                avatar: "/assets/avatar/zhumu.png",
+                research: "网络空间安全、大模型安全",
+                link: "https://scholar.google.com/citations?user=mptl0q4AAAAJ&hl=en"
             },
         ],
     },

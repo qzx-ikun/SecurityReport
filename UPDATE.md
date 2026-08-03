@@ -1,3 +1,8 @@
+# v0.1.3: Add All Avatars
+
+1. Add all avatars 
+2. Update report pdf 
+3. Update README.md 
 
 
 # v0.1.2: Reduce pdf Size
