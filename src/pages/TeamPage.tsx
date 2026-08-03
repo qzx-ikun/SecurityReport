@@ -46,7 +46,7 @@ const TEAM_DATA: TeamGroup[] = [
                 name: "杨琨",
                 title: "研究员",
                 avatar: "/assets/avatar/yangkun.png",
-                research: "人工智能安全、智能体安全、网络空间安全",
+                research: "网络空间安全、人工智能安全、智能体安全",
                 link: "https://cnic.cas.cn/rcdw/yjy/202603/t20260311_8155339.html"
             },
         ],
@@ -59,9 +59,9 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "丁文乐",
                 title: "本科生",
-                avatar: "/assets/avatar/male.png",
-                research: "网络空间安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                avatar: "/assets/avatar/dingwenle.png",
+                research: "信息工程",
+                link: "https://www.linkedin.com/in/miloding"
             },
             {
                 name: "李兴元",
@@ -108,9 +108,9 @@ const TEAM_DATA: TeamGroup[] = [
             {
                 name: "郑思成",
                 title: "本科生",
-                avatar: "/assets/avatar/male.png",
-                research: "网络空间安全",
-                link: "https://cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202209/t20220915_6512886.html"
+                avatar: "/assets/avatar/zhengsicheng.png",
+                research: "信息安全",
+                link: "https://www.linkedin.com/in/sze-shing-cheng-b07b57350"
             },
             {
                 name: "祝慕",

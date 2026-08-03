@@ -1,5 +1,10 @@
 
 
+# v0.1.2: Reduce pdf Size
+
+1. Reduce pdf size 
+2. Add new avatar images 
+
 
 # v0.1.1: Update TeamPage
 
