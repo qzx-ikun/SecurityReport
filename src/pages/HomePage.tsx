@@ -286,7 +286,7 @@ export default function HomePage() {
                             {/* 重点：justify-center 实现按钮居中 */}
                             <div className="mt-10 flex flex-wrap justify-center gap-12">
                                 <Link
-                                    to="/survey"
+                                    to="/fullreport"
                                     className="inline-flex h-11 items-center gap-2 rounded bg-blue-600 px-5 text-sm font-bold text-white hover:bg-blue-700"
                                 >
                                     阅读调研正文 <ArrowRight size={16}/>
