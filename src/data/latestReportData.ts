@@ -7497,32 +7497,32 @@ const DATA = {
     {
       "number": 494,
       "key": "",
-      "citation": "中华人民共和国国家互联网信息办公室、中华人民共和国国家发展和改革委员会、中华 人民共和国工业和信息化部,智能体规范应用与创新发展实施意见,May2026.[Online]. Available: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
-      "url": "https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm"
+      "citation": "中华人民共和国国家互联网信息办公室、中华人民共和国国家发展和改革委员会、中华 人民共和国工业和信息化部,智能体规范应用与创新发展实施意见,May2026.[Online]. Available: https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm"
     },
     {
       "number": 495,
       "key": "人工智能安全治理框架2.0",
-      "citation": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心, 2025. [Online]. Available: https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm",
-      "url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm"
+      "citation": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心, 2025. [Online]. Available: https://std.sacinfo.org.cn/gnoc/queryInfo?id=495B8834610A6828F254D73BD7DCAF99",
+      "url": "https://std.sacinfo.org.cn/gnoc/queryInfo?id=495B8834610A6828F254D73BD7DCAF99"
     },
     {
       "number": 496,
-      "key": "“人工智能+”行动实施意见",
-      "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: https://www.gov.cn/gongbao/2025/issue_12266/202509/content_ 7039598.html",
-      "url": "https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html"
+      "key": "中华人民共和国出口管制法",
+      "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266",
+      "url": "flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266"
     },
     {
       "number": 497,
-      "key": "AI科技伦理审查与服务办法（试行）",
-      "citation": "中华人民共和国工业和信息化部等十部门, 工业和信息化部等十部门关于印发《人工 智能科技伦理审查与服务办法（试行）》的通知, 2026. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
-      "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm"
+      "key": "两用物项出口管制条例",
+      "citation": "中华人民共和国工业和信息化部等十部门, 工业和信息化部等十部门关于印发《人工 智能科技伦理审查与服务办法（试行）》的通知, 2026. [Online]. Available: www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+      "url": "www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
     },
     {
       "number": 498,
       "key": "",
-      "citation": "国家市场监督管理总局, 我国智能体互联领域首套国家标准体系发布, 2026. [Online]. Available:https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b8219733",
-      "url": "https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b8219733"
+      "citation": "国家市场监督管理总局, 我国智能体互联领域首套国家标准体系发布, 2026. [Online]. Available: fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html",
+      "url": "fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html"
     },
     {
       "number": 499,
