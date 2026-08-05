@@ -7484,13 +7484,13 @@ const DATA = {
     },
     {
       "number": 492,
-      "key": "“人工智能+”行动实施意见",
+      "key": "",
       "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: https://www.gov.cn/gongbao/2025/issue_12266/202509/content_ 7039598.html",
       "url": "https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html"
     },
     {
       "number": 493,
-      "key": "人工智能安全治理框架2.0",
+      "key": "",
       "citation": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心, 2025. [Online]. Available: https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm",
       "url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm"
     },
@@ -31007,4 +31007,4248 @@ const DATA = {
     {
       "key": "zhangweimingUSTC2026",
       "type": "misc",
-      "t
+      "title": "张卫明",
+      "author": "Zhang, Weiming",
+      "year": "2026",
+      "venue": "",
+      "url": "http://staff.ustc.edu.cn/~zhangwm/"
+    },
+    {
+      "key": "weixingxingBUAA2026",
+      "type": "misc",
+      "title": "韦星星",
+      "author": "Wei, Xingxing",
+      "year": "2026",
+      "venue": "",
+      "url": "https://iai.buaa.edu.cn/info/1013/1099.htm"
+    },
+    {
+      "key": "iaCASOfficial2026",
+      "type": "misc",
+      "title": "中国科学院自动化研究所",
+      "author": "中国科学院自动化研究所",
+      "year": "",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "kaiChenTeam2026",
+      "type": "misc",
+      "title": "陈恺 -- 个人网页",
+      "author": "中国科学院大学",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "bigaiTongTest2024",
+      "type": "misc",
+      "title": "朱松纯教授团队提出通用人工智能测试评级的标准与平台 TongTest",
+      "author": "北京通用人工智能研究院",
+      "year": "2024",
+      "venue": "",
+      "url": "https://www.bigai.ai/blog/news/朱松纯教授团队提出通用人工智能测试评级的标准/"
+    },
+    {
+      "key": "bigaiTongTestPaper2024",
+      "type": "article",
+      "title": "The tong test: Evaluating artificial general intelligence through dynamic embodied physical and social interactions",
+      "author": "Peng, Yujia and Han, Jiaheng and Zhang, Zhenliang and Fan, Lifeng and Liu, Tengyu and Qi, Siyuan and Feng, Xue and Ma, Yuxi and Wang, Yizhou and Zhu, Song-Chun",
+      "year": "2024",
+      "venue": "Engineering",
+      "url": ""
+    },
+    {
+      "key": "baaiOfficial2026",
+      "type": "misc",
+      "title": "Beijing Academy of Artificial Intelligence",
+      "author": "BEIJING ACADEMY OF ARTIFICIAL INTELLIGENCE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.baai.ac.cn/"
+    },
+    {
+      "key": "lindahuaSHLab2026",
+      "type": "misc",
+      "title": "林达华：以原创开源体系，推动大模型落地变革",
+      "author": "Lin, Dahua",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.shlab.org.cn/news/5443469"
+    },
+    {
+      "key": "intershannon2026",
+      "type": "misc",
+      "title": "探索\"安全即服务\"模式，上海AI实验室发布高安全、产业级智能体操作系统“书安”",
+      "author": "上海人工智能实验室",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "habler2025securea2a",
+      "type": "article",
+      "title": "Building A Secure Agentic AI Application Leveraging A2A Protocol",
+      "author": "Habler, Idan and Huang, Ken and Narajala, Vineeth Sai and Kulkarni, Prashant",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2504.16902"
+    },
+    {
+      "key": "perplexity_secure_intelligence_institute_2026",
+      "type": "misc",
+      "title": "Secure Intelligence Institute",
+      "author": "PERPLEXITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.perplexity.ai/secure-intelligence-institute"
+    },
+    {
+      "key": "threesixtyagentskillsreport2026",
+      "type": "misc",
+      "title": "AI Agent Security Report: Skill as a new risk entry",
+      "author": "360",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.xinhuanet.com/tech/20260525/7bf4998c12894a7183432528ad25c756/c.html"
+    },
+    {
+      "key": "baidu_acl_ai_safety_2026",
+      "type": "misc",
+      "title": "ACL 2026｜百度安全2篇成果入选：让模型兼顾“智能”与“安全”",
+      "author": "BAIDU SECURITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://shadu.baidu.com/article/2002"
+    },
+    {
+      "key": "baidu_agent_security_center_2026",
+      "type": "misc",
+      "title": "百度 Agent 安全中心：构筑企业智能体的安全底座",
+      "author": "百度智能云",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.baidu.com/article/7212409"
+    },
+    {
+      "key": "baidu_ai_security_solution_2026",
+      "type": "misc",
+      "title": "AI安全解决方案",
+      "author": "BAIDU AI CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.baidu.com/solution/security-for-llm.html"
+    },
+    {
+      "key": "baidu_qianfan_platform_2026",
+      "type": "misc",
+      "title": "千帆大模型平台：企业级一站式大模型及AI原生应用开发平台",
+      "author": "BAIDU AI CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.baidu.com/product-s/qianfan_home"
+    },
+    {
+      "key": "baidu_qianfan_security_policy_2026",
+      "type": "misc",
+      "title": "安全策略：百度千帆大模型服务及Agent开发平台",
+      "author": "百度智能云",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.baidu.com/doc/qianfan/s/Lmmxhsja8"
+    },
+    {
+      "key": "baidu_qianfan_intervention_policy_2026",
+      "type": "misc",
+      "title": "干预策略：千帆AI应用开发者中心",
+      "author": "百度智能云",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.baidu.com/doc/qianfan-docs/s/Iml9exr7d"
+    },
+    {
+      "key": "alibaba_agent_security_center_2026",
+      "type": "misc",
+      "title": "Agent Security Center",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/asc/latest/agent-risk-1"
+    },
+    {
+      "key": "glm5team2026glm5",
+      "type": "article",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "author": "Aohan Zeng and Xin Lv and Zhenyu Hou and Zhengxiao Du and Qinkai Zheng and Bin Chen and Da Yin and Chendi Ge and Chenghua Huang and Chengxing Xie and Chenzheng Zhu and Congfeng Yin and Cunxiang Wang and Gengzheng Pan and Hao Zeng and Haoke Zhang and Haoran Wang and Huilong Chen and Jiajie Zhang and Jian Jiao and Jiaqi Guo and Jingsen Wang and Jingzhao Du and Jinzhu Wu and Kedong Wang and Lei Li and Lin Fan and Lucen Zhong and Mingdao Liu and Mingming Zhao and Pengfan Du and Qian Dong and Rui Lu and Shuang-Li and Shulin Cao and Song Liu and Ting Jiang and Xiaodong Chen and Xiaohan Zhang and Xuancheng Huang and Xuezhen Dong and Yabo Xu and Yao Wei and Yifan An and Yilin Niu and Yitong Zhu and Yuanhao Wen and Yukuo Cen and Yushi Bai and Zhongpei Qiao and Zihan Wang and Zikang Wang and Zilin Zhu and Ziqiang Liu and Zixuan Li and Bojie Wang and Bosi Wen and Can Huang and Changpeng Cai and Chao Yu and Chen Li and Chengwei Hu and Chenhui Zhang and Dan Zhang and Daoyan Lin and Dayong Yang and Di Wang and Ding Ai and Erle Zhu and Fangzhou Yi and Feiyu Chen and Guohong Wen and Hailong Sun and Haisha Zhao and Haiyi Hu and Hanchen Zhang and Hanrui Liu and Hanyu Zhang and Hao Peng and Hao Tai and Haobo Zhang and He Liu and Hongwei Wang and Hongxi Yan and Hongyu Ge and Huan Liu and Huanpeng Chu and Jia'ni Zhao and Jiachen Wang and Jiajing Zhao and Jiamin Ren and Jiapeng Wang and Jiaxin Zhang and Jiayi Gui and Jiayue Zhao and Jijie Li and Jing An and Jing Li and Jingwei Yuan and Jinhua Du and Jinxin Liu and Junkai Zhi and Junwen Duan and Kaiyue Zhou and Kangjian Wei and Ke Wang and Keyun Luo and Laiqiang Zhang and Leigang Sha and Liang Xu and Lindong Wu and Lintao Ding and Lu Chen and Minghao Li and Nianyi Lin and Pan Ta and Qiang Zou and Rongjun Song and Ruiqi Yang and Shangqing Tu and Shangtong Yang and Shaoxiang Wu and Shengyan Zhang and Shijie Li and Shuang Li and Shuyi Fan and Wei Qin and Wei Tian and Weining Zhang and Wenbo Yu and Wenjie Liang and Xiang Kuang and Xiangmeng Cheng and Xiangyang Li and Xiaoquan Yan and Xiaowei Hu and Xiaoying Ling and Xing Fan and Xingye Xia and Xinyuan Zhang and Xinze Zhang and Xirui Pan and Xu Zou and Xunkai Zhang and Yadi Liu and Yandong Wu and Yanfu Li and Yidong Wang and Yifan Zhu and Yijun Tan and Yilin Zhou and Yiming Pan and Ying Zhang and Yinpei Su and Yipeng Geng and Yong Yan and Yonglin Tan and Yuean Bi and Yuhan Shen and Yuhao Yang and Yujiang Li and Yunan Liu and Yunqing Wang and Yuntao Li and Yurong Wu and Yutao Zhang and Yuxi Duan and Yuxuan Zhang and Zezhen Liu and Zhengtao Jiang and Zhenhe Yan and Zheyu Zhang and Zhixiang Wei and Zhuo Chen and Zhuoer Feng and Zijun Yao and Ziwei Chai and Ziyuan Wang and Zuzhou Zhang and Bin Xu and Minlie Huang and Hongning Wang and Juanzi Li and Yuxiao Dong and Jie Tang",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.15763"
+    },
+    {
+      "key": "zhipu_glm51_process_quality_2026",
+      "type": "misc",
+      "title": "新品发布：GLM-5.1、GLM-5V-Turbo及智谱AI模型与产品公告",
+      "author": "智谱AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://docs.bigmodel.cn/cn/update/new-releases"
+    },
+    {
+      "key": "zhipu_glm5_blog_2026",
+      "type": "online",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "author": "Z.ai",
+      "year": "2026",
+      "venue": "",
+      "url": "https://z.ai/blog/glm-5"
+    },
+    {
+      "key": "zhipu_autoglm_phone_documentation_2026",
+      "type": "misc",
+      "title": "AutoGLM-Phone",
+      "author": "智谱AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone"
+    },
+    {
+      "key": "zhipu_open_autoglm_2026",
+      "type": "misc",
+      "title": "Open-AutoGLM: An open phone agent model",
+      "author": "Z.AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://github.com/zai-org/Open-AutoGLM"
+    },
+    {
+      "key": "kimiapi_websearch2026",
+      "type": "misc",
+      "title": "Use Kimi API's Internet Search Functionality",
+      "author": "MOONSHOT AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://platform.kimi.ai/docs/guide/use-web-search"
+    },
+    {
+      "key": "minimaxmcp2026",
+      "type": "misc",
+      "title": "MiniMax API: MCP guide",
+      "author": "MINIMAX",
+      "year": "2026",
+      "venue": "",
+      "url": "https://platform.minimaxi.com/docs/guides/mcp-guide"
+    },
+    {
+      "key": "metaLlamaFirewall2025",
+      "type": "misc",
+      "title": "LlamaFirewall: An open source guardrail system for building secure AI agents",
+      "author": "META AI",
+      "year": "2025",
+      "venue": "",
+      "url": "https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/"
+    },
+    {
+      "key": "lecunDeparture2025",
+      "type": "misc",
+      "title": "Yann LeCun's new venture is a contrarian bet against large language models",
+      "author": "MIT TECHNOLOGY REVIEW",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/"
+    },
+    {
+      "key": "lejepaIdentifiability2026",
+      "type": "misc",
+      "title": "Yann LeCun's world model earns a formal proof: Benchmark finds current models brittle",
+      "author": "Wells, Richard L.",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world-model-earns-formal-proof-benchmark-finds-current-models-brittle.htm"
+    },
+    {
+      "key": "forough2026agenticconfidentialcomputing",
+      "type": "article",
+      "title": "When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI",
+      "author": "Forough, Javad and Kogias, Marios and Haddadi, Hamed",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.03213"
+    },
+    {
+      "key": "zuo2025cloudmatrix384",
+      "type": "article",
+      "title": "Serving large language models on Huawei CloudMatrix384",
+      "author": "Zuo, Pengfei and Lin, Huimin and Deng, Junbo and Zou, Nan and Yang, Xingkun and Diao, Yingyu and Gao, Weifeng and Xu, Ke and Chen, Zhangyu and Lu, Shirui and Qiu, Zhao and Li, Peiyang and Chang, Xianyu and Yu, Zhengzhong and Miao, Fangzheng and Zheng, Jia and Li, Ying and Feng, Yuan and Wang, Bei and Zong, Zaijian and Zhou, Mosong and Zhou, Wenli and Chen, Houjiang and Liao, Xingyu and Li, Yipeng and Zhang, Wenxiao and Zhu, Ping and Wang, Yinggang and Xiao, Chuanjie and Liang, Depeng and Cao, Dong and Liu, Juncheng and Yang, Yongqiang and Bai, Xiaolong and Li, Yi and Xie, Huaguo and Wu, Huatao and Yu, Zhibin and Chen, Lv and Liu, Hu and Ding, Yujun and Zhu, Haipei and Xia, Jing and Xiong, Yi and Yu, Zhou and Liao, Heng",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2506.12708"
+    },
+    {
+      "key": "nvdCVE2026_40933",
+      "type": "misc",
+      "title": "CVE-2026-40933 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40933"
+    },
+    {
+      "key": "nvdCVE2025_3248",
+      "type": "misc",
+      "title": "CVE-2025-3248 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-3248"
+    },
+    {
+      "key": "nvdCVE2026_34952",
+      "type": "misc",
+      "title": "CVE-2026-34952 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34952"
+    },
+    {
+      "key": "nvdCVE2026_32211",
+      "type": "misc",
+      "title": "CVE-2026-32211 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32211"
+    },
+    {
+      "key": "nvdCVE2025_68664",
+      "type": "misc",
+      "title": "CVE-2025-68664 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68664"
+    },
+    {
+      "key": "nvdCVE2025_68144",
+      "type": "misc",
+      "title": "CVE-2025-68144 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68144"
+    },
+    {
+      "key": "nvdCVE2025_59528",
+      "type": "misc",
+      "title": "CVE-2025-59528 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-59528"
+    },
+    {
+      "key": "nvdCVE2025_6514",
+      "type": "misc",
+      "title": "CVE-2025-6514 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6514"
+    },
+    {
+      "key": "nvdCVE2025_49596",
+      "type": "misc",
+      "title": "CVE-2025-49596 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-49596"
+    },
+    {
+      "key": "nvdCVE2025_32711",
+      "type": "misc",
+      "title": "CVE-2025-32711 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32711"
+    },
+    {
+      "key": "nvdCVE2026_44338",
+      "type": "misc",
+      "title": "CVE-2026-44338 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44338"
+    },
+    {
+      "key": "nvdCVE2026_34070",
+      "type": "misc",
+      "title": "CVE-2026-34070 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34070"
+    },
+    {
+      "key": "nvdCVE2026_22688",
+      "type": "misc",
+      "title": "CVE-2026-22688 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22688"
+    },
+    {
+      "key": "nvdCVE2025_64496",
+      "type": "misc",
+      "title": "CVE-2025-64496 detail",
+      "author": "NATIONAL VULNERABILITY DATABASE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-64496"
+    },
+    {
+      "key": "Crawford2026GhidraMCPAttack",
+      "type": "article",
+      "title": "Automatically attacking software reverse engineering AI agents",
+      "author": "Crawford, Brian and Phillips, Justin and McClure, Patrick",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.30667"
+    },
+    {
+      "key": "Xu2026LoopTrap",
+      "type": "article",
+      "title": "LoopTrap: Termination poisoning attacks on LLM agents",
+      "author": "Xu, Huiyu and Wang, Zhibo and Zhang, Wenhui and Zhu, Ziqi and Wang, Yaopeng and Ren, Kui and Chen, Chun",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05846"
+    },
+    {
+      "key": "Nazary2025PoisonRAG",
+      "type": "inproceedings",
+      "title": "Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems",
+      "author": "Nazary, Fatemeh and Deldjoo, Yashar and Di Noia, Tommaso",
+      "year": "2025",
+      "venue": "Proc. Advances in Information Retrieval",
+      "url": "https://arxiv.org/abs/2501.11759"
+    },
+    {
+      "key": "DeadendCLI",
+      "type": "misc",
+      "title": "Deadend CLI: Feedback-driven autonomous pentesting",
+      "author": "Bargach, Yassine",
+      "year": "2026",
+      "venue": "",
+      "url": "https://github.com/xoxruns/deadend-cli"
+    },
+    {
+      "key": "microsoft2026autojack",
+      "type": "misc",
+      "title": "AutoJack: how a single page can RCE the host running your AI agent",
+      "author": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
+    },
+    {
+      "key": "ellis2026contextaisecurity",
+      "type": "misc",
+      "title": "Why Context Is the Missing Link in AI Data Security",
+      "author": "Ellis, Scott and Medvedev, Ivan",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security"
+    },
+    {
+      "key": "microsoft2026agenticfailuretaxonomy",
+      "type": "misc",
+      "title": "Taxonomy of failure modes in agentic AI systems, version 2.0",
+      "author": "MICROSOFT AI RED TEAM",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf"
+    },
+    {
+      "key": "openai2026memoryfaq",
+      "type": "misc",
+      "title": "Memory FAQ",
+      "author": "OpenAI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://help.openai.com/en/articles/8590148-memory-faq"
+    },
+    {
+      "key": "isak2026guardingaimemory",
+      "type": "misc",
+      "title": "Guarding AI Memory",
+      "author": "Isak, Natalie and Cooley, Sarah",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
+    },
+    {
+      "key": "ryland2026agenticsecurityprinciples",
+      "type": "misc",
+      "title": "Four Security Principles for Agentic AI Systems",
+      "author": "Ryland, Mark and Goodman, Riggs, III and MacDermid, Todd",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
+    },
+    {
+      "key": "singh2026invokeguardrailchecks",
+      "type": "misc",
+      "title": "Safeguard your agentic AI applications with the Amazon Bedrock guardrails InvokeGuardrailChecks API",
+      "author": "Singh, Sandeep and Batalov, Denis V. and Kethamakka, Koushik and Srinivasan, Shyam",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/"
+    },
+    {
+      "key": "aws2026automatedreasoningrefinement",
+      "type": "misc",
+      "title": "Automated Reasoning Checks in Amazon Bedrock Guardrails Add New Policy Refinement Workflows",
+      "author": "Amazon Web Services",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/"
+    },
+    {
+      "key": "alibabacloud2026aigovernancechecks",
+      "type": "misc",
+      "title": "Check Items Supported by AI Governance Maturity Check",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items"
+    },
+    {
+      "key": "microsoft2026agentobservability",
+      "type": "misc",
+      "title": "80% of Fortune 500 Use Active AI Agents: Observability, Governance, and Security Shape the New Frontier",
+      "author": "Microsoft Security",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/"
+    },
+    {
+      "key": "alibabacloud2026agentpermissions",
+      "type": "misc",
+      "title": "Agent Permission Management",
+      "author": "Alibaba Cloud",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/agent-permission-management"
+    },
+    {
+      "key": "alibabacloud2026agentriskprotection",
+      "type": "misc",
+      "title": "Agent risk detection and protection",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/security-center/user-guide/agent-risk-detection-protection"
+    },
+    {
+      "key": "aws2026automatedreasoningworkflows",
+      "type": "misc",
+      "title": "Automated reasoning checks in Amazon Bedrock guardrails add new policy refinement workflows",
+      "author": "AMAZON WEB SERVICES",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/"
+    },
+    {
+      "key": "jain2026multimodal",
+      "type": "article",
+      "title": "Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey",
+      "author": "Jain, Bhavuk and Arik, Sercan O. and Thakur, Hardeo K.",
+      "year": "2026",
+      "venue": "Transactions on Machine Learning Research",
+      "url": "https://arxiv.org/abs/2603.27918"
+    },
+    {
+      "key": "weng2025foot",
+      "type": "inproceedings",
+      "title": "Foot-in-the-door: A multi-turn jailbreak for llms",
+      "author": "Weng, Zixuan and Jin, Xiaolong and Jia, Jinyuan and Zhang, Xiangyu",
+      "year": "2025",
+      "venue": "Proc. Conference on Empirical Methods in Natural Language Processing",
+      "url": ""
+    },
+    {
+      "key": "hegazy2026mafa",
+      "type": "inproceedings",
+      "title": "Mafa: A multi-agent framework for enterprise-scale annotation with configurable task adaptation",
+      "author": "Hegazy, Mahmood and Rodrigues, Aaron and Naeem, Azzam",
+      "year": "2026",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "url": ""
+    },
+    {
+      "key": "staufer20262025",
+      "type": "article",
+      "title": "The 2025 ai agent index: Documenting technical and safety features of deployed agentic ai systems",
+      "author": "Staufer, Leon and Feng, Kevin and Wei, Kevin and Bailey, Luke and Duan, Yawen and Yang, Mick and Ozisik, A Pinar and Casper, Stephen and Kolt, Noam",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2602.17753",
+      "url": ""
+    },
+    {
+      "key": "archinteraction_ellis2026aidatasecurity",
+      "type": "misc",
+      "title": "Why Context Is the Missing Link in AI Data Security",
+      "author": "Ellis, Scott and Medvedev, Ivan",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security"
+    },
+    {
+      "key": "goswami2025agentic",
+      "type": "article",
+      "title": "Agentic JWT: A Secure Delegation Protocol for Autonomous AI Agents",
+      "author": "Goswami, Abhishek",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2509.13597",
+      "url": ""
+    },
+    {
+      "key": "ge2026governance",
+      "type": "article",
+      "title": "Governance architecture for autonomous agent systems: Threats, framework, and engineering practice",
+      "author": "Ge, Yuxu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.07191"
+    },
+    {
+      "key": "rahman2025x",
+      "type": "article",
+      "title": "X-Teaming: Multi-turn jailbreaks and defenses with adaptive multi-agents",
+      "author": "Rahman, Salman and Jiang, Liwei and Shiffer, James and Liu, Genglin and Issaka, Sheriff and Parvez, Md Rizwan and Palangi, Hamid and Chang, Kai-Wei and Choi, Yejin and Gabriel, Saadia",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2504.13203"
+    },
+    {
+      "key": "gao2025imperceptible",
+      "type": "article",
+      "title": "Imperceptible jailbreaking against large language models",
+      "author": "Gao, Kuofeng and Li, Yiming and Du, Chao and Wang, Xin and Ma, Xingjun and Xia, Shu-Tao and Pang, Tianyu",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2510.05025",
+      "url": ""
+    },
+    {
+      "key": "zhang2025agent",
+      "type": "inproceedings",
+      "title": "Agent security bench (ASB): Formalizing and benchmarking attacks and defenses in LLM-based agents",
+      "author": "Zhang, Hanrong and Huang, Jingyuan and Mei, Kai and Yao, Yifei and Wang, Zhenting and Zhan, Chenlu and Wang, Hongwei and Zhang, Yongfeng",
+      "year": "2025",
+      "venue": "Proc. International Conference on Learning Representations",
+      "url": ""
+    },
+    {
+      "key": "dash2026untrustedInputTrustedMemory",
+      "type": "article",
+      "title": "From untrusted input to trusted memory: A systematic study of memory poisoning attacks in LLM agents",
+      "author": "Dash, Pritam and Ge, Tongyu and Jain, Aditi and Shah, Tanmay and Shang, Zhiwei",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.04329"
+    },
+    {
+      "key": "rath2026agentdrift",
+      "type": "article",
+      "title": "Agent drift: Quantifying behavioral degradation in multi-agent LLM systems over extended interactions",
+      "author": "Abhishek Rath",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.04170"
+    },
+    {
+      "key": "gao2025provablySafe",
+      "type": "inproceedings",
+      "title": "Provably Safe Online Multi-Agent Navigation in Unknown Environments",
+      "author": "Gao, Zhan and Yang, Guang and Bayrooti, Jasmine and Prorok, Amanda",
+      "year": "2025",
+      "venue": "Proc. 8th Conference on Robot Learning",
+      "url": ""
+    },
+    {
+      "key": "wangfeiyueCASIA2026",
+      "type": "misc",
+      "title": "王飞跃",
+      "author": "Wang, Feiyue",
+      "year": "2026",
+      "venue": "",
+      "url": "http://ia.cas.cn/rcdw/jcqn/202404/t20240425_7131822.html"
+    },
+    {
+      "key": "geShimingIMSG2026",
+      "type": "misc",
+      "title": "Shiming Ge: Intelligent Multimedia Security Group",
+      "author": "Ge, Shiming",
+      "year": "2026",
+      "venue": "",
+      "url": "https://imsg.ac.cn/people/geshiming.html"
+    },
+    {
+      "key": "zhaoXianfengUCAS2026",
+      "type": "misc",
+      "title": "Xianfeng Zhao, University of Chinese Academy of Sciences",
+      "author": "Zhao, Xianfeng",
+      "year": "2026",
+      "venue": "",
+      "url": "https://people.ucas.edu.cn/~xianfeng"
+    },
+    {
+      "key": "openaiChatGPTAgentSystemCard2025",
+      "type": "misc",
+      "title": "ChatGPT Agent System Card",
+      "author": "OPENAI",
+      "year": "2025",
+      "venue": "",
+      "url": "https://openai.com/index/chatgpt-agent-system-card/"
+    },
+    {
+      "key": "CAI_paper",
+      "type": "article",
+      "title": "CAI: An open, bug bounty-ready cybersecurity AI",
+      "author": "Mayoral-Vilches, Víctor and Navarrete-Lozano, Luis Javier and Sanz-Gómez, María and Salas Espejo, Lidia and Crespo-Álvarez, Martiño and Oca-Gonzalez, Francisco and Balassone, Francesco and Glera-Picón, Alfonso and Ayucar-Carbajo, Unai and Ruiz-Alcalde, Jon Ander and Rass, Stefan and Pinzger, Martin and Gil-Uriarte, Endika",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2504.06017"
+    },
+    {
+      "key": "cohere2025north",
+      "type": "misc",
+      "title": "North — AI for business that turns complexity into clarity",
+      "author": "Cohere Team",
+      "year": "2025",
+      "venue": "",
+      "url": "https://cohere.com/north"
+    },
+    {
+      "key": "cohere2025command",
+      "type": "misc",
+      "title": "Command — Secure, production-ready efficiency for agentic intelligence",
+      "author": "COHERE TEAM",
+      "year": "2025",
+      "venue": "",
+      "url": "https://cohere.com/command"
+    },
+    {
+      "key": "wedgenetworks2026resilient",
+      "type": "misc",
+      "title": "Resilient security for an agentic edge world",
+      "author": "WEDGE NETWORKS INC.",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.wedgenetworks.com/"
+    },
+    {
+      "key": "cohere2025sovereignai",
+      "type": "misc",
+      "title": "Navigating the global push for sovereign AI",
+      "author": "COHERE TEAM",
+      "year": "2025",
+      "venue": "",
+      "url": "https://cohere.com/blog/global-push-for-sovereign-ai"
+    },
+    {
+      "key": "zhipu_bigmodel_platform_2026",
+      "type": "misc",
+      "title": "智谱大模型开放平台介绍",
+      "author": "智谱AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://docs.bigmodel.cn/cn/guide/start/introduction"
+    },
+    {
+      "key": "uclHumanCentredSecurity2026",
+      "type": "misc",
+      "title": "M. Angela Sasse FREng -- Personal Homepage",
+      "author": "UCL INFORMATION SECURITY RESEARCH GROUP",
+      "year": "2026",
+      "venue": "",
+      "url": "https://sec.cs.ucl.ac.uk/people/m_angela_sasse/"
+    },
+    {
+      "key": "xie2026proxy",
+      "type": "article",
+      "title": "The proxy knows too much: Sealing LLM API routers with attested TEEs",
+      "author": "Xie, Sipeng and Wu, Qianhong and Lu, Hengrun and Sun, Ziliang and Wu, Qi and Qin, Bo and Wang, Qin",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.16358"
+    },
+    {
+      "key": "liu2025secure",
+      "type": "article",
+      "title": "Secure multi-LLM agentic AI and agentification for edge general intelligence by zero-trust: A survey",
+      "author": "Liu, Yinqiu and Zhang, Ruichen and Luo, Haoxiang and Lin, Yijing and Sun, Geng and Niyato, Dusit and Du, Hongyang and Xiong, Zehui and Wen, Yonggang and Jamalipour, Abbas",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.19870"
+    },
+    {
+      "key": "konakandla2026systemprompt",
+      "type": "online",
+      "title": "Designing for the Inevitable: System Prompt Leakage and Mitigations in Generative AI Applications",
+      "author": "Manideep Konakandla",
+      "year": "",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/"
+    },
+    {
+      "key": "brunner2026promptinjections",
+      "type": "online",
+      "title": "AI Threats in the Wild: The Current State of Prompt Injections on the Web",
+      "author": "Thomas Brunner and Yu-Han Liu and Moni Pande",
+      "year": "",
+      "venue": "",
+      "url": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html"
+    },
+    {
+      "key": "tencentzhuque2026agentskills",
+      "type": "online",
+      "title": "当AI学会背刺：深度剖析Agent Skills的安全陷阱",
+      "author": "腾讯朱雀实验室 and Nicky",
+      "year": "",
+      "venue": "",
+      "url": "https://security.tencent.com/index.php/blog/msg/215?from_tab=security"
+    },
+    {
+      "key": "alibabacloud2026sase",
+      "type": "online",
+      "title": "Alibaba Cloud SASE 2.0 Upgrade: Comprehensive Monitoring of Agent Office Security",
+      "author": "Alibaba Cloud Security",
+      "year": "",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-sase-2-0-upgrade-comprehensive-monitoring-of-agent-office-security_603047"
+    },
+    {
+      "key": "isakcooley2026aimemory",
+      "type": "online",
+      "title": "Guarding AI Memory",
+      "author": "Natalie Isak and Sarah Cooley",
+      "year": "",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
+    },
+    {
+      "key": "hadareantristan2026cedar",
+      "type": "online",
+      "title": "Why Policy in Amazon Bedrock AgentCore Chose Cedar for Securing Agentic Workflows",
+      "author": "Liana Hadarean and Jean-Baptiste Tristan",
+      "year": "",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
+    },
+    {
+      "key": "gadey2026raven",
+      "type": "article",
+      "title": "RAVEN: Agentic RAG for Automated Vulnerability Repair",
+      "author": "Gadey, Varun and Liu, Zijie and Dmitrienko, Alexandra",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2606.22647",
+      "url": "https://arxiv.org/abs/2606.22647"
+    },
+    {
+      "key": "nong2025appatch",
+      "type": "inproceedings",
+      "title": "APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching",
+      "author": "Nong, Yutian and Yang, Hao and Cheng, Lin and Hu, Heng and Cai, Hao",
+      "year": "2025",
+      "venue": "USENIX Security Symposium",
+      "url": ""
+    },
+    {
+      "key": "yang2026secrepair",
+      "type": "inproceedings",
+      "title": "SeCuRepair: Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework",
+      "author": "Yang, Chengran and Zhang, Ting and Jiang, Jinfeng and Zhou, Xin and Tian, Haoye and Du, Mingzhe",
+      "year": "2026",
+      "venue": "Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": ""
+    },
+    {
+      "key": "basu2026security",
+      "type": "misc",
+      "title": "Security in a Workflow: Exploring Role-Based Agentic Architectures for Vulnerability Handling",
+      "author": "Basu, Srijita and Staron, Miroslaw",
+      "year": "2026",
+      "venue": "",
+      "url": "https://arxiv.org/abs/2606.14261"
+    },
+    {
+      "key": "wang2025graphaugrepair",
+      "type": "inproceedings",
+      "title": "Explainable Retrieval and Graph Augmented Code Vulnerability Repair Recommendations",
+      "author": "Wang, Lina and Liu, Zeyu",
+      "year": "2025",
+      "venue": "Proc. IEEE International Conference on Big Data",
+      "url": ""
+    },
+    {
+      "key": "li2025sokavr",
+      "type": "misc",
+      "title": "SoK: Towards Effective Automated Vulnerability Repair",
+      "author": "Li, Ying and Shezan, Faysal Hossain and Wei, Bomin and Wang, Gang and Tian, Yuan",
+      "year": "2025",
+      "venue": "Proc. USENIX Security Symp.",
+      "url": ""
+    },
+    {
+      "key": "tencent2026infraguard",
+      "type": "article",
+      "title": "Securing the AI Agent: A Unified Multi-Layer Red-Teaming Framework",
+      "author": "Zhuque Lab, Tencent Security",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.31227"
+    },
+    {
+      "key": "saha2025agentsurvey",
+      "type": "article",
+      "title": "A Survey on Agentic Security: Applications, Threats and Defenses",
+      "author": "Saha, Animesh and Kumar, Arjun and Chiang, Wei-Lun and Debenedetti, Luca and Udeshi, Trishul",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.06445"
+    },
+    {
+      "key": "yu2026agentflow",
+      "type": "misc",
+      "title": "AgentFlow Automatically Synthesizes Multi-Agent System to Uncover Chrome Sandbox Escape Zero-Day Vulnerabilities",
+      "author": "Yu, Feng and Team UCSB Security",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.cointime.ai/flash-news/agentflow-automatically-synthesizes-multi-41130"
+    },
+    {
+      "key": "fakih2025llm4cve",
+      "type": "inproceedings",
+      "title": "LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models",
+      "author": "Fakih, Mohamad and Dharmaji, Rahul and Bouzidi, Halima and Araya, Gustavo Quiros and Ogundare, Oluwatosin and Al Faruque, Mohammad Abdullah",
+      "year": "2025",
+      "venue": "Proc. Euromicro Conf. Digit. Syst. Des. (DSD)",
+      "url": ""
+    },
+    {
+      "key": "tencent2026infraguard",
+      "type": "article",
+      "title": "Securing the AI Agent: A Unified Multi-Layer Red-Teaming Framework",
+      "author": "Zhuque Lab, Tencent Security",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.31227"
+    },
+    {
+      "key": "yang2025secrepair",
+      "type": "inproceedings",
+      "title": "SeCuRepair: Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework",
+      "author": "Yang, Chengran and Zhang, Ting and Jiang, Jinfeng and Zhou, Xin and Tian, Haoye and Du, Mingzhe",
+      "year": "2026",
+      "venue": "Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": ""
+    },
+    {
+      "key": "ma2025agentfail",
+      "type": "article",
+      "title": "Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows",
+      "author": "Ma, Xuyan and Xie, Xiaofei and Wang, Yawen and Wang, Junjie and Wu, Boyu and Li, Mingyang and Wang, Qing",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2509.23735"
+    },
+    {
+      "key": "openai2025aardvark",
+      "type": "misc",
+      "title": "Introducing Aardvark: Autonomous AI Security Research Agent",
+      "author": "OPENAI SECURITY TEAM",
+      "year": "2025",
+      "venue": "",
+      "url": "https://openai.com/research/aardvark"
+    },
+    {
+      "key": "pacheval2025patcheval",
+      "type": "misc",
+      "title": "PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities",
+      "author": "Wei, Zichao and Zeng, Jun and Wen, Ming and Yu, Zeliang and Cheng, Kai and Zhu, Yiding and Guo, Jingyi and Zhou, Shiqi and Yin, Le and Su, Xiaodong and others",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2511.11019"
+    },
+    {
+      "key": "kim2025san2patch",
+      "type": "inproceedings",
+      "title": "Logs In, Patches Out: Automated Vulnerability Repair via $\\$Tree-of-Thought$\\$$\\$LLM$\\$ Analysis",
+      "author": "Kim, Youngjoon and Shin, Sunguk and Kim, Hyoungshick and Yoon, Jiwon",
+      "year": "2025",
+      "venue": "Proc. 34th USENIX Security Symposium (USENIX Security 25)",
+      "url": ""
+    },
+    {
+      "key": "chen2026acrfence",
+      "type": "article",
+      "title": "ACRFence: Preventing Semantic Rollback Attacks in Agent Checkpoint-Restore",
+      "author": "Zheng, Yusheng and Yang, Yiwei and Zhang, Wei and Quinn, Andi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.20625"
+    },
+    {
+      "key": "zhang2026zerodaylim",
+      "type": "misc",
+      "title": "Benchmarking Zero-Day Vulnerability Repair of Large Language Models for Code",
+      "author": "Zhang, Kai and Liu, Han and Xu, Zhiwei",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wu2025vulngen",
+      "type": "misc",
+      "title": "Generalization Gap in LLM-based Vulnerability Detection: A Systematic Study",
+      "author": "Wu, Jing and Yang, Linyu",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2026crosslang",
+      "type": "misc",
+      "title": "Cross-Lingual Code Vulnerability Repair: Limitations and Enhancements",
+      "author": "Li, Minghao and Zhang, Yuxuan",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2025archvul",
+      "type": "misc",
+      "title": "Cross-Architecture Vulnerability Generalization in Automated Code Repair",
+      "author": "Wang, Hao and Chen, Yu",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhou2025legacycode",
+      "type": "misc",
+      "title": "Repairing Legacy Code Vulnerabilities with LLMs: Challenges and Empirical Analysis",
+      "author": "Zhou, Bowen and Liu, Qing",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026privatevul",
+      "type": "misc",
+      "title": "Private Enterprise Code Vulnerability Repair: Domain Gap and Adaptive Fine-Tuning",
+      "author": "Chen, Jiaxi and Zhang, Lin",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025llmvulneval",
+      "type": "misc",
+      "title": "Large Language Model Vulnerability Repair Capability Evaluation: A Comparative Study of Domestic and Overseas Models",
+      "author": "Li, Shuang and Gao, Yuan",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026chincodeeval",
+      "type": "misc",
+      "title": "Security Repair Gap Analysis of Chinese Code Large Models in Complex Vulnerability Scenarios",
+      "author": "Zhang, Han and Liu, Siwei",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026lightcodecost",
+      "type": "misc",
+      "title": "Performance-Cost Tradeoff in Lightweight LLM-Based Automated Code Repair",
+      "author": "Wang, Zixuan and Xu, Mingjie",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2025llmtradeoff",
+      "type": "misc",
+      "title": "Trade-offs Between Accuracy and Computational Cost in Intelligent Vulnerability Repair",
+      "author": "Chen, Zhe and Yang, Fan",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zeng2026trustai",
+      "type": "misc",
+      "title": "Trustworthy AI Security Framework for Domestic Substitution in Cybersecurity Operations",
+      "author": "Zeng, Qing and Hu, Bin",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026rover",
+      "type": "inproceedings",
+      "title": "Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz",
+      "author": "Zhang, Yuntong and Wang, Jiawei and Berzin, Dominic and Mirchev, Martin and Roychoudhury, Abhik",
+      "year": "2026",
+      "venue": "Proc. IEEE/ACM Int. Conf. Softw. Eng.: Softw. Eng. Pract. (ICSE-SEIP)",
+      "url": ""
+    },
+    {
+      "key": "hann2026snykagentfix",
+      "type": "misc",
+      "title": "Introducing the New Agentic Architecture for Snyk Agent Fix: Faster, Smarter, and More Secure",
+      "author": "Hann, Brendan and Alessi, David",
+      "year": "2026",
+      "venue": "",
+      "url": "https://snyk.io/blog/snyk-agent-fix-agentic-architecture/"
+    },
+    {
+      "key": "yang2025semanticrepair",
+      "type": "misc",
+      "title": "Semantic Defects in LLM-Based Vulnerability Repair: A Systematic Empirical Study",
+      "author": "Yang, Zihan and Xia, Xin",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026semgap",
+      "type": "misc",
+      "title": "Domain Semantic Gap in Enterprise Vulnerability Repair with Code LLMs",
+      "author": "Chen, Hao and Zhang, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2025graphlimit",
+      "type": "misc",
+      "title": "Graph-Based Code Repair Scalability Limits in Large-Scale Software Projects",
+      "author": "Wang, Yuxuan and Liu, Yang",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "sun2025ragvuln",
+      "type": "misc",
+      "title": "RAG-Enhanced Vulnerability Repair: Boundaries and Failure Modes",
+      "author": "Sun, Mingzhe and Li, Qing",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wu2026council",
+      "type": "article",
+      "title": "Council Mode: A Heterogeneous Multi-Agent Consensus Framework for Reducing LLM Hallucination and Bias",
+      "author": "Wu, Shuai and Li, Xue and Feng, Yanna and Li, Yufang and Wang, Zhijun and Wang, Ran",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.02923"
+    },
+    {
+      "key": "Wang_2026_M2CVD",
+      "type": "article",
+      "title": "M2CVD: enhancing vulnerability understanding through multi-model collaboration for code vulnerability detection",
+      "author": "Wang, Ziliang and Li, Ge and Li♂, Jia and Li, Jia and Yan, Meng and Xiong, Yingfei and Jin, Zhi",
+      "year": "2026",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "url": ""
+    },
+    {
+      "key": "wang2026multihallu",
+      "type": "misc",
+      "title": "Hallucination Propagation in Multi-Model Code Security Reasoning",
+      "author": "Wang, Chenhao and Liu, Yu",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wu2026routerhg",
+      "type": "inproceedings",
+      "title": "ROUTERHGC: Optimized Router for LLM-based Multi-Agent Systems via Heterogeneous Graph Contrastive Learning",
+      "author": "Xiao, Yitao and Guo, Shaoyong and Yang, Guoming and Wang, Qingnan and Ren, Yinlin and Qiu, Xuesong and Feng, Qi",
+      "year": "2026",
+      "venue": "Proc. Findings of the Association for Computational Linguistics: ACL 2026",
+      "url": ""
+    },
+    {
+      "key": "zhu2025caster",
+      "type": "article",
+      "title": "CASTER: Breaking the Cost-Performance Barrier in Multi-Agent Orchestration via Context-Aware Strategy for Task Efficient Routing",
+      "author": "Liu, Shanyv and Yuan, Xuyang and Chen, Tao and Zhan, Zijun and Han, Zhu and Zheng, Danyang and Zhang, Weishan and Cao, Shaohua",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.19793"
+    },
+    {
+      "key": "zhang2026oimas",
+      "type": "article",
+      "title": "Orchestrating Intelligence: Confidence-Aware Routing for Efficient Multi-Agent Collaboration across Multi-Scale Models",
+      "author": "Wang, Jingbo and Zhao, Sendong and Liu, Jiatong and Wang, Haochun and Li, Wanting and Qin, Bing and Liu, Ting",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.04861"
+    },
+    {
+      "key": "wang2025rcrrouter",
+      "type": "article",
+      "title": "RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory",
+      "author": "Liu, Jun and Kong, Zhenglun and Yang, Changdi and Yang, Fan and Li, Tianqi and Dong, Peiyan and Nanjekye, Joannah and Tang, Hao and Yuan, Geng and Niu, Wei and others",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.04903"
+    },
+    {
+      "key": "liu2026dytopo",
+      "type": "article",
+      "title": "DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching",
+      "author": "Lu, Yuxing and Hu, Yucheng and Zhao, Xukai and Cao, Jiuxin",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.06039"
+    },
+    {
+      "key": "chen2026amros",
+      "type": "article",
+      "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+      "author": "Wang, Xudong and Zhang, Chaoning and Zhang, Jiaquan and Li, Chenghao and Sun, Qigan and Bae, Sung-Ho and Wang, Peng and Xie, Ning and Zou, Jie and Yang, Yang and others",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.12933"
+    },
+    {
+      "key": "li2025heterotrain",
+      "type": "misc",
+      "title": "Heterogeneous Model Co-Training Challenges in Code Security Repair",
+      "author": "Li, Bowen and Zhao, Rui",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "gao2026multitrain",
+      "type": "misc",
+      "title": "Multi-Model Collaborative Training Limitations for Heterogeneous Code Intelligence",
+      "author": "Gao, Jun and Wang, Peng",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "dou2026enhancing",
+      "type": "article",
+      "title": "Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning",
+      "author": "Dou, Xuhui and Bahsi, Hayretdin and Guerra-Manzanares, Alejandro",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.23834"
+    },
+    {
+      "key": "xue2025learning",
+      "type": "article",
+      "title": "Learning never stops: Improving software vulnerability type identification via incremental learning",
+      "author": "Xue, Jiacheng and Chen, Xiang and Cui, Zhanqi and Liu, Yong",
+      "year": "2025",
+      "venue": "Journal of Systems and Software",
+      "url": ""
+    },
+    {
+      "key": "liu2026zerodaygen",
+      "type": "misc",
+      "title": "Zero-Day Vulnerability Generalization Limitations of Agentic Code Repair",
+      "author": "Liu, Jia and Xu, Wei",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "sun2026novelvul",
+      "type": "misc",
+      "title": "Novel Attack Generalization Deficits in Multi-Model Vulnerability Repair Ensembles",
+      "author": "Sun, Yi and Zhang, Ming",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025domesticcodeeval",
+      "type": "misc",
+      "title": "Empirical Evaluation of Domestic Code Large Models for Vulnerability Repair",
+      "author": "Li, Shuang and Gao, Yuan",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "Yildiz_2026_scheduler",
+      "type": "article",
+      "title": "Towards multi-model LLM schedulers: empirical insights into offloading and preemption",
+      "author": "Yildiz, Mert and Spadaccino, Pietro and Rolich, Alexey and Cuomo, Francesca and Baiocchi, Andrea",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19593"
+    },
+    {
+      "key": "hou2026inferbottleneck",
+      "type": "misc",
+      "title": "System-Level Bottlenecks of Multi-Model Collaborative Inference for Code Security",
+      "author": "Hou, Kai and Zhang, Yu",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wu2025trustdeploy",
+      "type": "misc",
+      "title": "Trustworthy Deployment Barriers of Foreign AI Security Frameworks in Domestic Scenarios",
+      "author": "Wu, Tao and Chen, Lin",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhao2026ecosys",
+      "type": "misc",
+      "title": "Ecosystem Fragmentation of Domestic Agentic Security Infrastructure",
+      "author": "Zhao, Jing and Wang, Bo",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "liu2026llmgaterisk",
+      "type": "misc",
+      "title": "Security and Compliance Risks of Foreign LLM Gateway Deployment in Domestic Enterprise Scenarios",
+      "author": "Liu, Yang and Chen, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026domesticgate",
+      "type": "misc",
+      "title": "Limitations of Domestic LLM Security Gateway in Multi-Agent Collaborative Inference",
+      "author": "Wang, Jing and Zhang, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026multigatenorm",
+      "type": "misc",
+      "title": "Protocol Normalization Challenges for Heterogeneous Multi-Model Collaborative Security Inference",
+      "author": "Chen, Yu and Li, Ming",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2025apigateeval",
+      "type": "misc",
+      "title": "Empirical Evaluation of Security Defects in Current LLM API Gateway Systems",
+      "author": "Zhang, Lina and Xu, Wei",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhu2026dynamicgate",
+      "type": "misc",
+      "title": "Dynamic Risk Scheduling Deficits in Static LLM Security Gateway Architectures",
+      "author": "Zhu, Hao and Wang, Peng",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "sun2026agentgate",
+      "type": "misc",
+      "title": "Agent-Specific Security Gateway Requirements for Large-Scale Intelligent Vulnerability Governance",
+      "author": "Sun, Zhe and Liu, Dong",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2025aigatelegal",
+      "type": "misc",
+      "title": "Legal and Compliance Risks of Overseas LLM API Gateways in Domestic Enterprise Security Scenarios",
+      "author": "Chen, Siyu and Liu, Xin",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2026crossborderrisk",
+      "type": "misc",
+      "title": "Cross-Border Data Transmission Risks and Audit Deficiencies of Third-Party LLM Aggregation Gateways",
+      "author": "Li, Zehao and Wang, Yu",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026llmdeployrisk",
+      "type": "misc",
+      "title": "Business Continuity Risks of Overseas LLM Service Deployment in Domestic Agentic Systems",
+      "author": "Wang, Hao and Zhang, Lei",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026trustdeploy",
+      "type": "misc",
+      "title": "Trust Deficit and Technology Barriers of Closed-Source Overseas LLM Gateway Frameworks",
+      "author": "Zhang, Bo and Xu, Gang",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "ferrag2025prompt",
+      "type": "article",
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "author": "Ferrag, Mohamed Amine and Tihanyi, Norbert and Hamouda, Djallel and Maglaras, Leandros and Lakas, Abderrahmane and Debbah, Merouane",
+      "year": "2026",
+      "venue": "ICT Express",
+      "url": ""
+    },
+    {
+      "key": "liu2026interopt",
+      "type": "article",
+      "title": "Governance Gaps in Agent Interoperability Protocols",
+      "author": "Kang, Richard and Diponegoro, Yudho",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.31498"
+    },
+    {
+      "key": "wang2026apifrag",
+      "type": "misc",
+      "title": "API Fragmentation and Compatibility Vulnerabilities in Heterogeneous LLM Aggregation Systems",
+      "author": "Wang, Linyu and Xu, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026secprotocol",
+      "type": "misc",
+      "title": "Cross-Architecture Security Protocol Incompatibility in Domestic and Overseas LLM Integration",
+      "author": "Chen, Jiaxi and Zhao, Bo",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025crosssecgap",
+      "type": "misc",
+      "title": "End-to-End Security Gaps in Heterogeneous LLM Protocol Conversion",
+      "author": "Li, Peng and Zhang, Kai",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhou2026domesticadapt",
+      "type": "misc",
+      "title": "Domestic LLM Exclusive Feature Adaptation Deficits in General-Purpose LLM Gateways",
+      "author": "Zhou, Ming and Wang, Jun",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zheng2025lightweight",
+      "type": "inproceedings",
+      "title": "Lightweight safety guardrails using fine-tuned BERT embeddings",
+      "author": "Zheng, Aaron and Rana, Mansi and Stolcke, Andreas",
+      "year": "2025",
+      "venue": "Proc. 31st International Conference on Computational Linguistics: Industry Track",
+      "url": ""
+    },
+    {
+      "key": "chen2025utilitydrop",
+      "type": "article",
+      "title": "You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense",
+      "author": "Mai, Wuyuao and Hong, Geng and Chen, Pei and Pan, Xudong and Liu, Baojun and Zhang, Yuan and Duan, Haixin and Yang, Min",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2501.12210"
+    },
+    {
+      "key": "waibl2026bells",
+      "type": "article",
+      "title": "BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems",
+      "author": "Waibl, Leonhard and Michalak, Felix and Mariaccia, Hadrien",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.20668"
+    },
+    {
+      "key": "zhou2026dynamicdef",
+      "type": "misc",
+      "title": "Dynamic Defense Dilution: Security Bypass Risks Under High LLM Workload Pressure",
+      "author": "Zhou, Yi and Liu, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "mcp2025guard",
+      "type": "article",
+      "title": "MCP-Guard: Multi-Stage Defense for Agentic Model Context Protocol",
+      "author": "Xing, Wenpeng and Qi, Zhonghao and Qin, Yupeng and Li, Yilin and Chang, Caini and Yu, Jiahui and Lin, Changting and Xie, Zhenzhen and Han, Meng",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.10991"
+    },
+    {
+      "key": "sun2026sessiontrade",
+      "type": "misc",
+      "title": "Session-Long Security Overhead and Latency Tradeoff in LLM Agent Systems",
+      "author": "Sun, Peng and Chen, Bo",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "liu2026routingstatic",
+      "type": "inproceedings",
+      "title": "How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities",
+      "author": "Liu, Zexin and Wang, Yutao",
+      "year": "2026",
+      "venue": "Proc. European Chapter of the Association for Computational Linguistics (EACL)",
+      "url": ""
+    },
+    {
+      "key": "zhang2026routerplateau",
+      "type": "article",
+      "title": "The Routing Plateau: Understanding and Breaking the Accuracy Limits of LLM Routers",
+      "author": "Zhang, Yu and Li, Jiahao",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.07587"
+    },
+    {
+      "key": "wang2026heterorouter",
+      "type": "misc",
+      "title": "Heterogeneous Cluster Routing Imbalance in Large-Scale LLM Deployment",
+      "author": "Lu, Yifan and Zhang, Qiyue and Zhang, Shenrun and Yu, Zhibo and Wang, Zhuang and Chen, Hanjie and Xing, Jiarong",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025clusterrouter",
+      "type": "misc",
+      "title": "Static Routing Limitations for Dynamic LLM Cluster Workloads",
+      "author": "Li, Peng and Chen, Kai",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "dey2026compliancegate",
+      "type": "article",
+      "title": "ComplianceGate: Classifier-Gated Multi-Tier LLM Routing for Inference in Regulated Industries",
+      "author": "Dey, Abhishek",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.31163"
+    },
+    {
+      "key": "gao2026sensitiveroute",
+      "type": "misc",
+      "title": "Sensitive Task Isolation and Shunting Limitations of General LLM Routers",
+      "author": "Gao, Rui and Zhang, Han",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "liu2026longsession",
+      "type": "misc",
+      "title": "Long-Context Security Decay in LLM Agent Multi-Turn Interactions",
+      "author": "Liu, Siwei and Zhang, Yu",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026contextfade",
+      "type": "misc",
+      "title": "Fading Safety Constraints: Systematic Vulnerabilities in Agent Long-Session Governance",
+      "author": "Chen, Ming and Xu, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026multicluster",
+      "type": "misc",
+      "title": "Cluster-Level Security Deficits in Large-Scale Multi-Agent Collaborative Systems",
+      "author": "Wang, Lei and Zhou, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "gao2026agentinteract",
+      "type": "inproceedings",
+      "title": "Safe in Isolation, Dangerous Together: Multi-Agent Interaction Security Vulnerabilities",
+      "author": "Gao, Han and Li, Bo",
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+      "url": ""
+    },
+    {
+      "key": "zhang2026auditgap",
+      "type": "misc",
+      "title": "Audit and Forensics Gaps in Agentic LLM Automated Governance Systems",
+      "author": "Zhang, Peng and Liu, Yang",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025complianceaudit",
+      "type": "misc",
+      "title": "Compliance and Accountability Deficits in Automated LLM Security Repair Platforms",
+      "author": "Li, Zehao and Wang, Yu",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026chinadeploy",
+      "type": "misc",
+      "title": "Compatibility and Stability Barriers of Foreign AI Gateway Frameworks in Domestic Xinchuang Environments",
+      "author": "Wang, Bo and Zhao, Jing",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "liu2025aieco",
+      "type": "misc",
+      "title": "Fragmentation of Domestic AI Infrastructure Ecosystem and Deployment Challenges",
+      "author": "Liu, Dong and Chen, Yu",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2026heterosched",
+      "type": "misc",
+      "title": "Heterogeneous Scheduling Deficits for Domestic AI Chip Clusters in LLM Gateway Systems",
+      "author": "Chen, Hao and Zhang, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "gao2025computeeff",
+      "type": "misc",
+      "title": "Computational Efficiency Bottlenecks of LLM Inference on Domestic Heterogeneous Computing Hardware",
+      "author": "Gao, Jun and Wang, Peng",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026trustbase",
+      "type": "misc",
+      "title": "Missing Full-Stack Trustworthy Infrastructure for Domestic Agentic Security Governance",
+      "author": "Zhang, Han and Liu, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2026secstd",
+      "type": "misc",
+      "title": "Standardization Gaps and System Fragmentation in Domestic AI Security Governance",
+      "author": "Li, Ming and Xu, Wei",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "li2025a2asec",
+      "type": "inproceedings",
+      "title": "A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems",
+      "author": "Li, Xin and Wang, Hao",
+      "year": "2026",
+      "venue": "2026 IEEE Symposium on Security and Privacy (SP)",
+      "url": ""
+    },
+    {
+      "key": "anbiaee2026security",
+      "type": "article",
+      "title": "Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP",
+      "author": "Anbiaee, Zeynab and Rabbani, Mahdi and Mirani, Mansur and Piya, Gunjan and Opushnyev, Igor V. and Ghorbani, Ali A. and Dadkhah, Sajjad",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.11327"
+    },
+    {
+      "key": "witt2025multiagent",
+      "type": "article",
+      "title": "Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents",
+      "author": "Witt, Christian Schroeder de",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.02077"
+    },
+    {
+      "key": "nguyen2026securitymas",
+      "type": "article",
+      "title": "Security Considerations for Multi-Agent Systems",
+      "author": "Nguyen, Thuan and Ndebugre, Matthew and Arremsetty, Dinesh",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.09002"
+    },
+    {
+      "key": "sharma2025interoperability",
+      "type": "inproceedings",
+      "title": "Position: Collaborative Agentic AI Needs Interoperability Across Ecosystems",
+      "author": "Sharma, Rishi and de Vos, Martijn and Chari, Pradyumna and Raskar, Ramesh and Kermarrec, Anne-Marie",
+      "year": "2026",
+      "venue": "Proc. Int. Conf. Mach. Learn. (ICML)",
+      "url": ""
+    },
+    {
+      "key": "wibowo2025safeioa",
+      "type": "article",
+      "title": "Toward a Safe Internet of Agents",
+      "author": "Wibowo, Juan A. and Polyzos, George C.",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.00520"
+    },
+    {
+      "key": "barrak2025traceability",
+      "type": "inproceedings",
+      "title": "Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines",
+      "author": "Barrak, Amine",
+      "year": "2025",
+      "venue": "Proc. ACM/IEEE Int. Conf. Autom. Softw. Eng. Workshops",
+      "url": ""
+    },
+    {
+      "key": "nian2026auditable",
+      "type": "article",
+      "title": "Auditable Agents",
+      "author": "Nian, Yi and Yuan, Aojie and Zhang, Haiyue and Li, Jiate and Zhao, Yue",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.05485"
+    },
+    {
+      "key": "wang2026agenttraces",
+      "type": "article",
+      "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+      "author": "Wang, Yiqi and Yao, Jing and Ge, Jiahui and Wang, Yuxuan and Chen, Yifei and Ding, Ming and Chen, Yixuan and Song, Shang and Ye, Kai and Du, Chao and Wang, Lixin",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.04990"
+    },
+    {
+      "key": "wang2025agentops",
+      "type": "article",
+      "title": "A Survey on AgentOps: Categorization, Challenges, and Future Directions",
+      "author": "Wang, Zexin and Li, Jingjing and Zhou, Quan and Si, Haotian and Liu, Yuanhao and Li, Jianhui and Xie, Gaogang and Sun, Fei and Pei, Dan and Pei, Changhua",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.02121"
+    },
+    {
+      "key": "xie2026errorcascades",
+      "type": "article",
+      "title": "From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration",
+      "author": "Xie, Yizhe and Zhu, Congcong and Zhang, Xinyue and Zhu, Tianqing and Ye, Dayong and Qi, Minfeng and Chen, Huajie and Zhou, Wanlei",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.04474"
+    },
+    {
+      "key": "venkatesh2026caspian",
+      "type": "article",
+      "title": "CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring",
+      "author": "Venkatesh, Kavana and Isbarov, Jafar and Amin, Saad and Kantarcioglu, Murat and Cui, Jiaming",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19240"
+    },
+    {
+      "key": "huang2025zerotrust",
+      "type": "article",
+      "title": "A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control",
+      "author": "Huang, Ken and Narajala, Vineeth Sai and Yeoh, Jun and Ross, Jason and Raskar, Ramesh and Harkati, Yacine and Huang, J. and Habler, Idan and Hughes, Chris",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.19301"
+    },
+    {
+      "key": "xu2026agentdid",
+      "type": "inproceedings",
+      "title": "AgentDID: Trustless Identity Authentication for AI Agents",
+      "author": "Xu, Minghui and Liu, Xiaoyu and Guo, Yihao and Liu, Chunchi and Zhang, Yue and Cheng, Xiuzhen",
+      "year": "2026",
+      "venue": "Proc. Int. Conf. Distrib. Comput. Syst. (ICDCS)",
+      "url": ""
+    },
+    {
+      "key": "zhu2025miniscope",
+      "type": "article",
+      "title": "MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents",
+      "author": "Zhu, Jinhao and Tseng, Karen and Vernik, Gabriel and Huang, Xinyu and Patil, Shishir G. and Fang, Vivian and Popa, Raluca Ada",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.11147"
+    },
+    {
+      "key": "ji2026seagent",
+      "type": "article",
+      "title": "Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework",
+      "author": "Ji, Zimo and Wu, Daoyuan and Jiang, Wenyuan and Ma, Pingchuan and Li, Zongjie and Gao, Yudong and Wang, Shuai and Li, Yingjiu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.11893"
+    },
+    {
+      "key": "li2026constraintdrift",
+      "type": "article",
+      "title": "Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",
+      "author": "Li, Tianxiao and Ma, Yixing and Wen, Haiquan and Huang, Zhenglin and Zhou, Qianyu and Fu, Zeyu and Cheng, Guangliang",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.10481"
+    },
+    {
+      "key": "yu2026orchsuv",
+      "type": "article",
+      "title": "LLM-Based Multi-Agent Orchestration: A Survey of Frameworks, Communication Protocols, and Emerging Patterns",
+      "author": "Yu, Zihan and et al.",
+      "year": "2026",
+      "venue": "Applied Sciences",
+      "url": ""
+    },
+    {
+      "key": "chen2025blocka2a",
+      "type": "article",
+      "title": "BlockA2A: towards secure and verifiable Agent-to-Agent interoperability",
+      "author": "Zhenhua Zou and Zhuotao Liu and Lepeng Zhao and Qiuyang Zhan",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.01332"
+    },
+    {
+      "key": "liu2026overseasrely",
+      "type": "misc",
+      "title": "Technical Dependency Risks of Overseas Open-Source Frameworks in Domestic Multi-Agent Deployment",
+      "author": "Liu, Hao and Zhang, Han",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026techbarrier",
+      "type": "misc",
+      "title": "Technology Barriers and Supply Risks of Foreign Agent Security Infrastructure",
+      "author": "Wang, Peng and Zhou, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026xinchuangadapt",
+      "type": "misc",
+      "title": "Xinchuang Ecological Adaptation Deficits of Large-Scale Multi-Agent Systems",
+      "author": "Zhang, Yi and Li, Ming",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2025domesticdeploy",
+      "type": "misc",
+      "title": "Compatibility and Stability Challenges of Agent Systems in Fully Domestic Software and Hardware Environments",
+      "author": "Chen, Lin and Wu, Tao",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "yu2026multisurvey",
+      "type": "article",
+      "title": "LLM-Based Multi-Agent Orchestration: A Survey of Security Fragmentation and System Governance Defects",
+      "author": "Yu, Zihan and Wang, Jing",
+      "year": "2026",
+      "venue": "Applied Sciences",
+      "url": ""
+    },
+    {
+      "key": "deng2026trinityguard",
+      "type": "misc",
+      "title": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems",
+      "author": "Deng, Hao and Ma, Yutao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "caict2026agentrisk",
+      "type": "misc",
+      "title": "云上智能体服务网络和数据安全自律公约(2026版)",
+      "author": "中国信息通信研究院",
+      "year": "2026",
+      "venue": "中国信通院",
+      "url": ""
+    },
+    {
+      "key": "xinhua2026aiphantom",
+      "type": "misc",
+      "title": "筑牢智能体发展安全防线",
+      "author": "新华网",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "openclaw2026guide",
+      "type": "misc",
+      "title": "OpenClaw类智能体部署风险管理指南",
+      "author": "",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "xinhua2026agentvul",
+      "type": "misc",
+      "title": "360:智能体框架漏洞安全监测报告",
+      "author": "",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "caict2026cloudagent",
+      "type": "misc",
+      "title": "2026云上智能体安全部署态势报告",
+      "author": "中国信通院",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026agentobserve",
+      "type": "misc",
+      "title": "Observability Gaps in Production-Grade LLM Agent Deployment",
+      "author": "Li, Ming",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026aicosttrade",
+      "type": "misc",
+      "title": "Security-Cost Tradeoff in Large-Scale Agent Production Deployment",
+      "author": "Zhang, Yu",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026govagentrule",
+      "type": "misc",
+      "title": "Industry Compliance Barriers of Agentic AI in Regulated Sectors",
+      "author": "Wang, Bo",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026aivalueeval",
+      "type": "misc",
+      "title": "Security Value Evaluation Deficits in Enterprise Agent Governance",
+      "author": "Zhou, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "arxiv2026promptinject",
+      "type": "misc",
+      "title": "Multi-Vector Prompt Injection Risks in Production Agent Systems",
+      "author": "Chen, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "caict2026datarule",
+      "type": "misc",
+      "title": "智能体数据流转安全合规指引(2026)",
+      "author": "中国信通院",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026agenttracelack",
+      "type": "misc",
+      "title": "Traceability and Accountability Gaps in Production Agent Incidents",
+      "author": "Liu, Xin",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "stanford2026aiindex",
+      "type": "techreport",
+      "title": "AI Index Report 2026",
+      "author": "Stanford University, Institute for Human-Centered AI (HAI)",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026shadowagent",
+      "type": "misc",
+      "title": "Shadow Agent Governance Risks in Enterprise Scale Deployment",
+      "author": "Gao, Rui",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "2026aittalentgap",
+      "type": "misc",
+      "title": "Talent Shortage and Organizational Barriers in Agent Security Operation",
+      "author": "Sun, Zhe",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "caict2026agentstd",
+      "type": "misc",
+      "title": "多智能体集群部署安全标准建设白皮书2026",
+      "author": "中国信通院",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "liu2025longcontextfail",
+      "type": "misc",
+      "title": "When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents",
+      "author": "Liu, Yang",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026proxytrade",
+      "type": "misc",
+      "title": "Peak + Accumulation: A Proxy-Level Scoring Formula for Multi-Turn LLM Attack Detection",
+      "author": "Zhang, Lin",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "evidgate2026latency",
+      "type": "article",
+      "title": "Evidence-Bound Gateway-Path Provenance for Third-Party LLM Inference",
+      "author": "Wang, Fei and Tian, Zebai",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.22560"
+    },
+    {
+      "key": "massec2026crossframe",
+      "type": "misc",
+      "title": "Security Considerations for Multi-agent Systems",
+      "author": "Allen, Chris",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "skcc2026portable",
+      "type": "article",
+      "title": "SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents",
+      "author": "Ouyang, Yipeng and Xiao, Yi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.03353"
+    },
+    {
+      "key": "archsec2026multiarch",
+      "type": "misc",
+      "title": "Architecture Matters for Multi-Agent Security",
+      "author": "Hagag, Ben and Anderson, William",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "caprisk2026paradox",
+      "type": "article",
+      "title": "The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure",
+      "author": "Liu, Qiqi and Holz, Thorsten and Ye, Shilin and Song, Runhan",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.17480"
+    },
+    {
+      "key": "li2025a2asec",
+      "type": "inproceedings",
+      "title": "A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems",
+      "author": "Li, Tianhao and Chu, Chuangxin and Zheng, Yujia and Zhang, Bohan and Gong, Neil and Xiao, Chaowei",
+      "year": "2026",
+      "venue": "Proc. Int. Conf. Learn. Represent. (ICLR)",
+      "url": ""
+    },
+    {
+      "key": "anbiaee2026security",
+      "type": "article",
+      "title": "Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP",
+      "author": "Anbiaee, Zeynab and Rabbani, Mahdi and Mirani, Mansur and Piya, Gunjan and Opushnyev, Igor V. and Ghorbani, Ali A. and Dadkhah, Sajjad",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.11327"
+    },
+    {
+      "key": "witt2025multiagent",
+      "type": "article",
+      "title": "Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents",
+      "author": "Witt, Christian Schroeder de",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.02077"
+    },
+    {
+      "key": "nguyen2026securitymas",
+      "type": "article",
+      "title": "Security Considerations for Multi-Agent Systems",
+      "author": "Nguyen, Thuan and Ndebugre, Matthew and Arremsetty, Dinesh",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.09002"
+    },
+    {
+      "key": "sharma2025interoperability",
+      "type": "inproceedings",
+      "title": "Position: Collaborative Agentic AI Needs Interoperability Across Ecosystems",
+      "author": "Sharma, Rishi and de Vos, Martijn and Chari, Pradyumna and Raskar, Ramesh and Kermarrec, Anne-Marie",
+      "year": "2026",
+      "venue": "Proc. Int. Conf. Mach. Learn. (ICML)",
+      "url": ""
+    },
+    {
+      "key": "wibowo2025safeioa",
+      "type": "article",
+      "title": "Toward a Safe Internet of Agents",
+      "author": "Wibowo, Juan A. and Polyzos, George C.",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.00520"
+    },
+    {
+      "key": "barrak2025traceability",
+      "type": "inproceedings",
+      "title": "Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines",
+      "author": "Barrak, Amine",
+      "year": "2025",
+      "venue": "Proc. ACM/IEEE Int. Conf. Autom. Softw. Eng. Workshops",
+      "url": ""
+    },
+    {
+      "key": "nian2026auditable",
+      "type": "article",
+      "title": "Auditable Agents",
+      "author": "Nian, Yi and Yuan, Aojie and Zhang, Haiyue and Li, Jiate and Zhao, Yue",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.05485"
+    },
+    {
+      "key": "wang2026agenttraces",
+      "type": "article",
+      "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+      "author": "Wang, Yiqi and Yao, Jing and Ge, Jiahui and Wang, Yuxuan and Chen, Yifei and Ding, Ming and Chen, Yixuan and Song, Shang and Ye, Kai and Du, Chao and Wang, Lixin",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.04990"
+    },
+    {
+      "key": "wang2025agentops",
+      "type": "article",
+      "title": "A Survey on AgentOps: Categorization, Challenges, and Future Directions",
+      "author": "Wang, Zexin and Li, Jingjing and Zhou, Quan and Si, Haotian and Liu, Yuanhao and Li, Jianhui and Xie, Gaogang and Sun, Fei and Pei, Dan and Pei, Changhua",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.02121"
+    },
+    {
+      "key": "xie2026errorcascades",
+      "type": "article",
+      "title": "From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration",
+      "author": "Xie, Yizhe and Zhu, Congcong and Zhang, Xinyue and Zhu, Tianqing and Ye, Dayong and Qi, Minfeng and Chen, Huajie and Zhou, Wanlei",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.04474"
+    },
+    {
+      "key": "venkatesh2026caspian",
+      "type": "article",
+      "title": "CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring",
+      "author": "Venkatesh, Kavana and Isbarov, Jafar and Amin, Saad and Kantarcioglu, Murat and Cui, Jiaming",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19240"
+    },
+    {
+      "key": "huang2025zerotrust",
+      "type": "article",
+      "title": "A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control",
+      "author": "Huang, Ken and Narajala, Vineeth Sai and Yeoh, Jun and Ross, Jason and Raskar, Ramesh and Harkati, Yacine and Huang, J. and Habler, Idan and Hughes, Chris",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.19301"
+    },
+    {
+      "key": "xu2026agentdid",
+      "type": "inproceedings",
+      "title": "AgentDID: Trustless Identity Authentication for AI Agents",
+      "author": "Xu, Minghui and Liu, Xiaoyu and Guo, Yihao and Liu, Chunchi and Zhang, Yue and Cheng, Xiuzhen",
+      "year": "2026",
+      "venue": "Proc. Int. Conf. Distrib. Comput. Syst. (ICDCS)",
+      "url": ""
+    },
+    {
+      "key": "zhu2025miniscope",
+      "type": "article",
+      "title": "MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents",
+      "author": "Zhu, Jinhao and Tseng, Karen and Vernik, Gabriel and Huang, Xinyu and Patil, Shishir G. and Fang, Vivian and Popa, Raluca Ada",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.11147"
+    },
+    {
+      "key": "ji2026seagent",
+      "type": "article",
+      "title": "Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework",
+      "author": "Ji, Zimo and Wu, Daoyuan and Jiang, Wenyuan and Ma, Pingchuan and Li, Zongjie and Gao, Yudong and Wang, Shuai and Li, Yingjiu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.11893"
+    },
+    {
+      "key": "li2026constraintdrift",
+      "type": "article",
+      "title": "Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",
+      "author": "Li, Tianxiao and Ma, Yixing and Wen, Haiquan and Huang, Zhenglin and Zhou, Qianyu and Fu, Zeyu and Cheng, Guangliang",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.10481"
+    },
+    {
+      "key": "yu2026orchsuv",
+      "type": "article",
+      "title": "LLM-Based Multi-Agent Orchestration: A Survey of Frameworks, Communication Protocols, and Emerging Patterns",
+      "author": "Zhu, Yiwen and Liu, Lihe and Yu, Jiaqian and Zhang, Di",
+      "year": "2026",
+      "venue": "Future Internet",
+      "url": ""
+    },
+    {
+      "key": "deng2026trinityguard",
+      "type": "misc",
+      "title": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems",
+      "author": "Wang, Kai and Zeng, Biaojie and Wei, Zeming and Jin, Chang and Zhou, Hefeng and Li, Xiangtian and Yang, Chao and Qu, Jingjing and Xu, Xingcheng and Hu, Xia",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.15408"
+    },
+    {
+      "key": "liu2026overseasrely",
+      "type": "misc",
+      "title": "Technical Dependency Risks of Overseas Open-Source Frameworks in Domestic Multi-Agent Deployment",
+      "author": "Liu, Hao and Zhang, Han",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wang2026techbarrier",
+      "type": "misc",
+      "title": "Technology Barriers and Supply Risks of Foreign Agent Security Infrastructure",
+      "author": "Wang, Peng and Zhou, Kai",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "zhang2026xinchuangadapt",
+      "type": "misc",
+      "title": "Xinchuang Ecological Adaptation Deficits of Large-Scale Multi-Agent Systems",
+      "author": "Zhang, Yi and Li, Ming",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "chen2025domesticdeploy",
+      "type": "misc",
+      "title": "Compatibility and Stability Challenges of Agent Systems in Fully Domestic Software and Hardware Environments",
+      "author": "Chen, Lin and Wu, Tao",
+      "year": "2025",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "yu2026multisurvey",
+      "type": "article",
+      "title": "LLM-Based Multi-Agent Orchestration: A Survey of Security Fragmentation and System Governance Defects",
+      "author": "Yu, Zihan and Wang, Jing",
+      "year": "2026",
+      "venue": "Applied Sciences",
+      "url": ""
+    },
+    {
+      "key": "kim2026sok",
+      "type": "inproceedings",
+      "title": "Sok: Attack and defense landscape of agentic systems",
+      "author": "Kim, Juhee and Guo, Wenbo and Song, Dawn and Berkeley, UC and Santa Barbara, UC",
+      "year": "2026",
+      "venue": "35nd USENIX Security Symposium (USENIX Security 26)",
+      "url": ""
+    },
+    {
+      "key": "yang2026zombie",
+      "type": "article",
+      "title": "Zombie agents: Persistent control of self-evolving LLM agents via self-reinforcing injections",
+      "author": "Yang, Xianglin and He, Yufei and Ji, Shuo and Hooi, Bryan and Dong, Jin Song",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2602.15654",
+      "url": ""
+    },
+    {
+      "key": "yu2026operational",
+      "type": "article",
+      "title": "Operational Hallucination and Safety Drift in AI Agents",
+      "author": "Yu, Shasha and Carroll, Fiona and Bentley, Barry L",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "wood2026operfail",
+      "type": "article",
+      "title": "What Breaks When LLMs Code? Characterizing Operational Safety Failures of Agentic Code Assistants",
+      "author": "Wood, Elias and Park, Minseo and Rao, Akshay",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.30777"
+    },
+    {
+      "key": "carroll2026operhallu",
+      "type": "inproceedings",
+      "title": "Operational Hallucination and Safety Drift in Production AI Agents",
+      "author": "Carroll, Fiona and Bentley, Barry L.",
+      "year": "2026",
+      "venue": "Proc. IEEE Int. Conf. AI Data Anal. (ICAD)",
+      "url": ""
+    },
+    {
+      "key": "li2025dissonance",
+      "type": "inproceedings",
+      "title": "Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents",
+      "author": "Li, Zichuan and Cui, Jian and Liao, Xiaojing and Xing, Luyi",
+      "year": "2025",
+      "venue": "Proc. Network and Distributed System Security Symposium (NDSS)",
+      "url": ""
+    },
+    {
+      "key": "redhat2026multitool",
+      "type": "misc",
+      "title": "Securing the Agent: Vendor-Neutral, Multitenant Enterprise Retrieval and Tool Use",
+      "author": "Arceo, Francisco Javier and Prasad, Varsha and Red Hat AI Research",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": ""
+    },
+    {
+      "key": "yu2025kdd",
+      "type": "inproceedings",
+      "title": "A Survey on Trustworthy LLM Agents: Threats and Countermeasures",
+      "author": "Yu, Miao and Meng, Fanci and Zhou, Xinyun and Wang, Shilong and Mao, Junyuan and Pang, Linsey and Chen, Tianlong and Wang, Kun and Li, Xinfeng and Zhang, Yongfeng and An, Bo and Wen, Qingsong",
+      "year": "2025",
+      "venue": "Proc. ACM SIGKDD Conf. Knowl. Discov. Data Min.",
+      "url": ""
+    },
+    {
+      "key": "suwansathit2026openclaw",
+      "type": "article",
+      "title": "A Security Analysis of the OpenClaw AI Agent Framework",
+      "author": "Suwansathit, Surada and Zhang, Yuxuan and Gu, Guofei",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.27517"
+    },
+    {
+      "key": "carroll2026agentruntime",
+      "type": "misc",
+      "title": "Unprotected Agent Runtimes: A Systematic Survey of Production Deployment Vulnerabilities for Open-Source LLM Agent Platforms",
+      "author": "Carroll, Fiona and Bentley, Barry",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "hadeliya2025refusalfail",
+      "type": "misc",
+      "title": "When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents",
+      "author": "Hadeliya, Tsimur and Jauhar, Mohammad Ali and Sakpal, Nidhi and Cruz, Diogo",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.02445"
+    },
+    {
+      "key": "chen2026memoryrisk",
+      "type": "article",
+      "title": "Remembering More, Risking More: Longitudinal Safety Risks in Memory-Equipped LLM Agents",
+      "author": "Chen, Shiyang and Wang, Lu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.17830"
+    },
+    {
+      "key": "EIPA",
+      "type": "misc",
+      "title": "Export and import permits act, R.S.C. 1985, c. E-19",
+      "author": "DEPARTMENT OF JUSTICE CANADA",
+      "year": "1985",
+      "venue": "",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/e-19/"
+    },
+    {
+      "key": "ECL_Guide",
+      "type": "misc",
+      "title": "A guide to Canada's Export Control List--2026",
+      "author": "GLOBAL AFFAIRS CANADA",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2026.aspx?lang=eng"
+    },
+    {
+      "key": "DORS2025-89",
+      "type": "misc",
+      "title": "Order amending the export control list: SOR/2025-89",
+      "author": "GOVERNMENT OF CANADA",
+      "year": "2025",
+      "venue": "",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html"
+    },
+    {
+      "key": "ECL_Guide_2025",
+      "type": "misc",
+      "title": "A guide to Canada's export control list -- 2025",
+      "author": "GLOBAL AFFAIRS CANADA",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2025.aspx?lang=eng"
+    },
+    {
+      "key": "eu_gpai_code_of_practice_2025",
+      "type": "misc",
+      "title": "The General-Purpose AI code of practice",
+      "author": "EUROPEAN COMMISSION",
+      "year": "2025",
+      "venue": "",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
+    },
+    {
+      "key": "uk_ai_cyber_security_code_2025",
+      "type": "misc",
+      "title": "Code of practice for the cyber security of AI",
+      "author": "Department for Science, Innovation and Technology",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai"
+    },
+    {
+      "key": "ASML",
+      "type": "misc",
+      "title": "Export controls on strategic goods and service",
+      "author": "GOVERNMENT OF THE NETHERLANDS",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.government.nl/themes/economy/export-controls-of-strategic-goods"
+    },
+    {
+      "key": "AI科技伦理审查与服务办法（试行）",
+      "type": "misc",
+      "title": "工业和信息化部等十部门关于印发《人工智能科技伦理审查与服务办法（试行）》的通知",
+      "author": "中华人民共和国工业和信息化部等十部门",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm"
+    },
+    {
+      "key": "《人工智能智能体互联》系列国标",
+      "type": "misc",
+      "title": "我国智能体互联领域首套国家标准体系发布",
+      "author": "国家市场监督管理总局",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b821973"
+    },
+    {
+      "key": "yang2026empirical",
+      "type": "article",
+      "title": "An empirical study of privacy leakage chains via prompt injection in Black-Box chatbot environments",
+      "author": "Hongjang Yang and Hyunsik Na and Daeseon Choi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.18133"
+    },
+    {
+      "key": "alamsabi2026embedding",
+      "type": "article",
+      "title": "Embedding-Based detection of indirect prompt injection attacks in large language models using semantic context analysis",
+      "author": "Alamsabi, Mohammed and Tchuindjang, Michael and Brohi, Sarfraz",
+      "year": "2026",
+      "venue": "Algorithms",
+      "url": ""
+    },
+    {
+      "key": "jain2026multimodal",
+      "type": "article",
+      "title": "Adversarial attacks on multimodal large language models: a comprehensive survey",
+      "author": "Bhavuk Jain and Sercan Ö. Arık and Hardeo K. Thakur",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.27918"
+    },
+    {
+      "key": "sidik2026memtier",
+      "type": "article",
+      "title": "MEMTIER: tiered memory architecture and retrieval bottleneck analysis for Long-Running autonomous AI agents",
+      "author": "Bronislav Sidik and Lior Rokach",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.03675"
+    },
+    {
+      "key": "chin2025dimensional",
+      "type": "article",
+      "title": "Dimensional characterization and pathway modeling for catastrophic AI risks",
+      "author": "Ze Shen Chin",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.06411"
+    },
+    {
+      "key": "pan2026beyond",
+      "type": "article",
+      "title": "Beyond autonomy: a dynamic tiered AgentRunner framework for governable and resilient enterprise AI execution",
+      "author": "Kai Pan and Rong Hou",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.10223"
+    },
+    {
+      "key": "weng2025foot",
+      "type": "inproceedings",
+      "title": "Foot-in-the-door: a multi-turn jailbreak for llms",
+      "author": "Weng, Zixuan and Jin, Xiaolong and Jia, Jinyuan and Zhang, Xiangyu",
+      "year": "2025",
+      "venue": "Proc. Conference on Empirical Methods in Natural Language Processing",
+      "url": ""
+    },
+    {
+      "key": "zhu2025miniscope",
+      "type": "article",
+      "title": "MiniScope: a least privilege framework for authorizing tool calling agents",
+      "author": "Zhu, Jinhao and Tseng, Kevin and Vernik, Gil and Huang, Xiao and Patil, Shishir G. and Fang, Vivian and Popa, Raluca Ada",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.11147"
+    },
+    {
+      "key": "zhu2025collaborative",
+      "type": "article",
+      "title": "Collaborative shadows: distributed backdoor attacks in LLM-Based Multi-Agent systems",
+      "author": "Pengyu Zhu and Lijun Li and Yaxing Lyu and Li Sun and Sen Su and Jing Shao",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.11246"
+    },
+    {
+      "key": "eisenberg2025unified",
+      "type": "article",
+      "title": "The unified control framework: establishing a common foundation for enterprise AI governance, risk management and regulatory compliance",
+      "author": "Ian W. Eisenberg and Lucía Gamboa and Eli Sherman",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.05937"
+    },
+    {
+      "key": "sun2026survey",
+      "type": "article",
+      "title": "A survey on the unique security of autonomous and collaborative LLM agents: threats, defenses, and futures",
+      "author": "Sun, Yinggang and Yu, Haining and Jiang, Wei and Yu, Xiangzhan and Zhan, Dongyang and Wang, Lixu and Ren, Siyue and Sun, Yue and Zhu, Tianqing",
+      "year": "2026",
+      "venue": "Preprints",
+      "url": "https://www.preprints.org/manuscript/202602.1655/v2"
+    },
+    {
+      "key": "roy2026premise",
+      "type": "article",
+      "title": "PReMISE: policy rubrics as measurement specifications for LLM judges",
+      "author": "Swastik Roy and Rajkumar Pujari and Tharindu Kumarage and Charith Peris and Rahul Gupta and Anna Rumshisky and Pradeep Natarajan and Venkatesh Saligrama",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.30803"
+    },
+    {
+      "key": "hegazy2026mafa",
+      "type": "inproceedings",
+      "title": "Mafa: a multi-agent framework for enterprise-scale annotation with configurable task adaptation",
+      "author": "Hegazy, Mahmood and Rodrigues, Aaron and Naeem, Azzam",
+      "year": "2026",
+      "venue": "Proc. AAAI Conference on Artificial Intelligence",
+      "url": ""
+    },
+    {
+      "key": "eunsu2025trust",
+      "type": "article",
+      "title": "A trust Score-Based access control model for zero trust architecture: design, sensitivity analysis, and Real-World performance evaluation",
+      "author": "Eunsu, Jeong and Daeheon, Yang",
+      "year": "2025",
+      "venue": "Applied Sciences",
+      "url": ""
+    },
+    {
+      "key": "shlomov2026governance",
+      "type": "misc",
+      "title": "Governance frameworks for secure AI agent development and deployment",
+      "author": "Shlomov, Daniel and others",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "madkour2026response",
+      "type": "techreport",
+      "title": "Response to the request for information regarding security considerations for artificial intelligence agents",
+      "author": "Madkour, Nada and Raman, Deepika",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cltc.berkeley.edu/wp-content/uploads/2026/03/AISI_Response_AI_Agents_RFI.pdf"
+    },
+    {
+      "key": "ellis2026contextaisecurity",
+      "type": "misc",
+      "title": "Why context is the missing link in AI data security",
+      "author": "Ellis, Scott and Medvedev, Ivan",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security"
+    },
+    {
+      "key": "tan2026prompt",
+      "type": "article",
+      "title": "From prompt injection to persistent control: defending agentic harness against trojan backdoors",
+      "author": "Jiejun Tan and Zhicheng Dou and Xinyu Yang and Yuyang Hu and Yiruo Cheng and Xiaoxi Li and Ji-Rong Wen",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.31042"
+    },
+    {
+      "key": "openai2026memoryfaq",
+      "type": "misc",
+      "title": "Memory FAQ",
+      "author": "OPENAI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://help.openai.com/en/articles/8590148-memory-faq"
+    },
+    {
+      "key": "isak2026guardingaimemory",
+      "type": "misc",
+      "title": "Guarding AI memory",
+      "author": "Isak, Natalie and Cooley, Sarah",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
+    },
+    {
+      "key": "ryland2026agenticsecurityprinciples",
+      "type": "misc",
+      "title": "Four security principles for agentic AI systems",
+      "author": "Ryland, Mark and Goodman, Riggs, III and MacDermid, Todd",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
+    },
+    {
+      "key": "microsoft2026promptsrce",
+      "type": "misc",
+      "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+      "author": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Oren, Uri and Eliahu, Amit and Edry, Dor",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
+    },
+    {
+      "key": "microsoft2026promptsbecomeshells",
+      "type": "misc",
+      "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+      "author": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Oren, Uri and Eliahu, Amit and Edry, Dor",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
+    },
+    {
+      "key": "staufer20262025",
+      "type": "article",
+      "title": "The 2025 AI agent index: documenting technical and safety features of deployed agentic AI systems",
+      "author": "Leon Staufer and Kevin Feng and Kevin Wei and Luke Bailey and Yawen Duan and Mick Yang and A. Pinar Ozisik and Stephen Casper and Noam Kolt",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.17753"
+    },
+    {
+      "key": "alibabacloud2026skillsdetection",
+      "type": "misc",
+      "title": "Skills detection",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/asc/latest/skills-detection-1"
+    },
+    {
+      "key": "ji2026taming",
+      "type": "article",
+      "title": "Taming various privilege escalation in LLM-Based agent systems: a mandatory access control framework",
+      "author": "Zimo Ji and Daoyuan Wu and Wenyuan Jiang and Pingchuan Ma and Zongjie Li and Yudong Gao and Shuai Wang and Yingjiu Li",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.11893"
+    },
+    {
+      "key": "Liang2025DontTY",
+      "type": "article",
+      "title": "Don't trust your upstream: exploiting LLM Multi-Agent system via Topology-Guided adversarial propagation",
+      "author": "Ruichao Liang and Le Yin and Jing Chen and Yebo Feng and Cong Wu and Xiaoyu Zhang and Huangpeng Gu and Zijian Zhang and Yang Liu",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.04129"
+    },
+    {
+      "key": "long2025funcpoison",
+      "type": "article",
+      "title": "FuncPoison: poisoning function library to hijack multi-agent autonomous driving systems",
+      "author": "Yuzhen Long and Songze Li",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2509.24408"
+    },
+    {
+      "key": "roshan2026securingmultiagents",
+      "type": "misc",
+      "title": "Securing Multi-Agent Systems: An Empirical Analysis of Security Prompt Hardening and Residual Risks",
+      "author": "Roshan, Mithil and Nagesh, Shashank",
+      "year": "2026",
+      "venue": "",
+      "url": "https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/"
+    },
+    {
+      "key": "alibabacloud2026governancecheck",
+      "type": "misc",
+      "title": "Agentic cloud governance center: supported check items",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items"
+    },
+    {
+      "key": "owaspMCPTop10_2026",
+      "type": "misc",
+      "title": "OWASP MCP top 10",
+      "author": "OWASP FOUNDATION",
+      "year": "2026",
+      "venue": "",
+      "url": "https://owasp.org/www-project-mcp-top-10/"
+    },
+    {
+      "key": "yuan2026aegis",
+      "type": "article",
+      "title": "AEGIS: no tool call left unchecked -- a Pre-Execution firewall and audit layer for AI agents",
+      "author": "Aojie Yuan and Zhiyuan Su and Yue Zhao",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.12621"
+    },
+    {
+      "key": "alsayyad2026agenttrace",
+      "type": "article",
+      "title": "AgentTrace: a structured logging framework for agent system observability",
+      "author": "AlSayyad, Adam and Huang, Kelvin Yuxiang and Pal, Richik",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.10133"
+    },
+    {
+      "key": "microsoft2026agentobservability",
+      "type": "misc",
+      "title": "80% of Fortune 500 use active AI agents: observability, governance, and security shape the new frontier",
+      "author": "MICROSOFT SECURITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/"
+    },
+    {
+      "key": "fiveEyesAgenticAI2026",
+      "type": "techreport",
+      "title": "Careful adoption of agentic AI services",
+      "author": "ASD ACSC, CISA, NSA, CANADIAN CENTRE FOR CYBER SECURITY, NCSC-NZ, AND NCSC-UK",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.cyber.gov.au/sites/default/files/2026-05/careful_adoption_of_agentic_ai_services.pdf"
+    },
+    {
+      "key": "alibabacloud2026agentpermissions",
+      "type": "misc",
+      "title": "Agent permission management",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/agent-permission-management"
+    },
+    {
+      "key": "schwarz2025countermind",
+      "type": "article",
+      "title": "Countermind: a Multi-Layered security architecture for large language models",
+      "author": "Dominik Schwarz",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.11837"
+    },
+    {
+      "key": "wen2026agentsys",
+      "type": "article",
+      "title": "AgentSys: secure and dynamic LLM agents through explicit hierarchical memory management",
+      "author": "Ruoyao Wen and Hao Li and Chaowei Xiao and Ning Zhang",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.07398"
+    },
+    {
+      "key": "zhou2026efficient",
+      "type": "article",
+      "title": "Efficient Vector-Multiplicative Privacy-Preserving Retrieval-Augmented generation for large language models",
+      "author": "Zhou, Jinhao and Wu, Jun",
+      "year": "2026",
+      "venue": "IEEE Transactions on Dependable and Secure Computing",
+      "url": ""
+    },
+    {
+      "key": "zou2026reasonflux",
+      "type": "article",
+      "title": "ADVERSA: measuring Multi-Turn guardrail degradation and judge reliability in large language models",
+      "author": "Harry Owiredu-Ashley",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.10068"
+    },
+    {
+      "key": "srivastav2025safe",
+      "type": "inproceedings",
+      "title": "Safe in isolation, dangerous together: Agent-Driven Multi-Turn decomposition jailbreaks on LLMs",
+      "author": "Srivastav, Devansh and Zhang, Xiao",
+      "year": "2025",
+      "venue": "Proc. 1st Workshop for Research on Agent Language Models (REALM)",
+      "url": ""
+    },
+    {
+      "key": "son2026governed",
+      "type": "article",
+      "title": "Governed MCP: Kernel-Level tool governance for AI agents via Logit-Based safety primitives",
+      "author": "Daeyeon Son",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.16870"
+    },
+    {
+      "key": "ferrag2025prompt",
+      "type": "article",
+      "title": "From prompt injections to protocol exploits: threats in LLM-powered AI agents workflows",
+      "author": "Ferrag, Mohamed Amine and Tihanyi, Norbert and Hamouda, Djallel and Maglaras, Leandros and Lakas, Abderrahmane and Debbah, Merouane",
+      "year": "2026",
+      "venue": "ICT Express",
+      "url": ""
+    },
+    {
+      "key": "patlan2025murmur",
+      "type": "article",
+      "title": "MURMUR: using cross-user chatter to break collaborative language agents in groups",
+      "author": "Atharv Singh Patlan and Peiyao Sheng and S. Ashwin Hebbar and Prateek Mittal and Pramod Viswanath",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2511.17671"
+    },
+    {
+      "key": "zheng2025agentsight",
+      "type": "inproceedings",
+      "title": "AgentSight: System-Level observability for AI agents using eBPF",
+      "author": "Zheng, Yusheng and Hu, Yanpeng and Yu, Tong and Quinn, Andi",
+      "year": "2025",
+      "venue": "Proc. 4th Workshop on Practical Adoption Challenges of ML for Systems",
+      "url": ""
+    },
+    {
+      "key": "he2025sentinelagent",
+      "type": "article",
+      "title": "SentinelAgent: graph-based anomaly detection in Multi-Agent systems",
+      "author": "Xu He and Di Wu and Yan Zhai and Kun Sun",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2505.24201"
+    },
+    {
+      "key": "fu2025sanitize",
+      "type": "article",
+      "title": "Sanitize your responses: mitigating privacy leakage in large language models",
+      "author": "Wenjie Fu and Huandong Wang and Junyao Gao and Guoan Wan and Tao Jiang",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2509.24488"
+    },
+    {
+      "key": "chong2025casper",
+      "type": "inproceedings",
+      "title": "Casper: prompt sanitization for protecting user privacy in web-based large language models",
+      "author": "Chong, Chun Jie and Hou, Chenxi and Yao, Zhihao and Talebi, Seyed Mohammadjavad Seyed",
+      "year": "2025",
+      "venue": "Proc. 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)",
+      "url": ""
+    },
+    {
+      "key": "zeng2025survey",
+      "type": "article",
+      "title": "Survey of multimodal Vision-Language representation learning models and their adversarial examples attack and defense techniques",
+      "author": "Zeng, C and Ge, YJ and Zhao, LC and Wang, Q",
+      "year": "2025",
+      "venue": "Journal of Computer Research and Development",
+      "url": ""
+    },
+    {
+      "key": "sun2026stego",
+      "type": "article",
+      "title": "Stego battlefield: evaluating image steganography attacks and steganalysis defenses",
+      "author": "Zhen Sun and Zongmin Zhang and Leyi Sheng and Yule Liu and Yifan Liao and Ke Li and Xinhu Zheng and Jiaheng Wei and Wenyuan Yang and Xinlei He",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05789"
+    },
+    {
+      "key": "archaction_microsoft2026promptshells",
+      "type": "misc",
+      "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+      "author": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Oren, Uri and Eliahu, Amit and Edry, Dor",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
+    },
+    {
+      "key": "na2025countering",
+      "type": "inproceedings",
+      "title": "Countering jailbreak attacks with Two-Axis Pre-Detection and conditional warning wrappers",
+      "author": "Na, Hyunsik and Kim, Hajun and Yoon, Dooshik and Choi, Daeseon",
+      "year": "2025",
+      "venue": "Proc. European Symposium on Research in Computer Security",
+      "url": ""
+    },
+    {
+      "key": "lam2026governing",
+      "type": "article",
+      "title": "Governing evolving memory in LLM agents: risks, mechanisms, and the stability and safety governed memory (SSGM) framework",
+      "author": "Chingkwun Lam and Jiaxin Li and Lingfei Zhang and Kuo Zhao",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.11768"
+    },
+    {
+      "key": "bhardwaj2026superlocalmemory",
+      "type": "article",
+      "title": "SuperLocalMemory: Privacy-Preserving Multi-Agent memory with Bayesian trust defense against memory poisoning",
+      "author": "Bhardwaj, Varun Pratap",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.02240"
+    },
+    {
+      "key": "alibabacloud2026instanceisolation",
+      "type": "misc",
+      "title": "Instance isolation overview",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/functioncompute/fc/overview-of-instance-isolation"
+    },
+    {
+      "key": "louck2026securing",
+      "type": "article",
+      "title": "Securing LLM-Agent Long-Term memory against poisoning: Non-Malleable, Origin-Bound authority with Machine-Checked guarantees",
+      "author": "Yedidel Louck",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24322"
+    },
+    {
+      "key": "kumar2026memarchitect",
+      "type": "article",
+      "title": "MemArchitect: a policy driven memory governance layer",
+      "author": "Lingavasan Suresh Kumar and Yang Ba and Rong Pan",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.18330"
+    },
+    {
+      "key": "aepdAgenticAI2026",
+      "type": "misc",
+      "title": "Agentic Artificial Intelligence from the Perspective of Data Protection",
+      "author": "Agencia Espanola de Proteccion de Datos",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf"
+    },
+    {
+      "key": "liu2025safe",
+      "type": "inproceedings",
+      "title": "Safe: enhancing mathematical reasoning in large language models via retrospective Step-Aware formal verification",
+      "author": "Liu, Chengwu and Yuan, Ye and Yin, Yichun and Xu, Yan and Xu, Xin and Chen, Zaoyu and Wang, Yasheng and Shang, Lifeng and Liu, Qun and Zhang, Ming",
+      "year": "2025",
+      "venue": "Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": ""
+    },
+    {
+      "key": "huang2026beyond",
+      "type": "article",
+      "title": "Beyond oracle: Verifier-Supervision for instruction hierarchy in reasoning and Instruction-Tuned LLMs",
+      "author": "Huang, Sian-Yao and Chang, Li-Hsien and Lin, Che-Yu and Yang, Cheng-Lin",
+      "year": "2026",
+      "venue": "Advances in Neural Information Processing Systems",
+      "url": ""
+    },
+    {
+      "key": "chen2026too",
+      "type": "article",
+      "title": "Agents at risk: how users unwittingly undermine LLM safety",
+      "author": "Fengchao Chen and Tingmin Wu and Van Nguyen and Surya. Nepal and Carsten Rudolph",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.10758"
+    },
+    {
+      "key": "salesforce2026agentscriptcontrolplane",
+      "type": "misc",
+      "title": "Agent script: the control plane for agentic decisions",
+      "author": "SALESFORCE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.salesforce.com/blog/agent-script-control-plane/"
+    },
+    {
+      "key": "zhou2025tempest",
+      "type": "article",
+      "title": "Tempest: autonomous Multi-Turn jailbreaking of large language models with tree search",
+      "author": "Andy Zhou and Ron Arel",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.10619"
+    },
+    {
+      "key": "albrethsen2026deepcontext",
+      "type": "article",
+      "title": "DeepContext: stateful Real-Time detection of Multi-Turn adversarial intent drift in LLMs",
+      "author": "Justin Albrethsen and Yash Datta and Kunal Kumar and Sharath Rajasekar",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.16935"
+    },
+    {
+      "key": "hu2025steering",
+      "type": "article",
+      "title": "Steering dialogue dynamics for robustness against multi-turn jailbreaking attacks",
+      "author": "Hanjiang Hu and Alexander Robey and Changliu Liu",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2503.00187"
+    },
+    {
+      "key": "luo2026agentguard",
+      "type": "article",
+      "title": "AgentGuard: an Attribute-Based access control framework for Tool-Use LLM-Based agent",
+      "author": "Jiaqi Luo and Songyang Peng and Jiarun Dai and Zhile Chen and Zhuoxiang Shen and Geng Hong and Xudong Pan and Yuan Zhang and Min Yang",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.28071"
+    },
+    {
+      "key": "wang2026sandlock",
+      "type": "article",
+      "title": "Sandlock: confining AI agent code with unprivileged Linux primitives",
+      "author": "Cong Wang and Yusheng Zheng",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.26298"
+    },
+    {
+      "key": "prabakaran2026cl",
+      "type": "article",
+      "title": "CL-GIE v4.0: Blockchain-Anchored Cross-Layer genomic integrity with hierarchical Bloom--Merkle trees for Ethics-Aware, explainable personalized gene editing",
+      "author": "Prabakaran, C and Rajendran, Kannadasan",
+      "year": "2026",
+      "venue": "IEEE Access",
+      "url": ""
+    },
+    {
+      "key": "archinteraction_mondal2026multitenantagent",
+      "type": "misc",
+      "title": "Multi-Tenant LLM analytics with Row-Level security: how we built a secure agent on AWS",
+      "author": "Mondal, Anuranjan and Kunamneni, Mohan and Alluri, Praneeth and Sahajwani, Zubeen",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/"
+    },
+    {
+      "key": "desai2026safegpt",
+      "type": "article",
+      "title": "SafeGPT: preventing data leakage and unethical outputs in enterprise LLM use",
+      "author": "Pratyush Desai and Luoxi Tang and Yuqiao Meng and Zhaohan Xi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2601.06366"
+    },
+    {
+      "key": "archinteraction_ellis2026aidatasecurity",
+      "type": "misc",
+      "title": "Why context is the missing link in AI data security",
+      "author": "Ellis, Scott and Medvedev, Ivan",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security"
+    },
+    {
+      "key": "li2026agentbom",
+      "type": "article",
+      "title": "Towards Security-Auditable LLM agents: a unified graph representation",
+      "author": "Chaofan Li and Lyuye Zhang and Jintao Zhai and Siyue Feng and Xichun Yang and Huahao Wang and Shihan Dou and Yu Ji and Yutao Hu and Yueming Wu and Yang Liu and Deqing Zou",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06812"
+    },
+    {
+      "key": "archgovernance_hemrajani2026agentiam",
+      "type": "misc",
+      "title": "What's new in IAM: security, governance, and runtime defense",
+      "author": "Hemrajani, Abhishek A.",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense"
+    },
+    {
+      "key": "ali2026agentsoc",
+      "type": "misc",
+      "title": "Alibaba Cloud Unveils Agentic SOC: An Enterprise-Grade, AI Agent-Driven Security Operations Platform",
+      "author": "ALIBABA CLOUD SECURITY TEAM",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-unveils-agentic-soc-an-enterprise-grade-ai-agent-driven-security-operations-platform_603015"
+    },
+    {
+      "key": "sarabamoun2025special",
+      "type": "article",
+      "title": "Special-Character adversarial attacks on Open-Source language model",
+      "author": "Ephraiem Sarabamoun",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2508.14070"
+    },
+    {
+      "key": "gao2025imperceptible",
+      "type": "article",
+      "title": "Imperceptible jailbreaking against large language models",
+      "author": "Kuofeng Gao and Yiming Li and Chao Du and Xin Wang and Xingjun Ma and Shu-Tao Xia and Tianyu Pang",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.05025"
+    },
+    {
+      "key": "kim2025really",
+      "type": "inproceedings",
+      "title": "What really matters in Many-Shot attacks? an empirical study of Long-Context vulnerabilities in LLMs",
+      "author": "Kim, Sangyeop and Lee, Yohan and Song, Yongwoo and Lee, Kimin",
+      "year": "2025",
+      "venue": "Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": ""
+    },
+    {
+      "key": "das2026trojan",
+      "type": "article",
+      "title": "Trojan hippo: weaponizing agent memory for data exfiltration",
+      "author": "Debeshee Das and Julien Piet and Darya Kaviani and Luca Beurer-Kellner and Florian Tramèr and David Wagner",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01970"
+    },
+    {
+      "key": "karthikeyan2025agentcrypt",
+      "type": "article",
+      "title": "AgentCrypt: advancing privacy and (secure) computation in AI agent collaboration",
+      "author": "Harish Karthikeyan and Yue Guo and Leo de Castro and Antigoni Polychroniadou and Udari Madhushani Sehwag and Leo Ardon and Sumitra Ganesh and Manuela Veloso",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.08104"
+    },
+    {
+      "key": "forough2026agenticconfidentialcomputing",
+      "type": "article",
+      "title": "When agents handle secrets: a survey of confidential computing for agentic AI",
+      "author": "Javad Forough and Marios Kogias and Hamed Haddadi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.03213"
+    },
+    {
+      "key": "luo2025agrail",
+      "type": "inproceedings",
+      "title": "AGrail: a lifelong agent guardrail with effective and adaptive safety detection",
+      "author": "Luo, Weidi and Dai, Shenghong and Liu, Xiaogeng and Banerjee, Suman and Sun, Huan and Chen, Muhao and Xiao, Chaowei",
+      "year": "2025",
+      "venue": "Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": ""
+    },
+    {
+      "key": "wei2025trojan",
+      "type": "article",
+      "title": "The trojan knowledge: bypassing commercial LLM guardrails via harmless prompt weaving and adaptive tree search",
+      "author": "Rongzhe Wei and Peizhi Niu and Xinjie Shen and Tony Tu and Yifan Li and Ruihan Wu and Eli Chien and Pin-Yu Chen and Olgica Milenkovic and Pan Li",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.01353"
+    },
+    {
+      "key": "li2026agentharness",
+      "type": "article",
+      "title": "Security considerations for artificial intelligence agents",
+      "author": "Ninghui Li and Kaiyuan Zhang and Kyle Polley and Jerry Ma",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.12230"
+    },
+    {
+      "key": "xie2025security",
+      "type": "article",
+      "title": "Red-Teaming coding agents from a Tool-Invocation perspective: an empirical security assessment",
+      "author": "Yuchong Xie and Mingyu Luo and Zesen Liu and Zhixiang Zhang and Kaikai Zhang and Yu Liu and Zongjie Li and Ping Chen and Shuai Wang and Dongdong She",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2509.05755"
+    },
+    {
+      "key": "mitchell2026agent",
+      "type": "article",
+      "title": "When the agent is the adversary: architectural requirements for agentic AI containment after the april 2026 frontier model escape",
+      "author": "Richard Joseph Mitchell",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.23425"
+    },
+    {
+      "key": "uchibeke2026before",
+      "type": "article",
+      "title": "Before the tool call: deterministic Pre-Action authorization for autonomous AI agents",
+      "author": "Uchi Uchibeke",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.20953"
+    },
+    {
+      "key": "gan2026navigating",
+      "type": "article",
+      "title": "Navigating the risks: a survey of security and privacy threats in LLM-Based agents",
+      "author": "Gan, Yuyou and Yang, Yong and Ma, Zhe and He, Ping and Zeng, Rui and Wang, Yiming and Li, Qingming and Zhou, Chunyi and Li, Songze and Wang, Ting",
+      "year": "2026",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "url": ""
+    },
+    {
+      "key": "redhat2026multitool",
+      "type": "inproceedings",
+      "title": "Securing the Agent: Vendor-Neutral, Multitenant Enterprise Retrieval and Tool Use",
+      "author": "Arceo, Francisco Javier and Narsing, Varsha Prasad",
+      "year": "2026",
+      "venue": "Proc. ACM Conf. AI Agentic Syst.",
+      "url": ""
+    },
+    {
+      "key": "prakash2026ldp",
+      "type": "article",
+      "title": "LDP: an Identity-Aware protocol for Multi-Agent LLM systems",
+      "author": "Sunil Prakash",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.08852"
+    },
+    {
+      "key": "chen2026credential",
+      "type": "article",
+      "title": "How your credentials are leaked by LLM agent skills: an empirical study",
+      "author": "Zhihao Chen and Ying Zhang and Yi Liu and Gelei Deng and Yuekang Li and Yanjun Zhang and Jianting Ning and Leo Yu Zhang and Lei Ma and Zhiqiang Li",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.03070"
+    },
+    {
+      "key": "shi2025sok",
+      "type": "article",
+      "title": "SoK: Trust-Authorization mismatch in LLM agent interactions",
+      "author": "Guanquan Shi and Haohua Du and Zhiqiang Wang and Xiaoyu Liang and Weiwenpei Liu and Song Bian and Zhenyu Guan",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.06914"
+    },
+    {
+      "key": "zhu2025metabreak",
+      "type": "article",
+      "title": "MetaBreak: jailbreaking online LLM services via special token manipulation",
+      "author": "Wentian Zhu and Zhen Xiang and Wei Niu and Le Guan",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.10271"
+    },
+    {
+      "key": "ouyang2026memlineage",
+      "type": "article",
+      "title": "MemLineage: Lineage-Guided enforcement for LLM agent memory",
+      "author": "Ciyan Ouyang and Rui Hou",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14421"
+    },
+    {
+      "key": "barua2025guardians",
+      "type": "article",
+      "title": "Guardians of the agentic system: preventing many shots jailbreak with agentic system",
+      "author": "Saikat Barua and Mostafizur Rahman and Md Jafor Sadek and Rafiul Islam and Shehenaz Khaled and Ahmedul Kabir",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2502.16750"
+    },
+    {
+      "key": "kasu2026chain",
+      "type": "article",
+      "title": "When the chain of thought knows better: failure modes in Multi-Turn reasoning models",
+      "author": "Sai Kartheek Reddy Kasu and Nils Lukas and Samuele Poppi",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.10740"
+    },
+    {
+      "key": "shan2026don",
+      "type": "article",
+      "title": "Don't let the claw grip your hand: a security analysis and defense framework for OpenClaw",
+      "author": "Zhengyang Shan and Jiayun Xin and Yue Zhang and Minghui Xu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.10387"
+    },
+    {
+      "key": "das2025commandsans",
+      "type": "article",
+      "title": "CommandSans: securing AI agents with surgical precision prompt sanitization",
+      "author": "Debeshee Das and Luca Beurer-Kellner and Marc Fischer and Maximilian Baader",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2510.08829"
+    },
+    {
+      "key": "konakandla2026systemprompt",
+      "type": "misc",
+      "title": "Designing for the inevitable: system prompt leakage and mitigations in generative AI applications",
+      "author": "Manideep Konakandla",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/"
+    },
+    {
+      "key": "brunner2026promptinjections",
+      "type": "misc",
+      "title": "AI threats in the wild: the current state of prompt injections on the web",
+      "author": "Thomas Brunner and Yu-Han Liu and Moni Pande",
+      "year": "2026",
+      "venue": "",
+      "url": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html"
+    },
+    {
+      "key": "hackett2025bypassing",
+      "type": "inproceedings",
+      "title": "Bypassing LLM guardrails: an empirical analysis of evasion attacks against prompt injection and jailbreak detection systems",
+      "author": "Hackett, William and Birch, Lewis and Trawicki, Stefan and Suri, Neeraj and Garraghan, Peter",
+      "year": "2025",
+      "venue": "Proc. The First Workshop on LLM Security (LLMSEC)",
+      "url": ""
+    },
+    {
+      "key": "tencentzhuque2026agentskills",
+      "type": "misc",
+      "title": "当AI学会背刺：深度剖析Agent skills的安全陷阱",
+      "author": "腾讯朱雀实验室 and Nicky",
+      "year": "2026",
+      "venue": "",
+      "url": "https://security.tencent.com/index.php/blog/msg/215?from_tab=security"
+    },
+    {
+      "key": "alibabacloud2026sase",
+      "type": "misc",
+      "title": "Alibaba cloud SASE 2.0 upgrade: comprehensive monitoring of agent office security",
+      "author": "ALIBABA CLOUD SECURITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-sase-2-0-upgrade-comprehensive-monitoring-of-agent-office-security_603047"
+    },
+    {
+      "key": "isakcooley2026aimemory",
+      "type": "misc",
+      "title": "Guarding AI memory",
+      "author": "Natalie Isak and Sarah Cooley",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
+    },
+    {
+      "key": "srivastava2025memorygraft",
+      "type": "article",
+      "title": "MemoryGraft: persistent compromise of LLM agents via poisoned experience retrieval",
+      "author": "Srivastava, Saksham Sahai and He, Haoyu",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2512.16962"
+    },
+    {
+      "key": "hadareantristan2026cedar",
+      "type": "misc",
+      "title": "Why policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
+      "author": "Liana Hadarean and Jean-Baptiste Tristan",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
+    },
+    {
+      "key": "gavish2026workspaceipi",
+      "type": "misc",
+      "title": "Google workspace's continuous approach to mitigating indirect prompt injections",
+      "author": "Adam Gavish and GOOGLE GENAI SECURITY TEAM",
+      "year": "2026",
+      "venue": "",
+      "url": "https://blog.google/security/google-workspaces-continuous-approach-to-mitigating-indirect-prompt-injections/"
+    },
+    {
+      "key": "jiralerspong2026noticing",
+      "type": "article",
+      "title": "Noticing the watcher: LLM agents can infer CoT monitoring from blocking feedback",
+      "author": "Thomas Jiralerspong and Flemming Kondrup and Yoshua Bengio",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2603.16928"
+    },
+    {
+      "key": "zhang2026reasoninglens",
+      "type": "article",
+      "title": "ReasoningLens: hierarchical visualization and diagnostic auditing for large reasoning models",
+      "author": "Jun Zhang and Jiasheng Zheng and Boxi Cao and Yaojie Lu and Hongyu Lin and Jia Zheng and Xianpei Han and Le Sun",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.23404"
+    },
+    {
+      "key": "lacyshen2026agentobservability",
+      "type": "misc",
+      "title": "Debugging production agents with Amazon Bedrock AgentCore observability",
+      "author": "Joshua Lacy and Jenny Shen",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/"
+    },
+    {
+      "key": "lin2026safeharness",
+      "type": "article",
+      "title": "SafeHarness: Lifecycle-Integrated security architecture for LLM-based agent deployment",
+      "author": "Xixun Lin and Yang Liu and Yancheng Chen and Yongxuan Wu and Yucheng Ning and Yilong Liu and Nan Sun and Shun Zhang and Bin Chong and Chuan Zhou and Yanan Cao",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.13630"
+    },
+    {
+      "key": "russinovich2026oneprompt",
+      "type": "misc",
+      "title": "A One-Prompt attack that breaks LLM safety alignment",
+      "author": "Mark Russinovich and Giorgio Severi and Blake Bullwinkel and Yanan Cai and Keegan Hines and Ahmed Salem",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/"
+    },
+    {
+      "key": "cartagena2026mind",
+      "type": "article",
+      "title": "Mind the GAP: text safety does not transfer to Tool-Call safety in LLM agents",
+      "author": "Arnold Cartagena and Ariane Teixeira",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2602.16943"
+    },
+    {
+      "key": "ryland2026agenticsecurity",
+      "type": "misc",
+      "title": "Four security principles for agentic AI systems",
+      "author": "Mark Ryland and Riggs Goodman III and Todd MacDermid",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
+    },
+    {
+      "key": "alibabacloud2026ossagent",
+      "type": "misc",
+      "title": "OSS agent: AI-Powered bucket management and data search",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/oss/developer-reference/oss-agent"
+    },
+    {
+      "key": "goswami2025agentic",
+      "type": "article",
+      "title": "Agentic JWT: a secure delegation protocol for autonomous AI agents",
+      "author": "Abhishek Goswami",
+      "year": "2025",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2509.13597"
+    },
+    {
+      "key": "microsoft2026exploitablemisconfigurations",
+      "type": "misc",
+      "title": "When configuration becomes a vulnerability: exploitable misconfigurations in AI apps",
+      "author": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Yossi Weizman",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/"
+    },
+    {
+      "key": "gottweisAICoScientist2025",
+      "type": "article",
+      "title": "Accelerating scientific discovery with Co-Scientist",
+      "author": "Gottweis, Juraj and Weng, Wei-Hung and Daryin, Alexander and Tu, Tao and Sirkovic, Petar and Myaskovsky, Artiom and Glowaty, Grzegorz and Weissenberger, Felix and Orlandi, Alessio and Popovici, Dan and Palepu, Anil and Rong, Keran and Tanno, Ryutaro and Saab, Khaled and Zhang, Fan and Blum, Jacob and Carroll, Andrew and Kulkarni, Kavita and Tomasev, Nenad and Zverinski, Dina and Rendulic, Ivor and Vedadi, Elahe and Hasler, Florian and Rimanic, Luka and Boia, Marina and Budiselic, Ivan and Feinstein, Ben and Bellaiche, Mathias and Sheffer, Tom and Freyberg, Jan and Ratcliff, Jeremy and Bertolli, Ottavia and Chou, Katherine and Hassidim, Avinatan and Gokturk, Burak and Vahdat, Amin and Guan, Yuan and Dhillon, Vikram and Vaishnav, Eeshit Dhaval and Lee, Byron and Costa, Tiago R. D. and Penades, Jose R. and Peltz, Gary and Matias, Yossi and Manyika, James and Hassabis, Demis and Xu, Yunhan and Kohli, Pushmeet and Pawlosky, Annalisa and Karthikesalingam, Alan and Natarajan, Vivek",
+      "year": "2026",
+      "venue": "Nature",
+      "url": ""
+    },
+    {
+      "key": "gammaLabBUAA2026",
+      "type": "misc",
+      "title": "通用自主多模态智能体课题组",
+      "author": "GAMMA-LAB, INSTITUTE OF UNMANNED SYSTEM, BEIHANG UNIVERSITY",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    },
+    {
+      "key": "googleagentidentity2026",
+      "type": "misc",
+      "title": "Agent identity and access control for AI agents",
+      "author": "Google Cloud",
+      "year": "2026",
+      "venue": "",
+      "url": "https://cloud.google.com/iam/docs/agents"
+    },
+    {
+      "key": "googletoolgovernance2025",
+      "type": "misc",
+      "title": "Enhanced tool governance in Vertex AI Agent Builder",
+      "author": "Google Cloud",
+      "year": "2025",
+      "venue": "",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/enhanced-tool-governance-in-vertex-ai-agent-builder"
+    },
+    {
+      "key": "huaweiagentidentity2026",
+      "type": "misc",
+      "title": "AgentArts AgentIdentity API key authentication",
+      "author": "Huawei Cloud",
+      "year": "2026",
+      "venue": "",
+      "url": "https://support.huaweicloud.com/intl/en-us/api-agentarts/agentarts_api_0308.html"
+    },
+    {
+      "key": "kahani2026ctrace",
+      "type": "article",
+      "title": "Runtime Compliance Verification for AI Agents",
+      "author": "Kahani, Nafiseh and Barati, Masoud and Addae, Diana",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2606.19242",
+      "url": "https://arxiv.org/abs/2606.19242"
+    },
+    {
+      "key": "kim2026agenticsecurity",
+      "type": "article",
+      "title": "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey",
+      "author": "Kim, Juhee and Liu, Xiaoyuan and Wang, Zhun and Qiu, Shi and Li, Bo and Guo, Wenbo and Song, Dawn",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2603.11088",
+      "url": "https://arxiv.org/abs/2603.11088"
+    },
+    {
+      "key": "kimik26release2026",
+      "type": "misc",
+      "title": "Kimi K2.6 正式发布：智能体编码时代进入生产阶段",
+      "author": "KIMI K2 TECHNICAL BLOG",
+      "year": "2026",
+      "venue": "",
+      "url": "https://kimi-k2.org/zh/blog/24-kimi-k2-6-release"
+    },
+    {
+      "key": "kimik2thinkingblog2025",
+      "type": "misc",
+      "title": "Kimi K2 Thinking: 月之暗面推出迄今最强的开源思考模型",
+      "author": "KIMI K2 TECHNICAL BLOG",
+      "year": "2025",
+      "venue": "",
+      "url": "https://kimi-k2.org/zh/blog/15-kimi-k2-thinking"
+    },
+    {
+      "key": "liuSAFER2025",
+      "type": "inproceedings",
+      "title": "Safety aware task planning via large language models in robotics",
+      "author": "Khan, Azal Ahmad and Andrev, Michael and Murtaza, Muhammad Ali and Aguilera, Sergio and Zhang, Rui and Ding, Jie and Hutchinson, Seth and Anwar, Ali",
+      "year": "2025",
+      "venue": "Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "url": ""
+    },
+    {
+      "key": "liutingHomepage2026",
+      "type": "misc",
+      "title": "刘挺 -- 个人主页",
+      "author": "哈尔滨工业大学计算机科学与技术学院",
+      "year": "2026",
+      "venue": "",
+      "url": "https://homepage.hit.edu.cn/liuting"
+    },
+    {
+      "key": "lu2025adversarial",
+      "type": "article",
+      "title": "Adversarial training for multimodal large language models against jailbreak attacks",
+      "author": "Lu, Liming and Pang, Shuchao and Liang, Siyuan and Zhu, Haotian and Zeng, Xiyu and Liu, Aishan and Liu, Yunhuai and Zhou, Yongbin",
+      "year": "2025",
+      "venue": "arXiv e-prints",
+      "url": "https://arxiv.org/abs/2503.04833v2"
+    },
+    {
+      "key": "gaire2025systematization",
+      "type": "article",
+      "title": "Systematization of knowledge: Security and safety in the Model Context Protocol ecosystem",
+      "author": "Gaire, Shiva and Gyawali, Srijan and Mishra, Saroj and Niroula, Suman and Thakur, Dilip and Yadav, Umesh",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2512.08290",
+      "url": ""
+    },
+    {
+      "key": "microsoft2026agenticfailuremodes",
+      "type": "report",
+      "title": "Taxonomy of Failure Modes in Agentic AI Systems",
+      "author": "MICROSOFT AI RED TEAM",
+      "year": "",
+      "venue": "",
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf"
+    },
+    {
+      "key": "artiaeroBUAA2026",
+      "type": "misc",
+      "title": "ArtiAero：面向无人机概念构型设计的多智能体参数化装配生成系统",
+      "author": "北京航空航天大学智能体创新大赛",
+      "year": "2026",
+      "venue": "",
+      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202605/t20260527_2111483791.html"
+    },
+    {
+      "key": "baiduduclaw2026",
+      "type": "misc",
+      "title": "DuClaw AI Agent service",
+      "author": "BAIDU",
+      "year": "2026",
+      "venue": "",
+      "url": "https://duclaw.baidu.com/"
+    },
+    {
+      "key": "baiduduclawskillmarket2026",
+      "type": "misc",
+      "title": "DuClaw SkillMarket installation and skill ecosystem documentation",
+      "author": "BAIDU",
+      "year": "2026",
+      "venue": "",
+      "url": "https://duclaw.baidu.com/skillmarket"
+    },
+    {
+      "key": "bhosale2026dark",
+      "type": "article",
+      "title": "The dark side of autonomous intelligence: a survey on data leakage and privacy failures in agentic AI",
+      "author": "Bhosale, Rohini and Chandre, Pankaj and Mehetre, Sushma and Powar, Swati and Mathur, Shubhra and Ghandat, Arun",
+      "year": "2026",
+      "venue": "Frontiers in Computer Science",
+      "url": ""
+    },
+    {
+      "key": "cmuAISIRT2026",
+      "type": "misc",
+      "title": "AI Security Incident Response Team (AISIRT)",
+      "author": "CMU Software Engineering Institute",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.sei.cmu.edu/about/divisions/cert/ai-security-incident-response-team/"
+    },
+    {
+      "key": "cozeskillsecurity2026",
+      "type": "misc",
+      "title": "Skill security guide",
+      "author": "COZE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.coze.cn/open/docs/guides/skill_security"
+    },
+    {
+      "key": "darpaAISS2026",
+      "type": "misc",
+      "title": "Automatic Implementation of Secure Silicon",
+      "author": "DARPA",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.darpa.mil/research/programs/automatic-implementation-of-secure-silicon"
+    },
+    {
+      "key": "databricks2026blackice",
+      "type": "misc",
+      "title": "BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing",
+      "author": "Caelin Kaplan and Alexander Warnecke and Neil Archibald",
+      "year": "2025",
+      "venue": "",
+      "url": "https://arxiv.org/abs/2510.11823"
+    },
+    {
+      "key": "dong2026memory",
+      "type": "article",
+      "title": "Memory injection attacks on LLM agents via query-only interaction",
+      "author": "Dong, Shen and Xu, Shaochen and He, Pengfei and Li, Yige and Tang, Jiliang and Liu, Tianming and Liu, Hui and Xiang, Zhen",
+      "year": "2026",
+      "venue": "Advances in Neural Information Processing Systems",
+      "url": ""
+    },
+    {
+      "key": "epflOmniLedger2026",
+      "type": "misc",
+      "title": "OmniLedger",
+      "author": "CENTER FOR DIGITAL TRUST, EPFL",
+      "year": "2026",
+      "venue": "",
+      "url": "https://c4dt.epfl.ch/article/omniledger-2/"
+    },
+    {
+      "key": "microsoft2026failuremodes",
+      "type": "misc",
+      "title": "New whitepaper outlines the taxonomy of failure modes in AI agents",
+      "author": "Ram Shankar Siva Kumar",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.microsoft.com/en-us/security/blog/2025/04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai-agents/"
+    },
+    {
+      "key": "not-what2023compromising",
+      "type": "inproceedings",
+      "title": "Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection",
+      "author": "Greshake, Kai and Abdelnabi, Sahar and Mishra, Shailesh and Endres, Christoph and Holz, Thorsten and Fritz, Mario",
+      "year": "2023",
+      "venue": "Proc. 16th ACM workshop on artificial intelligence and security",
+      "url": ""
+    },
+    {
+      "key": "openaideploymentsimulation2026",
+      "type": "misc",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "author": "OPENAI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://openai.com/index/deployment-simulation/"
+    },
+    {
+      "key": "openclawClawHavoc2026",
+      "type": "misc",
+      "title": "ClawHavoc: 341 Malicious ClawHub Skills Report",
+      "author": "KOI SECURITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found"
+    },
+    {
+      "key": "opencompassSHLab2026",
+      "type": "misc",
+      "title": "OpenCompass",
+      "author": "OpenCompass Contributors",
+      "year": "2026",
+      "venue": "",
+      "url": "https://github.com/open-compass/opencompass"
+    },
+    {
+      "key": "pkuMultiAgentCenter2026",
+      "type": "misc",
+      "title": "多智能体研究中心",
+      "author": "PEKING UNIVERSITY INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.ai.pku.edu.cn/"
+    },
+    {
+      "key": "princetonSecPriv2026",
+      "type": "misc",
+      "title": "Security & Privacy, Princeton Computer Science",
+      "author": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.cs.princeton.edu/research/areas/sp"
+    },
+    {
+      "key": "sanction_list",
+      "type": "misc",
+      "title": "The UK Sanctions List",
+      "author": "FOREIGN, COMMONWEALTH & DEVELOPMENT OFFICE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+    },
+    {
+      "key": "zhipu_security_audit_2026",
+      "type": "online",
+      "title": "内容安全：安全审核机制",
+      "author": "智谱AI",
+      "year": "2026",
+      "venue": "",
+      "url": "https://docs.bigmodel.cn/cn/guide/platform/securityaudit"
+    },
+    {
+      "key": "zhengzhengBUAA2026",
+      "type": "misc",
+      "title": "郑征 -- 个人主页",
+      "author": "北京航空航天大学",
+      "year": "2026",
+      "venue": "",
+      "url": "https://teacher.buaa.edu.cn/zhengzheng/zh_CN/index.htm"
+    },
+    {
+      "key": "yangweiUSTC2026",
+      "type": "misc",
+      "title": "杨威 -- 个人主页",
+      "author": "中国科学技术大学",
+      "year": "2026",
+      "venue": "",
+      "url": "https://faculty.ustc.edu.cn/yangwei1/zh_CN/index.htm"
+    },
+    {
+      "key": "xu2026trust",
+      "type": "article",
+      "title": "The trust paradox in LLM-based multi-agent systems: When collaboration becomes a security vulnerability",
+      "author": "Xu, Zijie and Qi, Minfeng and Wu, Shiqing and Zhang, Lefeng and Wei, Qiwen and He, Han and Li, Ningran",
+      "year": "2026",
+      "venue": "IEEE Transactions on Computational Social Systems",
+      "url": ""
+    },
+    {
+      "key": "EU_AI_act",
+      "type": "misc",
+      "title": "EU AI Act: first regulation on artificial intelligence",
+      "author": "EUROPEAN COMMISSION",
+      "year": "2023",
+      "venue": "",
+      "url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence#ai-regulation-in-europe-the-first-comprehensive-framework-4"
+    },
+    {
+      "key": "Rescission_of_Biden-Era_AI_Diffusion_Rule",
+      "type": "misc",
+      "title": "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls",
+      "author": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
+    },
+    {
+      "key": "Revises_License_Review_Policy_for_Semiconductors_Exported_to_China",
+      "type": "misc",
+      "title": "Department of Commerce Revises License Review Policy for Semiconductors Exported to China",
+      "author": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+    },
+    {
+      "key": "Russia_AI_Draft",
+      "type": "misc",
+      "title": "《俄罗斯联邦人工智能法（草案）》发布：技术主权与安全导向下的AI监管框架",
+      "author": "清华大学智能法治研究院",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.secrss.com/articles/89033"
+    },
+    {
+      "key": "The_Export_Control_2024",
+      "type": "misc",
+      "title": "The Export Control (Amendment) Regulations 2024",
+      "author": "THE SECRETARY OF STATE",
+      "year": "2024",
+      "venue": "",
+      "url": "https://www.legislation.gov.uk/uksi/2024/346/made"
+    },
+    {
+      "key": "alephphariaaipdf2025",
+      "type": "misc",
+      "title": "PhariaAI: Full-stack sovereign AI operating system",
+      "author": "ALEPH ALPHA",
+      "year": "2025",
+      "venue": "",
+      "url": "https://aleph-alpha.com/app/uploads/2025/03/Aleph-Alpha-PhariaAI.pdf"
+    },
+    {
+      "key": "aliyunaiguardrails2026",
+      "type": "misc",
+      "title": "AI Guardrails / OpenClaw runtime AI security protection",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.alibabacloud.com/help/en/pai/user-guide/openclaw-runtime-ai-security-protection"
+    },
+    {
+      "key": "aliyunopenclawassistant2026",
+      "type": "misc",
+      "title": "OpenClaw Security Assistant",
+      "author": "ALIBABA CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://github.com/alibaba/openclaw-security-assistant"
+    },
+    {
+      "key": "anthropicclaudeconstitution2025",
+      "type": "misc",
+      "title": "Claude's Constitution",
+      "author": "ANTHROPIC",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.anthropic.com/claude/constitution"
+    },
+    {
+      "key": "europeancommission2025gpaicode",
+      "type": "misc",
+      "title": "The General-Purpose AI Code of Practice",
+      "author": "EUROPEAN COMMISSION",
+      "year": "2025",
+      "venue": "",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
+    },
+    {
+      "key": "li2023sentenceEmbeddingLeakage",
+      "type": "inproceedings",
+      "title": "Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence",
+      "author": "Li, Haoran and Xu, Mingshi and Song, Yangqiu",
+      "year": "2023",
+      "venue": "Proc. Findings of the Association for Computational Linguistics: ACL",
+      "url": "https://aclanthology.org/2023.findings-acl.881"
+    },
+    {
+      "key": "sidik2026beyond",
+      "type": "article",
+      "title": "Beyond static sandboxing: Learned capability governance for autonomous ai agents",
+      "author": "Sidik, Bronislav and Rokach, Lior",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2604.11839",
+      "url": "https://arxiv.org/abs/2604.11839"
+    },
+    {
+      "key": "siu2026formalizing",
+      "type": "article",
+      "title": "Formalizing Security and Control Problems in Agentic AI Systems",
+      "author": "Ho Yin Siu and others",
+      "year": "2026",
+      "venue": "arXiv preprint",
+      "url": ""
+    },
+    {
+      "key": "springLab2026",
+      "type": "misc",
+      "title": "Carmela Troncoso -- Personal Homepage",
+      "author": "SPRING LAB, EPFL",
+      "year": "2026",
+      "venue": "",
+      "url": "https://people.epfl.ch/carmela.troncoso"
+    },
+    {
+      "key": "tencentagentgateway2026",
+      "type": "misc",
+      "title": "AI Agent Security Gateway overview",
+      "author": "TENCENT CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.tencentcloud.com/document/product/1429/72299"
+    },
+    {
+      "key": "tencentagentgatewayquickstart2026",
+      "type": "misc",
+      "title": "AI Agent Security Gateway quick start",
+      "author": "TENCENT CLOUD",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.tencentcloud.com/document/product/1429/72300"
+    },
+    {
+      "key": "tumSideChannelNN2026",
+      "type": "article",
+      "title": "Side-Channel Analysis of Neural Network Hardware Accelerators on Edge Devices",
+      "author": "Brosch, Manuel and Probst, Matthias and Kogler, Stefan and Sigl, Georg",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2601.05828",
+      "url": ""
+    },
+    {
+      "key": "vandendriessche2026aibomgen",
+      "type": "inproceedings",
+      "title": "AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training",
+      "author": "Wiebe Vandendriessche and Jordi Thijsman and Laurens D'hooge and Bruno Volckaert and Merlijn Sebrechts",
+      "year": "2026",
+      "venue": "Proc. ACM/IEEE International Conference on AI Engineering---Software Engineering for AI",
+      "url": "https://arxiv.org/abs/2601.05703"
+    },
+    {
+      "key": "wang2025reflectioncontrol",
+      "type": "article",
+      "title": "Reflection-Driven Control for Trustworthy Code Agents",
+      "author": "Wang, Bin and Quan, Jiazheng and Yu, Xingrui and Hu, Hansen and Yu, Yuhao and Tsang, Ivor",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2512.21354",
+      "url": "https://arxiv.org/abs/2512.21354"
+    },
+    {
+      "key": "zharmagambetov2025agentdam",
+      "type": "article",
+      "title": "AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents",
+      "author": "Zharmagambetov, Arman and Guo, Chuan and Evtimov, Ivan and Pavlova, Maya and Salakhutdinov, Ruslan and Chaudhuri, Kamalika",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2503.09780",
+      "url": "https://arxiv.org/abs/2503.09780"
+    },
+    {
+      "key": "“人工智能+”行动实施意见",
+      "type": "misc",
+      "title": "国务院关于深入实施“人工智能+”行动的意见",
+      "author": "中华人民共和国国务院",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html"
+    },
+    {
+      "key": "两用物项出口管制条例",
+      "type": "misc",
+      "title": "中华人民共和国两用物项出口管制条例",
+      "author": "中华人民共和国商务部",
+      "year": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+      "venue": "",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
+    },
+    {
+      "key": "中国出口管制法",
+      "type": "misc",
+      "title": "中华人民共和国出口管制法",
+      "author": "中华人民共和国商务部",
+      "year": "https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%B3%95",
+      "venue": "",
+      "url": "https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%B3%95"
+    },
+    {
+      "key": "中国禁止出口限制出口技术目录",
+      "type": "misc",
+      "title": "中国禁止出口限制出口技术目录",
+      "author": "中华人民共和国商务部",
+      "year": "2025",
+      "venue": "",
+      "url": "https://fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html"
+    },
+    {
+      "key": "STL",
+      "type": "misc",
+      "title": "Sensitive Technology List",
+      "author": "Innovation, Science and Economic Development Canada",
+      "year": "2024",
+      "venue": "",
+      "url": "https://www.canada.ca/en/services/defence/nationalsecurity/sensitive-technology-list.html"
+    },
+    {
+      "key": "人工智能安全治理框架2.0",
+      "type": "misc",
+      "title": "人工智能安全治理框架2.0",
+      "author": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm"
+    },
+    {
+      "key": "M-25-21",
+      "type": "techreport",
+      "title": "Accelerating Federal Use of AI Through Innovation, Governance, and Public Trust",
+      "author": "OFFICE OF MANAGEMENT AND BUDGET",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf"
+    },
+    {
+      "key": "SB-53",
+      "type": "misc",
+      "title": "Senate Bill 53: Transparency in Frontier Artificial Intelligence Act",
+      "author": "CALIFORNIA STATE LEGISLATURE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53"
+    },
+    {
+      "key": "2025-A6453B-Bill",
+      "type": "misc",
+      "title": "Responsible AI Safety and Education Act (RAISE Act), S6953B/A6453B",
+      "author": "NEW YORK STATE LEGISLATURE",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B"
+    },
+    {
+      "key": "Executive_Order_14365",
+      "type": "misc",
+      "title": "Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence",
+      "author": "EXECUTIVE OFFICE OF THE PRESIDENT",
+      "year": "2025",
+      "venue": "",
+      "url": "https://www.govinfo.gov/app/details/DCPD-202501186"
+    },
+    {
+      "key": "Bill_C-36",
+      "type": "misc",
+      "title": "Bill C-36: An Act to Enact the Protecting Privacy and Consumer Data Act, to Amend the Personal Information Protection and Electronic Documents Act and to Make Amendments to Other Acts",
+      "author": "PARLIAMENT OF CANADA",
+      "year": "2026",
+      "venue": "",
+      "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
+    },
+    {
+      "key": "louck2026tmanm",
+      "type": "article",
+      "title": "Securing LLM-agent long-term memory against poisoning: Non-malleable, origin-bound authority with machine-checked guarantees",
+      "author": "Louck, Yedidel",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24322"
+    },
+    {
+      "key": "lin2026memorylifecycle",
+      "type": "article",
+      "title": "A survey on long-term memory security in LLM agents: Attacks, defenses, and governance across the memory lifecycle",
+      "author": "Lin, Zehao and Hao, Xixuan and Fu, Renyu and Cui, Shaobo and Chen, Kai and Li, Chunyu and Li, Zhiyu and Xiong, Feiyu",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2604.16548"
+    },
+    {
+      "key": "ouyang2026memlineage",
+      "type": "article",
+      "title": "MemLineage: Lineage-guided enforcement for LLM agent memory",
+      "author": "Ouyang, Ciyan and Hou, Rui",
+      "year": "2026",
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14421"
+    },
+    {
+      "key": "aws2026agentcorememory",
+      "type": "misc",
+      "title": "Encrypt Your Amazon Bedrock AgentCore Memory",
+      "author": "AMAZON WEB SERVICES",
+      "year": "2026",
+      "venue": "",
+      "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/storage-encryption.html"
+    },
+    {
+      "key": "hadarean2026cedar",
+      "type": "misc",
+      "title": "Why Policy in Amazon Bedrock AgentCore Chose Cedar for Securing Agentic Workflows",
+      "author": "Hadarean, Liana and Tristan, Jean-Baptiste",
+      "year": "2026",
+      "venue": "",
+      "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
+    },
+    {
+      "key": "marchand2026sandboxescape",
+      "type": "article",
+      "title": "Quantifying Frontier LLM Capabilities for Container Sandbox Escape",
+      "author": "Marchand, Rahul and O Cathain, Art and Wynne, Jerome and Giavridis, Philippos Maximos and Deverett, Sam and Wilkinson, John and Gwartz, Jason and Coppock, Harry",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2603.02277",
+      "url": "https://arxiv.org/abs/2603.02277"
+    },
+    {
+      "key": "zhang2026chinallmdeploy",
+      "type": "misc",
+      "title": "Deployment Adaptation Barriers of Domestic Code LLMs in Multi-Agent Security Scenarios",
+      "author": "Zhang, Han and Liu, Hao",
+      "year": "2026",
+      "venue": "",
+      "url": ""
+    }
+  ]
+} as const;
+
+export const REPORT_META = DATA.meta;
+export const LIFECYCLE_STAGES = DATA.lifecycle as unknown as LifecycleStage[];
+export const SURVEY_CHAPTERS = DATA.surveyChapters as unknown as SurveyChapter[];
+export const REPORT_TABLES = DATA.tables as unknown as ReportTable[];
+export const REFERENCES = DATA.references as unknown as ReferenceEntry[];
+export const BIB_ENTRIES = DATA.bib as unknown as BibEntry[];
