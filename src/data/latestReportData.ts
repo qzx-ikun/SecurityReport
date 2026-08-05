@@ -7509,20 +7509,20 @@ const DATA = {
     {
       "number": 496,
       "key": "中华人民共和国出口管制法",
-      "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266",
-      "url": "flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266"
+      "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266",
+      "url": "https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266"
     },
     {
       "number": 497,
       "key": "两用物项出口管制条例",
-      "citation": "中华人民共和国工业和信息化部等十部门, 工业和信息化部等十部门关于印发《人工 智能科技伦理审查与服务办法（试行）》的通知, 2026. [Online]. Available: www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
-      "url": "www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
+      "citation": "中华人民共和国工业和信息化部等十部门, 工业和信息化部等十部门关于印发《人工 智能科技伦理审查与服务办法（试行）》的通知, 2026. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
     },
     {
       "number": 498,
       "key": "",
-      "citation": "国家市场监督管理总局, 我国智能体互联领域首套国家标准体系发布, 2026. [Online]. Available: fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html",
-      "url": "fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html"
+      "citation": "国家市场监督管理总局, 我国智能体互联领域首套国家标准体系发布, 2026. [Online]. Available: https://fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html",
+      "url": "https://fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html"
     },
     {
       "number": 499,
