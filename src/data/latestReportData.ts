@@ -7479,8 +7479,8 @@ const DATA = {
     {
       "number": 491,
       "key": "future2025the",
-      "citation": "EUROPEAN COMMISSION, EU AI Act: first regulation on artificial intelligence, 2023. [Online]. Available: https://www.europarl.europa.eu/topics/en/article/ 20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence# ai-regulation-in-europe-the-first-comprehensive-framework-4",
-      "url": "https://artificialintelligenceact.eu/the-act/"
+      "citation": "EUROPEAN COMMISSION, EU AI Act: first regulation on artificial intelligence, 2023. [Online]. Available: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
+      "url": "https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm"
     },
     {
       "number": 492,
