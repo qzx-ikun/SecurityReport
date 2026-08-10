@@ -80,8 +80,8 @@ export default function AcademiaPage() {
             <TableExplorer
                 tables={TABLES}
                 filters={[
-                    {id: 'all', label: '全部'},
-                    {id: 'research', label: '学术研究'},
+                    //{id: 'all', label: '全部'},
+                    {id: 'research', label: '学术研究'}
                     //{id: 'collaboration', label: '产学协同'},
                     //{id: 'hardware', label: '硬件与芯片'},
                 ]}
