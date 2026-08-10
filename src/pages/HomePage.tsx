@@ -47,7 +47,7 @@ const REPORT_STATS = [
     {
         title: "参考文献",      // （包括论文、网页、官方文档等）
         desc: "参考文献数量",
-        value: 1143,
+        value: 1243,
         icon: FileBarChart,
         color: "from-orange-400 to-yellow-400",
     },
