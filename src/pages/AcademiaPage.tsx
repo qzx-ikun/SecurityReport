@@ -5,9 +5,11 @@ import Footer from '../components/layout/Footer';
 import TableExplorer from '../components/report/TableExplorer';
 import {REPORT_TABLES} from '../data/latestReportData';
 
-const TABLES = REPORT_TABLES.filter((table) =>
+/*const TABLES = REPORT_TABLES.filter((table) =>
     ['research', 'collaboration', 'hardware'].includes(table.category),
-);
+);*/ //8.10修改
+
+const TABLES = REPORT_TABLES.filter((table) => table.category === 'research');
 
 export default function AcademiaPage() {
     return (
