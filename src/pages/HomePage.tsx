@@ -379,7 +379,7 @@ export default function HomePage() {
                         </div>
                         <div className="flex flex-col">
                             <img
-                                src="/report-figures/figure-1-5.png"
+                                src="/report-figures/fig-1-5-modified.png"
                                 alt="第一作者国家分布统计"
                                 className="w-full h-auto max-h-[280px] object-contain select-none pointer-events-none"
                             />
