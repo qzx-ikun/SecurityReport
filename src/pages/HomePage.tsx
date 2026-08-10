@@ -370,13 +370,31 @@ export default function HomePage() {
                           </span>
                         </div>
 
-                        <div className="flex flex-col">
+                        /*<div className="flex flex-col">
                             <img
                                 src="/report-figures/fig_1_4_modified.png"
                                 alt="研究主体来源统计"
                                 className="w-full h-auto max-h-[280px] object-contain select-none pointer-events-none"
                             />
+                        </div>*/
+                        <div className="flex w-full min-w-0 flex-col items-center">
+                          <img
+                            src="/report-figures/fig_1_4_modified.png"
+                            alt="研究主体来源统计"
+                            className="block h-auto max-h-[280px] max-w-full object-contain"
+                            onLoad={(e) =>
+                              console.log(
+                                "图片加载成功：",
+                                e.currentTarget.naturalWidth,
+                                e.currentTarget.naturalHeight
+                              )
+                            }
+                            onError={(e) => console.error("图片加载失败：", e.currentTarget.currentSrc)}
+                          />
                         </div>
+
+
+                        
                         <div className="flex flex-col">
                             <img
                                 src="/report-figures/fig-1-5-modified.png"
