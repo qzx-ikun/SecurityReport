@@ -71,7 +71,10 @@ export default function IndustryPage() {
                     </div>
                 </section>
 
-            <TableExplorer tables={TABLES} filters={[{id: 'all', label: '全部产品'}]}/>
+            <TableExplorer tables={TABLES} filters={[
+                                                    {id: 'all', label: '全部产品'},
+                                                    {id: 'collaboration', label: '产学协同'},
+                                                    {id: 'hardware', label: '硬件与芯片'}]}/>
             <div className="mx-auto max-w-7xl px-5 md:px-8"><Footer/></div>
         </div>
     );
