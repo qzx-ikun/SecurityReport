@@ -359,7 +359,7 @@ export default function HomePage() {
                     <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                         <div className="flex flex-col">
                             <img
-                                src="/report-figures/fig-1-3-modified.png"
+                                src="/report-figures/fig-1-4-modified.png"
                                 alt="论文统计"
                                 className="w-full h-auto max-h-[280px] object-contain select-none pointer-events-none"
 
