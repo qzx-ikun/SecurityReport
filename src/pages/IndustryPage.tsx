@@ -5,7 +5,10 @@ import Footer from '../components/layout/Footer';
 import TableExplorer from '../components/report/TableExplorer';
 import {REPORT_TABLES} from '../data/latestReportData';
 
-const TABLES = REPORT_TABLES.filter((table) => table.category === 'products');
+//const TABLES = REPORT_TABLES.filter((table) => table.category === 'products');  //8.10修改
+const TABLES = REPORT_TABLES.filter((table) =>
+    ['products', 'collaboration', 'hardware'].includes(table.category),
+);
 
 export default function IndustryPage() {
     return (
