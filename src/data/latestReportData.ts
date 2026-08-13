@@ -11393,8 +11393,8 @@ const DATA = {
       "key": "2026aicosttrade",
       "citation": "H. Liu, C. Wang, L. Zhang, and W. Zhou, Large-scale empirical audit of open-source agent frameworks: Vulnerability distribution and bare-metal deployment risks in enter- prise production, 2026. arXiv: 2604.03131 [cs.CR].",
       "url": ""
-    },
-    {
+    }  //以下参考文献都未被引用
+    /* {
       "number": 1144,
       "key": "liu2025longcontextfail",
       "citation": "T. Hadeliya, M. A. Jauhar, N. Sakpal, and D. Cruz, When refusals fail: Unstable safety mechanisms in long-context LLM agents, Dec. 2025. arXiv: 2512.02445 [cs.LG]. [On- line]. Available: https://arxiv.org/abs/2512.02445",
@@ -11993,7 +11993,7 @@ const DATA = {
       "key": "li2026secstd",
       "citation": "M.LiandW.Xu,Standardization gaps and system fragmentation in domestic ai security governance, 2026. arXiv: 2604.08765 [cs.CR].",
       "url": ""
-    }
+    } */
   ],
   "bib": [
     {
