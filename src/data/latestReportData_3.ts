@@ -7672,7 +7672,7 @@ const DATA = {
       "number": 523,
       "key": "madkour2026response",
       "citation": "N. Madkour and D. Raman, “Response to the request for information regarding security considerations for artificial intelligence agents,” cltc.berkeley.edu, 2026.",
-      "url": "https://arxiv.org/abs/2603.12230"
+      "url": "https://cltc.berkeley.edu"
     },
     {
       "number": 524,
