@@ -4,7 +4,7 @@ import {useLocation} from 'react-router-dom';
 import Header from '../components/layout/Header';
 import Footer from '../components/layout/Footer';
 // import PageIntro from '../components/report/PageIntro';
-import {BIB_ENTRIES, REFERENCES} from '../data/latestReportData';
+import {BIB_ENTRIES, REFERENCES} from '../data/latestReportData_2';
 import type {ReferenceEntry} from '../data/latestReportData';
 
 const CITE_TYPE_TABS = [
