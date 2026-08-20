@@ -16276,7 +16276,7 @@ const DATA = {
     },
     {
       "key": "shlomov2026governance",
-      "type": "inproceedings",
+      "type": "news",
       "title": "Governance Frameworks for Secure AI Agent Development and Deployment",
       "author": "Shlomov, Daniel and others",
       "year": "2026",
@@ -16519,7 +16519,7 @@ const DATA = {
     },
     {
       "key": "wang2025envinjection",
-      "type": "inproceedings",
+      "type": "misc",
       "title": "EnvInjection: Environmental Prompt Injection Attack to Multi-modal Web Agents",
       "author": "Wang, Xilong and Bloch, John and Shao, Zedian and Hu, Yuepeng and Zhou, Shuyan and Gong, Neil Zhenqiang",
       "year": "2025",
@@ -21649,7 +21649,7 @@ const DATA = {
     },
     {
       "key": "jamshidi2026collectivehallucination",
-      "type": "article",
+      "type": "misc",
       "title": "Collective hallucination in multi-agent LLMs: Modeling and defense",
       "author": "S. Jamshidi",
       "year": "2026",
@@ -21658,7 +21658,7 @@ const DATA = {
     },
     {
       "key": "lu2026vulnerabilityreasoning",
-      "type": "article",
+      "type": "misc",
       "title": "Evaluating and enhancing the vulnerability reasoning capabilities of large language models",
       "author": "L. Lu and Y. Zhao and H. Rao and K. Zhang and H. Wang",
       "year": "2026",
