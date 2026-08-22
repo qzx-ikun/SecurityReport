@@ -4707,7 +4707,7 @@ const DATA = {
     {
       "number": 29,
       "key": "vectorResponsibleAI2025",
-      "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA, Toolkit for small- and medium-sized enterprises deploying artificial intelligence, 2025. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and- medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
+      "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA, Toolkit for small-and medium-sized enterprises deploying artificial intelligence, 2025. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and- medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
       "url": "https://ised-isde.canada.ca/site/ised/en/toolkit-small-and-medium-sized-enterprises-smes-deploying-artificial-intelligence-ai"
     },
     {
@@ -7533,13 +7533,13 @@ const DATA = {
     {
       "number": 500,
       "key": "bach2025rethinking",
-      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, "Rethinking deep alignment through the lens of incomplete learning," Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
+      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, “Rethinking deep alignment through the lens of incomplete learning,” Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
       "url": "https://arxiv.org/abs/2511.12155"
     },
     {
       "number": 501,
       "key": "mitra2026agenticcyops",
-      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, "AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations," Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
+      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, “AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations,” Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
       "url": "https://arxiv.org/abs/2603.09134"
     },
     {
@@ -8067,7 +8067,7 @@ const DATA = {
     {
       "number": 589,
       "key": "prabakaran2026cl",
-      "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer ge- nomic integrity with hierarchical Bloom–Merkle trees for Ethics-Aware, explainable per- sonalized gene editing,” IEEE Access, 2026.",
+      "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer genomic integrity with hierarchical Bloom–Merkle trees for Ethics-Aware, explainable personalized gene editing,” IEEE Access, 2026.",
       "url": ""
     },
     {
@@ -10611,7 +10611,7 @@ const DATA = {
     {
       "number": 1013,
       "key": "cheng2025hidden",
-      "citation": "P. Cheng et al., “Hidden ghost hand: Unveiling backdoor vulnerabilities in MLLM- powered mobile GUI agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP, Suzhou, China, Nov. 2025, pp. 7781–7805.",
+      "citation": "P. Cheng et al., “Hidden ghost hand: Unveiling backdoor vulnerabilities in MLLM-powered mobile GUI agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP, Suzhou, China, Nov. 2025, pp. 7781–7805.",
       "url": ""
     },
     {
