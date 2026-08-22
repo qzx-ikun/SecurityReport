@@ -4593,7 +4593,7 @@ const DATA = {
     {
       "number": 10,
       "key": "currie2025rethinking",
-      "citation": "W. L. Currie, J. M. Leimeister, D. Schlagwein, and L. Willcocks, “Rethinking technology regulation in the age of AI risks,” Journal of Information Technology, vol. 40, no. 3, pp. 236– 245, Sep. 2025.",
+      "citation": "W. L. Currie, J. M. Leimeister, D. Schlagwein, and L. Willcocks, “Rethinking technology regulation in the age of AI risks,” Journal of Information Technology, vol. 40, no. 3, pp. 236–245, Sep. 2025.",
       "url": ""
     },
     {
@@ -5115,7 +5115,7 @@ const DATA = {
     {
       "number": 97,
       "key": "gao2025provablySafe",
-      "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent naviga- tion in unknown environments,” in Proc. 8th Conference on Robot Learning, vol. 270, PMLR, 2025, pp. 5466–5486.",
+      "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent navigation in unknown environments,” in Proc. 8th Conference on Robot Learning, vol. 270, PMLR, 2025, pp. 5466–5486.",
       "url": ""
     },
     {
@@ -5169,7 +5169,7 @@ const DATA = {
     {
       "number": 106,
       "key": "llmMembershipInference2025",
-      "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Mem- bership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, 2025.",
+      "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Membership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, 2025.",
       "url": ""
     },
     {
@@ -7269,7 +7269,7 @@ const DATA = {
     {
       "number": 456,
       "key": "Nazary2025PoisonRAG",
-      "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning at- tacks on retrieval-augmented generation in recommender systems,” in Proc. Advances in Information Retrieval, Springer, 2025, pp. 239–251. [Online]. Available: https:// arxiv.org/abs/2501.11759",
+      "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems,” in Proc. Advances in Information Retrieval, Springer, 2025, pp. 239–251. [Online]. Available: https:// arxiv.org/abs/2501.11759",
       "url": "https://arxiv.org/abs/2501.11759"
     },
     {
@@ -7623,7 +7623,7 @@ const DATA = {
     {
       "number": 515,
       "key": "peigne2025multi",
-      "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration ca- pabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Virtual, 2025, pp. 27573–27581. [Online]. Available: https://ojs.aaai.org/index. php/AAAI/article/view/34970",
+      "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration capabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Virtual, 2025, pp. 27573–27581. [Online]. Available: https://ojs.aaai.org/index. php/AAAI/article/view/34970",
       "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34970"
     },
     {
@@ -7641,19 +7641,19 @@ const DATA = {
     {
       "number": 518,
       "key": "hegazy2026mafa",
-      "citation": "M.Hegazy,A.Rodrigues,andA.Naeem,“Mafa:Amulti-agentframeworkforenterprise- scale annotation with configurable task adaptation,” in Proceedings of the AAAI Con- ference on Artificial Intelligence, vol. 40, 2026, pp. 39968–39977.",
+      "citation": "M.Hegazy,A.Rodrigues,andA.Naeem,“Mafa:A multi-agent Framework for Enterprise-Scale Annotation with Configurable Task Adaptation,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, 2026, pp. 39968–39977.",
       "url": "https://artificialintelligenceact.eu/the-act/"
     },
     {
       "number": 519,
       "key": "eunsu2025trust",
-      "citation": "J. Eunsu and Y. Daeheon, “A trust score-based access control model for zero trust ar- chitecture: Design, sensitivity analysis, and real-world performance evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, 2025.",
+      "citation": "J. Eunsu and Y. Daeheon, “A Trust Score-Based Access Control Model for Zero Trust Architecture: Design, Sensitivity Analysis, and Real-World Performance Evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, 2025.",
       "url": ""
     },
     {
       "number": 520,
       "key": "shlomov2026governance",
-      "citation": "D. Shlomov et al., Governance frameworks for secure ai agent development and deploy- ment, 2026. arXiv: 2605.XXXX.",
+      "citation": "D. Shlomov et al., Governance frameworks for secure ai agent development and deployment, 2026. arXiv: 2605.XXXX.",
       "url": ""
     },
     {
@@ -7941,7 +7941,7 @@ const DATA = {
     {
       "number": 568,
       "key": "na2025countering",
-      "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering jailbreak attacks with two-axis pre- detectionandconditionalwarningwrappers,”inProc. European Symposium on Research in Computer Security, 2025, pp. 249–268.",
+      "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering Jailbreak Attacks with Two-Axis Pre-detection and Conditional Warning Wrappers,”inProc. European Symposium on Research in Computer Security, 2025, pp. 249–268.",
       "url": "https://security.cs.washington.edu/"
     },
     {
@@ -7989,7 +7989,7 @@ const DATA = {
     {
       "number": 576,
       "key": "liu2025safe",
-      "citation": "C. Liu et al., “Safe: Enhancing mathematical reasoning in large language models via retrospective step-aware formal verification,” in Proc. 63rd Annual Meeting of the As- sociation for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 12171– 12186.",
+      "citation": "C. Liu et al., “Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 12171–12186.",
       "url": ""
     },
     {
@@ -8145,7 +8145,7 @@ const DATA = {
     {
       "number": 602,
       "key": "luo2025agrail",
-      "citation": "W. Luo et al., “AGrail: A lifelong agent guardrail with effective and adaptive safety de- tection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 8104–8139.",
+      "citation": "W. Luo et al., “AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 8104–8139.",
       "url": ""
     },
     {
@@ -8379,7 +8379,7 @@ const DATA = {
     {
       "number": 641,
       "key": "yang2025chain",
-      "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide your intention through multi-turn interrogation,” in Proc. Findings of the Association for Computa- tional Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
+      "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide Your Intention Through Multi-Turn Interrogation,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
       "url": ""
     },
     {
@@ -8685,7 +8685,7 @@ const DATA = {
     {
       "number": 692,
       "key": "wang2026triex",
-      "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A game-based tri-view framework for explaining internal reasoning in multi-agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
+      "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
       "url": ""
     },
     {
@@ -8823,7 +8823,7 @@ const DATA = {
     {
       "number": 715,
       "key": "shahroz2025agents",
-      "citation": "R. Shahroz, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents under siege: Breaking pragmatic multi-agent LLM systems with optimized prompt attacks,” in Proc. 63rd An- nual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
+      "citation": "R. Shahroz, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
       "url": ""
     },
     {
@@ -8883,7 +8883,7 @@ const DATA = {
     {
       "number": 725,
       "key": "bhuiya2025plague",
-      "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, “Plague: Plug-and-play framework for life- long adaptive generation of multi-turn exploits,” arXiv, Oct. 2025. arXiv: 2510.17947. [Online]. Available: https://arxiv.org/abs/2510.17947",
+      "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, “Plague: Plug-and-play framework for life-long adaptive generation of multi-turn exploits,” arXiv, Oct. 2025. arXiv: 2510.17947. [Online]. Available: https://arxiv.org/abs/2510.17947",
       "url": "https://arxiv.org/abs/2510.17947"
     },
     {
@@ -8895,7 +8895,7 @@ const DATA = {
     {
       "number": 727,
       "key": "wang2025gsafeguard",
-      "citation": "S. Wang et al., “G-Safeguard: A topology-guided security lens and treatment on LLM- based multi-agent systems,” in Proc. 63rd Annual Meeting of the Association for Com- putational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261– 7276.",
+      "citation": "S. Wang et al., “G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-Agent systems,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261–7276.",
       "url": ""
     },
     {
@@ -9045,7 +9045,7 @@ const DATA = {
     {
       "number": 752,
       "key": "maloyan2026sleeper",
-      "citation": "N. Maloyan and D. Namiot, “Sleeper channels and provenance gates: Persistent prompt injection in always-on autonomous AI agents,” International Journal of Open Informa- tion Technologies, vol. 14, no. 6, pp. 1–8, Jun. 2026.",
+      "citation": "N. Maloyan and D. Namiot, “Sleeper channels and provenance gates: Persistent prompt injection in always-on autonomous AI agents,” International Journal of Open Information Technologies, vol. 14, no. 6, pp. 1–8, Jun. 2026.",
       "url": ""
     },
     {
@@ -9177,7 +9177,7 @@ const DATA = {
     {
       "number": 774,
       "key": "li2025piguard",
-      "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt injection guardrail via miti- gating overdefense for free,” in Proc. 63rd Annual Meeting of the Association for Com- putational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30420– 30437.",
+      "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt Injection Guardrail via Miti-Gating Overdefense for Free,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30420–30437.",
       "url": ""
     },
     {
@@ -9219,7 +9219,7 @@ const DATA = {
     {
       "number": 781,
       "key": "vijayvargiya2026openagentsafety",
-      "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. 14th International Conference on Learning Repre- sentations, Rio de Janeiro, Brazil, Apr. 2026.",
+      "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. 14th International Conference on Learning Representations, Rio de Janeiro, Brazil, Apr. 2026.",
       "url": ""
     },
     {
@@ -9237,7 +9237,7 @@ const DATA = {
     {
       "number": 784,
       "key": "liu2025datasentinel",
-      "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A game-theoretic detec- tion of prompt injection attacks,” in Proc. IEEE Symposium on Security and Privacy, San Francisco, CA, USA, May 2025, pp. 2190–2208.",
+      "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks,” in Proc. IEEE Symposium on Security and Privacy, San Francisco, CA, USA, May 2025, pp. 2190–2208.",
       "url": ""
     },
     {
@@ -9411,7 +9411,7 @@ const DATA = {
     {
       "number": 813,
       "key": "wang2025privacyinaction",
-      "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Lin- guistics: EMNLP,Suzhou,China:AssociationforComputationalLinguistics,Nov.2025, pp. 17055–17074. [Online]. Available: https://aclanthology.org/2025.findings- emnlp.925",
+      "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP,Suzhou,China:AssociationforComputationalLinguistics,Nov.2025, pp. 17055–17074. [Online]. Available: https://aclanthology.org/2025.findings- emnlp.925",
       "url": "https://aclanthology.org/2025.findings-emnlp.925"
     },
     {
@@ -9447,7 +9447,7 @@ const DATA = {
     {
       "number": 819,
       "key": "liu2025unlearning",
-      "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Ma- chine Intelligence, vol. 7, no. 2, pp. 181–194, 2025. [Online]. Available: https://www. nature.com/articles/s42256-025-00985-0",
+      "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Machine Intelligence, vol. 7, no. 2, pp. 181–194, 2025. [Online]. Available: https://www. nature.com/articles/s42256-025-00985-0",
       "url": "https://arxiv.org/abs/1912.03817"
     },
     {
@@ -9459,7 +9459,7 @@ const DATA = {
     {
       "number": 821,
       "key": "kang2025memoryos",
-      "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025, pp. 25961– 25970. [Online]. Available: https://aclanthology.org/2025.emnlp-main.1318",
+      "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025, pp. 25961–25970. [Online]. Available: https://aclanthology.org/2025.emnlp-main.1318",
       "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
     },
     {
@@ -9957,7 +9957,7 @@ const DATA = {
     {
       "number": 904,
       "key": "nguyen2025violentutf",
-      "citation": "T. N. Nguyen, “Demo: Violentutf as an accessible platform for generative AI red team- ing,” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
+      "citation": "T. N. Nguyen, “Demo: Violentutf as An Accessible Platform for Generative AI Red Teaming” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
       "url": ""
     },
     {
@@ -10155,7 +10155,7 @@ const DATA = {
     {
       "number": 937,
       "key": "Vandendriessche_2026_CAIN",
-      "citation": "W.Vandendriessche,J.Thijsman,L.D’hooge,B.Volckaert,andM.Sebrechts,“AIBoM- Gen: Generating an AI bill of materials for secure, transparent, and compliant model training,” in Proc. ACM/IEEE International Conference on AI Engineering—Software Engineering for AI, 2026. [Online]. Available: https://arxiv.org/abs/2601.05703",
+      "citation": "W.Vandendriessche,J.Thijsman,L.D’hooge,B.Volckaert,andM.Sebrechts,“AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training,” in Proc. ACM/IEEE International Conference on AI Engineering—Software Engineering for AI, 2026. [Online]. Available: https://arxiv.org/abs/2601.05703",
       "url": "https://arxiv.org/abs/2601.05703"
     },
     {
@@ -10509,7 +10509,7 @@ const DATA = {
     {
       "number": 996,
       "key": "muhammad2026audit",
-      "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code frame- work for continuous AI assurance,” Front. Artif. Intell., vol. 9, p. 1759211, Feb. 2026.",
+      "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code framework for continuous AI assurance,” Front. Artif. Intell., vol. 9, p. 1759211, Feb. 2026.",
       "url": "https://docs.sonarsource.com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance"
     },
     {
@@ -10575,7 +10575,7 @@ const DATA = {
     {
       "number": 1007,
       "key": "vissers2026matra",
-      "citation": "T. Van hamme et al., “MATRA: Modeling the attack surface of agentic AI systems— OpenClaw case study,” in Proc. Int. Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI), Lisbon, Portugal, Jul. 2026, to appear.",
+      "citation": "T. Van hamme et al., “MATRA: Modeling the attack surface of agentic AI systems-OpenClaw case study,” in Proc. Int. Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI), Lisbon, Portugal, Jul. 2026, to appear.",
       "url": ""
     },
     {
@@ -10623,7 +10623,7 @@ const DATA = {
     {
       "number": 1015,
       "key": "boisvert2025silent",
-      "citation": "L. Boisvert et al., “Silent sabotage: Injecting backdoors into AI agents through fine- tuning,” in Proc. Workshop on Computer Use Agents (ICML), Vancouver, Canada, Jul. 2025, to appear.",
+      "citation": "L. Boisvert et al., “Silent Sabotage: Injecting Backdoors into AI Agents Through Fine-Tuning,” in Proc. Workshop on Computer Use Agents (ICML), Vancouver, Canada, Jul. 2025, to appear.",
       "url": ""
     },
     {
@@ -10905,7 +10905,7 @@ const DATA = {
     {
       "number": 1062,
       "key": "herrador2026spaiware",
-      "citation": "M. Herrador and J. Rehberger, “Spaiware: Uncovering a novel artificial intelligence at- tackvectorthroughpersistentmemoryinllmapplicationsandagents,”future generation computer systems, vol. 174, p. 107994, 2026. 239 AI 智能体安全调研报告",
+      "citation": "M. Herrador and J. Rehberger, “Spaiware: Uncovering a novel artificial intelligence at- tackvectorthroughpersistentmemoryinllmapplicationsandagents,”future generation computer systems, vol. 174, p. 107994, 2026.",
       "url": ""
     },
     {
@@ -10947,7 +10947,7 @@ const DATA = {
     {
       "number": 1069,
       "key": "storf2026constitutional",
-      "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional black-box mon- itoring for scheming in LLM agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
+      "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional Black-Box Monitoring for Scheming in LLM Agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
       "url": ""
     },
     {
@@ -11013,7 +11013,7 @@ const DATA = {
     {
       "number": 1080,
       "key": "li2025dissonance",
-      "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les dissonances: Cross-tool harvestingand polluting inmulti-toolempoweredLLMagents,”inProc. Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb. 2025.",
+      "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les Dissonances: Cross-Tool Harvestingand Polluting in Pool-of-Tools Empowered LLM Agents,”inProc. Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb. 2025.",
       "url": "https://cse.ucsd.edu/research/cryptography-security-privacy"
     },
     {
@@ -11133,7 +11133,7 @@ const DATA = {
     {
       "number": 1100,
       "key": "ceka2025traceability",
-      "citation": "I. Ceka et al., “Understanding automated program repair agents through the lens of traceabil- ity: An empirical study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
+      "citation": "I. Ceka et al., “Understanding Automated Program Repair Agents Through the Lens of Traceability: An Empirical Study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
       "url": ""
     },
     {
@@ -11193,7 +11193,7 @@ const DATA = {
     {
       "number": 1110,
       "key": "han2026rethinking",
-      "citation": "W. Han et al., “Rethinking the capability of fine-tuned language models for automated vulner- ability repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
+      "citation": "W. Han et al., “Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
       "url": ""
     },
     {
@@ -11205,7 +11205,7 @@ const DATA = {
     {
       "number": 1112,
       "key": "kaniewski2026revisiting",
-      "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and replica- bility of RAG-based vulnerability detection with open-weight models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
+      "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
       "url": ""
     },
     {
@@ -11229,7 +11229,7 @@ const DATA = {
     {
       "number": 1116,
       "key": "openai2025aardvark",
-      "citation": "OpenAI Security Team. “Introducing Aardvark: Autonomous AI security research agent,” Ac- cessed: Jul. 21, 2026. [Online]. Available: https://openai.com/research/aardvark",
+      "citation": "OpenAI Security Team. “introducing aardvark: autonomous AI security research agent,” Accessed: Jul. 21, 2026. [Online]. Available: https://openai.com/research/aardvark",
       "url": "https://openai.com/research/aardvark"
     },
     {
@@ -11283,13 +11283,13 @@ const DATA = {
     {
       "number": 1125,
       "key": "Wang_2026_M2CVD",
-      "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability un- derstanding through multi-model collaboration for code vulnerability detection,” ACM Trans- actions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
+      "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability un- derstanding through multi-model collaboration for code vulnerability detection,” ACM Transactions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
       "url": ""
     },
     {
       "number": 1126,
       "key": "dou2026enhancing",
-      "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: Addressing catastrophic forgetting via hybrid-confidence-aware selec- tive replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
+      "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: addressing catastrophic forgetting via hybrid-confidence-aware selective replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
       "url": "https://arxiv.org/abs/2602.23834"
     },
     {
