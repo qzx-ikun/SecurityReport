@@ -4641,7 +4641,7 @@ const DATA = {
     {
       "number": 18,
       "key": "dempo2026",
-      "citation": "S. Sana, J. Wu, and M. T. Wells, “Democratic preference alignment via sortition- weighted RLHF,” arXiv preprint arXiv:2602.05113, 2026. [Online]. Available: https://arxiv.org/abs/2602.05113",
+      "citation": "S. Sana, J. Wu, and M. T. Wells, “Democratic preference alignment via sortition-weighted RLHF,” arXiv preprint arXiv:2602.05113, 2026. [Online]. Available: https://arxiv.org/abs/2602.05113",
       "url": "https://arxiv.org/abs/2602.05113"
     },
     {
@@ -4671,7 +4671,7 @@ const DATA = {
     {
       "number": 23,
       "key": "promptlock2025",
-      "citation": "M. Raz, M. Udeshi, P. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, “Ran- somware 3.0: Self-composing and LLM-Orchestrated,” arXiv preprint arXiv:2508.20444, 2025. [Online]. Available: https://arxiv.org/abs/2508.20444",
+      "citation": "M. Raz, M. Udeshi, P. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, “Ransomware 3.0: Self-composing and LLM-Orchestrated,” arXiv preprint arXiv:2508.20444, 2025. [Online]. Available: https://arxiv.org/abs/2508.20444",
       "url": "https://arxiv.org/abs/2508.20444"
     },
     {
@@ -4683,7 +4683,7 @@ const DATA = {
     {
       "number": 25,
       "key": "astra2025",
-      "citation": "X. Xu et al., “ASTRA: Autonomous spatial-temporal red-teaming for AI software as- sistants,” arXiv preprint arXiv:2508.03936, 2025. [Online]. Available: https://arxiv. org/abs/2508.03936",
+      "citation": "X. Xu et al., “ASTRA: Autonomous spatial-temporal red-teaming for AI software assistants,” arXiv preprint arXiv:2508.03936, 2025. [Online]. Available: https://arxiv. org/abs/2508.03936",
       "url": "https://arxiv.org/abs/2508.03936"
     },
     {
@@ -4953,7 +4953,7 @@ const DATA = {
     {
       "number": 70,
       "key": "stackelbergDefense2025",
-      "citation": "Z. Han and Q. Zhu, “Toward a dynamic Stackelberg game-theoretic framework for agen- tic AI defense against LLM jailbreaking,” arXiv preprint arXiv:2507.08207, 2025.",
+      "citation": "Z. Han and Q. Zhu, “Toward a dynamic Stackelberg game-theoretic framework for agentic AI defense against LLM jailbreaking,” arXiv preprint arXiv:2507.08207, 2025.",
       "url": ""
     },
     {
@@ -5013,7 +5013,7 @@ const DATA = {
     {
       "number": 80,
       "key": "eu_ai_act_2024",
-      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regu- lation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act), Oﬀi- cial Journal of the European Union, L, 2024/1689, 2024-07-12, 2024. [Online]. Available: https://data.europa.eu/eli/reg/2024/1689/oj",
+      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act), Oﬀicial Journal of the European Union, L, 2024/1689, 2024-07-12, 2024. [Online]. Available: https://data.europa.eu/eli/reg/2024/1689/oj",
       "url": "https://artificialintelligenceact.eu/the-act/"
     },
     {
@@ -5061,7 +5061,7 @@ const DATA = {
     {
       "number": 88,
       "key": "eu_gdpr_2016",
-      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regula- tion (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation), Fedlex, Classified Compilation 235.1, 2016. [Online]. Available: https://www.fedlex.admin.ch/eli/cc/ 2022/491/en",
+      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation), Fedlex, Classified Compilation 235.1, 2016. [Online]. Available: https://www.fedlex.admin.ch/eli/cc/ 2022/491/en",
       "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en"
     },
     {
@@ -6363,7 +6363,7 @@ const DATA = {
     {
       "number": 305,
       "key": "he2025pasa",
-      "citation": "Y.Heetal.,“Pasa:Anllmagentforcomprehensiveacademicpapersearch,”arXiv,2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
+      "citation": "Y.Heetal.,“Pasa:An llm agent for comprehensive academic paper search,”arXiv,2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
       "url": "https://arxiv.org/abs/2501.10120"
     },
     {
@@ -6777,7 +6777,7 @@ const DATA = {
     {
       "number": 374,
       "key": "gaire2025mcpsok",
-      "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, “Systematiza- tion of knowledge: Security and safety in the model context protocol ecosystem,” arXiv preprint arXiv:2512.08290, 2025.",
+      "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, “Systematization of knowledge: Security and safety in the model context protocol ecosystem,” arXiv preprint arXiv:2512.08290, 2025.",
       "url": ""
     },
     {
@@ -6849,7 +6849,7 @@ const DATA = {
     {
       "number": 386,
       "key": "santosgrueiro2026wgpulens",
-      "citation": "I. Santos-Grueiro et al., “What browsers do in the shaders: A measurement study of We- bGPU privacy,” arXiv, 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
+      "citation": "I. Santos-Grueiro et al., “What browsers do in the shaders: A measurement study of WebGPU privacy,” arXiv, 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
       "url": "https://arxiv.org/abs/2606.26412"
     },
     {
@@ -6885,7 +6885,7 @@ const DATA = {
     {
       "number": 392,
       "key": "chrapek2025confidentialllm",
-      "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, “Confidential LLM inference: Perfor- mance and cost across CPU and GPU TEEs,” arXiv, 2025. arXiv: 2509.18886 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2509.18886",
+      "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, “Confidential LLM inference: Performance and cost across CPU and GPU TEEs,” arXiv, 2025. arXiv: 2509.18886 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2509.18886",
       "url": "https://arxiv.org/abs/2509.18886"
     },
     {
@@ -6981,7 +6981,7 @@ const DATA = {
     {
       "number": 408,
       "key": "w4a16ascend2026",
-      "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, “W4A16 mixed-precision matrix multi- plication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs,” arXiv, 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
+      "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, “W4A16 mixed-precision matrix multiplication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs,” arXiv, 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
       "url": "https://arxiv.org/abs/2601.16536"
     },
     {
@@ -6993,13 +6993,13 @@ const DATA = {
     {
       "number": 410,
       "key": "psuie2026cvm",
-      "citation": "J.MaoandX.Chang,“PS-UIE: Privilege-separatedintegrityenforcementforuser-space executable objects in confidential VMs,” arXiv, 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
+      "citation": "J.MaoandX.Chang,“PS-UIE: Privilege-separated integrity enforcement for user-space executable objects in confidential VMs,” arXiv, 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
       "url": "https://arxiv.org/abs/2606.04549"
     },
     {
       "number": 411,
       "key": "hifloat2026",
-      "citation": "P. Zhao et al., “Unleashing low-bit inference on Ascend NPUs: A comprehensive evalua- tion of HiFloat formats,” arXiv, 2026. arXiv: 2602.12635 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2602.12635",
+      "citation": "P. Zhao et al., “Unleashing low-bit inference on Ascend NPUs: A comprehensive evaluation of HiFloat formats,” arXiv, 2026. arXiv: 2602.12635 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2602.12635",
       "url": "https://arxiv.org/abs/2602.12635"
     },
     {
@@ -7347,7 +7347,7 @@ const DATA = {
     {
       "number": 469,
       "key": "Executive_Order_14409",
-      "citation": "THE WHITE HOUSE, Promoting advanced artificial intelligence innovation and secu- rity, Executive Order 14409, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting- advanced-artificial-intelligence-innovation-and-security",
+      "citation": "THE WHITE HOUSE, Promoting advanced artificial intelligence innovation and security, Executive Order 14409, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting- advanced-artificial-intelligence-innovation-and-security",
       "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security"
     },
     {
@@ -7359,13 +7359,13 @@ const DATA = {
     {
       "number": 471,
       "key": "SB-53",
-      "citation": "CALIFORNIA STATE LEGISLATURE, Senate bill 53: Transparency in frontier arti- ficial intelligence act, 2025–2026 Regular Session, Chapter 138, Statutes of 2025, Sep. 2025.[Online].Available:https://leginfo.legislature.ca.gov/faces/billTextClient. xhtml?bill_id=202520260SB53",
+      "citation": "CALIFORNIA STATE LEGISLATURE, Senate bill 53: Transparency in frontier artificial intelligence act, 2025–2026 Regular Session, Chapter 138, Statutes of 2025, Sep. 2025.[Online].Available:https://leginfo.legislature.ca.gov/faces/billTextClient. xhtml?bill_id=202520260SB53",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53"
     },
     {
       "number": 472,
       "key": "2025-A6453B-Bill",
-      "citation": "NEW YORK STATE LEGISLATURE, Responsible AI safety and education act (RAISE act),S6953B/A6453B,2025–2026RegularSession,Dec.2025.[Online].Available:https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B",
+      "citation": "NEW YORK STATE LEGISLATURE, Responsible AI safety and education act (RAISE act),S6953B/A6453B,2025–2026 RegularSession,Dec.2025.[Online].Available:https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B",
       "url": "https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B"
     },
     {
@@ -7383,7 +7383,7 @@ const DATA = {
     {
       "number": 475,
       "key": "Bill_C-36",
-      "citation": "PARLIAMENT OF CANADA, Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic docu- ments act and to make amendments to other acts, 45th Parliament, 1st Session, Jun. 2026. [Online]. Available: https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
+      "citation": "PARLIAMENT OF CANADA, Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic documents act and to make amendments to other acts, 45th Parliament, 1st Session, Jun. 2026. [Online]. Available: https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
       "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/"
     },
     {
@@ -7395,7 +7395,7 @@ const DATA = {
     {
       "number": 477,
       "key": "Rescission_of_Biden-Era_AI_Diffusion_Rule",
-      "citation": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE, Department of commerce announces rescission of Biden-era artificial intelligence dif- fusion rule, strengthens chip-related export controls, 2025. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for- artificial-intelligence-diffusion",
+      "citation": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE, Department of commerce announces rescission of Biden-era artificial intelligence diffusion rule, strengthens chip-related export controls, 2025. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for- artificial-intelligence-diffusion",
       "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
     },
     {
@@ -7425,7 +7425,7 @@ const DATA = {
     {
       "number": 482,
       "key": "DORS2025-89",
-      "citation": "GOVERNMENT OF CANADA, Order amending the export control list: Sor/2025-89, 2025. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03- 26/html/sor-dors89-eng.html",
+      "citation": "GOVERNMENT OF CANADA, Order amending the export control list: Sor/2025-89, 2025. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html",
       "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html"
     },
     {
@@ -7443,7 +7443,7 @@ const DATA = {
     {
       "number": 485,
       "key": "eu_gpai_code_of_practice_2025",
-      "citation": "EUROPEAN COMMISSION, The general-purpose AI code of practice, European Com- mission, Shaping Europe’s Digital Future, Jul. 2025. [Online]. Available: https:// digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "citation": "EUROPEAN COMMISSION, The general-purpose AI code of practice, European Commission, Shaping Europe’s Digital Future, Jul. 2025. [Online]. Available: https:// digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
     },
     {
@@ -7461,13 +7461,13 @@ const DATA = {
     {
       "number": 488,
       "key": "The_Export_Control_2024",
-      "citation": "THESECRETARYOFSTATE,Theexportcontrol(amendment)regulations2024,2024. [Online]. Available: https://www.legislation.gov.uk/uksi/2024/346/made",
+      "citation": "THE SECRETARY OF STATE,The export control(amendment)regulations 2024, 2024. [Online]. Available: https://www.legislation.gov.uk/uksi/2024/346/made",
       "url": "https://www.legislation.gov.uk/uksi/2024/346/made"
     },
     {
       "number": 489,
       "key": "ASML",
-      "citation": "GOVERNMENT OF THE NETHERLANDS. “Export controls on strategic goods and ser- vice,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.government.nl/themes/economy/export-controls-of-strategic-goods",
+      "citation": "GOVERNMENT OF THE NETHERLANDS. “Export controls on strategic goods and service,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.government.nl/themes/economy/export-controls-of-strategic-goods",
       "url": "https://www.government.nl/themes/economy/export-controls-of-strategic-goods"
     },
     {
@@ -7515,7 +7515,7 @@ const DATA = {
     {
       "number": 497,
       "key": "两用物项出口管制条例",
-      "citation": "中华人民共和国商务部, 中华人民共和国两用物项出口管制条例, 2024. [Online]. Avail- able: https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+      "citation": "中华人民共和国商务部, 中华人民共和国两用物项出口管制条例, 2024. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
       "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
     },
     {
@@ -7533,13 +7533,13 @@ const DATA = {
     {
       "number": 500,
       "key": "bach2025rethinking",
-      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, Rethinking deep alignment through the lens of incomplete learning, Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
+      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, "Rethinking deep alignment through the lens of incomplete learning," Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
       "url": "https://arxiv.org/abs/2511.12155"
     },
     {
       "number": 501,
       "key": "mitra2026agenticcyops",
-      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, AgenticCyOps: Securing multi- agentic AI integration in enterprise cyber operations, Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
+      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, "AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations," Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
       "url": "https://arxiv.org/abs/2603.09134"
     },
     {
@@ -7551,7 +7551,7 @@ const DATA = {
     {
       "number": 503,
       "key": "osmond2026mind",
-      "citation": "M. Osmond and T. Jego, Mind the gap: How the technical mechanism of agentic AI outpace global legal frameworks, Mar. 2026. arXiv: 2603.27075 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2603.27075",
+      "citation": "M. Osmond and T. Jego, "Mind the gap: How the technical mechanism of agentic AI outpace global legal frameworks," Mar. 2026. arXiv: 2603.27075 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2603.27075",
       "url": "https://arxiv.org/abs/2603.27075"
     },
     {
@@ -7563,7 +7563,7 @@ const DATA = {
     {
       "number": 505,
       "key": "liu2026automatic",
-      "citation": "G. Liu et al., Automatic hard example synthesis with multi-level agentic data curation, Jul. 2026. arXiv: 2607.14256 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2607.14256",
+      "citation": "G. Liu et al., "Automatic hard example synthesis with multi-level agentic data curation," Jul. 2026. arXiv: 2607.14256 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2607.14256",
       "url": "https://arxiv.org/abs/2607.14256"
     },
     {
@@ -7581,7 +7581,7 @@ const DATA = {
     {
       "number": 508,
       "key": "jain2026multimodal",
-      "citation": "B. Jain, S. O. Arik, and H. K. Thakur, “Adversarial attacks on multimodal large lan- guage models: A comprehensive survey,” Transactions on Machine Learning Research, 2026. [Online]. Available: https://arxiv.org/abs/2603.27918",
+      "citation": "B. Jain, S. O. Arik, and H. K. Thakur, “Adversarial attacks on multimodal large language models: A comprehensive survey,” Transactions on Machine Learning Research, 2026. [Online]. Available: https://arxiv.org/abs/2603.27918",
       "url": "https://arxiv.org/abs/2603.27918"
     },
     {
@@ -7611,7 +7611,7 @@ const DATA = {
     {
       "number": 513,
       "key": "zhu2025miniscope",
-      "citation": "J.Zhuetal.,“Miniscope:Aleastprivilegeframeworkforauthorizingtoolcallingagents,” arXiv, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2512.11147",
+      "citation": "J.Zhuetal.,“Miniscope:A least privilege framework for authorizing tool calling agents,” arXiv, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2512.11147",
       "url": "https://arxiv"
     },
     {
@@ -7629,7 +7629,7 @@ const DATA = {
     {
       "number": 516,
       "key": "eisenberg2025unified",
-      "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, “The unified control framework: Es- tablishing a common foundation for enterprise ai governance, risk management and regulatory compliance,” arXiv preprint arXiv:2503.05937, 2025.",
+      "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, “The unified control framework: Establishing a common foundation for enterprise ai governance, risk management and regulatory compliance,” arXiv preprint arXiv:2503.05937, 2025.",
       "url": ""
     },
     {
@@ -7683,7 +7683,7 @@ const DATA = {
     {
       "number": 525,
       "key": "lu2025adversarial",
-      "citation": "L.Luetal.,“Adversarialtrainingformultimodallargelanguagemodelsagainstjailbreak attacks,” arXiv e-prints, arXiv–2503, 2025. [Online]. Available: https://arxiv.org/abs/2503.04833",
+      "citation": "L.Luetal.,“Adversarial training for multimodal largel anguage models against jailbreak attacks,” arXiv preprints, arXiv–2503, 2025. [Online]. Available: https://arxiv.org/abs/2503.04833",
       "url": "https://arxiv.org/abs/2503.04833"
     },
     {
@@ -7719,7 +7719,7 @@ const DATA = {
     {
       "number": 531,
       "key": "ouyang2026memlineage",
-      "citation": "C. Ouyang and R. Hou, “Memlineage: Lineage-guided enforcement for LLM agent mem- ory,” arXiv, May 2026. arXiv: 2605.14421. [Online]. Available: https://arxiv.org/ abs/2605.14421",
+      "citation": "C. Ouyang and R. Hou, “Memlineage: Lineage-guided enforcement for LLM agent memory,” arXiv, May 2026. arXiv: 2605.14421. [Online]. Available: https://arxiv.org/ abs/2605.14421",
       "url": "https://arxiv.org/abs/2605.14421"
     },
     {
@@ -7767,7 +7767,7 @@ const DATA = {
     {
       "number": 539,
       "key": "ji2026taming",
-      "citation": "Z. Ji et al., “Taming various privilege escalation in LLM-based agent systems: A manda- tory access control framework,” arXiv, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
+      "citation": "Z. Ji et al., "Taming various privilege escalation in LLM-based agent systems: a mandatory access control framework," arXiv, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
       "url": "https://arxiv.org/abs/2601.11893"
     },
     {
@@ -7791,7 +7791,7 @@ const DATA = {
     {
       "number": 543,
       "key": "long2025funcpoison",
-      "citation": "Y. Long and S. Li, FuncPoison: Poisoning function library to hijack multi-agent au- tonomous driving systems, 2025. arXiv: 2509.24408. [Online]. Available: https:// arxiv.org/abs/2509.24408",
+      "citation": "Y. Long and S. Li, FuncPoison: Poisoning function library to hijack multi-agent autonomous driving systems, 2025. arXiv: 2509.24408. [Online]. Available: https:// arxiv.org/abs/2509.24408",
       "url": "https://arxiv.org/abs/2509.24408"
     },
     {
@@ -7821,7 +7821,7 @@ const DATA = {
     {
       "number": 548,
       "key": "yuan2026aegis",
-      "citation": "A. Yuan, Z. Su, and Y. Zhao, “Aegis: No tool call left unchecked–a pre-execution firewall and audit layer for ai agents” Available:https://arxiv.org/abs/2603.12621",
+      "citation": "A. Yuan, Z. Su, and Y. Zhao, “Aegis: No tool call left unchecked–a pre-execution firewall and audit layer for AI agents” Available:https://arxiv.org/abs/2603.12621",
       "url": "https://arxiv.org/abs/2603.12621"
     },
     {
@@ -7869,7 +7869,7 @@ const DATA = {
     {
       "number": 556,
       "key": "zou2026reasonflux",
-      "citation": "J. Zou et al., “Reasonflux-prm: Trajectory-aware prms for long chain-of-thought reason- ing in llms,” arXiv preprint arXiv:2603.10068, 2026.",
+      "citation": "J. Zou et al., “Reasonflux-prm: Trajectory-aware prms for long chain-of-thought reasoning in LLMs,” arXiv preprint arXiv:2603.10068, 2026.",
       "url": ""
     },
     {
@@ -7887,7 +7887,7 @@ const DATA = {
     {
       "number": 559,
       "key": "marchand2026quantifying",
-      "citation": "R. Marchand et al., “Quantifying frontier LLM capabilities for container sandbox es- cape,” arXiv, Mar. 2026. arXiv: 2603.02277. [Online]. Available: https://arxiv.org/ abs/2603.02277",
+      "citation": "R. Marchand et al., “Quantifying frontier LLM capabilities for container sandbox escape,” arXiv, Mar. 2026. arXiv: 2603.02277. [Online]. Available: https://arxiv.org/ abs/2603.02277",
       "url": "https://arxiv.org/abs/2603.02277"
     },
     {
@@ -7935,7 +7935,7 @@ const DATA = {
     {
       "number": 567,
       "key": "sun2026stego",
-      "citation": "Z. Sun et al., “Stego battlefield: Evaluating image steganography attacks and steganaly- sis defenses,” arXiv, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
+      "citation": "Z. Sun et al., “Stego battlefield: Evaluating image steganography attacks and steganalysis defenses,” arXiv, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
       "url": "https://arxiv.org/abs/2605.05789"
     },
     {
@@ -7965,7 +7965,7 @@ const DATA = {
     {
       "number": 572,
       "key": "bhardwaj2026superlocalmemory",
-      "citation": "V. P. Bhardwaj, “SuperLocalMemory: Privacy-preserving multi-agent memory with Bayesiantrustdefenseagainstmemorypoisoning,” arXiv,Feb.2026.arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
+      "citation": "V. P. Bhardwaj, “SuperLocalMemory: privacy-preserving multi-agent memory with Bayesian trust defense against memory poisoning,” arXiv,Feb.2026.arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
       "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
     },
     {
@@ -7983,7 +7983,7 @@ const DATA = {
     {
       "number": 575,
       "key": "aepdAgenticAI2026",
-      "citation": "A. E. de Protección de Datos, Agentic artificial intelligence from the perspective of data protection, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic- artificial-intelligence.pdf",
+      "citation": "A. E. de Protección de Datos, Agentic artificial intelligence from the perspective of data protection, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf",
       "url": "https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf"
     },
     {
@@ -8025,7 +8025,7 @@ const DATA = {
     {
       "number": 582,
       "key": "albrethsen2026deepcontext",
-      "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, “Deepcontext: Stateful real- time detection of multi-turn adversarial intent drift in LLMs,” arXiv, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
+      "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, “Deepcontext: Stateful real-time detection of multi-turn adversarial intent drift in LLMs,” arXiv, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
       "url": "https://arxiv.org/abs/2602.16935"
     },
     {
@@ -8073,7 +8073,7 @@ const DATA = {
     {
       "number": 590,
       "key": "azarafrooz2026cross",
-      "citation": "A. Azarafrooz, “Cross-session threats in AI agents: Benchmark, evaluation, and algo- rithms,” arXiv, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
+      "citation": "A. Azarafrooz, “Cross-session threats in AI agents: Benchmark, evaluation, and algorithms,” arXiv, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
       "url": "https://arxiv.org/abs/2604.21131"
     },
     {
@@ -8103,7 +8103,7 @@ const DATA = {
     {
       "number": 595,
       "key": "zouBlockA2A2025",
-      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, “Blocka2a: Towards secure and verifiable agent- to-agent interoperability,” arXiv, Aug. 2025. arXiv: 2508.01332. [Online]. Available: https://arxiv.org/abs/2508.01332",
+      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, “Blocka2a: Towards secure and verifiable agent-to-agent interoperability,” arXiv, Aug. 2025. arXiv: 2508.01332. [Online]. Available: https://arxiv.org/abs/2508.01332",
       "url": "https://arxiv.org/abs/2508.01332"
     },
     {
@@ -8121,8 +8121,8 @@ const DATA = {
     {
       "number": 598,
       "key": "gao2025imperceptible",
-      "citation": "K.Gaoetal.,“Imperceptiblejailbreakingagainstlargelanguagemodels,”arXiv preprint arXiv:2510.05025, 2025.",
-      "url": ""
+      "citation": "K.Gaoetal.,“Imperceptible jailbreaking against large language models,”arXiv preprint arXiv:2510.05025, 2025.",
+      "url": "https://arxiv.org/abs/2510.05025"
     },
     {
       "number": 599,
@@ -8133,8 +8133,8 @@ const DATA = {
     {
       "number": 600,
       "key": "das2026trojan",
-      "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, “Trojan hippo:Weaponizingagentmemoryfordataexfiltration,”arXivpreprintarXiv:2605.01970, 2026.",
-      "url": ""
+      "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, “Trojan hippo: Weaponizing agent memory for data exfiltration,”arXivpreprintarXiv:2605.01970, 2026.",
+      "url": "https://arxiv.org/abs/2605.01970"
     },
     {
       "number": 601,
@@ -9249,7 +9249,7 @@ const DATA = {
     {
       "number": 786,
       "key": "nist2025media",
-      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY, “Guidelines for media sanitization (NIST SP 800-88 rev. 2),” National Institute of Standards and Tech- nology, Tech. Rep. 800-88 Rev. 2, 2025.",
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY, “Guidelines for media sanitization (NIST SP 800-88 rev. 2),” National Institute of Standards and Technology, Tech. Rep. 800-88 Rev. 2, 2025.",
       "url": ""
     },
     {
@@ -10005,7 +10005,7 @@ const DATA = {
     {
       "number": 912,
       "key": "booth2026agentidentity",
-      "citation": "H. Booth, W. Fisher, R. Galluzzo, and J. Roberts, “Accelerating the adoption of soft- ware and artificial intelligence agent identity and authorization,” National Institute of Standards and Technology, Initial Public Draft Concept Paper, Feb. 2026. [Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the- adoption-of-software-and-ai-agent/ipd",
+      "citation": "H. Booth, W. Fisher, R. Galluzzo, and J. Roberts, “Accelerating the adoption of software and artificial intelligence agent identity and authorization,” National Institute of Standards and Technology, Initial Public Draft Concept Paper, Feb. 2026. [Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the- adoption-of-software-and-ai-agent/ipd",
       "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd"
     },
     {
@@ -10797,7 +10797,7 @@ const DATA = {
     {
       "number": 1044,
       "key": "center2026request",
-      "citation": "C. for AI Standards, N. I. o. S. Innovation (CAISI), and T. (NIST), Request for informa- tion regarding security considerations for artificial intelligence agents, Jan. 2026. [On- line]. Available: https://www.federalregister.gov/documents/2026/01/08/2026- 00206/request-for-information-regarding-security-considerations-for- artificial-intelligence-agents",
+      "citation": "C. for AI Standards, N. I. o. S. Innovation (CAISI), and T. (NIST), Request for information regarding security considerations for artificial intelligence agents, Jan. 2026. [On- line]. Available: https://www.federalregister.gov/documents/2026/01/08/2026- 00206/request-for-information-regarding-security-considerations-for- artificial-intelligence-agents",
       "url": "https://arxiv.org/abs/2603.12230"
     },
     {
