@@ -284,8 +284,8 @@ const DATA = {
           "title": "调研报告参考文献统计分析",
           "paragraphs": [
             "部安全能力维度进行解构。依托 AI 智能体“输入-存储-推理-执行-交互-管控”的完整业务运行逻辑与数据流转链路，本报告将每一个生命周期阶段进一步横向切分为感知、记忆、决策、行动、交互、治理六大核心功能模块。该分层方式基于系统架构、实体组件与业务流程特征开展扁平化划分，能够精准锚定安全缺陷、攻击链路与异常行为在智能体各功能单元的分布位置，且六大模块相互独立、并行耦合，不存在层级递进与主次从属关系。",
-            "本报告共收录参考文献 1143 篇，涵盖期刊论文、会议论文、预印本论文、技术报告、政策文件及网络资源等多种类型，主要聚焦 AI 智能体安全研究。本节重点统计分析学术论文，包括期刊论文、会议论文和预印本论文，共计 505 篇。本次文献采集主要覆盖 2025 - 2026 年（截至 7 月 30 日）公开发表成果，受限于检索范围、数据库覆盖以及筛选标准，统计结果可能存在一定偏差。",
-            "文献类型来源分析： 图 1.3 展示本次调研中文献类型来源分布情况。从文献类型分布来看，智能体安全相关研究呈现出明显的快速演进和开放探索特征。在统计的 505 篇论文中，预印本论文占据绝对主导地位，共 365 篇，占比 72.3%。这一结果表明，当前智能体研究仍处于高速发展阶段，新模型、新架构和新应用不断涌现，研究人员更倾向于通过预印本平台快速发布最新成果，以缩短成果传播周期并促进社区交流。与此同时，较高比例的预印本也说明部分研究方向仍处于探索验证阶段，尚需要进一步经过同行评审、长期实验和实际应用检验。会议论文共111 篇，占比 22.0%，是当前智能体研究的重要成果载体。相比传统成熟研究领域，智能体技术具有较强的工程实践属性，大量研究集中于智能体框架设计、任务规划、工具调用、多智能体协作、安全机制以及应用系统构建等方向。这类研究通常需要快速验证技术有效性，并借助学术会议实现成果交流，因此会议论文在该领域占据较高比例。相比之下，期刊论文数量相对较少，共 29 篇，占比 5.7%。其主要原因在于智能体技术发展速度远快于传统学术出版周期，许多研究成果在完成系统验证后优先以预印本或会议论文形式公开。此外，面向智能体的理论基础、评价体系、安全治理框架以及长期可靠性分析仍处于逐步完善阶段，系统性的期刊研究成果尚未形成规模。",
+            "本报告共收录参考文献 1143 篇，涵盖期刊论文、会议论文、预印本论文、技术报告、政策文件及网络资源等多种类型，主要聚焦 AI 智能体安全研究。本节重点统计分析学术论文，包括期刊论文、会议论文和预印本论文，共计 507 篇。本次文献采集主要覆盖 2025 - 2026 年（截至 7 月 30 日）公开发表成果，受限于检索范围、数据库覆盖以及筛选标准，统计结果可能存在一定偏差。",
+            "文献类型来源分析： 图 1.3 展示本次调研中文献类型来源分布情况。从文献类型分布来看，智能体安全相关研究呈现出明显的快速演进和开放探索特征。在统计的 507 篇论文中，预印本论文占据绝对主导地位，共 362 篇，占比 71.4%。这一结果表明，当前智能体研究仍处于高速发展阶段，新模型、新架构和新应用不断涌现，研究人员更倾向于通过预印本平台快速发布最新成果，以缩短成果传播周期并促进社区交流。与此同时，较高比例的预印本也说明部分研究方向仍处于探索验证阶段，尚需要进一步经过同行评审、长期实验和实际应用检验。会议论文共116 篇，占比 22.9%，是当前智能体研究的重要成果载体。相比传统成熟研究领域，智能体技术具有较强的工程实践属性，大量研究集中于智能体框架设计、任务规划、工具调用、多智能体协作、安全机制以及应用系统构建等方向。这类研究通常需要快速验证技术有效性，并借助学术会议实现成果交流，因此会议论文在该领域占据较高比例。相比之下，期刊论文数量相对较少，共 29 篇，占比 5.7%。其主要原因在于智能体技术发展速度远快于传统学术出版周期，许多研究成果在完成系统验证后优先以预印本或会议论文形式公开。此外，面向智能体的理论基础、评价体系、安全治理框架以及长期可靠性分析仍处于逐步完善阶段，系统性的期刊研究成果尚未形成规模。",
             "研究主体来源划分： 图 1.4 展示智能体安全相关研究中不同类型研究主体的贡献分布情况。根据机构属性划分，研究主体主要包括高校机构、企业机构、科研院所以及其他类型机构。在统计的 507 篇论文中，高校机构贡献 361 篇，占比 71.2%，是当前智能体研究的主要力量。高校依托长期积累的基础研究能力，在智能体架构设计、算法创新、模型优化、理论分析以及安全可信机制等方向持续发挥核心作用，说明当前智能体技术的发展仍高度依赖学术界的探索和创新。企业机构贡献 96 篇，占比 18.9%，位居第二。随着大语言模型和智能体应用快速发展，企业逐渐成为推动该领域技术演进的重要力量。相比传统人工智能研究，企业参与更加关注智能体系统的工程化实现，包括模型能力增强、工具调用机制、应用场景适配、安全控制以及实际部署等方向，体现出智能体技术正在由实验验证逐步迈向产业应用阶段。科研院所贡献25 篇，占比 4.9%。虽然整体规模相对有限，但科研机构在基础理论探索、前沿技术研究、标准体系建设以及可信智能研究等方面具有重要支撑作用。此外，其他类型研究主体（包括独立研究团队、实验室、政府科研项目等）贡献 25 篇，占比 4.9%，进一步体现了智能体领域研究主体的多样化特征。总体而言，当前智能体研究仍以高校为核心驱动力，企业参与程度不断提升，科研机构和其他创新主体发挥补充作用，形成了从基础理论研究、技术创新到工程应用落地的多层次协同发展模式。",
             "论文第一作者所在单位的所属国家分析： 图 1.5 展示论文第一作者所在单位所属国家的分布情况。通过统计分析可以发现，当前智能体安全相关研究呈现出明显的区域集中化特征，同时具有多国家共同参与的发展格局。在统计的 507 篇论文中，美国和中国占据主要贡献地位，二者构成当前智能体研究领域的核心力量。其中，美国以 194 篇论文位居首位，占比 38.3%。美国在大模型基础设施、智能体框架、模型安全以及产业应用等方向具有较强的技术积累和创新生态，拥有大量领先的人工智能研究机构和企业，因此在智能体相关研究产出中保持较高占比。中国以 153 篇论文位列第二，占比 30.2%，近年来在大规模语言模型、智能体系统设计、应用场景探索以及工程部署等方面快速发展，已形成较大规模的研究群体和技术生态。英国以 25 篇论文排名第三，占比 5.1%。虽然其研究规模与中美相比存在一定差距，但仍保持稳定的学术贡献，在人工智能基础研究、安全性分析和可信智能体等方向发挥重要作用。除上述主要国家外，其余国家和地区共贡献 135 篇论文，占比 26.6%，包括加拿大、瑞士、新加坡、韩国、澳大利亚、德国、法国、日本等多个科研力量较强的国家。这表明智能体研究已经形成一定程度的全球化发展格局，并逐渐呈现多中心参与的特点。总体来看，美国和中国两国合计贡献 347 篇论文，占全部统计成果的 68.5%，说明当前智能体研究资源和创新产出仍主要集中于少数领先国家。同时，其他国家持续增加的研究贡献也表明，该领域正在从早期少数机构主导逐步向全球范围内广泛参与的发展阶段演进。",
             "论文发表 Venue 分布分析： 图 1.6 展示会议和期刊论文发表 Venue 分布统计结果（不包含arXiv 论文）。我们可以看出智能体相关研究正在逐步进入正式学术传播与同行评审阶段，但整体仍呈现高度分散化特征。",
@@ -4593,7 +4593,7 @@ const DATA = {
     {
       "number": 10,
       "key": "currie2025rethinking",
-      "citation": "W. L. Currie, J. M. Leimeister, D. Schlagwein, and L. Willcocks, “Rethinking technology regulation in the age of AI risks,” Journal of Information Technology, vol. 40, no. 3, pp. 236–245, Sep. 2025.",
+      "citation": "W. L. Currie, J. M. Leimeister, D. Schlagwein, and L. Willcocks, “Rethinking technology regulation in the age of AI risks,” Journal of Information Technology, vol. 40, no. 3, pp. 236– 245, Sep. 2025.",
       "url": ""
     },
     {
@@ -4641,11 +4641,7 @@ const DATA = {
     {
       "number": 18,
       "key": "dempo2026",
-<<<<<<< Updated upstream
-      "citation": "S. Sana, J. Wu, and M. T. Wells, “Democratic preference alignment via sortition-weighted RLHF,” arXiv preprint arXiv:2602.05113, 2026. [Online]. Available: https://arxiv.org/abs/2602.05113",
-=======
       "citation": "S. Sana, J. Wu, and M. T. Wells, Democratic preference alignment via sortition-weighted RLHF, Feb. 2026. arXiv: 2602.05113 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.05113",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.05113"
     },
     {
@@ -4675,11 +4671,7 @@ const DATA = {
     {
       "number": 23,
       "key": "promptlock2025",
-<<<<<<< Updated upstream
-      "citation": "M. Raz, M. Udeshi, P. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, “Ransomware 3.0: Self-composing and LLM-Orchestrated,” arXiv preprint arXiv:2508.20444, 2025. [Online]. Available: https://arxiv.org/abs/2508.20444",
-=======
       "citation": "M. Raz, M. Udeshi, P. V. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, Ransomware 3.0: Self-composing and LLM-orchestrated, Aug. 2025. arXiv: 2508.20444 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.20444",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.20444"
     },
     {
@@ -4691,11 +4683,7 @@ const DATA = {
     {
       "number": 25,
       "key": "astra2025",
-<<<<<<< Updated upstream
-      "citation": "X. Xu et al., “ASTRA: Autonomous spatial-temporal red-teaming for AI software assistants,” arXiv preprint arXiv:2508.03936, 2025. [Online]. Available: https://arxiv. org/abs/2508.03936",
-=======
       "citation": "X. Xu et al., ASTRA: Autonomous spatial-temporal red-teaming for AI software assistants, Aug. 2025. arXiv: 2508.03936 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.03936",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.03936"
     },
     {
@@ -4719,11 +4707,7 @@ const DATA = {
     {
       "number": 29,
       "key": "vectorResponsibleAI2025",
-<<<<<<< Updated upstream
-      "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA, Toolkit for small-and medium-sized enterprises deploying artificial intelligence, 2025. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and- medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
-=======
       "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA. “Toolkit for small-and medium-sized enterprises deploying artificial intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and-medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
->>>>>>> Stashed changes
       "url": "https://ised-isde.canada.ca/site/ised/en/toolkit-small-and-medium-sized-enterprises-smes-deploying-artificial-intelligence-ai"
     },
     {
@@ -4855,11 +4839,7 @@ const DATA = {
     {
       "number": 51,
       "key": "ideasdod2025",
-<<<<<<< Updated upstream
-      "citation": "DEPARTMENT OF COMPUTER SCIENCE, PURDUE UNIVERSITY, IDEAS lab awarded 5-year defense grant to advance AI-enabled air–ground robotic collaboration, 2025. [Online]. Available: https://www.cs.purdue.edu/news/articles/2025/ideas- lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground- robotic-collaboration.html",
-=======
       "citation": "DEPARTMENT OF COMPUTER SCIENCE, PURDUE UNIVERSITY, “IDEAS Lab Awarded 5-Year Defense Grant to Advance AI-Enabled Air-Ground Robotic Collaboration,” 2025. [Online]. Available: https://www.cs.purdue.edu/news/articles/2025/ideas-lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground-robotic-collaboration.html",
->>>>>>> Stashed changes
       "url": "https://www.cs.purdue.edu/news/articles/2025/ideas-lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground-robotic-collaboration.html"
     },
     {
@@ -4973,13 +4953,8 @@ const DATA = {
     {
       "number": 70,
       "key": "stackelbergDefense2025",
-<<<<<<< Updated upstream
-      "citation": "Z. Han and Q. Zhu, “Toward a dynamic Stackelberg game-theoretic framework for agentic AI defense against LLM jailbreaking,” arXiv preprint arXiv:2507.08207, 2025.",
-      "url": ""
-=======
       "citation": "Z. Han and Q. Zhu, Toward a dynamic Stackelberg game-theoretic framework for agentic AI defense against LLM jailbreaking, Jul. 2025. arXiv: 2507.08207 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2507.08207",
       "url": "https://arxiv.org/abs/2507.08207"
->>>>>>> Stashed changes
     },
     {
       "number": 71,
@@ -5038,13 +5013,8 @@ const DATA = {
     {
       "number": 80,
       "key": "eu_ai_act_2024",
-<<<<<<< Updated upstream
-      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act), Oﬀicial Journal of the European Union, L, 2024/1689, 2024-07-12, 2024. [Online]. Available: https://data.europa.eu/eli/reg/2024/1689/oj",
-      "url": "https://artificialintelligenceact.eu/the-act/"
-=======
       "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION. “Regulation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act),” Accessed: Jul. 21, 2026. [Online]. Available: data.europa.eu/eli/reg/2024/1689/oj",
       "url": "https://data.europa.eu/eli/reg/2024/1689/oj"
->>>>>>> Stashed changes
     },
     {
       "number": 81,
@@ -5091,11 +5061,7 @@ const DATA = {
     {
       "number": 88,
       "key": "eu_gdpr_2016",
-<<<<<<< Updated upstream
-      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation), Fedlex, Classified Compilation 235.1, 2016. [Online]. Available: https://www.fedlex.admin.ch/eli/cc/ 2022/491/en",
-=======
       "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (general data protection regulation),” Accessed: Jul. 21, 2026. [Online]. Available: fedlex.admin.ch/eli/cc/2022/491/en",
->>>>>>> Stashed changes
       "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en"
     },
     {
@@ -5149,11 +5115,7 @@ const DATA = {
     {
       "number": 97,
       "key": "gao2025provablySafe",
-<<<<<<< Updated upstream
-      "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent navigation in unknown environments,” in Proc. 8th Conference on Robot Learning, vol. 270, PMLR, 2025, pp. 5466–5486.",
-=======
       "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent navigation in unknown environments,” in Proc. 8th Conference on Robot Learning, Seoul, Korea, Sep. 2025, pp. 5466–5486.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -5207,11 +5169,7 @@ const DATA = {
     {
       "number": 106,
       "key": "llmMembershipInference2025",
-<<<<<<< Updated upstream
-      "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Membership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, 2025.",
-=======
       "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Membership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, Copenhagen, Denmark, Apr. 2025, pp. 385–401.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -5229,13 +5187,8 @@ const DATA = {
     {
       "number": 109,
       "key": "uclHumanCentredSecurity2026",
-<<<<<<< Updated upstream
-      "citation": "UCL INFORMATION SECURITY RESEARCH GROUP, M. Angela Sasse FREng – personal homepage, 2026. [Online]. Available: https://sec.cs.ucl.ac.uk/people/m_ angela_sasse/",
-      "url": "https://aisecure.github.io/"
-=======
       "citation": "UCL Information Security Research Group. “M. Angela Sasse FREng – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://sec.cs.ucl.ac.uk/people/m_angela_sasse/",
       "url": "https://sec.cs.ucl.ac.uk/people/m_angela_sasse/"
->>>>>>> Stashed changes
     },
     {
       "number": 110,
@@ -5397,19 +5350,19 @@ const DATA = {
       "number": 136,
       "key": "jadeWhitzard2026",
       "citation": "复旦白泽智能. “JADE series I: Large language model evaluation and governance: Targeted security evaluation platform based on linguistic mutation,” Accessed: Jul. 4, 2026. [Online]. Available: whitzard-ai.github.io/jade.html",
-      "url": "https://whitzard-ai.github.io/jade.html"
+      "url": "https://whitzard-ai.github.io/jade.html."
     },
     {
       "number": 137,
       "key": "chenweiICT2026",
       "citation": "中国科学院计算技术研究所. “陈薇,” Accessed: Jul. 4, 2026. [Online]. Available: www.ict.ac.cn/sourcedb/cn/jssrck/202203/t20220314_6391556.html",
-      "url": "www.ict.ac.cn/sourcedb/cn/jssrck/202203/t20220314_6391556.html"
+      "url": "http://www.ict.ac.cn/sourcedb/cn/jssrck/202203/t20220314_6391556.html."
     },
     {
       "number": 138,
       "key": "ictCASOfficial2026",
       "citation": "中国科学院计算技术研究所. “中国科学院计算技术研究所主页,” Accessed: Jul. 4, 2026. [Online]. Available: www.ict.ac.cn/",
-      "url": "https://www.ict.ac.cn/"
+      "url": "https://www.ict.ac.cn/,2026.163AI智能体安全调研报告"
     },
     {
       "number": 139,
@@ -5451,7 +5404,7 @@ const DATA = {
       "number": 145,
       "key": "bigaiResearchDept2026",
       "citation": "北京通用人工智能研究院. “科研部门：通用人工智能安全北京市重点实验室,” Accessed: Jul. 4, 2026. [Online]. Available: www.bigai.ai/%E7%A7%91%E7%A0%94%E9%83%A8%E9%97%A8/",
-      "url": "www.bigai.ai/%E7%A7%91%E7%A0%94%E9%83%A8%E9%97%A8/"
+      "url": "https://www.bigai.ai/￿￿￿￿/."
     },
     {
       "number": 146,
@@ -5630,11 +5583,7 @@ const DATA = {
     {
       "number": 175,
       "key": "jidiAI2026",
-<<<<<<< Updated upstream
-      "citation": "JIDIAI TEAM, Jidiai: A platform for multi-agent decision intelligence, Online resource, 2026. [Online]. Available: https://github.com/jidiai/ai_lib",
-=======
       "citation": "JIDIAI TEAM. “Jidiai: A platform for multi-agent decision intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/jidiai/ai_lib",
->>>>>>> Stashed changes
       "url": "https://github.com/jidiai/ai_lib"
     },
     {
@@ -5742,13 +5691,8 @@ const DATA = {
     {
       "number": 193,
       "key": "openaiagentssdk2026",
-<<<<<<< Updated upstream
-      "citation": "OPENAI, Tracing, OpenAI Agents SDK documentation, 2026. Accessed: Jul. 19, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/tracing/",
-      "url": "https://openai.github.io/openai-agents-python/tracing/"
-=======
       "citation": "OpenAI. “Agents SDK,” Accessed: Jul. 21, 2026. [Online]. Available: https://platform.openai.com/docs/guides/agents-sdk",
       "url": "https://platform.openai.com/docs/guides/agents-sdk"
->>>>>>> Stashed changes
     },
     {
       "number": 194,
@@ -5975,11 +5919,7 @@ const DATA = {
     {
       "number": 231,
       "key": "meta_support_safety_ai_2026",
-<<<<<<< Updated upstream
-      "citation": "META, Boosting your support and safety on meta’s apps with ai, Meta Newsroom, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/ boosting-your-support-and-safety-on-metas-apps-with-ai/",
-=======
       "citation": "META, “Boosting Your Support and Safety on Meta's Apps With AI,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/",
->>>>>>> Stashed changes
       "url": "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/"
     },
     {
@@ -6165,13 +6105,8 @@ const DATA = {
     {
       "number": 262,
       "key": "mistrallachatenterprise2025",
-<<<<<<< Updated upstream
-      "citation": "MISTRAL AI, Le chat enterprise, Oﬀicial product page, 2025. [Online]. Available: https://mistral.ai/products/la-plateforme/le-chat-enterprise",
-      "url": "https://mistral.ai/products/le-chat"
-=======
       "citation": "Mistral AI. “Le Chat enterprise,” Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/products/la-plateforme/le-chat-enterprise",
       "url": "https://mistral.ai/products/la-plateforme/le-chat-enterprise"
->>>>>>> Stashed changes
     },
     {
       "number": 263,
@@ -6344,11 +6279,7 @@ const DATA = {
     {
       "number": 291,
       "key": "tencenthunyuan2026",
-<<<<<<< Updated upstream
-      "citation": "TENCENT, Tencent Hunyuan, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://hunyuan.tencent.com/",
-=======
       "citation": "TENCENT, “Tencent Hunyuan,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://hunyuan.tencent.com/",
->>>>>>> Stashed changes
       "url": "https://hunyuan.tencent.com/"
     },
     {
@@ -6432,11 +6363,7 @@ const DATA = {
     {
       "number": 305,
       "key": "he2025pasa",
-<<<<<<< Updated upstream
-      "citation": "Y.Heetal.,“Pasa:An llm agent for comprehensive academic paper search,”arXiv,2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
-=======
       "citation": "Y. He et al., PaSa: An LLM agent for comprehensive academic paper search, Jan. 2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2501.10120"
     },
     {
@@ -6532,11 +6459,7 @@ const DATA = {
     {
       "number": 321,
       "key": "kimiapi_toolcalls2026",
-<<<<<<< Updated upstream
-      "citation": "MOONSHOT AI, Kimi api’s internet search functionality, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool- calls.md",
-=======
       "citation": "Moonshot AI. “Kimi api’s internet search functionality,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool-calls.md",
->>>>>>> Stashed changes
       "url": "https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool-calls.md"
     },
     {
@@ -6704,13 +6627,8 @@ const DATA = {
     {
       "number": 349,
       "key": "pineauDeparture2025",
-<<<<<<< Updated upstream
-      "citation": "CNBC, Meta’s head of AI research Joelle Pineau announces departure, Online news article, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.cnbc.com/ 2025/04/01/metas-head-of-ai-research-announces-departure.html",
-      "url": "https://ai.meta.com/people/1914216782353556/joelle-pineau/"
-=======
       "citation": "CNBC, “Meta's head of AI research Joelle Pineau announces departure,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.cnbc.com/2025/04/01/metas-head-of-ai-research-announces-departure.html",
       "url": "https://www.cnbc.com/2025/04/01/metas-head-of-ai-research-announces-departure.html"
->>>>>>> Stashed changes
     },
     {
       "number": 350,
@@ -6752,7 +6670,7 @@ const DATA = {
       "number": 356,
       "key": "gottweisAICoScientist2025",
       "citation": "J. Gottweis et al., “Accelerating scientific discovery with Co-Scientist,” Nature, vol. 655, pp. 487–496, May 2026.",
-      "url": "https://collimateur.uqam.ca/wp-content/uploads/sites/11/"
+      "url": "https://collimateur.uqam.ca/wp-content/uploads/sites/11/2025/03/2502.18864v1.pdf"
     },
     {
       "number": 357,
@@ -6847,11 +6765,7 @@ const DATA = {
     {
       "number": 372,
       "key": "checkpointClaudeCode2026",
-<<<<<<< Updated upstream
-      "citation": "CHECK POINT RESEARCH, Caught in the hook: RCE and API token exfiltration through Claude Code project files, Oﬀicial security research report, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://research.checkpoint.com/2026/rce- and-api-token-exfiltration-through-claude-code-project-files-cve-2025- 59536/",
-=======
       "citation": "CheckPoint Research. “Caught in the hook: RCE and API token exfiltration through Claude Code project files,” Accessed: Jul. 21, 2026. [Online]. Available: https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/",
->>>>>>> Stashed changes
       "url": "https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/"
     },
     {
@@ -6863,13 +6777,8 @@ const DATA = {
     {
       "number": 374,
       "key": "gaire2025mcpsok",
-<<<<<<< Updated upstream
-      "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, “Systematization of knowledge: Security and safety in the model context protocol ecosystem,” arXiv preprint arXiv:2512.08290, 2025.",
-      "url": ""
-=======
       "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, Systematization of knowledge: Security and safety in the MCP ecosystem, Dec. 2025. arXiv: 2512.08290 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.08290",
       "url": "https://arxiv.org/abs/2512.08290"
->>>>>>> Stashed changes
     },
     {
       "number": 375,
@@ -6940,11 +6849,7 @@ const DATA = {
     {
       "number": 386,
       "key": "santosgrueiro2026wgpulens",
-<<<<<<< Updated upstream
-      "citation": "I. Santos-Grueiro et al., “What browsers do in the shaders: A measurement study of WebGPU privacy,” arXiv, 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
-=======
       "citation": "I. Santos-Grueiro, What browsers do in the shaders: A measurement study of WebGPU privacy, Jun. 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.26412"
     },
     {
@@ -6980,11 +6885,7 @@ const DATA = {
     {
       "number": 392,
       "key": "chrapek2025confidentialllm",
-<<<<<<< Updated upstream
-      "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, “Confidential LLM inference: Performance and cost across CPU and GPU TEEs,” arXiv, 2025. arXiv: 2509.18886 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2509.18886",
-=======
       "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, Confidential LLM inference: Performance and cost across CPU and GPU TEEs, 2025. arXiv: 2509.18886 [cs.PF]. [Online]. Available: https://arxiv.org/abs/2509.18886",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2509.18886"
     },
     {
@@ -7020,11 +6921,7 @@ const DATA = {
     {
       "number": 398,
       "key": "sinaki2026trustmee",
-<<<<<<< Updated upstream
-      "citation": "P. S. Sinaki, Z. Ahmad, W. Xie, M. Sebrechts, J. Kjällman, and L. J. Gunn, “TrustMee: Self-verifying remote attestation evidence,” arXiv, 2026. arXiv: 2602.13148 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.13148",
-=======
       "citation": "P. S. Sinaki, Z. Ahmad, W. Xie, M. Sebrechts, J. Kjällman, and L. J. Gunn, TrustMee: Self-verifying remote attestation evidence, Feb. 2026. arXiv: 2602.13148 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.13148",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.13148"
     },
     {
@@ -7084,11 +6981,7 @@ const DATA = {
     {
       "number": 408,
       "key": "w4a16ascend2026",
-<<<<<<< Updated upstream
-      "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, “W4A16 mixed-precision matrix multiplication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs,” arXiv, 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
-=======
       "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, W4A16 mixed-precision matrix multiplication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs, Jan. 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2601.16536"
     },
     {
@@ -7100,21 +6993,13 @@ const DATA = {
     {
       "number": 410,
       "key": "psuie2026cvm",
-<<<<<<< Updated upstream
-      "citation": "J.MaoandX.Chang,“PS-UIE: Privilege-separated integrity enforcement for user-space executable objects in confidential VMs,” arXiv, 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
-=======
       "citation": "J. Mao and X. Chang, PS-UIE: Privilege-separated integrity enforcement for user-space executable objects in confidential VMs, Jun. 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.04549"
     },
     {
       "number": 411,
       "key": "hifloat2026",
-<<<<<<< Updated upstream
-      "citation": "P. Zhao et al., “Unleashing low-bit inference on Ascend NPUs: A comprehensive evaluation of HiFloat formats,” arXiv, 2026. arXiv: 2602.12635 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2602.12635",
-=======
       "citation": "P. Zhao et al., Unleashing low-bit inference on Ascend NPUs: A comprehensive evaluation of HiFloat formats, Feb. 2026. arXiv: 2602.12635 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2602.12635",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.12635"
     },
     {
@@ -7186,11 +7071,7 @@ const DATA = {
     {
       "number": 423,
       "key": "openclawMoltbookBreach2026",
-<<<<<<< Updated upstream
-      "citation": "WIZ RESEARCH, Hacking Moltbook: 1.5m API keys exposed, Oﬀicial security research blog, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.wiz.io/blog/ exposed-moltbook-database-reveals-millions-of-api-keys",
-=======
       "citation": "WIZ RESEARCH, “Hacking Moltbook: 1.5M API keys exposed,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
->>>>>>> Stashed changes
       "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys"
     },
     {
@@ -7340,11 +7221,7 @@ const DATA = {
     {
       "number": 448,
       "key": "nvdCVE2026_44338",
-<<<<<<< Updated upstream
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-44338 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-44338",
-=======
       "citation": "National Vulnerability Database. “CVE-2026-44338 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-44338",
->>>>>>> Stashed changes
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44338"
     },
     {
@@ -7392,11 +7269,7 @@ const DATA = {
     {
       "number": 456,
       "key": "Nazary2025PoisonRAG",
-<<<<<<< Updated upstream
-      "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems,” in Proc. Advances in Information Retrieval, Springer, 2025, pp. 239–251. [Online]. Available: https:// arxiv.org/abs/2501.11759",
-=======
       "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems,” in Proc. 47th European Conference on Information Retrieval, Lucca, Italy, Apr. 2025, pp. 239–251.",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2501.11759"
     },
     {
@@ -7474,11 +7347,7 @@ const DATA = {
     {
       "number": 469,
       "key": "Executive_Order_14409",
-<<<<<<< Updated upstream
-      "citation": "THE WHITE HOUSE, Promoting advanced artificial intelligence innovation and security, Executive Order 14409, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting- advanced-artificial-intelligence-innovation-and-security",
-=======
       "citation": "THE WHITE HOUSE. “Promoting advanced Artificial Intelligence innovation and security,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
->>>>>>> Stashed changes
       "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security"
     },
     {
@@ -7490,21 +7359,13 @@ const DATA = {
     {
       "number": 471,
       "key": "SB-53",
-<<<<<<< Updated upstream
-      "citation": "CALIFORNIA STATE LEGISLATURE, Senate bill 53: Transparency in frontier artificial intelligence act, 2025–2026 Regular Session, Chapter 138, Statutes of 2025, Sep. 2025.[Online].Available:https://leginfo.legislature.ca.gov/faces/billTextClient. xhtml?bill_id=202520260SB53",
-=======
       "citation": "CALIFORNIA STATE LEGISLATURE. “Senate bill 53: Transparency in frontier artificial intelligence act,” Accessed: Jul. 21, 2026. [Online]. Available: leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53",
->>>>>>> Stashed changes
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53"
     },
     {
       "number": 472,
       "key": "2025-A6453B-Bill",
-<<<<<<< Updated upstream
-      "citation": "NEW YORK STATE LEGISLATURE, Responsible AI safety and education act (RAISE act),S6953B/A6453B,2025–2026 RegularSession,Dec.2025.[Online].Available:https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B",
-=======
       "citation": "NEW YORK STATE LEGISLATURE. “Responsible AI safety and education act (RAISE act), S6953B/A6453B,” Accessed: Jul. 21, 2026. [Online]. Available: nysenate.gov/legislation/bills/2025/A6453/amendment/B",
->>>>>>> Stashed changes
       "url": "https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B"
     },
     {
@@ -7522,13 +7383,8 @@ const DATA = {
     {
       "number": 475,
       "key": "Bill_C-36",
-<<<<<<< Updated upstream
-      "citation": "PARLIAMENT OF CANADA, Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic documents act and to make amendments to other acts, 45th Parliament, 1st Session, Jun. 2026. [Online]. Available: https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
-      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/"
-=======
       "citation": "PARLIAMENT OF CANADA. “Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic documents act and to make amendments to other acts,” Accessed: Jul. 21, 2026. [Online]. Available: www.parl.ca/legisinfo/en/bill/45-1/c-36",
       "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
->>>>>>> Stashed changes
     },
     {
       "number": 476,
@@ -7539,11 +7395,7 @@ const DATA = {
     {
       "number": 477,
       "key": "Rescission_of_Biden-Era_AI_Diffusion_Rule",
-<<<<<<< Updated upstream
-      "citation": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE, Department of commerce announces rescission of Biden-era artificial intelligence diffusion rule, strengthens chip-related export controls, 2025. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for- artificial-intelligence-diffusion",
-=======
       "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Department of commerce announces rescission of Biden-era artificial intelligence diffusion rule, strengthens chip-related export controls,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
->>>>>>> Stashed changes
       "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
     },
     {
@@ -7573,11 +7425,7 @@ const DATA = {
     {
       "number": 482,
       "key": "DORS2025-89",
-<<<<<<< Updated upstream
-      "citation": "GOVERNMENT OF CANADA, Order amending the export control list: Sor/2025-89, 2025. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html",
-=======
       "citation": "GOVERNMENT OF CANADA. “Order amending the export control list: Sor/2025-89,” Accessed: Jul. 21, 2026. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html",
->>>>>>> Stashed changes
       "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html"
     },
     {
@@ -7595,11 +7443,7 @@ const DATA = {
     {
       "number": 485,
       "key": "eu_gpai_code_of_practice_2025",
-<<<<<<< Updated upstream
-      "citation": "EUROPEAN COMMISSION, The general-purpose AI code of practice, European Commission, Shaping Europe’s Digital Future, Jul. 2025. [Online]. Available: https:// digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
-=======
       "citation": "EUROPEAN COMMISSION. “The general-purpose AI code of practice,” Accessed: Jul. 21, 2026. [Online]. Available: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
->>>>>>> Stashed changes
       "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
     },
     {
@@ -7617,11 +7461,7 @@ const DATA = {
     {
       "number": 488,
       "key": "The_Export_Control_2024",
-<<<<<<< Updated upstream
-      "citation": "THE SECRETARY OF STATE,The export control(amendment)regulations 2024, 2024. [Online]. Available: https://www.legislation.gov.uk/uksi/2024/346/made",
-=======
       "citation": "THE SECRETARY OF STATE. “The export control (amendment) regulations 2024,” Accessed: Jul. 21, 2026. [Online]. Available: www.legislation.gov.uk/uksi/2024/346/made",
->>>>>>> Stashed changes
       "url": "https://www.legislation.gov.uk/uksi/2024/346/made"
     },
     {
@@ -7675,11 +7515,7 @@ const DATA = {
     {
       "number": 497,
       "key": "两用物项出口管制条例",
-<<<<<<< Updated upstream
-      "citation": "中华人民共和国商务部, 中华人民共和国两用物项出口管制条例, 2024. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
-=======
       "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Regulations of the people’s republic of china on the administration of dual-use items export control,” Accessed: Jul. 21, 2026. [Online]. Available: www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
->>>>>>> Stashed changes
       "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
     },
     {
@@ -7697,17 +7533,13 @@ const DATA = {
     {
       "number": 500,
       "key": "bach2025rethinking",
-      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, “Rethinking deep alignment through the lens of incomplete learning,” Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
+      "citation": "T. Bach, D. Nguyen, T. M. Le, and T. Tran, Rethinking deep alignment through the lens of incomplete learning, Nov. 2025. arXiv: 2511.12155 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2511.12155",
       "url": "https://arxiv.org/abs/2511.12155"
     },
     {
       "number": 501,
       "key": "mitra2026agenticcyops",
-<<<<<<< Updated upstream
-      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, “AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations,” Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
-=======
       "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations, Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.09134"
     },
     {
@@ -7719,7 +7551,7 @@ const DATA = {
     {
       "number": 503,
       "key": "osmond2026mind",
-      "citation": "M. Osmond and T. Jego, "Mind the gap: How the technical mechanism of agentic AI outpace global legal frameworks," Mar. 2026. arXiv: 2603.27075 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2603.27075",
+      "citation": "M. Osmond and T. Jego, Mind the gap: How the technical mechanism of agentic AI outpace global legal frameworks, Mar. 2026. arXiv: 2603.27075 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2603.27075",
       "url": "https://arxiv.org/abs/2603.27075"
     },
     {
@@ -7731,7 +7563,7 @@ const DATA = {
     {
       "number": 505,
       "key": "liu2026automatic",
-      "citation": "G. Liu et al., "Automatic hard example synthesis with multi-level agentic data curation," Jul. 2026. arXiv: 2607.14256 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2607.14256",
+      "citation": "G. Liu et al., Automatic hard example synthesis with multi-level agentic data curation, Jul. 2026. arXiv: 2607.14256 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2607.14256",
       "url": "https://arxiv.org/abs/2607.14256"
     },
     {
@@ -7749,11 +7581,7 @@ const DATA = {
     {
       "number": 508,
       "key": "jain2026multimodal",
-<<<<<<< Updated upstream
-      "citation": "B. Jain, S. O. Arik, and H. K. Thakur, “Adversarial attacks on multimodal large language models: A comprehensive survey,” Transactions on Machine Learning Research, 2026. [Online]. Available: https://arxiv.org/abs/2603.27918",
-=======
       "citation": "B. Jain, S. O. Arik, and H. K. Thakur, Adversarial attacks on multimodal large language models: A comprehensive survey, Mar. 2026. arXiv: 2603.27918 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.27918",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.27918"
     },
     {
@@ -7783,13 +7611,8 @@ const DATA = {
     {
       "number": 513,
       "key": "zhu2025miniscope",
-<<<<<<< Updated upstream
-      "citation": "J.Zhuetal.,“Miniscope:A least privilege framework for authorizing tool calling agents,” arXiv, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2512.11147",
-      "url": "https://arxiv"
-=======
       "citation": "J. Zhu et al., MiniScope: A least privilege framework for authorizing tool calling agents, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.11147",
       "url": "https://arxiv.org/abs/2512.11147"
->>>>>>> Stashed changes
     },
     {
       "number": 514,
@@ -7800,23 +7623,14 @@ const DATA = {
     {
       "number": 515,
       "key": "peigne2025multi",
-<<<<<<< Updated upstream
-      "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration capabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Virtual, 2025, pp. 27573–27581. [Online]. Available: https://ojs.aaai.org/index. php/AAAI/article/view/34970",
-=======
       "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration capabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Philadelphia, PA, USA, Feb. 2025, pp. 27 573–27 581.",
->>>>>>> Stashed changes
       "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34970"
     },
     {
       "number": 516,
       "key": "eisenberg2025unified",
-<<<<<<< Updated upstream
-      "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, “The unified control framework: Establishing a common foundation for enterprise ai governance, risk management and regulatory compliance,” arXiv preprint arXiv:2503.05937, 2025.",
-      "url": ""
-=======
       "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, The unified control framework: Establishing a common foundation for enterprise AI governance, risk management and regulatory compliance, Mar. 2025. arXiv: 2503.05937 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2503.05937",
       "url": "https://arxiv.org/abs/2503.05937"
->>>>>>> Stashed changes
     },
     {
       "number": 517,
@@ -7827,31 +7641,19 @@ const DATA = {
     {
       "number": 518,
       "key": "hegazy2026mafa",
-<<<<<<< Updated upstream
-      "citation": "M.Hegazy,A.Rodrigues,andA.Naeem,“Mafa:A multi-agent Framework for Enterprise-Scale Annotation with Configurable Task Adaptation,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, 2026, pp. 39968–39977.",
-=======
       "citation": "M. Hegazy, A. Rodrigues, and A. Naeem, “MAFA: A multi-agent framework for enterprise-scale annotation with configurable task adaptation,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jan. 2026, pp. 39 968–39 977.",
->>>>>>> Stashed changes
       "url": "https://artificialintelligenceact.eu/the-act/"
     },
     {
       "number": 519,
       "key": "eunsu2025trust",
-<<<<<<< Updated upstream
-      "citation": "J. Eunsu and Y. Daeheon, “A Trust Score-Based Access Control Model for Zero Trust Architecture: Design, Sensitivity Analysis, and Real-World Performance Evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, 2025.",
-=======
       "citation": "E. Jeong and D. Yang, “A trust score-based access control model for zero trust architecture: Design, sensitivity analysis, and real-world performance evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, Aug. 2025.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 520,
       "key": "shlomov2026governance",
-<<<<<<< Updated upstream
-      "citation": "D. Shlomov et al., Governance frameworks for secure ai agent development and deployment, 2026. arXiv: 2605.XXXX.",
-=======
       "citation": "S. Shlomov et al., “Governance by construction for generalist agents,” in Proc. ACM Conference on AI and Agentic Systems, New York, NY, USA, 2026, pp. 1280–1287.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -7881,13 +7683,8 @@ const DATA = {
     {
       "number": 525,
       "key": "lu2025adversarial",
-<<<<<<< Updated upstream
-      "citation": "L.Luetal.,“Adversarial training for multimodal largel anguage models against jailbreak attacks,” arXiv preprints, arXiv–2503, 2025. [Online]. Available: https://arxiv.org/abs/2503.04833",
-      "url": "https://arxiv.org/abs/2503.04833"
-=======
       "citation": "L. Lu et al., Adversarial training for multimodal large language models against jailbreak attacks, 2025. arXiv: 2503.04833 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2503.04833v2",
       "url": "https://arxiv.org/abs/2503.04833v2"
->>>>>>> Stashed changes
     },
     {
       "number": 526,
@@ -7922,11 +7719,7 @@ const DATA = {
     {
       "number": 531,
       "key": "ouyang2026memlineage",
-<<<<<<< Updated upstream
-      "citation": "C. Ouyang and R. Hou, “Memlineage: Lineage-guided enforcement for LLM agent memory,” arXiv, May 2026. arXiv: 2605.14421. [Online]. Available: https://arxiv.org/ abs/2605.14421",
-=======
       "citation": "C. Ouyang and R. Hou, MemLineage: Lineage-guided enforcement for LLM agent memory, May 2026. arXiv: 2605.14421 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14421",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.14421"
     },
     {
@@ -7974,11 +7767,7 @@ const DATA = {
     {
       "number": 539,
       "key": "ji2026taming",
-<<<<<<< Updated upstream
-      "citation": "Z. Ji et al., "Taming various privilege escalation in LLM-based agent systems: a mandatory access control framework," arXiv, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
-=======
       "citation": "Z. Ji et al., Taming various privilege escalation in LLM-based agent systems: A mandatory access control framework, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2601.11893"
     },
     {
@@ -8002,11 +7791,7 @@ const DATA = {
     {
       "number": 543,
       "key": "long2025funcpoison",
-<<<<<<< Updated upstream
-      "citation": "Y. Long and S. Li, FuncPoison: Poisoning function library to hijack multi-agent autonomous driving systems, 2025. arXiv: 2509.24408. [Online]. Available: https:// arxiv.org/abs/2509.24408",
-=======
       "citation": "Y. Long and S. Li, Funcpoison: Poisoning function library to hijack multi-agent autonomous driving systems, Sep. 2025. arXiv: 2509.24408 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.24408",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2509.24408"
     },
     {
@@ -8036,11 +7821,7 @@ const DATA = {
     {
       "number": 548,
       "key": "yuan2026aegis",
-<<<<<<< Updated upstream
-      "citation": "A. Yuan, Z. Su, and Y. Zhao, “Aegis: No tool call left unchecked–a pre-execution firewall and audit layer for AI agents” Available:https://arxiv.org/abs/2603.12621",
-=======
       "citation": "A. Yuan, Z. Su, and Y. Zhao, AEGIS: No tool call left unchecked – a pre-execution firewall and audit layer for AI agents, Mar. 2026. arXiv: 2603.12621 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.12621",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.12621"
     },
     {
@@ -8088,13 +7869,8 @@ const DATA = {
     {
       "number": 556,
       "key": "zou2026reasonflux",
-<<<<<<< Updated upstream
-      "citation": "J. Zou et al., “Reasonflux-prm: Trajectory-aware prms for long chain-of-thought reasoning in LLMs,” arXiv preprint arXiv:2603.10068, 2026.",
-      "url": ""
-=======
       "citation": "H. Owiredu-Ashley, ADVERSA: Measuring multi-turn guardrail degradation and judge reliability in large language models, Mar. 2026. arXiv: 2603.10068 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.10068",
       "url": "https://arxiv.org/abs/2603.10068"
->>>>>>> Stashed changes
     },
     {
       "number": 557,
@@ -8111,11 +7887,7 @@ const DATA = {
     {
       "number": 559,
       "key": "marchand2026quantifying",
-<<<<<<< Updated upstream
-      "citation": "R. Marchand et al., “Quantifying frontier LLM capabilities for container sandbox escape,” arXiv, Mar. 2026. arXiv: 2603.02277. [Online]. Available: https://arxiv.org/ abs/2603.02277",
-=======
       "citation": "R. Marchand et al., Quantifying frontier LLM capabilities for container sandbox escape, Mar. 2026. arXiv: 2603.02277 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.02277",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.02277"
     },
     {
@@ -8163,21 +7935,13 @@ const DATA = {
     {
       "number": 567,
       "key": "sun2026stego",
-<<<<<<< Updated upstream
-      "citation": "Z. Sun et al., “Stego battlefield: Evaluating image steganography attacks and steganalysis defenses,” arXiv, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
-=======
       "citation": "Z. Sun et al., Stego battlefield: Evaluating image steganography attacks and steganalysis defenses, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.05789"
     },
     {
       "number": 568,
       "key": "na2025countering",
-<<<<<<< Updated upstream
-      "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering Jailbreak Attacks with Two-Axis Pre-detection and Conditional Warning Wrappers,”inProc. European Symposium on Research in Computer Security, 2025, pp. 249–268.",
-=======
       "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering jailbreak attacks with two-axis pre-detection and conditional warning wrappers,” in Proc. European Symposium on Research in Computer Security, Cham, Switzerland, Sep. 2025, pp. 249–268.",
->>>>>>> Stashed changes
       "url": "https://security.cs.washington.edu/"
     },
     {
@@ -8201,22 +7965,13 @@ const DATA = {
     {
       "number": 572,
       "key": "bhardwaj2026superlocalmemory",
-<<<<<<< Updated upstream
-      "citation": "V. P. Bhardwaj, “SuperLocalMemory: privacy-preserving multi-agent memory with Bayesian trust defense against memory poisoning,” arXiv,Feb.2026.arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
-=======
       "citation": "V. P. Bhardwaj, SuperLocalMemory: Privacy-preserving multi-agent memory with Bayesian trust defense against memory poisoning, Feb. 2026. arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
       "url": "https://arxiv.org/abs/2603.02240"
->>>>>>> Stashed changes
     },
     {
       "number": 573,
       "key": "alibabacloud2026instanceisolation",
-<<<<<<< Updated upstream
-      "citation": "ALIBABACLOUD,Instanceisolationoverview,AlibabaCloudFunctionComputeDoc- umentation, Apr. 2026. [Online]. Available: https://www.alibabacloud.com/help/ en/functioncompute/fc/overview-of-instance-isolation",
-=======
       "citation": "Alibaba Cloud. “Instance isolation overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/fc/overview-of-instance-isolation",
->>>>>>> Stashed changes
       "url": "https://www.alibabacloud.com/help/en/functioncompute/fc/overview-of-instance-isolation"
     },
     {
@@ -8228,21 +7983,13 @@ const DATA = {
     {
       "number": 575,
       "key": "aepdAgenticAI2026",
-<<<<<<< Updated upstream
-      "citation": "A. E. de Protección de Datos, Agentic artificial intelligence from the perspective of data protection, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf",
-=======
       "citation": "AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS. “Agentic artificial intelligence from the perspective of data protection,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf",
->>>>>>> Stashed changes
       "url": "https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf"
     },
     {
       "number": 576,
       "key": "liu2025safe",
-<<<<<<< Updated upstream
-      "citation": "C. Liu et al., “Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 12171–12186.",
-=======
       "citation": "C. Liu et al., “Safe: Enhancing mathematical reasoning in large language models via retrospective step-aware formal verification,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria, Jul. 2025, pp. 12 171–12 186.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -8278,11 +8025,7 @@ const DATA = {
     {
       "number": 582,
       "key": "albrethsen2026deepcontext",
-<<<<<<< Updated upstream
-      "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, “Deepcontext: Stateful real-time detection of multi-turn adversarial intent drift in LLMs,” arXiv, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
-=======
       "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, Deepcontext: Stateful real-time detection of multi-turn adversarial intent drift in LLMs, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.16935"
     },
     {
@@ -8324,21 +8067,13 @@ const DATA = {
     {
       "number": 589,
       "key": "prabakaran2026cl",
-<<<<<<< Updated upstream
-      "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer genomic integrity with hierarchical Bloom–Merkle trees for Ethics-Aware, explainable personalized gene editing,” IEEE Access, 2026.",
-=======
       "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer genomic integrity with hierarchical Bloom–Merkle trees for ethics-aware, explainable personalized gene editing,” IEEE Access, vol. 14, pp. 17 702–17 723, Feb. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 590,
       "key": "azarafrooz2026cross",
-<<<<<<< Updated upstream
-      "citation": "A. Azarafrooz, “Cross-session threats in AI agents: Benchmark, evaluation, and algorithms,” arXiv, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
-=======
       "citation": "A. Azarafrooz, Cross-session threats in AI agents: Benchmark, evaluation, and algorithms, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2604.21131"
     },
     {
@@ -8368,11 +8103,7 @@ const DATA = {
     {
       "number": 595,
       "key": "zouBlockA2A2025",
-<<<<<<< Updated upstream
-      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, “Blocka2a: Towards secure and verifiable agent-to-agent interoperability,” arXiv, Aug. 2025. arXiv: 2508.01332. [Online]. Available: https://arxiv.org/abs/2508.01332",
-=======
       "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, BlockA2A: Towards secure and verifiable agent-to-agent interoperability, Aug. 2025. arXiv: 2508.01332 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.01332",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.01332"
     },
     {
@@ -8390,11 +8121,7 @@ const DATA = {
     {
       "number": 598,
       "key": "gao2025imperceptible",
-<<<<<<< Updated upstream
-      "citation": "K.Gaoetal.,“Imperceptible jailbreaking against large language models,”arXiv preprint arXiv:2510.05025, 2025.",
-=======
       "citation": "K. Gao et al., Imperceptible jailbreaking against large language models, Oct. 2025. arXiv: 2510.05025 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2510.05025",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2510.05025"
     },
     {
@@ -8406,11 +8133,7 @@ const DATA = {
     {
       "number": 600,
       "key": "das2026trojan",
-<<<<<<< Updated upstream
-      "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, “Trojan hippo: Weaponizing agent memory for data exfiltration,”arXivpreprintarXiv:2605.01970, 2026.",
-=======
       "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, Trojan hippo: Weaponizing agent memory for data exfiltration, 2026. arXiv: 2605.01970 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.01970",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.01970"
     },
     {
@@ -8422,11 +8145,7 @@ const DATA = {
     {
       "number": 602,
       "key": "luo2025agrail",
-<<<<<<< Updated upstream
-      "citation": "W. Luo et al., “AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 8104–8139.",
-=======
       "citation": "W. Luo et al., “AGrail: A lifelong agent guardrail with effective and adaptive safety detection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 8104–8139.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -8498,11 +8217,7 @@ const DATA = {
     {
       "number": 614,
       "key": "barua2025guardians",
-<<<<<<< Updated upstream
-      "citation": "S.Barua,M.Rahman,M.J.Sadek,R.Islam,S.Khaled,andA.Kabir,“Guardiansofthe agentic system: Preventing many shots jailbreak with agentic system,” arXiv preprint arXiv:2502.16750, 2025. Available: https://arxiv.org/abs/2502.16750",
-=======
       "citation": "S. Barua, M. Rahman, M. J. Sadek, R. Islam, S. Khaled, and A. Kabir, Guardians of the agentic system: Preventing many shots jailbreak with agentic system, 2025. arXiv: 2502.16750 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2502.16750",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2502.16750"
     },
     {
@@ -8628,11 +8343,7 @@ const DATA = {
     {
       "number": 635,
       "key": "microsoft2026exploitablemisconfigurations",
-<<<<<<< Updated upstream
-      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Y. Weizman, When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps, Mi- crosoft,May2026.[Online].Available:https://www.microsoft.com/en-us/security/ blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations- ai-apps/",
-=======
       "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Yossi Weizman, “When configuration becomes a vulnerability: exploitable misconfigurations in AI apps,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
->>>>>>> Stashed changes
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/"
     },
     {
@@ -8668,11 +8379,7 @@ const DATA = {
     {
       "number": 641,
       "key": "yang2025chain",
-<<<<<<< Updated upstream
-      "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide Your Intention Through Multi-Turn Interrogation,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
-=======
       "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide your intention through multi-turn interrogation,” in Proc. Findings of the Association for Computational Linguistics, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -8768,11 +8475,7 @@ const DATA = {
     {
       "number": 657,
       "key": "aws_agentcore_memory",
-<<<<<<< Updated upstream
-      "citation": "AMAZON WEB SERVICES, Amazon AgentCore now supports memory with session metadata, May 2026. [Online]. Available: https://aws.amazon.com/cn/about-aws/ whats-new/2026/05/agentcore-memory-scmetadata/",
-=======
       "citation": "AMAZON WEB SERVICES, “Amazon AgentCore now supports memory with session metadata,” 2026. [Online]. Available: https://aws.amazon.com/cn/about-aws/whats-new/2026/05/agentcore-memory-scmetadata/",
->>>>>>> Stashed changes
       "url": "https://aws.amazon.com/cn/about-aws/whats-new/2026/05/agentcore-memory-scmetadata/"
     },
     {
@@ -8904,11 +8607,7 @@ const DATA = {
     {
       "number": 679,
       "key": "fogel2026inference",
-<<<<<<< Updated upstream
-      "citation": "A.Fogel,O.Hofman,E.Cohen,andR.Vainshtein,“Inference-timebackdoorsviahidden instructions in LLM chat templates,” arXiv, Feb. 2026. arXiv: 2602.04653. [Online]. Available: https://arxiv.org/abs/2602.04653",
-=======
       "citation": "A. Fogel, O. Hofman, E. Cohen, and R. Vainshtein, Inference-time backdoors via hidden instructions in LLM chat templates, Feb. 2026. arXiv: 2602.04653 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.04653",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.04653"
     },
     {
@@ -8986,11 +8685,7 @@ const DATA = {
     {
       "number": 692,
       "key": "wang2026triex",
-<<<<<<< Updated upstream
-      "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
-=======
       "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A game-based tri-view framework for explaining internal reasoning in multi-agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9056,11 +8751,7 @@ const DATA = {
     {
       "number": 703,
       "key": "srinivasan2026agentqualityoptimization",
-<<<<<<< Updated upstream
-      "citation": "B. Srinivasan, A. Khurana, and N. Kandoi, Introducing agent quality optimization in AgentCore, now in preview, May 2026. [Online]. Available: https://aws.amazon. com/blogs/machine-learning/introducing-agent-quality-optimization-in- agentcore-now-in-preview/",
-=======
       "citation": "B. Srinivasan, A. Khurana, and N. Kandoi, “Introducing agent quality optimization in AgentCore, now in preview,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/",
->>>>>>> Stashed changes
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/"
     },
     {
@@ -9132,11 +8823,7 @@ const DATA = {
     {
       "number": 715,
       "key": "shahroz2025agents",
-<<<<<<< Updated upstream
-      "citation": "R. Shahroz, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
-=======
       "citation": "R. M. S. Khan, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents under siege: Breaking pragmatic multi-agent LLM systems with optimized prompt attacks,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9196,11 +8883,7 @@ const DATA = {
     {
       "number": 725,
       "key": "bhuiya2025plague",
-<<<<<<< Updated upstream
-      "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, “Plague: Plug-and-play framework for life-long adaptive generation of multi-turn exploits,” arXiv, Oct. 2025. arXiv: 2510.17947. [Online]. Available: https://arxiv.org/abs/2510.17947",
-=======
       "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, Plague: Plug-and-play framework for lifelong adaptive generation of multi-turn exploits, Oct. 2025. arXiv: 2510.17947 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.17947",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2510.17947"
     },
     {
@@ -9212,11 +8895,7 @@ const DATA = {
     {
       "number": 727,
       "key": "wang2025gsafeguard",
-<<<<<<< Updated upstream
-      "citation": "S. Wang et al., “G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-Agent systems,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261–7276.",
-=======
       "citation": "S. Wang et al., “G-Safeguard: A topology-guided security lens and treatment on LLM-based multi-agent systems,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261–7276.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9324,11 +9003,7 @@ const DATA = {
     {
       "number": 745,
       "key": "lupinacci2025dark",
-<<<<<<< Updated upstream
-      "citation": "M. Lupinacci, F. A. Pironti, F. Blefari, F. Romeo, L. Arena, and A. Furfaro, “The dark side of llms: Agent-based attacks for complete computer takeover,” arXiv preprint arXiv:2507.06850, 2025. [Online] Available: https://arxiv.org/abs/2507.06850",
-=======
       "citation": "M. Lupinacci, F. A. Pironti, F. Blefari, F. Romeo, L. Arena, and A. Furfaro, The dark side of LLMs: Agent-based attacks for complete computer takeover, Jul. 2025. arXiv: 2507.06850 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2507.06850",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2507.06850"
     },
     {
@@ -9466,11 +9141,7 @@ const DATA = {
     {
       "number": 768,
       "key": "microsoft2026ngroktunnelintrusion",
-<<<<<<< Updated upstream
-      "citation": "MICROSOFT INCIDENT RESPONSE, Undermining the trust boundary: Investigat- ing a stealthy intrusion through third-party compromise, May 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining- the-trust-boundary-investigating-a-stealthy-intrusion-through-third- party-compromise/",
-=======
       "citation": "MICROSOFT INCIDENT RESPONSE, “Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
->>>>>>> Stashed changes
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/"
     },
     {
@@ -9506,11 +9177,7 @@ const DATA = {
     {
       "number": 774,
       "key": "li2025piguard",
-<<<<<<< Updated upstream
-      "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt Injection Guardrail via Miti-Gating Overdefense for Free,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30420–30437.",
-=======
       "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt injection guardrail via mitigating overdefense for free,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30 420–30 437.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9552,13 +9219,8 @@ const DATA = {
     {
       "number": 781,
       "key": "vijayvargiya2026openagentsafety",
-<<<<<<< Updated upstream
-      "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. 14th International Conference on Learning Representations, Rio de Janeiro, Brazil, Apr. 2026.",
-      "url": ""
-=======
       "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. International Conference on Learning Representations, Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://openreview.net/forum?id=xggSxCFQbA",
       "url": "https://openreview.net/forum?id=xggSxCFQbA"
->>>>>>> Stashed changes
     },
     {
       "number": 782,
@@ -9575,11 +9237,7 @@ const DATA = {
     {
       "number": 784,
       "key": "liu2025datasentinel",
-<<<<<<< Updated upstream
-      "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks,” in Proc. IEEE Symposium on Security and Privacy, San Francisco, CA, USA, May 2025, pp. 2190–2208.",
-=======
       "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A game-theoretic detection of prompt injection attacks,” in Proc. IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, USA, May 2025, pp. 2190–2208.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9591,11 +9249,7 @@ const DATA = {
     {
       "number": 786,
       "key": "nist2025media",
-<<<<<<< Updated upstream
-      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY, “Guidelines for media sanitization (NIST SP 800-88 rev. 2),” National Institute of Standards and Technology, Tech. Rep. 800-88 Rev. 2, 2025.",
-=======
       "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Guidelines for media sanitization (NIST SP 800-88 rev. 2).”",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -9637,11 +9291,7 @@ const DATA = {
     {
       "number": 793,
       "key": "wu2026phantompolicy",
-<<<<<<< Updated upstream
-      "citation": "J. Wu and M. Gong, “Policy-invisible violations in LLM-based agents,” arXiv, Apr. 2026. arXiv: 2604.12177. [Online]. Available: https://arxiv.org/abs/2604.12177",
-=======
       "citation": "J. Wu and M. Gong, Policy-invisible violations in LLM-based agents, Apr. 2026. arXiv: 2604.12177 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.12177",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2604.12177"
     },
     {
@@ -9761,11 +9411,7 @@ const DATA = {
     {
       "number": 813,
       "key": "wang2025privacyinaction",
-<<<<<<< Updated upstream
-      "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP,Suzhou,China:AssociationforComputationalLinguistics,Nov.2025, pp. 17055–17074. [Online]. Available: https://aclanthology.org/2025.findings- emnlp.925",
-=======
       "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP, Suzhou, China, Nov. 2025, pp. 17 055–17 074.",
->>>>>>> Stashed changes
       "url": "https://aclanthology.org/2025.findings-emnlp.925"
     },
     {
@@ -9801,13 +9447,8 @@ const DATA = {
     {
       "number": 819,
       "key": "liu2025unlearning",
-<<<<<<< Updated upstream
-      "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Machine Intelligence, vol. 7, no. 2, pp. 181–194, 2025. [Online]. Available: https://www. nature.com/articles/s42256-025-00985-0",
-      "url": "https://arxiv.org/abs/1912.03817"
-=======
       "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Machine Intelligence, vol. 7, no. 2, pp. 181–194, Feb. 2025.",
       "url": "https://www.nature.com/articles/s42256-025-00985-0"
->>>>>>> Stashed changes
     },
     {
       "number": 820,
@@ -9818,13 +9459,8 @@ const DATA = {
     {
       "number": 821,
       "key": "kang2025memoryos",
-<<<<<<< Updated upstream
-      "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025, pp. 25961–25970. [Online]. Available: https://aclanthology.org/2025.emnlp-main.1318",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
-=======
       "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Nov. 2025, pp. 25 961– 25 970.",
       "url": "https://aclanthology.org/2025.emnlp-main.1318"
->>>>>>> Stashed changes
     },
     {
       "number": 822,
@@ -9907,11 +9543,7 @@ const DATA = {
     {
       "number": 835,
       "key": "redhat2026mcpgateway",
-<<<<<<< Updated upstream
-      "citation": "RED HAT, MCP server, Red Hat OpenShift Container Platform Documentation, 2026. Accessed:Jul.20,2026.[Online].Available:https://docs.redhat.com/en/documentation/ openshift_container_platform/4.22/html/ai_applications/mcp-server",
-=======
       "citation": "RED HAT. “MCP server,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server",
->>>>>>> Stashed changes
       "url": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server"
     },
     {
@@ -10313,11 +9945,7 @@ const DATA = {
     {
       "number": 902,
       "key": "propguard2026",
-<<<<<<< Updated upstream
-      "citation": "B. Yan et al., “Propguard: Safeguarding LLM-mas via propagation-aware exploration and remediation,” arXiv, May 2026. arXiv: 2605.16346 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.16346",
-=======
       "citation": "B. Yan et al., Propguard: Safeguarding LLM-mas via propagation-aware exploration and remediation, May 2026. arXiv: 2605.16346 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.16346",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.16346"
     },
     {
@@ -10329,11 +9957,7 @@ const DATA = {
     {
       "number": 904,
       "key": "nguyen2025violentutf",
-<<<<<<< Updated upstream
-      "citation": "T. N. Nguyen, “Demo: Violentutf as An Accessible Platform for Generative AI Red Teaming” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
-=======
       "citation": "T. N. Nguyen, “Demo: ViolentUTF as an accessible platform for generative AI red teaming,” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -10381,11 +10005,7 @@ const DATA = {
     {
       "number": 912,
       "key": "booth2026agentidentity",
-<<<<<<< Updated upstream
-      "citation": "H. Booth, W. Fisher, R. Galluzzo, and J. Roberts, “Accelerating the adoption of software and artificial intelligence agent identity and authorization,” National Institute of Standards and Technology, Initial Public Draft Concept Paper, Feb. 2026. [Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the- adoption-of-software-and-ai-agent/ipd",
-=======
       "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Accelerating the adoption of software and artificial intelligence agent identity and authorization. ”[Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
->>>>>>> Stashed changes
       "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd"
     },
     {
@@ -10451,11 +10071,7 @@ const DATA = {
     {
       "number": 923,
       "key": "he2026seb",
-<<<<<<< Updated upstream
-      "citation": "J. He and D. Yu, “Sovereign execution broker: Enforcing certificate-bound authority in agentic control planes,” arXiv, Jun. 2026. arXiv: 2606.20520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.20520",
-=======
       "citation": "J. He and D. Yu, Sovereign execution broker: Enforcing certificate-bound authority in agentic control planes, Jun. 2026. arXiv: 2606.20520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.20520",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.20520"
     },
     {
@@ -10539,13 +10155,8 @@ const DATA = {
     {
       "number": 937,
       "key": "Vandendriessche_2026_CAIN",
-<<<<<<< Updated upstream
-      "citation": "W.Vandendriessche,J.Thijsman,L.D’hooge,B.Volckaert,andM.Sebrechts,“AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training,” in Proc. ACM/IEEE International Conference on AI Engineering—Software Engineering for AI, 2026. [Online]. Available: https://arxiv.org/abs/2601.05703",
-      "url": "https://arxiv.org/abs/2601.05703"
-=======
       "citation": "W. Vandendriessche, J. Thijsman, L. D’hooge, B. Volckaert, and M. Sebrechts, “AIBoMGen: Generating an AI bill of materials for secure, transparent, and compliant model training,” in Proc. ACM/IEEE International Conference on AI Engineering, Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://www.researchgate.net/profile/Wiebe-Vandendriessche/publication/399667421_AIBoMGen_Generating_an_AI_Bill_of_Materials_for_Secure_Transparent_and_Compliant_Model_Training/links/6964ccf5c906f117f2a3e0a8/AIBoMGen-Generating-an-AI-Bill-of-Materials-for-Secure-Transparent-and-Compliant-Model-Training.pdf",
       "url": "https://www.researchgate.net/profile/Wiebe-Vandendriessche/publication/399667421_AIBoMGen_Generating_an_AI_Bill_of_Materials_for_Secure_Transparent_and_Compliant_Model_Training/links/6964ccf5c906f117f2a3e0a8/AIBoMGen-Generating-an-AI-Bill-of-Materials-for-Secure-Transparent-and-Compliant-Model-Training.pdf"
->>>>>>> Stashed changes
     },
     {
       "number": 938,
@@ -10736,11 +10347,7 @@ const DATA = {
     {
       "number": 969,
       "key": "he2025aitm",
-<<<<<<< Updated upstream
-      "citation": "P. He, Y. Lin, S. Dong, H. Xu, Y. Xing, and H. Liu, “Red-teaming LLM multi-agent systems via communication attacks,” in Proc. Findings of the Association for Compu- tational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 6726–6747.",
-=======
       "citation": "P. He, Y. Lin, S. Dong, H. Xu, Y. Xing, and H. Liu, “Red-teaming LLM multi-agent systems via communication attacks,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 6726–6747.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -10866,13 +10473,8 @@ const DATA = {
     {
       "number": 990,
       "key": "piccardo2026agentic",
-<<<<<<< Updated upstream
-      "citation": "G. Piccardo, G. F. Italiano, and A. Martino, “The agentic kill chain: A cognitive threat framework for autonomous agent ecosystems,” in Proc. Joint National Conference on Cybersecurity (ITASEC/SERICS), CEUR Workshop Proceedings, Vol. 4198, Italy, Jan. 2026.",
-      "url": ""
-=======
       "citation": "G. Piccardo, G. F. Italiano, and A. Martino, “The agentic kill chain: A cognitive threat framework for autonomous agent ecosystems,” in Proc. Joint National Conference on Cybersecurity, Cagliari, Italy, Feb. 2026, to appear. [Online]. Available: https://ceur-ws.org/Vol-4198/paper7.pdf",
       "url": "https://ceur-ws.org/Vol-4198/paper7.pdf"
->>>>>>> Stashed changes
     },
     {
       "number": 991,
@@ -10907,11 +10509,7 @@ const DATA = {
     {
       "number": 996,
       "key": "muhammad2026audit",
-<<<<<<< Updated upstream
-      "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code framework for continuous AI assurance,” Front. Artif. Intell., vol. 9, p. 1759211, Feb. 2026.",
-=======
       "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code framework for continuous AI assurance,” Frontiers in Artificial Intelligence, vol. 9, p. 1 759 211, Feb. 2026.",
->>>>>>> Stashed changes
       "url": "https://docs.sonarsource.com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance"
     },
     {
@@ -10977,11 +10575,7 @@ const DATA = {
     {
       "number": 1007,
       "key": "vissers2026matra",
-<<<<<<< Updated upstream
-      "citation": "T. Van hamme et al., “MATRA: Modeling the attack surface of agentic AI systems-OpenClaw case study,” in Proc. Int. Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI), Lisbon, Portugal, Jul. 2026, to appear.",
-=======
       "citation": "T. Van Hamme et al., “MATRA: Modeling the attack surface of agentic AI systems—OpenClaw case study,” in Proc. International Workshop on Designing and Measuring Security in Systems with AI, Lisbon, Portugal, Jul. 2026, to appear.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11011,11 +10605,7 @@ const DATA = {
     {
       "number": 1012,
       "key": "wang2026shadows",
-<<<<<<< Updated upstream
-      "citation": "X. Wang, K. Huang, B. Liang, H. Li, and X. Du, “Shadows in the code: Exploring the risks and defenses of LLM-based multi-agent software development systems,” in Proc. AAAI Conf. Artif. Intell., vol. 40, Jan. 2026, pp. 37970–37978.",
-=======
       "citation": "X. Wang, K. Huang, B. Liang, H. Li, and X. Du, “Shadows in the code: Exploring the risks and defenses of LLM-based multi-agent software development systems,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jan. 2026, pp. 37 970–37 978.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11033,13 +10623,8 @@ const DATA = {
     {
       "number": 1015,
       "key": "boisvert2025silent",
-<<<<<<< Updated upstream
-      "citation": "L. Boisvert et al., “Silent Sabotage: Injecting Backdoors into AI Agents Through Fine-Tuning,” in Proc. Workshop on Computer Use Agents (ICML), Vancouver, Canada, Jul. 2025, to appear.",
-      "url": ""
-=======
       "citation": "L. Boisvert et al., “Silent sabotage: Injecting backdoors into AI agents through fine-tuning,” in Proc. ICML Workshop on Computer Use Agents, Vancouver, Canada, Jul. 2025, to appear. [Online]. Available: https://icml.cc/virtual/2025/49791",
       "url": "https://icml.cc/virtual/2025/49791"
->>>>>>> Stashed changes
     },
     {
       "number": 1016,
@@ -11212,13 +10797,8 @@ const DATA = {
     {
       "number": 1044,
       "key": "center2026request",
-<<<<<<< Updated upstream
-      "citation": "C. for AI Standards, N. I. o. S. Innovation (CAISI), and T. (NIST), Request for information regarding security considerations for artificial intelligence agents, Jan. 2026. [On- line]. Available: https://www.federalregister.gov/documents/2026/01/08/2026- 00206/request-for-information-regarding-security-considerations-for- artificial-intelligence-agents",
-      "url": "https://arxiv.org/abs/2603.12230"
-=======
       "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Request for information regarding security considerations for artificial intelligence agents,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
       "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents"
->>>>>>> Stashed changes
     },
     {
       "number": 1045,
@@ -11325,11 +10905,7 @@ const DATA = {
     {
       "number": 1062,
       "key": "herrador2026spaiware",
-<<<<<<< Updated upstream
-      "citation": "M. Herrador and J. Rehberger, “Spaiware: Uncovering a novel artificial intelligence at- tackvectorthroughpersistentmemoryinllmapplicationsandagents,”future generation computer systems, vol. 174, p. 107994, 2026.",
-=======
       "citation": "M. Herrador and J. Rehberger, “SpAIware: Uncovering a novel artificial intelligence attack vector through persistent memory in LLM applications and agents,” Future Generation Computer Systems, vol. 174, p. 107 994, Jan. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11371,11 +10947,7 @@ const DATA = {
     {
       "number": 1069,
       "key": "storf2026constitutional",
-<<<<<<< Updated upstream
-      "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional Black-Box Monitoring for Scheming in LLM Agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
-=======
       "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional black-box monitoring for scheming in LLM agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11441,11 +11013,7 @@ const DATA = {
     {
       "number": 1080,
       "key": "li2025dissonance",
-<<<<<<< Updated upstream
-      "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les Dissonances: Cross-Tool Harvestingand Polluting in Pool-of-Tools Empowered LLM Agents,”inProc. Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb. 2025.",
-=======
       "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les dissonances: Cross-tool harvesting and polluting in pool-of-tools empowered LLM agents,” in Proc. Network and Distributed System Security Symposium, San Diego, CA, USA, Feb. 2026.",
->>>>>>> Stashed changes
       "url": "https://cse.ucsd.edu/research/cryptography-security-privacy"
     },
     {
@@ -11524,7 +11092,7 @@ const DATA = {
       "number": 1093,
       "key": "sharma2025interoperability",
       "citation": "R. Sharma, M. de Vos, P. Chari, R. Raskar, and A.-M. Kermarrec, “Position: Collaborative agentic AI needs interoperability across ecosystems,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026. [Online]. Available: 10.48550/arXiv.2602.16811",
-      "url": "10.48550/arXiv.2602.16811"
+      "url": ""
     },
     {
       "number": 1094,
@@ -11565,11 +11133,7 @@ const DATA = {
     {
       "number": 1100,
       "key": "ceka2025traceability",
-<<<<<<< Updated upstream
-      "citation": "I. Ceka et al., “Understanding Automated Program Repair Agents Through the Lens of Traceability: An Empirical Study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
-=======
       "citation": "I. Ceka et al., “Understanding automated program repair agents through the lens of traceability: An empirical study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11629,11 +11193,7 @@ const DATA = {
     {
       "number": 1110,
       "key": "han2026rethinking",
-<<<<<<< Updated upstream
-      "citation": "W. Han et al., “Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
-=======
       "citation": "W. Han et al., “Rethinking the capability of fine-tuned language models for automated vulnerability repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11645,11 +11205,7 @@ const DATA = {
     {
       "number": 1112,
       "key": "kaniewski2026revisiting",
-<<<<<<< Updated upstream
-      "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
-=======
       "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and replicability of RAG-based vulnerability detection with open-weight models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11673,11 +11229,7 @@ const DATA = {
     {
       "number": 1116,
       "key": "openai2025aardvark",
-<<<<<<< Updated upstream
-      "citation": "OpenAI Security Team. “introducing aardvark: autonomous AI security research agent,” Accessed: Jul. 21, 2026. [Online]. Available: https://openai.com/research/aardvark",
-=======
       "citation": "OPENAI SECURITY TEAM, “Introducing Aardvark: Autonomous AI Security Research Agent,” 2025. [Online]. Available: https://openai.com/research/aardvark",
->>>>>>> Stashed changes
       "url": "https://openai.com/research/aardvark"
     },
     {
@@ -11731,21 +11283,13 @@ const DATA = {
     {
       "number": 1125,
       "key": "Wang_2026_M2CVD",
-<<<<<<< Updated upstream
-      "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability un- derstanding through multi-model collaboration for code vulnerability detection,” ACM Transactions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
-=======
       "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability understanding through multi-model collaboration for code vulnerability detection,” ACM Transactions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
->>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 1126,
       "key": "dou2026enhancing",
-<<<<<<< Updated upstream
-      "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: addressing catastrophic forgetting via hybrid-confidence-aware selective replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
-=======
       "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: Addressing catastrophic forgetting via hybrid-confidence-aware selective replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
->>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.23834"
     },
     {
@@ -16732,7 +16276,7 @@ const DATA = {
     },
     {
       "key": "shlomov2026governance",
-      "type": "news",
+      "type": "inproceedings",
       "title": "Governance Frameworks for Secure AI Agent Development and Deployment",
       "author": "Shlomov, Daniel and others",
       "year": "2026",
@@ -16975,7 +16519,7 @@ const DATA = {
     },
     {
       "key": "wang2025envinjection",
-      "type": "misc",
+      "type": "inproceedings",
       "title": "EnvInjection: Environmental Prompt Injection Attack to Multi-modal Web Agents",
       "author": "Wang, Xilong and Bloch, John and Shao, Zedian and Hu, Yuepeng and Zhou, Shuyan and Gong, Neil Zhenqiang",
       "year": "2025",
