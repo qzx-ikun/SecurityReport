@@ -23,6 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# SuperDesign temporary component templates
+.superdesign/tmp/
+
 # Local agent and design workspaces
 .agents/
 .claude/
@@ -42,4 +45,3 @@ pdf_extracted/
 output/
 
 # Large report source files are hosted outside the frontend repository
-

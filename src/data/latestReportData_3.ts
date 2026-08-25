@@ -4539,14 +4539,14 @@ const DATA = {
     {
       "number": 1,
       "key": "owasp2026agentictop10",
-      "citation": "OWASP GENAI SECURITY PROJECT, OWASP top 10 for agentic applications for 2026, Dec. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://genai.owasp. org/resource/owasp-top-10-for-agentic-applications-for-2026/",
-      "url": "https://genai.owasp.org/2025/12/09/owasp-genai-security-project-releases-top-10-risks-and-mitigations-for-agentic-ai-security/"
+      "citation": "GenAI Security Project. “OWASP top 10 for agentic applications,” Accessed: Jul. 20, 2026. [Online]. Available: https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/"
     },
     {
       "number": 2,
       "key": "stanfordhai2026index",
       "citation": "Stanford Institute for Human-Centered Artificial Intelligence (HAI). “Stanford AI index report 2026,” Accessed: Jul. 20, 2026. [Online]. Available: https://hai.stanford.edu/ai-index/2026-ai-index-report",
-      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "number": 3,
@@ -4575,8 +4575,8 @@ const DATA = {
     {
       "number": 7,
       "key": "sun2026survey",
-      "citation": "Y. Sun et al., “A survey on the unique security of autonomous and collaborative llm agents: Threats, defenses, and futures,” 2026.",
-      "url": ""
+      "citation": "Y. Sun et al., A survey on the unique security of autonomous and collaborative LLM agents: Threats, defenses, and futures, Mar. 2026. [Online]. Available: https://www.preprints.org/manuscript/202602.1655/v2",
+      "url": "https://www.preprints.org/manuscript/202602.1655/v2"
     },
     {
       "number": 8,
@@ -4605,985 +4605,1036 @@ const DATA = {
     {
       "number": 12,
       "key": "mitAIRiskRepo2026",
-      "citation": "P. Slattery et al., “The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence,” Patterns, 2026.",
+      "citation": "P. Slattery et al., “The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence,” Patterns, vol. 7, no. 5, p. 101 517, May 2026.",
       "url": ""
     },
     {
       "number": 13,
       "key": "mitCSSGroup2026",
-      "citation": "N. Zeldovich and H. Corrigan-Gibbs, MIT CSAIL computer systems security group, Jul. 2026. [Online]. Available: https://css.csail.mit.edu/",
+      "citation": "N. Zeldovich and H. Corrigan-Gibbs. “MIT CSAIL computer systems security group,” Accessed: Jul. 29, 2026. [Online]. Available: https://css.csail.mit.edu/",
       "url": "https://css.csail.mit.edu/"
     },
     {
       "number": 14,
       "key": "stanfordCRFM2026",
-      "citation": "STANFORD CRFM, Stanford center for research on foundation models, 2026. [Online]. Available: https://crfm.stanford.edu/",
+      "citation": "Stanford CRFM. “Stanford center for research on foundation models,” Accessed: Jul. 29, 2026. [Online]. Available: https://crfm.stanford.edu/",
       "url": "https://crfm.stanford.edu/"
     },
     {
       "number": 15,
       "key": "stanfordJai2026",
-      "citation": "STANFORD SECURE COMPUTER SYSTEMS GROUP, Jai: Lightweight Linux sand- box for AI agents, 2026. [Online]. Available: https://jai.scs.stanford.edu/",
-      "url": "https://www.scs.stanford.edu/"
+      "citation": "Stanford Secure Computer Systems Group. “Jai: Lightweight Linux sandbox for AI agents.” Accessed: Jul. 20, 2026, Accessed: Jul. 20, 2026. [Online]. Available: https://jai.scs.stanford.edu/",
+      "url": "https://jai.scs.stanford.edu/"
     },
     {
       "number": 16,
       "key": "bfcl2025",
-      "citation": "S. G. Patil et al., “The Berkeley function calling leaderboard (BFCL): From tool use to agentic evaluation of large language models,” in Proc. 42nd International Conference on Machine Learning, 2025.",
-      "url": ""
+      "citation": "S. G. Patil et al., “The Berkeley function calling leaderboard (BFCL): From tool use to agentic evaluation of large language models,” in Proc. 42nd International Conference on Machine Learning, Vancouver, Canada, Jul. 2025, pp. 48 371–48 392. [Online]. Available: https://proceedings.mlr.press/v267/patil25a.html",
+      "url": "https://proceedings.mlr.press/v267/patil25a.html"
     },
     {
       "number": 17,
       "key": "siu2026framework",
-      "citation": "V.Siuetal.,“AframeworkforformalizingLLMagentsecurity,”arXivpreprintarXiv:2603.19469, 2026. [Online]. Available: https://arxiv.org/abs/2603.19469",
+      "citation": "V. Siu et al., A framework for formalizing LLM agent security, Mar. 2026. arXiv: 2603.19469 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.19469",
       "url": "https://arxiv.org/abs/2603.19469"
     },
     {
       "number": 18,
       "key": "dempo2026",
+<<<<<<< Updated upstream
       "citation": "S. Sana, J. Wu, and M. T. Wells, “Democratic preference alignment via sortition-weighted RLHF,” arXiv preprint arXiv:2602.05113, 2026. [Online]. Available: https://arxiv.org/abs/2602.05113",
+=======
+      "citation": "S. Sana, J. Wu, and M. T. Wells, Democratic preference alignment via sortition-weighted RLHF, Feb. 2026. arXiv: 2602.05113 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.05113",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.05113"
     },
     {
       "number": 19,
       "key": "warp2026",
-      "citation": "T. Zhang, H. Triedman, and V. Shmatikov, “Deep-research agents can be poisoned via user-generated content,” arXiv preprint arXiv:2605.24245, 2026. [Online]. Available: https://arxiv.org/abs/2605.24245",
+      "citation": "T. Zhang, H. Triedman, and V. Shmatikov, Deep-research agents can be poisoned via user-generated content, May 2026. arXiv: 2605.24245 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.24245",
       "url": "https://arxiv.org/abs/2605.24245"
     },
     {
       "number": 20,
       "key": "shi2025progent",
-      "citation": "T. Shi et al., Progent: Programmable privilege control for LLM agents, 2025. arXiv: 2504.11703. [Online]. Available: https://arxiv.org/abs/2504.11703",
+      "citation": "T. Shi et al., Progent: Programmable privilege control for LLM agents, 2025. arXiv: 2504.11703 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.11703",
       "url": "https://arxiv.org/abs/2504.11703"
     },
     {
       "number": 21,
       "key": "safearena2025",
-      "citation": "A. D. Tur et al., “Safearena: Evaluating the safety of autonomous web agents,” in Proc. 42nd International Conference on Machine Learning (ICML), 2025, pp. 60404–60441.",
-      "url": ""
+      "citation": "A. D. Tur et al., “SafeArena: Evaluating the safety of autonomous web agents,” in Proc. 42nd International Conference on Machine Learning (ICML), Vancouver, Canada, Jul. 2025, pp. 60 404–60 441. [Online]. Available: https://proceedings.mlr.press/v267/tur25a.html",
+      "url": "https://proceedings.mlr.press/v267/tur25a.html"
     },
     {
       "number": 22,
       "key": "equifaxsim2025",
-      "citation": "B. Singer, V. Sekar, and L. Bauer, When LLMs autonomously attack, Carnegie Mellon University, 2025. [Online]. Available: https://engineering.cmu.edu/news-events/ news/2025/07/24-when-llms-autonomously-attack.html",
+      "citation": "B. Singer, V. Sekar, and L. Bauer, “When LLMs autonomously attack,” 2025. [Online]. Available: https://engineering.cmu.edu/news-events/news/2025/07/24-when-llms-autonomously-attack.html",
       "url": "https://engineering.cmu.edu/news-events/news/2025/07/24-when-llms-autonomously-attack.html"
     },
     {
       "number": 23,
       "key": "promptlock2025",
+<<<<<<< Updated upstream
       "citation": "M. Raz, M. Udeshi, P. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, “Ransomware 3.0: Self-composing and LLM-Orchestrated,” arXiv preprint arXiv:2508.20444, 2025. [Online]. Available: https://arxiv.org/abs/2508.20444",
+=======
+      "citation": "M. Raz, M. Udeshi, P. V. S. Charan, P. Krishnamurthy, F. Khorrami, and R. Karri, Ransomware 3.0: Self-composing and LLM-orchestrated, Aug. 2025. arXiv: 2508.20444 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.20444",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.20444"
     },
     {
       "number": 24,
       "key": "aiworm2026",
-      "citation": "J. Guan, T. Blanchard, H. Foerster, H. Jia, G. Huang, and N. Papernot, “AI agents enable adaptive computer worms,” arXiv preprint arXiv:2606.03811, 2026. [Online]. Available: https://arxiv.org/abs/2606.03811",
+      "citation": "J. Guan, T. Blanchard, H. Foerster, H. Jia, G. Huang, and N. Papernot, AI agents enable adaptive computer worms, Jun. 2026. arXiv: 2606.03811 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.03811",
       "url": "https://arxiv.org/abs/2606.03811"
     },
     {
       "number": 25,
       "key": "astra2025",
+<<<<<<< Updated upstream
       "citation": "X. Xu et al., “ASTRA: Autonomous spatial-temporal red-teaming for AI software assistants,” arXiv preprint arXiv:2508.03936, 2025. [Online]. Available: https://arxiv. org/abs/2508.03936",
+=======
+      "citation": "X. Xu et al., ASTRA: Autonomous spatial-temporal red-teaming for AI software assistants, Aug. 2025. arXiv: 2508.03936 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.03936",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.03936"
     },
     {
       "number": 26,
       "key": "cybergym2025",
-      "citation": "Z. Wang, T. Shi, J. He, M. Cai, J. Zhang, and D. Song, “CyberGym: Evaluating AI agents’ cybersecurity capabilities with real-world vulnerabilities at scale,” arXiv, 2025. arXiv: 2506.02548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.02548",
+      "citation": "Z. Wang, T. Shi, J. He, M. Cai, J. Zhang, and D. Song, CyberGym: Evaluating AI agents’ cybersecurity capabilities with real-world vulnerabilities at scale, Jun. 2025. arXiv: 2506.02548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.02548",
       "url": "https://arxiv.org/abs/2506.02548"
     },
     {
       "number": 27,
       "key": "berkmanklein2026",
-      "citation": "H. B. K. CENTER, Berkman Klein center for internet & society, 2026. [Online]. Avail- able: https://cyber.harvard.edu/",
+      "citation": "Harvard Berkman Klein Center. “Berkman Klein center for internet & society,” Accessed: Jul. 21, 2026. [Online]. Available: https://cyber.harvard.edu/",
       "url": "https://cyber.harvard.edu/"
     },
     {
       "number": 28,
       "key": "princetonCITP2026",
-      "citation": "PRINCETON CITP, Center for information technology policy (CITP), 2026. [Online]. Available: https://citp.princeton.edu/",
+      "citation": "Princeton CITP. “Center for information technology policy (CITP),” Accessed: Jul. 21, 2026. [Online]. Available: https://citp.princeton.edu/",
       "url": "https://citp.princeton.edu/"
     },
     {
       "number": 29,
       "key": "vectorResponsibleAI2025",
+<<<<<<< Updated upstream
       "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA, Toolkit for small-and medium-sized enterprises deploying artificial intelligence, 2025. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and- medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
+=======
+      "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA. “Toolkit for small-and medium-sized enterprises deploying artificial intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/toolkit-small-and-medium-sized-enterprises-smes-deploying-artificial-intelligence-ai",
+>>>>>>> Stashed changes
       "url": "https://ised-isde.canada.ca/site/ised/en/toolkit-small-and-medium-sized-enterprises-smes-deploying-artificial-intelligence-ai"
     },
     {
       "number": 30,
       "key": "caisi2026",
-      "citation": "CANADIAN INSTITUTE FOR ADVANCED RESEARCH (CIFAR), Canadian AI safetyinstituteresearchprogramatCIFAR,2026.[Online].Available:https://research. ubc.ca/stories/ubc-researchers-advance-sociotechnical-approaches-ai- safety",
-      "url": "https://research"
+      "citation": "CANADIAN INSTITUTE FOR ADVANCED RESEARCH (CIFAR), “Canadian AI Safety Institute Research Program at CIFAR,” 2026. [Online]. Available: https://research.ubc.ca/stories/ubc-researchers-advance-sociotechnical-approaches-ai-safety",
+      "url": "https://research.ubc.ca/stories/ubc-researchers-advance-sociotechnical-approaches-ai-safety"
     },
     {
       "number": 31,
       "key": "cmuAISIRT2026",
-      "citation": "CMU Software Engineering Institute, AI security incident response team (AISIRT), 2026. [Online]. Available: https://www.sei.cmu.edu/about/divisions/cert/ai- security-incident-response-team/",
+      "citation": "CMU Software Engineering Institute. “AI security incident response team (AISIRT),” Accessed: Jul. 21, 2026. [Online]. Available: https://www.sei.cmu.edu/about/divisions/cert/ai-security-incident-response-team/",
       "url": "https://www.sei.cmu.edu/about/divisions/cert/ai-security-incident-response-team/"
     },
     {
       "number": 32,
       "key": "uiucCSL",
-      "citation": "UNIVERSITYOFILLINOISURBANA-CHAMPAIGN,Coordinated science laboratory, 2026. [Online]. Available: https://csl.illinois.edu",
+      "citation": "University of Illinois Urbana-Champaign. “Coordinated science laboratory,” Accessed: Jul. 29, 2026. [Online]. Available: https://csl.illinois.edu",
       "url": "https://csl.illinois.edu"
     },
     {
       "number": 33,
       "key": "mitRus2026",
-      "citation": "COMPUTERSCIENCEANDARTIFICIALINTELLIGENCELABORATORY(CSAIL) AT MIT, Daniela Rus – personal homepage, https://www.csail.mit.edu/person/ daniela-rus, 2026. [Online]. Available: https://www.csail.mit.edu/person/ daniela-rus",
+      "citation": "Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. “Daniela Rus – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.csail.mit.edu/person/daniela-rus",
       "url": "https://www.csail.mit.edu/person/daniela-rus"
     },
     {
       "number": 34,
       "key": "mitSoftRobotSafety2026",
-      "citation": "MITNEWS,Newcontrolsystemteachessoftrobotstheartofstayingsafe,2025.[Online]. Available: https://news.mit.edu/2025/new-control-system-teaches-soft- robots-art-staying-safe-1202",
-      "url": "https://news.mit.edu/2025/new-control-system-teaches-soft-"
+      "citation": "MIT NEWS, “New Control System Teaches Soft Robots the Art of Staying Safe,” 2025. [Online]. Available: https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202",
+      "url": "https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202"
     },
     {
       "number": 35,
       "key": "mitALFAResearch2026",
-      "citation": "ANYSCALELEARNINGFORALLGROUP,MITCSAIL,ALFAlabresearch:AI+Cybersecurity, 2026. [Online]. Available: https://alfagroup.csail.mit.edu/research/",
+      "citation": "ALFA Lab, MIT CSAIL. “ALFA lab’s research projects,” Accessed: Jul. 23, 2026. [Online]. Available: https://alfagroup.csail.mit.edu/research/",
       "url": "https://alfagroup.csail.mit.edu/research/"
     },
     {
       "number": 36,
       "key": "stanfordHAI2026",
-      "citation": "STANFORDINSTITUTEFORHUMAN-CENTEREDARTIFICIALINTELLIGENCE, Stanford institute for human-centered artificial intelligence (HAI), 2026. [Online]. Avail- able: https://hai.stanford.edu/",
+      "citation": "Stanford Institute for Human-Centered Artificial Intelligence. “Stanford institute for human-centered Artificial Intelligence (HAI),” Accessed: Jul. 21, 2026. [Online]. Available: https://hai.stanford.edu/",
       "url": "https://hai.stanford.edu/"
     },
     {
       "number": 37,
       "key": "stanfordCAIS2026",
-      "citation": "C.Barrett,D.L.Dill,M.J.Kochenderfer,andD.Sadigh,“StanfordcenterforAIsafety,” 2020. [Online]. Available: https://aisafety.stanford.edu/docs/whitepaper.pdf",
-      "url": "https://aisafety.stanford.edu/docs/whitepaper.pdf"
+      "citation": "C. Barrett and M. J. Kochenderfer. “Stanford center for AI safety,” Accessed: Jul. 23, 2026. [Online]. Available: https://aisafety.stanford.edu/",
+      "url": "https://aisafety.stanford.edu/"
     },
     {
       "number": 38,
       "key": "stanfordKochenderfer2026",
-      "citation": "STANFORDINSTITUTEFORHUMAN-CENTEREDARTIFICIALINTELLIGENCE, Mykel Kochenderfer – personal homepage. [Online]. Available: https://hai.stanford. edu/people/mykel-kochenderfer",
+      "citation": "Stanford Institute for Human-Centered Artificial Intelligence. “Mykel Kochenderfer – personal homepage.” Accessed: Jul. 20, 2026, Accessed: Jul. 20, 2026. [Online]. Available: https://hai.stanford.edu/people/mykel-kochenderfer",
       "url": "https://hai.stanford.edu/people/mykel-kochenderfer"
     },
     {
       "number": 39,
       "key": "agentsofchaos2026",
-      "citation": "N. Shapira et al., Agents of chaos, 2026. [Online]. Available: https://arxiv.org/abs/ 2602.20021",
+      "citation": "N. Shapira et al., Agents of chaos, Feb. 2026. arXiv: 2602.20021. [Online]. Available: https://arxiv.org/abs/2602.20021",
       "url": "https://arxiv.org/abs/2602.20021"
     },
     {
       "number": 40,
       "key": "stanfordSCS2026",
-      "citation": "STANFORD COMPUTER SCIENCE DEPARTMENT, Stanford secure computer sys- tems group, 2026. [Online]. Available: https://www.scs.stanford.edu/",
+      "citation": "Stanford Computer Science Department. “Stanford secure computer systems group,” Accessed: Jul. 29, 2026. [Online]. Available: https://www.scs.stanford.edu/",
       "url": "https://www.scs.stanford.edu/"
     },
     {
       "number": 41,
       "key": "berkeleyBAIR2026",
-      "citation": "THEBERKELEYARTIFICIALINTELLIGENCERESEARCH(BAIR)LAB,Berkeley artificial intelligence research lab, 2026. [Online]. Available: https://bair.berkeley. edu/",
+      "citation": "The Berkeley Artificial Intelligence Research (BAIR) Lab. “Berkeley Artificial Intelligence research lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://bair.berkeley.edu/",
       "url": "https://bair.berkeley.edu/"
     },
     {
       "number": 42,
       "key": "pieterAbbeelHomepage2026",
-      "citation": "BERKELEY ROBOT LEARNING LAB, UC BERKELEY, Pieter Abbeel – personal homepage, 2026. [Online]. Available: https://people.eecs.berkeley.edu/~pabbeel/",
-      "url": "https://people.eecs.berkeley.edu/ pabbeel/"
+      "citation": "Berkeley Robot Learning Lab, UC Berkeley. “Pieter Abbeel – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://people.eecs.berkeley.edu/~pabbeel/",
+      "url": "https://people.eecs.berkeley.edu/~pabbeel/"
     },
     {
       "number": 43,
       "key": "berkeleySky2026",
-      "citation": "SKY COMPUTING UC BERKELEY ELECTRICAL ENGINEERING AND COM- PUTER SCIENCE DEPARTMENT (EECS), UC Berkeley sky computing lab, 2026. [Online]. Available: https://sky.cs.berkeley.edu/",
+      "citation": "Sky Computing Lab, Electrical Engineering and Computer Sciences (EECS), UC Berkeley. “UC Berkeley Sky computing lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://sky.cs.berkeley.edu/",
       "url": "https://sky.cs.berkeley.edu/"
     },
     {
       "number": 44,
       "key": "berkeleyCHAI2026",
-      "citation": "UCBERKELEYCENTERFORHUMAN-COMPATIBLEAI,Centerforhuman-compatible artificial intelligence (CHAI), https://humancompatible.ai/.",
+      "citation": "UC Berkeley Center for Human-Compatible AI. “Center for human-compatible Artificial Intelligence (CHAI),” Accessed: Jul. 21, 2026. [Online]. Available: https://humancompatible.ai/",
       "url": "https://humancompatible.ai/"
     },
     {
       "number": 45,
       "key": "dawnSongBerkeley2026",
-      "citation": "THE DEPARTMENT OF ELECTRICAL ENGINEERING AND COMPUTER SCI- ENCES (EECS) AT UC BERKELEY, Dawn Song – personal homepage, 2026. [Online]. Available: https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+      "citation": "Department of Electrical Engineering and Computer Sciences (EECS) at UC Berkeley. “Dawn Song – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
       "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html"
     },
     {
       "number": 46,
       "key": "cmuCyLab2026",
-      "citation": "CARNEGIE MELLON UNIVERSITY, CyLab security and privacy institute, 2026. [On- line]. Available: https://www.cylab.cmu.edu/",
+      "citation": "Carnegie Mellon University. “CyLab security and privacy institute,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cylab.cmu.edu/",
       "url": "https://www.cylab.cmu.edu/"
     },
     {
       "number": 47,
       "key": "cmuRI2026",
-      "citation": "CARNEGIEMELLONUNIVERSITY,Roboticsinstitute,2026.[Online].Available:https://www.ri.cmu.edu/",
+      "citation": "Carnegie Mellon University. “Robotics institute,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ri.cmu.edu/",
       "url": "https://www.ri.cmu.edu/"
     },
     {
       "number": 48,
       "key": "purdueASSET2026",
-      "citation": "P. UNIVERSITY, ASSET research lab, 2026. [Online]. Available: https://lt-asset. github.io/",
+      "citation": "Purdue University. “ASSET research lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://lt-asset.github.io/",
       "url": "https://lt-asset.github.io/"
     },
     {
       "number": 49,
       "key": "purcl2025nova",
-      "citation": "AMAZON SCIENCE STAFF WRITER, Pushing the boundaries of secure AI: Winners of the Amazon nova AI challenge, 2025. [Online]. Available: https://www.amazon. science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners- of-the-amazon-nova-ai-challenge",
+      "citation": "AMAZON SCIENCE STAFF WRITER, “Pushing the Boundaries of Secure AI: Winners of the Amazon Nova AI Challenge,” 2025. [Online]. Available: https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge",
       "url": "https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge"
     },
     {
       "number": 50,
       "key": "purdueIDEAS2026",
-      "citation": "IDEAS LAB, PURDUE UNIVERSITY, Aniket Bera – personal homepage, 2026. [On- line]. Available: https://www.cs.purdue.edu/people/faculty/bera89.html",
-      "url": "https://aisecure.github.io/"
+      "citation": "IDEAS Lab, Purdue University. “Aniket Bera – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cs.purdue.edu/people/faculty/bera89.html",
+      "url": "https://www.cs.purdue.edu/people/faculty/bera89.html"
     },
     {
       "number": 51,
       "key": "ideasdod2025",
+<<<<<<< Updated upstream
       "citation": "DEPARTMENT OF COMPUTER SCIENCE, PURDUE UNIVERSITY, IDEAS lab awarded 5-year defense grant to advance AI-enabled air–ground robotic collaboration, 2025. [Online]. Available: https://www.cs.purdue.edu/news/articles/2025/ideas- lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground- robotic-collaboration.html",
+=======
+      "citation": "DEPARTMENT OF COMPUTER SCIENCE, PURDUE UNIVERSITY, “IDEAS Lab Awarded 5-Year Defense Grant to Advance AI-Enabled Air-Ground Robotic Collaboration,” 2025. [Online]. Available: https://www.cs.purdue.edu/news/articles/2025/ideas-lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground-robotic-collaboration.html",
+>>>>>>> Stashed changes
       "url": "https://www.cs.purdue.edu/news/articles/2025/ideas-lab-awarded-5-year-defense-grant-to-advance-ai-controlled-airground-robotic-collaboration.html"
     },
     {
       "number": 52,
       "key": "purdueCERIAS2026",
-      "citation": "THE CENTER FOR EDUCATION AND RESEARCH IN INFORMATION ASSUR- ANCE AND SECURITY (CERIAS), PURDUE UNIVERSITY, Center for education and research in information assurance and security, 2026. [Online]. Available: https://www.cerias.purdue.edu/",
+      "citation": "Center for Education and Research in Information Assurance and Security (CERIAS), Purdue University. “Center for education and research in information assurance and security,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cerias.purdue.edu/",
       "url": "https://www.cerias.purdue.edu/"
     },
     {
       "number": 53,
       "key": "kakadeHomepage2026",
-      "citation": "S. Kakade, Sham M. Kakade – personal homepage, https://shamulent.github.io/.",
+      "citation": "S. Kakade. “Sham M. Kakade – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://shamulent.github.io/",
       "url": "https://shamulent.github.io/"
     },
     {
       "number": 54,
       "key": "kempnerHarmfulness2026",
-      "citation": "H. Orgad et al., “Large language models generate harmful content using a distinct, unified mechanism,” arXiv preprint arXiv:2604.09544, 2026. [Online]. Available: https://arxiv.org/abs/2604.09544",
+      "citation": "H. Orgad et al., Large language models generate harmful content using a distinct, unified mechanism, shared across harm types, Apr. 2026. arXiv: 2604.09544 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2604.09544",
       "url": "https://arxiv.org/abs/2604.09544"
     },
     {
       "number": 55,
       "key": "privacytoolsharvard2026",
-      "citation": "S. Vadhan, Harvard University privacy tools project, https://salil.seas.harvard. edu/privacy-tools-project, 2026.",
-      "url": "https://salil.seas.harvard"
+      "citation": "S. Vadhan. “Harvard University privacy tools project,” Accessed: Jul. 21, 2026. [Online]. Available: https://salil.seas.harvard.edu/privacy-tools-project",
+      "url": "https://salil.seas.harvard.edu/privacy-tools-project"
     },
     {
       "number": 56,
       "key": "mickensharvard2026",
-      "citation": "J. Mickens, Agentic AI and cybersecurity: Threats, governance, and strategy, 2026. [On- line]. Available: https://events.seas.harvard.edu/event/agentic-ai-and- cybersecurity-threats-governance-and-strategy",
+      "citation": "J. Mickens. “Agentic AI and cybersecurity: Threats, governance, and strategy,” Accessed: Jul. 21, 2026. [Online]. Available: https://events.seas.harvard.edu/event/agentic-ai-and-cybersecurity-threats-governance-and-strategy",
       "url": "https://events.seas.harvard.edu/event/agentic-ai-and-cybersecurity-threats-governance-and-strategy"
     },
     {
       "number": 57,
       "key": "cornellLevine2026",
-      "citation": "L. Levine, Lionel Levine – personal homepage, https://lionellevine.github.io/.",
+      "citation": "L. Levine. “Lionel Levine – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://lionellevine.github.io/",
       "url": "https://lionellevine.github.io/"
     },
     {
       "number": 58,
       "key": "shmatikovHomepage2026",
-      "citation": "CORNELLUNIVERSITY,Vitaly Shmatikov – personal homepage,2026.[Online].Avail- able: https://www.cs.cornell.edu/people/vitaly-shmatikov",
+      "citation": "Cornell University (Cornell). “Vitaly Shmatikov – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cs.cornell.edu/people/vitaly-shmatikov",
       "url": "https://www.cs.cornell.edu/people/vitaly-shmatikov"
     },
     {
       "number": 59,
       "key": "vec2vec2025",
-      "citation": "R. Jha, C. Zhang, V. Shmatikov, and J. X. Morris, “Harnessing the universal geometry of embeddings,” arXiv preprint arXiv:2505.12540, 2025. [Online]. Available: https://arxiv.org/abs/2505.12540",
+      "citation": "R. Jha, C. Zhang, V. Shmatikov, and J. X. Morris, Harnessing the universal geometry of embeddings, May 2025. arXiv: 2505.12540 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2505.12540",
       "url": "https://arxiv.org/abs/2505.12540"
     },
     {
       "number": 60,
       "key": "gatechSCP2026",
-      "citation": "GEORGIAINSTITUTEOFTECHNOLOGY,Schoolofcybersecurityandprivacy,2026. [Online]. Available: https://scp.cc.gatech.edu/",
+      "citation": "Georgia Institute of Technology. “School of cybersecurity and privacy,” Accessed: Jul. 21, 2026. [Online]. Available: scp.cc.gatech.edu",
       "url": "https://scp.cc.gatech.edu/"
     },
     {
       "number": 61,
       "key": "uiucITI2026",
-      "citation": "UNIVERSITYOFILLINOIS,InformationTrustInstitute(ITI),https://iti.illinois. edu/, 2026.",
-      "url": "https://iti.illinois"
+      "citation": "University of Illinois. “Information Trust Institute (ITI),” Accessed: Jul. 21, 2026. [Online]. Available: https://iti.illinois.edu/",
+      "url": "https://iti.illinois.edu/"
     },
     {
       "number": 62,
       "key": "uiucBoLi2026",
-      "citation": "COMPUTER SCIENCE DEPARTMENT AT THE UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN, Bo Li – personal homepage, 2026. [Online]. Available: https://aisecure.github.io/",
+      "citation": "Computer Science Department at the University of Illinois at Urbana-Champaign. “Bo Li – personal homepage. ”[Online]. Available: https://aisecure.github.io/",
       "url": "https://aisecure.github.io/"
     },
     {
       "number": 63,
       "key": "uiucHengJi2026",
-      "citation": "COMPUTER SCIENCE DEPARTMENT AT THE UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN,HengJi–personalhomepage,2026.[Online].Available:https://blender.cs.illinois.edu/hengji.html",
+      "citation": "Computer Science Department at the University of Illinois at Urbana-Champaign. “Heng Ji – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://blender.cs.illinois.edu/hengji.html",
       "url": "https://blender.cs.illinois.edu/hengji.html"
     },
     {
       "number": 64,
       "key": "narasimhanHomepage2026",
-      "citation": "K. Narasimhan, Karthik Narasimhan – personal homepage, 2026. [Online]. Available: https://karthikncode.github.io/",
-      "url": "https://aisecure.github.io/"
+      "citation": "K. Narasimhan. “Karthik Narasimhan – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://karthikncode.github.io/",
+      "url": "https://karthikncode.github.io/"
     },
     {
       "number": 65,
       "key": "princetonSecPriv2026",
-      "citation": "THETRUSTEESOFPRINCETONUNIVERSITY,Security&privacy,Princetoncom- puter science, 2026. [Online]. Available: https://www.cs.princeton.edu/research/ areas/sp",
+      "citation": "The Trustees of Princeton University. “Security & privacy, Princeton computer science,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cs.princeton.edu/research/areas/sp",
       "url": "https://www.cs.princeton.edu/research/areas/sp"
     },
     {
       "number": 66,
       "key": "shafiqueHomepage2026",
-      "citation": "NEW YORK UNIVERSITY ABU DHABI, Muhammad Shafique, 2026. [Online]. Avail- able: https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/ muhammad-shafique.html",
+      "citation": "New York University Abu Dhabi (NYUAD). “Muhammad Shafique,” Accessed: Jul. 21, 2026. [Online]. Available: https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html",
       "url": "https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html"
     },
     {
       "number": 67,
       "key": "metacipher2025",
-      "citation": "B. Chen, M. Shao, A. Basit, S. Garg, and M. Shafique, “MetaCipher: A time-persistent and universal multi-agent framework for cipher-based jailbreak attacks for LLMs,” in Proc. AAAI Conference on Artificial Intelligence, vol. 40, 2026, pp. 37268–37276.",
+      "citation": "B. Chen, M. Shao, A. Basit, S. Garg, and M. Shafique, “MetaCipher: A time-persistent and universal multi-agent framework for cipher-based jailbreak attacks for LLMs,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jan. 2026, pp. 37 268–37 276.",
       "url": ""
     },
     {
       "number": 68,
       "key": "sucholutskyAITP2026",
-      "citation": "I. Sucholutsky, AI Thought Partner Lab (AITP), https://ilia10000.github.io/.",
+      "citation": "I. Sucholutsky. “AI thought partner lab (AITP),” Accessed: Jul. 21, 2026. [Online]. Available: https://ilia10000.github.io/",
       "url": "https://ilia10000.github.io/"
     },
     {
       "number": 69,
       "key": "agentauditor2025",
-      "citation": "H. Luo et al., “AgentAuditor: Human-level safety and security evaluation for LLM agents,” Advances in Neural Information Processing Systems, vol. 38, pp. 43241–43298, 2025.",
-      "url": ""
+      "citation": "H. Luo et al., “AgentAuditor: Human-level safety and security evaluation for LLM agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA, 2025, pp. 43 241–43 298. [Online]. Available: https://openreview.net/forum?id=2KKqp7MWJM",
+      "url": "https://openreview.net/forum?id=2KKqp7MWJM"
     },
     {
       "number": 70,
       "key": "stackelbergDefense2025",
+<<<<<<< Updated upstream
       "citation": "Z. Han and Q. Zhu, “Toward a dynamic Stackelberg game-theoretic framework for agentic AI defense against LLM jailbreaking,” arXiv preprint arXiv:2507.08207, 2025.",
       "url": ""
+=======
+      "citation": "Z. Han and Q. Zhu, Toward a dynamic Stackelberg game-theoretic framework for agentic AI defense against LLM jailbreaking, Jul. 2025. arXiv: 2507.08207 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2507.08207",
+      "url": "https://arxiv.org/abs/2507.08207"
+>>>>>>> Stashed changes
     },
     {
       "number": 71,
       "key": "schwartzReisman2026",
-      "citation": "UNIVERSITY OF TORONTO, Schwartz Reisman Institute for Technology and Society, 2026. [Online]. Available: https://srinstitute.utoronto.ca/",
+      "citation": "University of Toronto. “Schwartz Reisman Institute for Technology and Society,” Accessed: Jul. 21, 2026. [Online]. Available: https://srinstitute.utoronto.ca/",
       "url": "https://srinstitute.utoronto.ca/"
     },
     {
       "number": 72,
       "key": "cleverhans2026",
-      "citation": "UNIVERSITY OF TORONTO AND THE VECTOR INSTITUTE, Cleverhans lab, 2026. [Online]. Available: https://cleverhans-lab.github.io/",
+      "citation": "University of Toronto and the Vector Institute. “Cleverhans lab,” Accessed: Jul. 21, 2026. [Online]. Available: cleverhans-lab.github.io/",
       "url": "https://cleverhans-lab.github.io/"
     },
     {
       "number": 73,
       "key": "tisl2026",
-      "citation": "UNIVERSITY OF TORONTO, Toronto Intelligent Systems Lab, 2026. [Online]. Avail- able: https://tisl.cs.utoronto.ca/",
+      "citation": "University of Toronto. “Toronto intelligent systems lab.” Accessed: Jul. 21, 2026, Accessed: Jul. 21, 2026. [Online]. Available: https://tisl.cs.utoronto.ca/",
       "url": "https://tisl.cs.utoronto.ca/"
     },
     {
       "number": 74,
       "key": "dorl2026",
-      "citation": "DYNAMIC OPTIMIZATION & REINFORCEMENT LEARNING LAB. DEPART- MENT OF MECHANICAL AND INDUSTRIAL ENGINEERING, UNIVERSITY OF TORONTO., Dynamic optimization and reinforcement learning lab, 2026. [Online]. Available: https://dorl.mie.utoronto.ca/research.html",
+      "citation": "Dynamic Optimization & Reinforcement Learning Lab, Department of Mechanical and Industrial Engineering, University of Toronto. “Dynamic optimization and reinforcement learning lab.” Accessed: Jul. 21, 2026, Accessed: Jul. 21, 2026. [Online]. Available: https://dorl.mie.utoronto.ca/research.html",
       "url": "https://dorl.mie.utoronto.ca/research.html"
     },
     {
       "number": 75,
       "key": "sivaReddy2026",
-      "citation": "SCHOOL OF COMPUTER SCIENCE AND LINGUISTICS AT MCGILL UNIVER- SITY, Siva Reddy – personal homepage, 2026. [Online]. Available: https://sivareddy. in/",
+      "citation": "School of Computer Science and Linguistics, McGill University (McGill). “Siva Reddy – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://sivareddy.in/",
       "url": "https://sivareddy.in/"
     },
     {
       "number": 76,
       "key": "safearenaGithub2025",
-      "citation": "MCGILL NLP GROUP, SafeArena benchmark, 2025. [Online]. Available: https:// github.com/McGill-NLP/safearena",
+      "citation": "McGill NLP Group. “SafeArena benchmark,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/McGill-NLP/safearena",
       "url": "https://github.com/McGill-NLP/safearena"
     },
     {
       "number": 77,
       "key": "ubcSPG2026",
-      "citation": "UNIVERSITY OF BRITISH COLUMBIA, UBC security & privacy group, 2026. [On- line]. Available: https://spg.cs.ubc.ca/",
+      "citation": "University of British Columbia. “UBC security & privacy group,” Accessed: Jul. 21, 2026. [Online]. Available: spg.cs.ubc.ca/",
       "url": "https://spg.cs.ubc.ca/"
     },
     {
       "number": 78,
       "key": "ubcLecuyer2026",
-      "citation": "THE UNIVERSITY OF BRITISH COLUMBIA, Mathias Lécuyer – personal homepage, 2026. [Online]. Available: https://mathias.lecuyer.me/",
-      "url": "https://aisecure.github.io/"
+      "citation": "The University of British Columbia. “Mathias Lécuyer – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://mathias.lecuyer.me/",
+      "url": "https://mathias.lecuyer.me/"
     },
     {
       "number": 79,
       "key": "ubcLemieux2026",
-      "citation": "Blockchain@UBC, Blockchain to improve the world, https://blockchain.ubc.ca/, 2026.",
+      "citation": "Blockchain@UBC. “Blockchain to improve the world,” Accessed: Jul. 21, 2026. [Online]. Available: blockchain.ubc.ca/",
       "url": "https://blockchain.ubc.ca/"
     },
     {
       "number": 80,
       "key": "eu_ai_act_2024",
+<<<<<<< Updated upstream
       "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act), Oﬀicial Journal of the European Union, L, 2024/1689, 2024-07-12, 2024. [Online]. Available: https://data.europa.eu/eli/reg/2024/1689/oj",
       "url": "https://artificialintelligenceact.eu/the-act/"
+=======
+      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION. “Regulation (EU) 2024/1689 of the European parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence (artificial intelligence act),” Accessed: Jul. 21, 2026. [Online]. Available: data.europa.eu/eli/reg/2024/1689/oj",
+      "url": "https://data.europa.eu/eli/reg/2024/1689/oj"
+>>>>>>> Stashed changes
     },
     {
       "number": 81,
       "key": "wooldridgeHomepage2026",
-      "citation": "UNIVERSITY OF OXFORD, Michael Wooldridge – personal homepage, 2026. [Online]. Available: https://www.cs.ox.ac.uk/people/michael.wooldridge/",
+      "citation": "University of Oxford. “Michael Wooldridge – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cs.ox.ac.uk/people/michael.wooldridge/",
       "url": "https://www.cs.ox.ac.uk/people/michael.wooldridge/"
     },
     {
       "number": 82,
       "key": "oxfordAIGI2026",
-      "citation": "OXFORDMARTINSCHOOL,RobertTrager–OxfordMartinAIGovernanceInitiative, 2026. [Online]. Available: https://aigi.ox.ac.uk/people/robert-trager/",
+      "citation": "Oxford Martin School. “Robert Trager – oxford martin AI governance initiative,” Accessed: Jul. 21, 2026. [Online]. Available: https://aigi.ox.ac.uk/people/robert-trager/",
       "url": "https://aigi.ox.ac.uk/people/robert-trager/"
     },
     {
       "number": 83,
       "key": "cambridgeCFI2026",
-      "citation": "UNIVERSITY OF CAMBRIDGE, Stephen Cave – personal homepage, 2026. [Online]. Available: https://www.lcfi.ac.uk/",
-      "url": "https://aisecure.github.io/"
+      "citation": "University of Cambridge. “Stephen Cave – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.lcfi.ac.uk/",
+      "url": "https://www.lcfi.ac.uk/"
     },
     {
       "number": 84,
       "key": "cispaFritz2026",
-      "citation": "CISPA HELMHOLTZ CENTER FOR INFORMATION SECURITY, Mario Fritz – personal homepage, 2026. [Online]. Available: https://cispa.saarland/group/fritz/",
-      "url": "https://cispa.de/en"
+      "citation": "CISPA Helmholtz Center for Information Security. “Mario Fritz – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://cispa.saarland/group/fritz/",
+      "url": "https://cispa.saarland/group/fritz/"
     },
     {
       "number": 85,
       "key": "tumSigl2026",
-      "citation": "TECHNICAL UNIVERSITY OF MUNICH, Georg Sigl – personal homepage, 2026. [On- line]. Available: https://www.ce.cit.tum.de/en/eisec/mitarbeiter/georg-sigl/",
-      "url": "https://aisecure.github.io/"
+      "citation": "Technical University of Munich. “Georg Sigl – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ce.cit.tum.de/en/eisec/mitarbeiter/georg-sigl/",
+      "url": "https://www.ce.cit.tum.de/en/eisec/mitarbeiter/georg-sigl/"
     },
     {
       "number": 86,
       "key": "as2025actsafe",
-      "citation": "Y. As, B. Sukhija, L. Treven, C. Sferrazza, S. Coros, and Y.-A. de Montjoye, “ActSafe: Active exploration with safety constraints for reinforcement learning,” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, 2025.",
-      "url": ""
+      "citation": "Y. As, B. Sukhija, L. Treven, C. Sferrazza, S. Coros, and A. Krause, “ActSafe: Active exploration with safety constraints for reinforcement learning,” in Proc. International Conference on Learning Representations, Singapore, Apr. 2025, pp. 29 752–29 776. [Online]. Available: https://openreview.net/forum?id=aKRADWBJ1I",
+      "url": "https://openreview.net/forum?id=aKRADWBJ1I"
     },
     {
       "number": 87,
       "key": "tudelftErkin2026",
-      "citation": "Z. Erkin, Zeki Erkin – personal homepage, 2026. [Online]. Available: https://www. linkedin.com/in/zeki-erkin-10a1184/",
-      "url": "https://aisecure.github.io/"
+      "citation": "Delft University of Technology. “Zeki Erkin – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.tudelft.nl/staff/z.erkin/",
+      "url": "https://www.tudelft.nl/staff/z.erkin/"
     },
     {
       "number": 88,
       "key": "eu_gdpr_2016",
+<<<<<<< Updated upstream
       "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION, Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation), Fedlex, Classified Compilation 235.1, 2016. [Online]. Available: https://www.fedlex.admin.ch/eli/cc/ 2022/491/en",
+=======
+      "citation": "EUROPEAN PARLIAMENT AND COUNCIL OF THE EUROPEAN UNION. “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (general data protection regulation),” Accessed: Jul. 21, 2026. [Online]. Available: fedlex.admin.ch/eli/cc/2022/491/en",
+>>>>>>> Stashed changes
       "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en"
     },
     {
       "number": 89,
       "key": "mpiEUAIAct2026",
-      "citation": "MAXPLANCKINSTITUTEFORINTELLIGENTSYSTEMS,ThreeMPI-ISscientists to serve on the EU AI ACT scientific panel, 2026. [Online]. Available: https://is. mpg.de/news/selected-to-serve-on-the-eu-ai-act-scientific-panel",
+      "citation": "MAX PLANCK INSTITUTE FOR INTELLIGENT SYSTEMS, “Three MPI-IS Scientists to Serve on the EU AI ACT Scientific Panel,” 2026. [Online]. Available: https://is.mpg.de/news/selected-to-serve-on-the-eu-ai-act-scientific-panel",
       "url": "https://is.mpg.de/news/selected-to-serve-on-the-eu-ai-act-scientific-panel"
     },
     {
       "number": 90,
       "key": "citipDataProtectionByDesign2025",
-      "citation": "P. Dewitte, Data protection by design 101. dissecting, applying and supporting article 25(1) GDPR, 2025. [Online]. Available: https://www.law.kuleuven.be/citip/en/ staff-members/staff/00018835/view?sortby=scdate&pubsonpage=20&pubtype= thesis-dissertation",
-      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/"
+      "citation": "P. Dewitte, “Data Protection by Design 101. Dissecting, Applying and Supporting Article 25(1) GDPR,” 2025. [Online]. Available: https://www.law.kuleuven.be/citip/en/staff-members/staff/00018835/view?sortby=scdate&pubsonpage=20&pubtype=thesis-dissertation",
+      "url": "https://www.law.kuleuven.be/citip/en/staff-members/staff/00018835/view?sortby=scdate&pubsonpage=20&pubtype=thesis-dissertation"
     },
     {
       "number": 91,
       "key": "cispaAgentSafety2026",
-      "citation": "I. Sheth, J. Wehne, S. Abdelnabi, R. Binkyte, and M. Fritz, “Position: Safety must precede the deployment of open-ended AI agents,” in Proc. International Conference on Machine Learning (ICML), 2026.",
+      "citation": "I. Sheth, J. Wehner, S. Abdelnabi, R. Binkyte, and M. Fritz, “Position: Safety must precede the deployment of open-ended AI agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026, to appear.",
       "url": ""
     },
     {
       "number": 92,
       "key": "tumCoinFlipSafety2026",
-      "citation": "L. Schwinn, M. Ladenburger, T. Beyer, M. Mofakhami, G. Gidel, and S. Günnemann, “A coin flip for safety: LLM judges fail to reliably measure adversarial robustness,” in Proc. International Conference on Machine Learning (ICML), 2026.",
-      "url": ""
+      "citation": "L. Schwinn, M. Ladenburger, T. Beyer, M. Mofakhami, G. Gidel, and S. Günnemann, “A coin flip for safety: LLM judges fail to reliably measure adversarial robustness,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026, to appear. [Online]. Available: https://openreview.net/forum?id=RgnoWsmYBM",
+      "url": "https://openreview.net/forum?id=RgnoWsmYBM"
     },
     {
       "number": 93,
       "key": "checkpointGCG2025",
-      "citation": "X. Yang, B. Stevanoski, and A.-M. Cretu, “Checkpoint-GCG: Auditing and attacking fine-tuning-based prompt injection defenses,” arXiv preprint arXiv:2507.06555, 2025. [Online]. Available: https://arxiv.org/abs/2505.15738",
+      "citation": "X. Yang, B. Stevanoski, M. Meeus, and Y.-A. de Montjoye, Checkpoint-GCG: Auditing and attacking fine-tuning-based prompt injection defenses, 2025. arXiv: 2505.15738 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.15738",
       "url": "https://arxiv.org/abs/2505.15738"
     },
     {
       "number": 94,
       "key": "mpiTimeBombs2026",
-      "citation": "S. Abdelnabi, Stateless yet not forgetful: Implicit memory as a hidden channel in LLMs, 2026. [Online]. Available: https://trust-ai-sem.github.io/",
+      "citation": "S. Abdelnabi, “Stateless Yet Not Forgetful: Implicit Memory as a Hidden Channel in LLMs,” 2026. [Online]. Available: https://trust-ai-sem.github.io/",
       "url": "https://trust-ai-sem.github.io/"
     },
     {
       "number": 95,
       "key": "cambridgeCHERI2026",
-      "citation": "UNIVERSITY OF CAMBRIDGE COMPUTER LABORATORY, Capability hardware enhanced RISC instructions, https://www.cl.cam.ac.uk/research/security/ ctsrd/cheri/, 2026.",
-      "url": "https://www.cl.cam.ac.uk/research/security/"
+      "citation": "University of Cambridge Computer Laboratory. “CHERI: Capability hardware enhanced RISC instructions,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/",
+      "url": "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/"
     },
     {
       "number": 96,
       "key": "tumSafeLLMRobots2026",
-      "citation": "TECHNICAL UNIVERSITY OF MUNICH, Cyber-physical systems professorship in Heilbronn, https://www.ce.cit.tum.de/en/ce/research/professorships/hncps/, 2026.",
+      "citation": "Technical University of Munich. “Cyber-physical systems professorship in Heilbronn,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ce.cit.tum.de/en/ce/research/professorships/hncps/",
       "url": "https://www.ce.cit.tum.de/en/ce/research/professorships/hncps/"
     },
     {
       "number": 97,
       "key": "gao2025provablySafe",
+<<<<<<< Updated upstream
       "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent navigation in unknown environments,” in Proc. 8th Conference on Robot Learning, vol. 270, PMLR, 2025, pp. 5466–5486.",
+=======
+      "citation": "Z. Gao, G. Yang, J. Bayrooti, and A. Prorok, “Provably safe online multi-agent navigation in unknown environments,” in Proc. 8th Conference on Robot Learning, Seoul, Korea, Sep. 2025, pp. 5466–5486.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 98,
       "key": "oxfordHarcourt2026",
-      "citation": "INSTITUTE FOR ETHICS IN AI, UNIVERSITY OF OXFORD, Institute team: Ethics in AI, Oﬀicial institutional webpage, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.oxford-aiethics.ox.ac.uk/meet-our-research-team",
-      "url": "https://www.oxford-aiethics.ox.ac.uk/"
+      "citation": "Institute for Ethics in AI, University of Oxford (Oxford). “Institute team: Ethics in AI,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.oxford-aiethics.ox.ac.uk/meet-our-research-team",
+      "url": "https://www.oxford-aiethics.ox.ac.uk/meet-our-research-team"
     },
     {
       "number": 99,
       "key": "cambridgeAgentIndex2026",
-      "citation": "UNIVERSITYOFCAMBRIDGE,Most AI botslack basicsafety disclosures, study finds, 2026. [Online]. Available: https://www.cam.ac.uk/stories/ai-agent-index-safety",
+      "citation": "University of Cambridge. “Most AI bots lack basic safety disclosures, study finds,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cam.ac.uk/stories/ai-agent-index-safety",
       "url": "https://www.cam.ac.uk/stories/ai-agent-index-safety"
     },
     {
       "number": 100,
       "key": "cambridgeSecurityGroup2026",
-      "citation": "UNIVERSITY OF CAMBRIDGE, Department of computer science and technology se- curity group, 2026. [Online]. Available: https://www.cl.cam.ac.uk/research/ security/people/",
+      "citation": "University of Cambridge. “Department of computer science and technology security group,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cl.cam.ac.uk/research/security/people/",
       "url": "https://www.cl.cam.ac.uk/research/security/people/"
     },
     {
       "number": 101,
       "key": "cambridgeFoersterAgentSecurity2026",
-      "citation": "R. Gardner, Can we trust AI to use our computers? 2026. [Online]. Available: https://www.cst.cam.ac.uk/news/can-we-trust-ai-use-our-computers",
+      "citation": "Rachel Gardner, “Can we trust AI to use our computers?,” 2026. [Online]. Available: https://www.cst.cam.ac.uk/news/can-we-trust-ai-use-our-computers",
       "url": "https://www.cst.cam.ac.uk/news/can-we-trust-ai-use-our-computers"
     },
     {
       "number": 102,
       "key": "cambridgeProrokLab2026",
-      "citation": "UNIVERSITY OF CAMBRIDGE, Prorok lab, 2026. [Online]. Available: https://www. proroklab.org/",
+      "citation": "University of Cambridge. “Prorok Lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.proroklab.org/",
       "url": "https://www.proroklab.org/"
     },
     {
       "number": 103,
       "key": "apssLab2026",
-      "citation": "S. Demetriou, APSS: Applications, platforms, and systems security lab. Accessed: Jul. 4, 2026. [Online]. Available: https://soteris.github.io/",
+      "citation": "S. Demetriou. “Soteris Demetriou – personal homepage,” Accessed: Jul. 4, 2026. [Online]. Available: https://soteris.github.io/",
       "url": "https://soteris.github.io/"
     },
     {
       "number": 104,
       "key": "apssNeSyDebates2026",
-      "citation": "APPLICATIONS,PLATFORMS,ANDSYSTEMSSECURITYLAB,IMPERIALCOL- LEGE LONDON, NeSyDebates: Neuro-Symbolic debates for safeguarded generative AI, https://apss.doc.ic.ac.uk/, 2026.",
+      "citation": "Applications, Platforms, and Systems Security Lab, Imperial College London. “NeSyDebates: Neuro-Symbolic debates for safeguarded generative AI,” Accessed: Jul. 21, 2026. [Online]. Available: https://apss.doc.ic.ac.uk/",
       "url": "https://apss.doc.ic.ac.uk/"
     },
     {
       "number": 105,
       "key": "imperialAISPLab2026",
-      "citation": "IMPERIAL COLLEGE LONDON, AIsecurity and privacy lab, 2026. [Online]. Available: https://aisp.doc.ic.ac.uk/",
+      "citation": "Imperial College London. “AI security and privacy lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://aisp.doc.ic.ac.uk/",
       "url": "https://aisp.doc.ic.ac.uk/"
     },
     {
       "number": 106,
       "key": "llmMembershipInference2025",
+<<<<<<< Updated upstream
       "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Membership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, 2025.",
+=======
+      "citation": "M. Meeus, I. Shilov, S. Jain, M. Faysse, M. Rei, and Y.-A. de Montjoye, “SoK: Membership inference attacks on LLMs are rushing nowhere (and how to fix it),” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning, Copenhagen, Denmark, Apr. 2025, pp. 385–401.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 107,
       "key": "uclS2Lab2026",
-      "citation": "UNIVERSITY COLLEGE LONDON, Systems security research lab, 2026. [Online]. Available: https://s2lab.cs.ucl.ac.uk/",
+      "citation": "University College London (UCL). “Systems security research lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://s2lab.cs.ucl.ac.uk/",
       "url": "https://s2lab.cs.ucl.ac.uk/"
     },
     {
       "number": 108,
       "key": "uclIC2026",
-      "citation": "UNIVERSITY COLLEGE LONDON, UCL interaction centre, 2026. [Online]. Available: https://www.ucl.ac.uk/uclic/",
-      "url": "https://www.ucl.ac.uk/ai-centre/"
+      "citation": "University College London (UCL). “UCL interaction centre,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ucl.ac.uk/uclic/",
+      "url": "https://www.ucl.ac.uk/uclic/"
     },
     {
       "number": 109,
       "key": "uclHumanCentredSecurity2026",
+<<<<<<< Updated upstream
       "citation": "UCL INFORMATION SECURITY RESEARCH GROUP, M. Angela Sasse FREng – personal homepage, 2026. [Online]. Available: https://sec.cs.ucl.ac.uk/people/m_ angela_sasse/",
       "url": "https://aisecure.github.io/"
+=======
+      "citation": "UCL Information Security Research Group. “M. Angela Sasse FREng – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://sec.cs.ucl.ac.uk/people/m_angela_sasse/",
+      "url": "https://sec.cs.ucl.ac.uk/people/m_angela_sasse/"
+>>>>>>> Stashed changes
     },
     {
       "number": 110,
       "key": "edinburghSPT2026",
-      "citation": "UNIVERSITY OF EDINBURGH SCHOOL OF INFORMATICS, Security, privacy and trust, 2026. [Online]. Available: https://informatics.ed.ac.uk/security-privacy- and-trust",
-      "url": "https://informatics.ed.ac.uk/"
+      "citation": "University of Edinburgh, School of Informatics. “Security, privacy and trust,” Accessed: Jul. 21, 2026. [Online]. Available: https://informatics.ed.ac.uk/security-privacy-and-trust",
+      "url": "https://informatics.ed.ac.uk/security-privacy-and-trust"
     },
     {
       "number": 111,
       "key": "edinburghCTF2026",
-      "citation": "THE UNIVERSITY OF EDINBURGH, Centre for technomoral futures, 2026. [Online]. Available: https://efi.ed.ac.uk/ecosystem/centre-for-technomoral-futures/",
+      "citation": "University of Edinburgh. “Centre for technomoral futures,” Accessed: Jul. 21, 2026. [Online]. Available: https://efi.ed.ac.uk/ecosystem/centre-for-technomoral-futures/",
       "url": "https://efi.ed.ac.uk/ecosystem/centre-for-technomoral-futures/"
     },
     {
       "number": 112,
       "key": "braidProgramme2026",
-      "citation": "UK RESEARCH AND INNOVATION, Bridging responsible AI divides, 2026. [Online]. Available: https://www.ukri.org/what-we-do/browse-our-areas-of-investment- and-support/bridging-responsible-ai-divides-braid/",
+      "citation": "UK RESEARCH AND INNOVATION. “Bridging responsible AI divides,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/bridging-responsible-ai-divides-braid/",
       "url": "https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/bridging-responsible-ai-divides-braid/"
     },
     {
       "number": 113,
       "key": "gyevnar2026responsibleDivides",
-      "citation": "B. Gyevnár and A. Kasirzadeh, “Bridging the gap in the responsible AI divides,” arXiv preprint arXiv:2603.14495, 2026. [Online]. Available: https://arxiv.org/abs/2603.",
-      "url": "https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/bridging-responsible-ai-divides-braid/"
+      "citation": "B. Gyevnár and A. Kasirzadeh, Bridging the gap in the responsible AI divides, 2026. arXiv: 2603.14495 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2603.14495",
+      "url": "https://arxiv.org/abs/2603.14495"
     },
     {
       "number": 114,
       "key": "tumAlthoff2026",
-      "citation": "DEPARTMENT OF MECHANICAL ENGINEERING AT THE TECHNISCHE UNI- VERSITÄT MÜNCHEN, Matthias Althoff – personal homepage, 2026. [Online]. Avail- able: https://www.ce.cit.tum.de/en/cps/members/prof-dr-ing-matthias- althoff/",
-      "url": "https://aisecure.github.io/"
+      "citation": "Department of Mechanical Engineering at the Technische Universität München. “Matthias Althoff – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ce.cit.tum.de/en/cps/members/prof-dr-ing-matthias-althoff/",
+      "url": "https://www.ce.cit.tum.de/en/cps/members/prof-dr-ing-matthias-althoff/"
     },
     {
       "number": 115,
       "key": "tumGuennemann2026",
-      "citation": "TECHNISCHE UNIVERSITÄT MÜNCHEN, Stephan günnemann – personal home- page, 2026. [Online]. Available: https://www.cs.cit.tum.de/en/daml/team/ damlguennemann/",
+      "citation": "Technische Universität München. “Stephan günnemann – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cs.cit.tum.de/en/daml/team/damlguennemann/",
       "url": "https://www.cs.cit.tum.de/en/daml/team/damlguennemann/"
     },
     {
       "number": 116,
       "key": "ethSPYLab2026",
-      "citation": "EIDGENÖSSISCHE TECHNISCHE HOCHSCHULE ZÜRICH, Secure, private and ro- bustAIlab:Publications,2026.[Online].Available:https://spylab.ai/publications/",
+      "citation": "Eidgenössische Technische Hochschule Zürich. “Secure, private and robust AI lab: Publications,” Accessed: Jul. 21, 2026. [Online]. Available: https://spylab.ai/publications/",
       "url": "https://spylab.ai/publications/"
     },
     {
       "number": 117,
       "key": "tramerHomepage2026",
-      "citation": "F. Tramèr, Florian Tramèr – personal homepage, 2026. [Online]. Available: https://www.floriantramer.com/",
+      "citation": "F. Tramèr. “Florian Tramèr – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.floriantramer.com/",
       "url": "https://www.floriantramer.com/"
     },
     {
       "number": 118,
       "key": "agentdojoGithub2026",
-      "citation": "EIDGENÖSSISCHETECHNISCHEHOCHSCHULEZÜRICH,AgentDojoGitHubrepos- itory, 2026. [Online]. Available: https://github.com/ethz-spylab/agentdojo",
+      "citation": "Eidgenössische Technische Hochschule Zürich. “AgentDojo GitHub repository,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/ethz-spylab/agentdojo",
       "url": "https://github.com/ethz-spylab/agentdojo"
     },
     {
       "number": 119,
       "key": "ethRSL2026",
-      "citation": "EIDGENÖSSISCHE TECHNISCHE HOCHSCHULE ZÜRICH, Robotic systems lab, 2026. [Online]. Available: https://rsl.ethz.ch/",
+      "citation": "Eidgenössische Technische Hochschule Zürich. “Robotic systems lab,” Accessed: Jul. 21, 2026. [Online]. Available: rsl.ethz.ch/",
       "url": "https://rsl.ethz.ch/"
     },
     {
       "number": 120,
       "key": "ethHutter2026",
-      "citation": "EIDGENÖSSISCHE TECHNISCHE HOCHSCHULE ZÜRICH, Marco Hutter – per- sonal homepage, 2026. [Online]. Available: https://rsl.ethz.ch/the-lab/people/ person-detail.hutter.html",
+      "citation": "Eidgenössische Technische Hochschule Zürich. “Marco Hutter – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://rsl.ethz.ch/the-lab/people/person-detail.hutter.html",
       "url": "https://rsl.ethz.ch/the-lab/people/person-detail.hutter.html"
     },
     {
       "number": 121,
       "key": "ethAnyMal2026",
-      "citation": "EIDGENÖSSISCHE TECHNISCHE HOCHSCHULE ZÜRICH, ANYmal, 2026. [On- line]. Available: https://rsl.ethz.ch/robots-media/anymal.html",
+      "citation": "Eidgenössische Technische Hochschule Zürich. “ANYmal,” Accessed: Jul. 21, 2026. [Online]. Available: https://rsl.ethz.ch/robots-media/anymal.html",
       "url": "https://rsl.ethz.ch/robots-media/anymal.html"
     },
     {
       "number": 122,
       "key": "epflDEDIS2026",
-      "citation": "DEDIS Lab, EPFL, Decentralized and distributed systems laboratory, 2026. [Online]. Available: https://www.epfl.ch/labs/dedis/",
+      "citation": "DEDIS Lab, EPFL. “Decentralized and distributed systems laboratory,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.epfl.ch/labs/dedis/",
       "url": "https://www.epfl.ch/labs/dedis/"
     },
     {
       "number": 123,
       "key": "epflOmniLedger2026",
-      "citation": "CENTERFORDIGITALTRUST,EPFL,Omniledger,2026.[Online].Available:https://c4dt.epfl.ch/article/omniledger-2/",
+      "citation": "Center for Digital Trust, EPFL. “Omniledger.” Accessed: Jul. 21, 2026. [Online]. Available: c4dt.epfl.ch/article/omniledger-2/",
       "url": "https://c4dt.epfl.ch/article/omniledger-2/"
     },
     {
       "number": 124,
       "key": "epflVITA2026",
-      "citation": "VITA Lab, EPFL, Visual intelligence for transportation laboratory, https://www.epfl. ch/labs/vita/, 2026.",
-      "url": "https://www.epfl"
+      "citation": "VITA Lab, EPFL. “VITA Lab: Visual intelligence for transportation laboratory,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.epfl.ch/labs/vita/",
+      "url": "https://www.epfl.ch/labs/vita/"
     },
     {
       "number": 125,
       "key": "cosicKuLeuven2026",
-      "citation": "KU LEUVEN, COSIC: Computer security and industrial cryptography, 2026. [Online]. Available: https://www.esat.kuleuven.be/cosic/",
+      "citation": "KU LEUVEN. “COSIC: Computer security and industrial cryptography,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.esat.kuleuven.be/cosic/",
       "url": "https://www.esat.kuleuven.be/cosic/"
     },
     {
       "number": 126,
       "key": "distrinetRimmer2026",
-      "citation": "B. Leuven, Summer school on security and privacy in the age of AI, 2026. [Online]. Available: https://cybersecurity-research.be/summer-school-on-security- privacy-in-the-age-of-ai-2026/",
+      "citation": "B. Leuven, “Summer School on Security and Privacy in the Age of AI,” 2026. [Online]. Available: https://cybersecurity-research.be/summer-school-on-security-privacy-in-the-age-of-ai-2026/",
       "url": "https://cybersecurity-research.be/summer-school-on-security-privacy-in-the-age-of-ai-2026/"
     },
     {
       "number": 127,
       "key": "citipValcke2026",
-      "citation": "KU LEUVEN, Peggy Valcke – personal homepage, https://www.law.kuleuven.be/ citip/en/staff-members/staff/00018835, 2026.",
-      "url": "https://aisecure.github.io/"
+      "citation": "KU LEUVEN. “Peggy Valcke – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.law.kuleuven.be/citip/en/staff-members/staff/00018835",
+      "url": "https://www.law.kuleuven.be/citip/en/staff-members/staff/00018835"
     },
     {
       "number": 128,
       "key": "tudelftJonker2026",
-      "citation": "ACM SIGAI, Catholijn Jonker receives the 2024 ACM/SIGAI autonomous agents re- search award, https://sigai.acm.org/main/, 2024.",
+      "citation": "ACM SIGAI, “Catholijn Jonker Receives the 2024 ACM/SIGAI Autonomous Agents Research Award,” 2024. [Online]. Available: https://sigai.acm.org/main/",
       "url": "https://sigai.acm.org/main/"
     },
     {
       "number": 129,
       "key": "tudelftVanEeten2026",
-      "citation": "DELFT UNIVERSITY OF TECHNOLOGY, Michel van Eeten – personal homepage, 2026. [Online]. Available: https://www.tudelft.nl/en/staff/m.j.g.vaneeten/",
-      "url": "https://aisecure.github.io/"
+      "citation": "Delft University of Technology. “Michel van Eeten – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.tudelft.nl/en/staff/m.j.g.vaneeten/",
+      "url": "https://www.tudelft.nl/en/staff/m.j.g.vaneeten/"
     },
     {
       "number": 130,
       "key": "uvaSnoek2026",
-      "citation": "VIS/QUVA LAB, UNIVERSITY OF AMSTERDAM, Cees G.M. Snoek – personal homepage, 2026. [Online]. Available: https://www.ceessnoek.info/index.php/ biography/",
-      "url": "https://aisecure.github.io/"
+      "citation": "VIS/QUVA Lab, University of Amsterdam. “Cees G.M. Snoek – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ceessnoek.info/index.php/biography/",
+      "url": "https://www.ceessnoek.info/index.php/biography/"
     },
     {
       "number": 131,
       "key": "uvaCaPo2025",
-      "citation": "J. Liu et al., “CaPo: Cooperative plan optimization for eﬀicient embodied multi-agent cooperation,” in Proc. International Conference on Learning Representations (ICLR), 2025.",
-      "url": ""
+      "citation": "J. Liu et al., “CaPo: Cooperative plan optimization for eﬀicient embodied multi-agent cooperation,” in Proc. International Conference on Learning Representations, Singapore, Apr. 2025, pp. 70 791–70 815. [Online]. Available: https://proceedings.iclr.cc/paper_files/paper/2025/hash/b07091c16719ad3990e3d1ccee6641f1-Abstract-Conference.html",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b07091c16719ad3990e3d1ccee6641f1-Abstract-Conference.html"
     },
     {
       "number": 132,
       "key": "uvaDeRijke2026",
-      "citation": "UNIVERSITYOFAMSTERDAMANDTHEVRIJEUNIVERSITEITAMSTERDAM, Innovationcenterforartificialintelligence(ICAI),https://ivi.uva.nl/partnerships/ icai-labs/icai-labs.html, 2026.",
-      "url": "https://ivi.uva.nl/partnerships/"
+      "citation": "University of Amsterdam and the Vrije Universiteit Amsterdam. “ICAI: Innovation center for artificial intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: https://ivi.uva.nl/partnerships/icai-labs/icai-labs.html",
+      "url": "https://ivi.uva.nl/partnerships/icai-labs/icai-labs.html"
     },
     {
       "number": 133,
       "key": "pandaguardCASIA2026",
-      "citation": "中国科学院自动化研究所, 灵御 (PandaGuard)：人工智能大模型安全攻防评估平台, 2025. [Online]. Available: https://news.sciencenet.cn/htmlnews/2025/6/545548. shtm",
+      "citation": "中国科学院自动化研究所, “灵御 (PandaGuard)：人工智能大模型安全攻防评估平台,” 2025. [Online]. Available: https://news.sciencenet.cn/htmlnews/2025/6/545548.shtm",
       "url": "https://news.sciencenet.cn/htmlnews/2025/6/545548.shtm"
     },
     {
       "number": 134,
       "key": "aicertZJU2026",
-      "citation": "浙江大学区块链与数据安全全国重点实验室, 区块链与数据安全全重实验室成果发布： AIcert人工智能安全评测平台,https://bcds.zju.edu.cn/2024/1121/c84577a2990160/ page.htm.",
-      "url": "https://bcds.zju.edu.cn/2024/1121/c84577a2990160/"
+      "citation": "浙江大学区块链与数据安全全国重点实验室, “区块链与数据安全全重实验室成果发布：AIcert人工智能安全评测平台,”. [Online]. Available: https://bcds.zju.edu.cn/2024/1121/c84577a2990160/page.htm.",
+      "url": "https://bcds.zju.edu.cn/2024/1121/c84577a2990160/page.htm."
     },
     {
       "number": 135,
       "key": "cosecNJU2026",
-      "citation": "南京大学计算机软件新技术全国重点实验室, COSEC 实验室（仲盛）, https://cosec. nju.edu.cn/, 2026.",
-      "url": "https://cosec"
+      "citation": "State Key Laboratory for Novel Software Technology, Nanjing University. “COSEC laboratory (sheng zhong),” Accessed: Jul. 21, 2026. [Online]. Available: https://cosec.nju.edu.cn/",
+      "url": "https://cosec.nju.edu.cn/"
     },
     {
       "number": 136,
       "key": "jadeWhitzard2026",
-      "citation": "复旦白泽智能, JADE 系列 I-大语言模型测评与治理：基于语言学变异的大模型靶向 式安全评测平, https://whitzard-ai.github.io/jade.html.",
+      "citation": "复旦白泽智能. “JADE series I: Large language model evaluation and governance: Targeted security evaluation platform based on linguistic mutation,” Accessed: Jul. 4, 2026. [Online]. Available: whitzard-ai.github.io/jade.html",
       "url": "https://whitzard-ai.github.io/jade.html"
     },
     {
       "number": 137,
       "key": "chenweiICT2026",
-      "citation": "中国科学院计算技术研究所, 陈薇 – 个人主页, http://www.ict.ac.cn/sourcedb/cn/ jssrck/202203/t20220314_6391556.html.",
-      "url": "http://www.ict.ac.cn/sourcedb/cn/"
+      "citation": "中国科学院计算技术研究所. “陈薇,” Accessed: Jul. 4, 2026. [Online]. Available: www.ict.ac.cn/sourcedb/cn/jssrck/202203/t20220314_6391556.html",
+      "url": "www.ict.ac.cn/sourcedb/cn/jssrck/202203/t20220314_6391556.html"
     },
     {
       "number": 138,
       "key": "ictCASOfficial2026",
-      "citation": "中国科学院, 中国科学院计算技术研究所主页, https://www.ict.ac.cn/, 2026. 163 AI 智能体安全调研报告",
+      "citation": "中国科学院计算技术研究所. “中国科学院计算技术研究所主页,” Accessed: Jul. 4, 2026. [Online]. Available: www.ict.ac.cn/",
       "url": "https://www.ict.ac.cn/"
     },
     {
       "number": 139,
       "key": "flagopenBAAI2026",
-      "citation": "北京智源人工智能研究院, FlagOpen 大模型技术开源体系——大模型的“Linux”, 2026. [Online]. Available: https://flagopen.baai.ac.cn/",
+      "citation": "Beijing Academy of Artificial Intelligence. “FlagOpen open-source large model technology system: The ”Linux” for large models,” Accessed: Jul. 21, 2026. [Online]. Available: https://flagopen.baai.ac.cn/",
       "url": "https://flagopen.baai.ac.cn/"
     },
     {
       "number": 140,
       "key": "intershannon2026",
-      "citation": "上海人工智能实验室, 探索” 安全即服务” 模式，上海 AI 实验室发布高安全、产业级 智能体操作系统“书安”, https://www.shlab.org.cn/news/5444247, 2026.",
+      "citation": "上海人工智能实验室, “探索\"安全即服务\"模式，上海AI实验室发布高安全、产业级智能体操作系统“书安”,” 2026. [Online]. Available: https://www.shlab.org.cn/news/5444247",
       "url": "https://www.shlab.org.cn/news/5444247"
     },
     {
       "number": 141,
       "key": "csebenchmark2025",
-      "citation": "清华大学NASP网络实验室,基于认知科学的大语言模型安全知识评测框架CSEBenchmark, Apr. 2025. [Online]. Available: https://www.secrss.com/articles/77405",
+      "citation": "清华大学NASP网络实验室, “基于认知科学的大语言模型安全知识评测框架CSEBenchmark,” 2025. [Online]. Available: https://www.secrss.com/articles/77405",
       "url": "https://www.secrss.com/articles/77405"
     },
     {
       "number": 142,
       "key": "openmmlabSHLab2026",
-      "citation": "OpenMMLab, OpenMMLab, 2026. [Online]. Available: https://openmmlab.com/",
+      "citation": "OpenMMLab. “OpenMMLab,” Accessed: Jul. 21, 2026. [Online]. Available: https://openmmlab.com/",
       "url": "https://openmmlab.com/"
     },
     {
       "number": 143,
       "key": "reinEAD2025",
-      "citation": "清华朱军团队, REIN-EAD: An active defense framework for embodied agents against adversarial attacks, https://hub.baai.ac.cn/view/48105. Accessed: Jul. 4, 2026.",
-      "url": "https://hub.baai.ac.cn/view/48105"
+      "citation": "清华朱军团队, “REIN-EAD: An Active Defense Framework for Embodied Agents Against Adversarial Attacks,”. Accessed: Jul. 4, 2026. [Online]. Available: https://hub.baai.ac.cn/view/48105.Accessed:Jul.4",
+      "url": "https://hub.baai.ac.cn/view/48105.Accessed:Jul.4"
     },
     {
       "number": 144,
       "key": "zengyiCASIA2026",
-      "citation": "百度百科, 曾毅 – 人物介绍, https://baike.baidu.com/item/￿￿/57858404.",
-      "url": "https://baike.baidu.com/item/￿￿/57858404"
+      "citation": "百度百科, “曾毅 - 人物介绍,”. [Online]. Available: https://baike.baidu.com/item/￿￿/57858404.",
+      "url": "https://baike.baidu.com/item/￿￿/57858404."
     },
     {
       "number": 145,
       "key": "bigaiResearchDept2026",
-      "citation": "北京通用人工智能研究院, 科研部门：通用人工智能安全北京市重点实验室, https://www.bigai.ai/￿￿￿￿/.",
-      "url": "https://www.bigai.ai/￿￿￿￿/"
+      "citation": "北京通用人工智能研究院. “科研部门：通用人工智能安全北京市重点实验室,” Accessed: Jul. 4, 2026. [Online]. Available: www.bigai.ai/%E7%A7%91%E7%A0%94%E9%83%A8%E9%97%A8/",
+      "url": "www.bigai.ai/%E7%A7%91%E7%A0%94%E9%83%A8%E9%97%A8/"
     },
     {
       "number": 146,
       "key": "tsinghuaKEG2026",
-      "citation": "清华大学, 知识工程研究室, https://keg.cs.tsinghua.edu.cn/, 2026.",
+      "citation": "Tsinghua University. “Knowledge engineering research group (KEG),” Accessed: Jul. 21, 2026. [Online]. Available: https://keg.cs.tsinghua.edu.cn/",
       "url": "https://keg.cs.tsinghua.edu.cn/"
     },
     {
       "number": 147,
       "key": "thuAgentBenchGithub2026",
-      "citation": "THUDM, THUDM/AgentBench GitHub repository, https://github.com/THUDM/ AgentBench. Accessed: Jul. 4, 2026.",
-      "url": "https://github.com/THUDM/"
+      "citation": "THUDM. “THUDM/AgentBench github repository,” Accessed: Jul. 4, 2026. [Online]. Available: https://github.com/THUDM/AgentBench",
+      "url": "https://github.com/THUDM/AgentBench"
     },
     {
       "number": 148,
       "key": "openBMB2026",
-      "citation": "OpenBMB, OpenBMB 官方网页, https://www.openbmb.cn/, 2026.",
+      "citation": "OpenBMB. “OpenBMB oﬀicial webpage,” Accessed: Jul. 4, 2026. [Online]. Available: https://www.openbmb.cn/",
       "url": "https://www.openbmb.cn/"
     },
     {
       "number": 149,
       "key": "thuToolBenchGithub2026",
-      "citation": "OpenBMB, ToolBench: An open platform for training, serving, and evaluating large language models for tool learning, https://github.com/OpenBMB/ToolBench, 2026. [Online]. Available: https://github.com/OpenBMB/ToolBench",
+      "citation": "OpenBMB. “ToolBench: An open platform for training, serving, and evaluating large language models for tool learning,” Accessed: Jul. 4, 2026. [Online]. Available: https://github.com/OpenBMB/ToolBench",
       "url": "https://github.com/OpenBMB/ToolBench"
     },
     {
       "number": 150,
       "key": "tsinghuaTSAIL2026",
-      "citation": "TSINGHUA UNIVERSITY, Tsinghua statistical artificial intelligence and learning lab, https://ml.cs.tsinghua.edu.cn/, 2026.",
+      "citation": "Tsinghua University. “Tsinghua statistical artificial intelligence and learning lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://ml.cs.tsinghua.edu.cn/",
       "url": "https://ml.cs.tsinghua.edu.cn/"
     },
     {
       "number": 151,
       "key": "pkuAlignment2026",
-      "citation": "PKU-ALIGNMENTTEAM,PKU-Alignment,2026.[Online].Available:https://github. com/PKU-Alignment",
+      "citation": "PKU-ALIGNMENT TEAM. “PKU-Alignment,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/PKU-Alignment",
       "url": "https://github.com/PKU-Alignment"
     },
     {
       "number": 152,
       "key": "yangyaodongHomepage2026",
-      "citation": "PEKING UNIVERSITY INSTITUTE FOR ARTIFICIAL INTELLIGENCE, Yaodong Yang – personal homepage, 2026. [Online]. Available: https://yangyaodong.com/",
+      "citation": "Peking University Institute for Artificial Intelligence. “Yaodong Yang – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://yangyaodong.com/",
       "url": "https://yangyaodong.com/"
     },
     {
       "number": 153,
       "key": "pkuMultiAgentCenter2026",
-      "citation": "PEKING UNIVERSITY INSTITUTE FOR ARTIFICIAL INTELLIGENCE, 多智能体 研究中心, 2026. [Online]. Available: https://www.ai.pku.edu.cn/",
-      "url": "https://www.oxford-aiethics.ox.ac.uk/"
+      "citation": "Peking University Institute for Artificial Intelligence. “Multi-agent research center.” Accessed: Jul. 21, 2026. [Online]. Available: https://www.ai.pku.edu.cn/",
+      "url": "https://www.ai.pku.edu.cn/"
     },
     {
       "number": 154,
       "key": "idabench2025",
-      "citation": "H. Li et al., “IDA-Bench: Evaluating LLMs on interactive guided data analysis,” arXiv preprint arXiv:2505.18223, 2025. [Online]. Available: https://arxiv.org/abs/2505.",
+      "citation": "H. Li et al., IDA-Bench: Evaluating LLMs on interactive guided data analysis, 2025. arXiv: 2505.18223 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2505.18223",
       "url": "https://arxiv.org/abs/2505.18223"
     },
     {
       "number": 155,
       "key": "luceluMVIG2026",
-      "citation": "C. Lu, Machine vision and intelligence group, https://www.mvig.org/, 2026.",
+      "citation": "C. Lu. “SJTU machine vision and intelligence group,” Accessed: Jul. 4, 2026. [Online]. Available: www.mvig.org/",
       "url": "https://www.mvig.org/"
     },
     {
       "number": 156,
       "key": "sjtuXLANCE2026",
-      "citation": "上海交通大学, X-LANCE 实验室, 2026. [Online]. Available: https://x-lance.sjtu. edu.cn/",
+      "citation": "Shanghai Jiao Tong University. “X-LANCE laboratory,” Accessed: Jul. 4, 2026. [Online]. Available: x-lance.sjtu.edu.cn/",
       "url": "https://x-lance.sjtu.edu.cn/"
     },
     {
       "number": 157,
       "key": "zjuAlibabaAISafetyLab2025",
-      "citation": "浙江大学网络空间安全学院, 浙江大学与阿里巴巴集团成立人工智能安全联合实验室, Jul.2025.[Online].Available:https://icsr.zju.edu.cn/2025/0715/c70143a3069695/ page.htm",
-      "url": "https://icsr.zju.edu.cn/2025/0715/c70143a3069695/"
+      "citation": "Zhejiang University. “Zhejiang university and alibaba group jointly establish artificial intelligence security joint laboratory,” Accessed: Jul. 21, 2026. [Online]. Available: https://icsr.zju.edu.cn/2025/0715/c70143a3069695/page.htm",
+      "url": "https://icsr.zju.edu.cn/2025/0715/c70143a3069695/page.htm"
     },
     {
       "number": 158,
       "key": "zjuNESA2026",
-      "citation": "ZHEJIANG UNIVERSITY NESA LAB, NESA: Network system security & privacy lab, 2026. [Online]. Available: https://nesa.zju.edu.cn/",
+      "citation": "Zhejiang University NESA Lab. “NESA: Network system security & privacy lab,” Accessed: Jul. 21, 2026. [Online]. Available: https://nesa.zju.edu.cn/",
       "url": "https://nesa.zju.edu.cn/"
     },
     {
       "number": 159,
       "key": "yangZiqiZJU2026",
-      "citation": "浙江大学, 杨子祺 – 个人主页, 2026. [Online]. Available: https://person.zju.edu. cn/yangziqi",
+      "citation": "Zhejiang University. “Ziqi yang – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://person.zju.edu.cn/yangziqi",
       "url": "https://person.zju.edu.cn/yangziqi"
     },
     {
       "number": 160,
       "key": "zjuFaculty2026",
-      "citation": "浙江大学网络空间安全学院, 浙江大学网络空间安全学院教师队伍, 2026. [Online]. Available: https://icsr.zju.edu.cn/szdw/list.htm",
+      "citation": "Zhejiang University School of Cyber Science and Technology. “Faculty of the school of cyber science and technology, zhejiang university,” Accessed: Jul. 21, 2026. [Online]. Available: https://icsr.zju.edu.cn/szdw/list.htm",
       "url": "https://icsr.zju.edu.cn/szdw/list.htm"
     },
     {
       "number": 161,
       "key": "lamdaOfficial2026",
-      "citation": "Nanjing University LAMDA, LAMDA: learning and mining from data, 2026. [Online]. Available: https://www.lamda.nju.edu.cn/",
+      "citation": "Nanjing University LAMDA. “LAMDA: Learning and mining from data,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.lamda.nju.edu.cn/",
       "url": "https://www.lamda.nju.edu.cn/"
     },
     {
       "number": 162,
       "key": "zhouzhihuaHomepage2026",
-      "citation": "南京大学, 周志华 – 个人主页, Online resource, 2026. [Online]. Available: https://cs. nju.edu.cn/zhouzh/",
+      "citation": "Nanjing University. “周志华,” Accessed: Jul. 4, 2026. [Online]. Available: cs.nju.edu.cn/zhouzh/",
       "url": "https://cs.nju.edu.cn/zhouzh/"
     },
     {
       "number": 163,
       "key": "gaoyangRLGroup2026",
-      "citation": "Reasoning and N. U. Learning Research Group, 推理与学习研究组（高阳）, Online re- source, 2026. [Online]. Available: https://cs.nju.edu.cn/rl/",
+      "citation": "Reasoning and Learning Research Group, Nanjing University. “Reasoning and learning research group (yang gao),” Accessed: Jul. 21, 2026. [Online]. Available: https://cs.nju.edu.cn/rl/",
       "url": "https://cs.nju.edu.cn/rl/"
     },
     {
       "number": 164,
       "key": "whitzardAI2026",
-      "citation": "M. Zhang and M. Yang, 复旦白泽智能 (Whitzard AI), Online resource, 2026. [Online]. Available: https://whitzard-ai.github.io/",
+      "citation": "M. Zhang and M. Yang. “复旦白泽智能(Whitzard AI),” Accessed: Jul. 4, 2026. [Online]. Available: whitzard-ai.github.io/",
       "url": "https://whitzard-ai.github.io/"
     },
     {
       "number": 165,
       "key": "hitSCIROfficial2026",
-      "citation": "HARBIN INSTITUTE OF TECHNOLOGY, Research center for social computing and interactive robotics, Harbin institute of technology, 2026. [Online]. Available: https://ir.hit.edu.cn/",
-      "url": "https://ir.hit.edu.cn/"
+      "citation": "Harbin Institute of Technology. “Research center for social computing and interactive robotics,” Accessed: Jul. 21, 2026. [Online]. Available: https://encs.hit.edu.cn/2021/1224/c14651a267015/page.htm",
+      "url": "https://encs.hit.edu.cn/2021/1224/c14651a267015/page.htm"
     },
     {
       "number": 166,
       "key": "liutingHomepage2026",
-      "citation": "哈尔滨工业大学计算机科学与技术学院, 刘挺 – 个人主页, 2026. [Online]. Available: https://homepage.hit.edu.cn/liuting",
+      "citation": "School of Computer Science and Technology, Harbin Institute of Technology (HIT). “Liu Ting,” Accessed: Jul. 21, 2026. [Online]. Available: https://homepage.hit.edu.cn/liuting",
       "url": "https://homepage.hit.edu.cn/liuting"
     },
     {
       "number": 167,
       "key": "zhangweimingUSTC2026",
-      "citation": "W. Zhang, 张卫明, Online resource, 2026. [Online]. Available: http://staff.ustc. edu.cn/~zhangwm/",
-      "url": "http://staff.ustc"
+      "citation": "W. Zhang. “Weiming zhang,” Accessed: Jul. 21, 2026. [Online]. Available: http://staff.ustc.edu.cn/~zhangwm/",
+      "url": "http://staff.ustc.edu.cn/~zhangwm/"
     },
     {
       "number": 168,
       "key": "yangweiUSTC2026",
-      "citation": "中国科学技术大学, 杨威 – 个人主页, 2026. [Online]. Available: https://faculty. ustc.edu.cn/yangwei1/zh_CN/index.htm",
+      "citation": "University of Science and Technology of China. “Yang Wei,” Accessed: Jul. 21, 2026. [Online]. Available: https://faculty.ustc.edu.cn/yangwei1/zh_CN/index.htm",
       "url": "https://faculty.ustc.edu.cn/yangwei1/zh_CN/index.htm"
     },
     {
       "number": 169,
       "key": "ustcADSL2026",
-      "citation": "U. of Science and T. of China, Advanced data systems laboratory, Online resource, 2026. [Online]. Available: https://adsl.ustc.edu.cn/",
+      "citation": "University of Science and Technology of China (USTC). “Advanced data systems laboratory,” Accessed: Jul. 21, 2026. [Online]. Available: https://adsl.ustc.edu.cn/",
       "url": "https://adsl.ustc.edu.cn/"
     },
     {
       "number": 170,
       "key": "weixingxingBUAA2026",
-      "citation": "X. Wei, 韦星星, Online resource, 2026. [Online]. Available: https://iai.buaa.edu. cn/info/1013/1099.htm",
-      "url": "https://iai.buaa.edu"
+      "citation": "X. Wei. “Xingxing wei,” Accessed: Jul. 21, 2026. [Online]. Available: https://iai.buaa.edu.cn/info/1013/1099.htm",
+      "url": "https://iai.buaa.edu.cn/info/1013/1099.htm"
     },
     {
       "number": 171,
       "key": "zhengzhengBUAA2026",
-      "citation": "北京航空航天大学, 郑征 – 个人主页, 2026. [Online]. Available: https://teacher. buaa.edu.cn/zhengzheng/zh_CN/index.htm",
+      "citation": "Beihang University. “Zheng Zheng,” Accessed: Jul. 21, 2026. [Online]. Available: https://teacher.buaa.edu.cn/zhengzheng/zh_CN/index.htm",
       "url": "https://teacher.buaa.edu.cn/zhengzheng/zh_CN/index.htm"
     },
     {
       "number": 172,
       "key": "gammaLabBUAA2026",
-      "citation": "GAMMA-LAB, INSTITUTE OF UNMANNED SYSTEM, BEIHANG UNIVERSITY, 通用自主多模态智能体课题组, https://www.zhihu.com/, 2026.",
-      "url": "https://ivi.uva.nl/"
+      "citation": "Gamma-Lab, Institute of Unmanned Systems, Beihang University. “通用自主多模态智能体课 题组.” Accessed: Jul. 21, 2026. [Online]. Available: https://www.zhihu.com/",
+      "url": "https://www.zhihu.com/"
     },
     {
       "number": 173,
       "key": "artiaeroBUAA2026",
-      "citation": "北京航空航天大学智能体创新大赛, ArtiAero：面向无人机概念构型设计的多智能体参 数化装配生成系统, 2026. [Online]. Available: http://www.jyb.cn/rmtzcg/xwy/wzxw/ 202605/t20260527_2111483791.html",
-      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/"
+      "citation": "北京航空航天大学智能体创新大赛, “ArtiAero：面向无人机概念构型设计的多智能体参数化装配生成系统,” 2026. [Online]. Available: http://www.jyb.cn/rmtzcg/xwy/wzxw/202605/t20260527_2111483791.html",
+      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202605/t20260527_2111483791.html"
     },
     {
       "number": 174,
       "key": "wangfeiyueCASIA2026",
-      "citation": "F. Wang, 王飞跃, Online resource, 2026. [Online]. Available: http://ia.cas.cn/rcdw/ jcqn/202404/t20240425_7131822.html",
-      "url": "http://ia.cas.cn/rcdw/"
+      "citation": "F. Wang. “Feiyue wang,” Accessed: Jul. 21, 2026. [Online]. Available: http://ia.cas.cn/rcdw/jcqn/202404/t20240425_7131822.html",
+      "url": "http://ia.cas.cn/rcdw/jcqn/202404/t20240425_7131822.html"
     },
     {
       "number": 175,
       "key": "jidiAI2026",
+<<<<<<< Updated upstream
       "citation": "JIDIAI TEAM, Jidiai: A platform for multi-agent decision intelligence, Online resource, 2026. [Online]. Available: https://github.com/jidiai/ai_lib",
+=======
+      "citation": "JIDIAI TEAM. “Jidiai: A platform for multi-agent decision intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/jidiai/ai_lib",
+>>>>>>> Stashed changes
       "url": "https://github.com/jidiai/ai_lib"
     },
     {
@@ -5595,211 +5646,216 @@ const DATA = {
     {
       "number": 177,
       "key": "caojuanICT2026",
-      "citation": "中国科学院计算技术研究所, 曹娟 – 个人主页, Online resource, 2026. [Online]. Avail- able: https://www.ict.ac.cn/sourcedb/cn/jssrck/201011/t20101123_3028158. html",
+      "citation": "中国科学院计算技术研究所. “曹娟,” Accessed: Jul. 4, 2026. [Online]. Available: www.ict.ac.cn/sourcedb/cn/jssrck/201011/t20101123_3028158.html",
       "url": "https://www.ict.ac.cn/sourcedb/cn/jssrck/201011/t20101123_3028158.html"
     },
     {
       "number": 178,
       "key": "kaiChenTeam2026",
-      "citation": "中国科学院大学, 陈恺 – 个人网页, https://people.ucas.ac.cn/~kaichen, 2026.",
+      "citation": "University of Chinese Academy of Sciences. “Kai chen,” Accessed: Jul. 21, 2026. [Online]. Available: https://people.ucas.ac.cn/~kaichen",
       "url": "https://people.ucas.ac.cn/~kaichen"
     },
     {
       "number": 179,
       "key": "geShimingIMSG2026",
-      "citation": "S. Ge, Shiming ge: Intelligent multimedia security group, Online resource, 2026. [Online]. Available: https://imsg.ac.cn/people/geshiming.html",
+      "citation": "S. Ge. “Shiming ge: Intelligent multimedia security group,” Accessed: Jul. 21, 2026. [Online]. Available: httpsimsg.ac.cn/people/geshiming.html",
       "url": "https://imsg.ac.cn/people/geshiming.html"
     },
     {
       "number": 180,
       "key": "zhaoXianfengUCAS2026",
-      "citation": "X. Zhao, Xianfeng zhao, university of chinese academy of sciences, Online resource, 2026. [Online]. Available: https://people.ucas.edu.cn/~xianfeng",
-      "url": "https://people.ucas.edu.cn/ xianfeng"
+      "citation": "X. Zhao. “Xianfeng zhao, university of chinese academy of sciences,” Accessed: Jul. 21, 2026. [Online]. Available: https://people.ucas.edu.cn/~xianfeng",
+      "url": "https://people.ucas.edu.cn/~xianfeng"
     },
     {
       "number": 181,
       "key": "baaiFlagOS2026",
-      "citation": "北京智源人工智能研究院, 智算前沿：下一代架构及基础软件与 flagos 2.1, Jun. 2026. [Online]. Available: https://hub.baai.ac.cn/view/55450",
+      "citation": "北京智源人工智能研究院, “智算前沿：下一代架构及基础软件与 FlagOS 2.1,” 2026. [Online]. Available: https://hub.baai.ac.cn/view/55450",
       "url": "https://hub.baai.ac.cn/view/55450"
     },
     {
       "number": 182,
       "key": "baaiWorldModel2026",
-      "citation": "北京智源人工智能研究院, 2026 智源大会：智源研究院为世界模型「正本清源」, Jun. 2026. [Online]. Available: https://hub.baai.ac.cn/view/55509",
+      "citation": "北京智源人工智能研究院, “2026智源大会：智源研究院为世界模型「正本清源」,” 2026. [Online]. Available: https://hub.baai.ac.cn/view/55509",
       "url": "https://hub.baai.ac.cn/view/55509"
     },
     {
       "number": 183,
       "key": "baaiEmbodiedAI2026",
-      "citation": "北京智源人工智能研究院, 2026 北京智源大会开幕：从“悟道”到“悟界”，智源研 究院推动人工智能、物理世界和生命科学“三体互动”, Jun. 2026. [Online]. Available: https://hub.baai.ac.cn/view/55492",
+      "citation": "北京智源人工智能研究院, “2026北京智源大会开幕：从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”,” 2026. [Online]. Available: https://hub.baai.ac.cn/view/55492",
       "url": "https://hub.baai.ac.cn/view/55492"
     },
     {
       "number": 184,
       "key": "baaiConferenceWorldModel2026",
-      "citation": "北京智源人工智能研究院, 2026 智源大会完整日程公布, Jun. 2026. [Online]. Available: https://2026.baai.ac.cn/schedule",
+      "citation": "北京智源人工智能研究院, “2026智源大会完整日程公布,” 2026. [Online]. Available: https://2026.baai.ac.cn/schedule",
       "url": "https://2026.baai.ac.cn/schedule"
     },
     {
       "number": 185,
       "key": "ai45SHLab2026",
-      "citation": "上海人工智能实验室安全可信中心, Ai45 研究：通往可信 agi 之路, 2026. [Online]. Available: https://ai45.shlab.org.cn/research/zh/",
+      "citation": "Shanghai AI Laboratory Center for Trustworthy AI. “Ai45 research: Pathways toward trustworthy agi,” Accessed: Jul. 21, 2026. [Online]. Available: https://ai45.shlab.org.cn/research/zh/",
       "url": "https://ai45.shlab.org.cn/research/zh/"
     },
     {
       "number": 186,
       "key": "safework2025",
-      "citation": "Y. Bao et al., “SafeWork-R1: Coevolving safety and intelligence under the AI-45◦ law,” arXiv, Jul. 2025. arXiv: 2507.18576 [cs.AI]. [Online]. Available: https://arxiv. org/abs/2507.18576",
+      "citation": "Y. Bao et al., SafeWork-R1: Coevolving safety and intelligence under the AI-45◦law, Jul. 2025. arXiv: 2507.18576 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2507.18576",
       "url": "https://arxiv.org/abs/2507.18576"
     },
     {
       "number": 187,
       "key": "opengvlabSHLab2026",
-      "citation": "OPENGVLAB, Opengvlab 实验室主页, 2026. [Online]. Available: https://github. com/opengvlab",
+      "citation": "OPENGVLAB. “OPENGVLAB,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/opengvlab",
       "url": "https://github.com/opengvlab"
     },
     {
       "number": 188,
       "key": "opencompassSHLab2026",
-      "citation": "OpenCompassContributors,OpenCompass,2026.[Online].Available:https://github. com/open-compass/opencompass",
-      "url": "https://github"
+      "citation": "OpenCompass Contributors. “OpenCompass,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/open-compass/opencompass",
+      "url": "https://github.com/open-compass/opencompass"
     },
     {
       "number": 189,
       "key": "ccfAgentSecurityForum2025",
-      "citation": "中国计算机学会, 第一届大模型生成内容安全评估与智能体安全论坛, Oct. 2025. [On- line]. Available: https://www.ccf.org.cn/Media_list/cncc/2025-10-17/849957. shtml",
-      "url": "https://www.ccf.org.cn/Media_list/cncc/2025-10-17/849957"
+      "citation": "中国计算机学会, “第一届大模型生成内容安全评估与智能体安全论坛,” 2025. [Online]. Available: https://www.ccf.org.cn/Media_list/cncc/2025-10-17/849957.shtml",
+      "url": "https://www.ccf.org.cn/Media_list/cncc/2025-10-17/849957.shtml"
     },
     {
       "number": 190,
       "key": "csebenchmarkGithub2025",
-      "citation": "NASP-THU, Csebenchmark: The oﬀicial repository of the digital cybersecurity expert: How far have we come? 2025. [Online]. Available: https://github.com/NASP-THU/ CSEBenchmark",
+      "citation": "NASP-THU. “CSEBenchmark: The oﬀicial repository of the digital cybersecurity expert: How far have we come?” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/NASP-THU/CSEBenchmark",
       "url": "https://github.com/NASP-THU/CSEBenchmark"
     },
     {
       "number": 191,
       "key": "openaichatgptagent2025",
-      "citation": "OPENAI, ChatGPT agent system card, Oﬀicial product announcement, Jul. 2025. [On- line]. Available: https://deploymentsafety.openai.com/chatgpt-agent",
-      "url": "https://cdn.openai.com/pdf/839e66fc-602c-48bf-81d3-b21eacc3459d/chatgpt_agent_system_card.pdf"
+      "citation": "OpenAI. “ChatGPT agent system card,” Accessed: Jul. 21, 2026. [Online]. Available: https://deploymentsafety.openai.com/chatgpt-agent",
+      "url": "https://deploymentsafety.openai.com/chatgpt-agent"
     },
     {
       "number": 192,
       "key": "nemoagenttoolkit2026",
-      "citation": "NVIDIA, Nvidia nemo agent toolkit overview, Oﬀicial documentation, 2026. [Online]. Available: https://docs.nvidia.com/nemo/agent-toolkit/latest/index.html",
+      "citation": "NVIDIA. “NVIDIA NeMo agent toolkit overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.nvidia.com/nemo/agent-toolkit/latest/index.html",
       "url": "https://docs.nvidia.com/nemo/agent-toolkit/latest/index.html"
     },
     {
       "number": 193,
       "key": "openaiagentssdk2026",
+<<<<<<< Updated upstream
       "citation": "OPENAI, Tracing, OpenAI Agents SDK documentation, 2026. Accessed: Jul. 19, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/tracing/",
       "url": "https://openai.github.io/openai-agents-python/tracing/"
+=======
+      "citation": "OpenAI. “Agents SDK,” Accessed: Jul. 21, 2026. [Online]. Available: https://platform.openai.com/docs/guides/agents-sdk",
+      "url": "https://platform.openai.com/docs/guides/agents-sdk"
+>>>>>>> Stashed changes
     },
     {
       "number": 194,
       "key": "mcpsafetyaudit2025",
-      "citation": "X. Hou, Y. Zhao, S. Wang, and H. Wang, “Model context protocol (mcp): Landscape, security threats, and future research directions,” arXiv, 2025. arXiv: 2503.23278. [On- line]. Available: https://arxiv.org/abs/2503.23278",
+      "citation": "X. Hou, Y. Zhao, S. Wang, and H. Wang, MCP: Landscape, security threats, and future research directions, Mar. 2025. arXiv: 2503.23278 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.23278",
       "url": "https://arxiv.org/abs/2503.23278"
     },
     {
       "number": 195,
       "key": "googleagentidentity2026",
-      "citation": "Google Cloud, Agent identity and access control for AI agents, Oﬀicial documentation, 2026. [Online]. Available: https://cloud.google.com/iam/docs/agents",
-      "url": "https://cursor.com/blog/cloud-agents"
+      "citation": "Google Cloud. “Agent identity and access control for AI agents,” Accessed: Jul. 21, 2026. [Online]. Available: https://cloud.google.com/iam/docs/agents",
+      "url": "https://cloud.google.com/iam/docs/agents"
     },
     {
       "number": 196,
       "key": "googletoolgovernance2025",
-      "citation": "Google Cloud, Enhanced tool governance in vertex AI agent builder, Oﬀicial documen- tation, 2025. [Online]. Available: https://cloud.google.com/blog/products/ai- machine-learning/enhanced-tool-governance-in-vertex-ai-agent-builder",
-      "url": "https://cloud.google.com/products/agent-builder"
+      "citation": "Google Cloud, “Enhanced tool governance in Vertex AI Agent Builder,” 2025. [Online]. Available: https://cloud.google.com/blog/products/ai-machine-learning/enhanced-tool-governance-in-vertex-ai-agent-builder",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/enhanced-tool-governance-in-vertex-ai-agent-builder"
     },
     {
       "number": 197,
       "key": "nvidiaconfidentialcomputing2026",
-      "citation": "NVIDIA, Nvidia confidential computing, Oﬀicial product documentation, 2026. [On- line]. Available: https://www.nvidia.com/en-us/data-center/solutions/ confidential-computing/",
+      "citation": "NVIDIA. “NVIDIA confidential computing,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/",
       "url": "https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/"
     },
     {
       "number": 198,
       "key": "nvidiaisaacsim2026",
-      "citation": "NVIDIA, Nvidia isaac sim documentation, Oﬀicial documentation, 2026. [Online]. Avail- able: https://docs.isaacsim.omniverse.nvidia.com/",
-      "url": "https://developer.nvidia.com/isaac/sim"
+      "citation": "NVIDIA. “NVIDIA isaac sim documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.isaacsim.omniverse.nvidia.com/",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/"
     },
     {
       "number": 199,
       "key": "perplexityenterprise2026",
-      "citation": "PERPLEXITY AI, Perplexity enterprise, 2026. [Online]. Available: https://www. perplexity.ai/enterprise/pro",
+      "citation": "Perplexity AI. “Perplexity enterprise,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.perplexity.ai/enterprise/pro",
       "url": "https://www.perplexity.ai/enterprise/pro"
     },
     {
       "number": 200,
       "key": "cursorsecurity2026",
-      "citation": "ANYSPHERE, Cursor security, 2026. [Online]. Available: https://cursor.com/ security",
+      "citation": "Anysphere. “Cursor security,” Accessed: Jul. 21, 2026. [Online]. Available: https://cursor.com/security",
       "url": "https://cursor.com/security"
     },
     {
       "number": 201,
       "key": "openai_agent_system_card_2025",
-      "citation": "OPENAI, Chatgpt agent system card, Online resource, 2025. [Online]. Available: https://openai.com/index/chatgpt-agent-system-card/",
+      "citation": "OpenAI. “Chatgpt agent system card,” Accessed: Jul. 29, 2026. [Online]. Available: https://cdn.openai.com/pdf/839e66fc-602c-48bf-81d3-b21eacc3459d/chatgpt_agent_system_card.pdf",
       "url": "https://cdn.openai.com/pdf/839e66fc-602c-48bf-81d3-b21eacc3459d/chatgpt_agent_system_card.pdf"
     },
     {
       "number": 202,
       "key": "anthropiccomputeruse2026",
-      "citation": "ANTHROPIC, Computer use with claude, Oﬀicial documentation, 2026. [Online]. Avail- able: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/ computer-use-tool",
-      "url": "https://docs.cohere.com/docs/tool-use"
+      "citation": "Anthropic. “Computer use with Claude,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool"
     },
     {
       "number": 203,
       "key": "openaiagentkit2025",
-      "citation": "OPENAI, Introducing agentkit, Oﬀicial product announcement, 2025. [Online]. Avail- able: https://openai.com/index/introducing-agentkit/",
+      "citation": "OPENAI, “Introducing AgentKit,” 2025. [Online]. Available: https://openai.com/index/introducing-agentkit/",
       "url": "https://openai.com/index/introducing-agentkit/"
     },
     {
       "number": 204,
       "key": "anthropicclaudecode2025",
-      "citation": "ANTHROPIC, Claude code and new admin controls for business plans, Oﬀicial an- nouncement, 2025. [Online]. Available: https://www.anthropic.com/news/claude- code-on-team-and-enterprise",
+      "citation": "ANTHROPIC, “Claude Code and new admin controls for business plans,” 2025. [Online]. Available: https://www.anthropic.com/news/claude-code-on-team-and-enterprise",
       "url": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise"
     },
     {
       "number": 205,
       "key": "googlevertexagentbuilder2026",
-      "citation": "GOOGLE CLOUD, Vertex ai agent builder documentation, Oﬀicial documentation, 2026. [Online]. Available: https://cloud.google.com/generative-ai-app-builder/ docs",
-      "url": "https://cloud.google.com/products/agent-builder"
+      "citation": "Google Cloud. “Vertex AI agent builder documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://cloud.google.com/generative-ai-app-builder/docs",
+      "url": "https://cloud.google.com/generative-ai-app-builder/docs"
     },
     {
       "number": 206,
       "key": "nvidianemoguardrails2026",
-      "citation": "NVIDIA,Nvidia nemo guardrails documentation,Oﬀicialdocumentation,2026.[Online]. Available: https://docs.nvidia.com/nemo/guardrails/latest/index.html",
+      "citation": "NVIDIA. “NVIDIA nemo guardrails documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.nvidia.com/nemo/guardrails/latest/index.html",
       "url": "https://docs.nvidia.com/nemo/guardrails/latest/index.html"
     },
     {
       "number": 207,
       "key": "metallamafirewall2026",
-      "citation": "META, Llamafirewall, Oﬀicial documentation / GitHub release, 2026. [Online]. Avail- able: https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall",
+      "citation": "Meta. “LlamaFirewall,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall",
       "url": "https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall"
     },
     {
       "number": 208,
       "key": "openaiobservability2026",
-      "citation": "OPENAI, Agents sdk, Oﬀicial documentation, 2026. [Online]. Available: https:// platform.openai.com/docs/guides/agents-sdk",
-      "url": "https://openai.github.io/openai-agents-python/"
+      "citation": "OpenAI. “Tracing,” Accessed: Jul. 19, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/tracing/",
+      "url": "https://openai.github.io/openai-agents-python/tracing/"
     },
     {
       "number": 209,
       "key": "googlecoscientist2025",
-      "citation": "J. Gottweis and V. Natarajan, Accelerating scientific breakthroughs with an AI co- scientist, Google Research Blog, Accessed 2026-07-06, Feb. 2025. [Online]. Available: https://research.google/blog/accelerating-scientific-breakthroughs-with- an-ai-co-scientist/",
+      "citation": "J. Gottweis and V. Natarajan, “Accelerating Scientific Breakthroughs with an AI Co-Scientist,” 2025. [Online]. Available: https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
       "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/"
     },
     {
       "number": 210,
       "key": "OPENAI_2026_deploymentsimulation",
-      "citation": "OPENAI, Predicting model behavior before release by simulating deployment, Jun. 2026. [Online]. Available: https://openai.com/index/deployment-simulation/",
+      "citation": "OPENAI, “Predicting model behavior before release by simulating deployment,” 2026. [Online]. Available: https://openai.com/index/deployment-simulation/",
       "url": "https://openai.com/index/deployment-simulation/"
     },
     {
       "number": 211,
       "key": "openaitoolsagents2025",
-      "citation": "OPENAI, New tools for building agents, Online resource, Mar. 2025. [Online]. Available: https://openai.com/index/new-tools-for-building-agents/",
+      "citation": "OPENAI, “New Tools for Building Agents,” 2025. [Online]. Available: https://openai.com/index/new-tools-for-building-agents/",
       "url": "https://openai.com/index/new-tools-for-building-agents/"
     },
     {
@@ -5811,1657 +5867,1761 @@ const DATA = {
     {
       "number": 213,
       "key": "anthropicmanagedagentsinfra2026",
-      "citation": "ANTHROPIC, New in claude managed agents: Self-hosted sandboxes and mcp tunnels, Anthropic, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://claude.com/ blog/claude-managed-agents-updates",
+      "citation": "ANTHROPIC, “New in Claude Managed Agents: Self-Hosted Sandboxes and MCP Tunnels,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://claude.com/blog/claude-managed-agents-updates",
       "url": "https://claude.com/blog/claude-managed-agents-updates"
     },
     {
       "number": 214,
       "key": "anthropicsandboxing2025",
-      "citation": "ANTHROPIC, Beyond permission prompts: Making claude code more secure and au- tonomous, Anthropic, 2025. Accessed: Jul. 13, 2026. [Online]. Available: https://www. anthropic.com/engineering/claude-code-sandboxing",
+      "citation": "ANTHROPIC, “Beyond Permission Prompts: Making Claude Code More Secure and Autonomous,” 2025. Accessed: Jul. 13, 2026. [Online]. Available: https://www.anthropic.com/engineering/claude-code-sandboxing",
       "url": "https://www.anthropic.com/engineering/claude-code-sandboxing"
     },
     {
       "number": 215,
       "key": "claudeagentidentity2026",
-      "citation": "ANTHROPIC, Agent identity in claude tag: A new access model for autonomous, team- wide ai, Anthropic, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://claude. com/blog/agent-identity-access-model",
+      "citation": "ANTHROPIC, “Agent Identity in Claude Tag: A New Access Model for Autonomous, Team-Wide AI,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://claude.com/blog/agent-identity-access-model",
       "url": "https://claude.com/blog/agent-identity-access-model"
     },
     {
       "number": 216,
       "key": "debenedetti2025defeating",
-      "citation": "E. Debenedetti et al., “Defeating prompt injections by design,” arXiv, Mar. 2025. arXiv: 2503.18813 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.18813",
+      "citation": "E. Debenedetti et al., Defeating prompt injections by design, 2025. arXiv: 2503.18813 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.18813",
       "url": "https://arxiv.org/abs/2503.18813"
     },
     {
       "number": 217,
       "key": "anthropicmultiagent2025",
-      "citation": "ANTHROPIC,Howwebuiltourmulti-agentresearchsystem,Anthropic,2025.Accessed: Jul. 13, 2026. [Online]. Available: https://www.anthropic.com/engineering/multi- agent-research-system",
-      "url": "https://cdn.openai.com/pdf/839e66fc-602c-48bf-81d3-b21eacc3459d/chatgpt_agent_system_card.pdf"
+      "citation": "ANTHROPIC, “How We Built Our Multi-Agent Research System,” 2025. Accessed: Jul. 13, 2026. [Online]. Available: https://www.anthropic.com/engineering/multi-agent-research-system",
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system"
     },
     {
       "number": 218,
       "key": "claudedreaming2026",
-      "citation": "ANTHROPIC, New in claude managed agents: Dreaming, outcomes, and multiagent orchestration, Anthropic, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https:// claude.com/blog/new-in-claude-managed-agents",
+      "citation": "ANTHROPIC, “New in Claude Managed Agents: Dreaming, Outcomes, and Multiagent Orchestration,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://claude.com/blog/new-in-claude-managed-agents",
       "url": "https://claude.com/blog/new-in-claude-managed-agents"
     },
     {
       "number": 219,
       "key": "anthropicclaudeconstitution2025",
-      "citation": "ANTHROPIC,Claude’sconstitution,Oﬀicialpolicydocumentation,2025.[Online].Avail- able: https://www.anthropic.com/claude/constitution",
+      "citation": "Anthropic. “Claude’s constitution,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.anthropic.com/claude/constitution",
       "url": "https://www.anthropic.com/claude/constitution"
     },
     {
       "number": 220,
       "key": "anthropicresponsiblescaling2025",
-      "citation": "ANTHROPIC, Responsible scaling policy, Oﬀicial policy documentation, 2025. [Online]. Available: https://www.anthropic.com/news/anthropics-responsible-scaling- policy",
+      "citation": "Anthropic. “Responsible scaling policy,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
       "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy"
     },
     {
       "number": 221,
       "key": "anthropictooluse2026",
-      "citation": "ANTHROPIC, Tool use with claude, Oﬀicial documentation, 2026. [Online]. Available: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview",
-      "url": "https://docs.cohere.com/docs/tool-use"
+      "citation": "Anthropic. “Tool use with Claude,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview",
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview"
     },
     {
       "number": 222,
       "key": "googleaicontrolroadmap2026",
-      "citation": "M. Phuong et al., “Gdm ai control roadmap,” Google DeepMind, Tech. Rep., Jun. 2026. [Online]. Available: https://storage.googleapis.com/deepmind-media/DeepMind. com/Blog/securing-the-future-of-ai-agents/gdm-ai-control-roadmap.pdf",
-      "url": "https://deepmind.google/"
+      "citation": "M. Phuong et al., “Gdm AI control roadmap,” Google DeepMind, Tech. Rep., Jun. 2026. [Online]. Available: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/gdm-ai-control-roadmap.pdf",
+      "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/gdm-ai-control-roadmap.pdf"
     },
     {
       "number": 223,
       "key": "deepmindagentsecurityblog2026",
-      "citation": "F.FlynnandR.Shah,Securing the future of ai agents,GoogleDeepMind,Jun.2026.Ac- cessed: Jul. 13, 2026. [Online]. Available: https://deepmind.google/blog/securing- the-future-of-ai-agents/",
+      "citation": "F. Flynn and R. Shah, “Securing the Future of AI Agents,” 2026. [Online]. Available: https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
     },
     {
       "number": 224,
       "key": "googlethreelayersagentsecurity2026",
-      "citation": "S. Ee and P. Maham, “The three layers of agent security: A framework for policymak- ers,” Google DeepMind, Tech. Rep., Jun. 2026. [Online]. Available: https://storage. googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of- ai-agents/three-layers-of-agent-security.pdf",
-      "url": "https://deepmind.google/"
+      "citation": "S. Ee and P. Maham, “The three layers of agent security: A framework for policymakers,” Google DeepMind, Tech. Rep., Jun. 2026. [Online]. Available: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/three-layers-of-agent-security.pdf",
+      "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/securing-the-future-of-ai-agents/three-layers-of-agent-security.pdf"
     },
     {
       "number": 225,
       "key": "habler2025securea2a",
-      "citation": "I. Habler, K. Huang, V. S. Narajala, and P. Kulkarni, “Building A Secure Agentic AI Application Leveraging A2A Protocol,” arXiv, 2025. arXiv: 2504.16902. [Online]. Available: https://arxiv.org/abs/2504.16902",
+      "citation": "I. Habler, K. Huang, V. S. Narajala, and P. Kulkarni, Building a secure agentic AI application leveraging A2A protocol, Apr. 2025. arXiv: 2504.16902 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.16902",
       "url": "https://arxiv.org/abs/2504.16902"
     },
     {
       "number": 226,
       "key": "deepmindalphaevolve2025",
-      "citation": "ALPHAEVOLVE TEAM, Alphaevolve: A gemini-powered coding agent for designing advanced algorithms, Google DeepMind, May 2025. Accessed: Jul. 13, 2026. [Online]. Available: https://deepmind.google/blog/alphaevolve-a-gemini-powered- coding-agent-for-designing-advanced-algorithms/",
-      "url": "https://deepmind.google/"
+      "citation": "ALPHAEVOLVE TEAM, “AlphaEvolve: A Gemini-Powered Coding Agent for Designing Advanced Algorithms,” 2025. Accessed: Jul. 13, 2026. [Online]. Available: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
     },
     {
       "number": 227,
       "key": "gottweis2025coscientist",
-      "citation": "J. Gottweis et al., “Towards an AI co-scientist,” arXiv, Feb. 2025. arXiv: 2502.18864 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2502.18864",
+      "citation": "J. Gottweis et al., Accelerating scientific discovery with co-scientist, Feb. 2025. arXiv: 2502.18864 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2502.18864",
       "url": "https://arxiv.org/abs/2502.18864"
     },
     {
       "number": 228,
       "key": "googleagentsearch2026",
-      "citation": "GOOGLECLOUD,Agent search documentation,Oﬀicialdocumentation,2026.[Online]. Available: https://docs.cloud.google.com/generative-ai-app-builder/docs",
+      "citation": "Google Cloud. “Agent search documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.cloud.google.com/generative-ai-app-builder/docs",
       "url": "https://docs.cloud.google.com/generative-ai-app-builder/docs"
     },
     {
       "number": 229,
       "key": "googlealphaevolve2025",
-      "citation": "GOOGLE DEEPMIND, Alphaevolve: A coding agent for scientific and algorithmic dis- covery, Oﬀicial research blog, 2025. [Online]. Available: https://deepmind.google/ discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing- advanced-algorithms/",
-      "url": "https://deepmind.google/"
+      "citation": "GOOGLE DEEPMIND, “AlphaEvolve: A coding agent for scientific and algorithmic discovery,” 2025. [Online]. Available: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
     },
     {
       "number": 230,
       "key": "meta_risk_review_2026",
-      "citation": "META, How ai is ushering in the next era of risk review at meta, Meta Newsroom, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/ how-ai-is-ushering-in-the-next-era-of-risk-review-at-meta/",
+      "citation": "META, “How AI Is Ushering in the Next Era of Risk Review at Meta,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/how-ai-is-ushering-in-the-next-era-of-risk-review-at-meta/",
       "url": "https://about.fb.com/news/2026/03/how-ai-is-ushering-in-the-next-era-of-risk-review-at-meta/"
     },
     {
       "number": 231,
       "key": "meta_support_safety_ai_2026",
+<<<<<<< Updated upstream
       "citation": "META, Boosting your support and safety on meta’s apps with ai, Meta Newsroom, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/ boosting-your-support-and-safety-on-metas-apps-with-ai/",
+=======
+      "citation": "META, “Boosting Your Support and Safety on Meta's Apps With AI,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/",
+>>>>>>> Stashed changes
       "url": "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/"
     },
     {
       "number": 232,
       "key": "meta_anti_scam_tools_2026",
-      "citation": "META, Meta launches new anti-scam tools, deploys ai technology to fight scammers and protect people, Meta Newsroom, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools- deploys-ai-technology-to-fight-scammers-and-protect-people/",
+      "citation": "META, “Meta Launches New Anti-Scam Tools, Deploys AI Technology to Fight Scammers and Protect People,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/",
       "url": "https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/"
     },
     {
       "number": 233,
       "key": "metapurplellama2026",
-      "citation": "META, Purple llama: Open trust and safety tools, Oﬀicial GitHub repository, 2026. [Online]. Available: https://github.com/meta-llama/PurpleLlama",
+      "citation": "Meta. “PurpleLlama: Open trust and safety tools,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/meta-llama/PurpleLlama",
       "url": "https://github.com/meta-llama/PurpleLlama"
     },
     {
       "number": 234,
       "key": "metallamaprotections2026",
-      "citation": "META, Llama Protections, Oﬀicial documentation, Meta, 2026. [Online]. Available: https://developer.meta.com/ai/docs/llama-protections/",
+      "citation": "Meta. “Llama Protections,” Accessed: Jul. 21, 2026. [Online]. Available: https://developer.meta.com/ai/docs/llama-protections/",
       "url": "https://developer.meta.com/ai/docs/llama-protections/"
     },
     {
       "number": 235,
       "key": "nvidia_sandboxing_agentic_workflows_2026",
-      "citation": "R. Harang, Practical security guidance for sandboxing agentic workflows and managing execution risk, NVIDIA, Jan. 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing- agentic-workflows-and-managing-execution-risk/",
+      "citation": "R. Harang, “Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/",
       "url": "https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/"
     },
     {
       "number": 236,
       "key": "nvidia_doca_agentic_ai_security_2026",
-      "citation": "O. Arkin, U. Stern, and I. Ozery, Advancing ai infrastructure for agentic ai with nvidia doca in-silicon security, NVIDIA Technical Blog, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://developer.nvidia.com/blog/advancing-ai-infrastructure- for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+      "citation": "O. Arkin, U. Stern, and I. Ozery, “Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
       "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/"
     },
     {
       "number": 237,
       "key": "nvidiaisaaclab2026",
-      "citation": "NVIDIA, Nvidia isaac lab documentation, Oﬀicial documentation, 2026. [Online]. Avail- able: https://isaac-sim.github.io/IsaacLab/",
+      "citation": "NVIDIA. “NVIDIA isaac lab documentation. ”[Online]. Available: https://isaac-sim.github.io/IsaacLab/",
       "url": "https://isaac-sim.github.io/IsaacLab/"
     },
     {
       "number": 238,
       "key": "nvidiacosmos2025",
-      "citation": "N. Agarwal et al., “Cosmos world foundation model platform for physical AI,” arXiv, Jan. 2025. arXiv: 2501.03575 [cs.CV]. [Online]. Available: https://arxiv.org/abs/ 2501.03575",
+      "citation": "N. Agarwal et al., Cosmos world foundation model platform for physical AI, Jan. 2025. arXiv: 2501.03575 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2501.03575",
       "url": "https://arxiv.org/abs/2501.03575"
     },
     {
       "number": 239,
       "key": "perplexity_secure_intelligence_institute_2026",
-      "citation": "PERPLEXITY, Secure intelligence institute, Perplexity, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://www.perplexity.ai/secure-intelligence-institute",
+      "citation": "Perplexity. “Secure intelligence institute,” Accessed: Jul. 13, 2026. [Online]. Available: https://www.perplexity.ai/secure-intelligence-institute",
       "url": "https://www.perplexity.ai/secure-intelligence-institute"
     },
     {
       "number": 240,
       "key": "perplexitysonar2026",
-      "citation": "PERPLEXITY, Sonar api documentation, Oﬀicial documentation, 2026. [Online]. Avail- able: https://docs.perplexity.ai/",
+      "citation": "Perplexity. “Sonar API documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.perplexity.ai/",
       "url": "https://docs.perplexity.ai/"
     },
     {
       "number": 241,
       "key": "perplexityprivacysecurity2026",
-      "citation": "PERPLEXITY, Perplexity privacy and security, Oﬀicial documentation, 2026. [Online]. Available: https://docs.perplexity.ai/guides/privacy-and-security",
+      "citation": "Perplexity. “Perplexity privacy and security,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.perplexity.ai/guides/privacy-and-security",
       "url": "https://docs.perplexity.ai/guides/privacy-and-security"
     },
     {
       "number": 242,
       "key": "perplexitycomet2025",
-      "citation": "PERPLEXITY, Introducing comet, Oﬀicial announcement, 2025. [Online]. Available: https://www.perplexity.ai/comet",
+      "citation": "Perplexity. “Introducing Comet,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.perplexity.ai/comet",
       "url": "https://www.perplexity.ai/comet"
     },
     {
       "number": 243,
       "key": "bravecometpromptinjection2025",
-      "citation": "BRAVE, Prompt injection in perplexity comet, Security research blog, 2025. [Online]. Available: https://brave.com/blog/comet-prompt-injection/",
+      "citation": "BRAVE, “Prompt Injection in Perplexity Comet,” 2025. [Online]. Available: https://brave.com/blog/comet-prompt-injection/",
       "url": "https://brave.com/blog/comet-prompt-injection/"
     },
     {
       "number": 244,
       "key": "cohere2025north",
-      "citation": "C. Team, North —ai for business that turns complexity into clarity, Accessed: 2026- 07-19; Enterprise secure agentic AI workspace platform page, Cohere, 2025. [Online]. Available: https://cohere.com/north",
+      "citation": "Cohere Team, “North — AI for business that turns complexity into clarity,” 2025. [Online]. Available: https://cohere.com/north",
       "url": "https://cohere.com/north"
     },
     {
       "number": 245,
       "key": "cohere2025command",
-      "citation": "COHERE TEAM, Command —secure, production-ready eﬀiciency for agentic intelli- gence, Cohere, 2025. [Online]. Available: https://cohere.com/command",
+      "citation": "COHERE TEAM, “Command — Secure, production-ready efficiency for agentic intelligence,” 2025. [Online]. Available: https://cohere.com/command",
       "url": "https://cohere.com/command"
     },
     {
       "number": 246,
       "key": "cohere2025sovereignai",
-      "citation": "COHERE TEAM, Navigating the global push for sovereign ai, Jul. 2025. [Online]. Avail- able: https://cohere.com/blog/global-push-for-sovereign-ai",
+      "citation": "COHERE TEAM, “Navigating the global push for sovereign AI,” 2025. [Online]. Available: https://cohere.com/blog/global-push-for-sovereign-ai",
       "url": "https://cohere.com/blog/global-push-for-sovereign-ai"
     },
     {
       "number": 247,
       "key": "wedgenetworks2026resilient",
-      "citation": "WEDGE NETWORKS INC., Resilient security for an agentic edge world, Wedge Net- works Inc., Feb. 2026. [Online]. Available: https://www.wedgenetworks.com/",
+      "citation": "WEDGE NETWORKS INC., “Resilient security for an agentic edge world,” 2026. [Online]. Available: https://www.wedgenetworks.com/",
       "url": "https://www.wedgenetworks.com/"
     },
     {
       "number": 248,
       "key": "alephphariaaipdf2025",
-      "citation": "ALEPH ALPHA, PhariaAI: Full-stack sovereign AI operating system, Oﬀicial presen- tation / product PDF, 2025. [Online]. Available: https://aleph-alpha.com/app/ uploads/2025/03/Aleph-Alpha-PhariaAI.pdf",
+      "citation": "Aleph Alpha. “PhariaAI: Full-stack sovereign AI operating system,” Accessed: Jul. 21, 2026. [Online]. Available: https://aleph-alpha.com/app/uploads/2025/03/Aleph-Alpha-PhariaAI.pdf",
       "url": "https://aleph-alpha.com/app/uploads/2025/03/Aleph-Alpha-PhariaAI.pdf"
     },
     {
       "number": 249,
       "key": "mistralaistudio2025",
-      "citation": "MISTRAL AI, Introducing Mistral AI Studio: The production AI platform, Oﬀicial an- nouncement, Oct. 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://mistral. ai/news/ai-studio/",
+      "citation": "MISTRAL AI, “Introducing Mistral AI Studio: The production AI platform,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/news/ai-studio/",
       "url": "https://mistral.ai/news/ai-studio/"
     },
     {
       "number": 250,
       "key": "alephintelligencelayer2026",
-      "citation": "ALEPHALPHA,PhariaInferenceSDK,OﬀicialGitHubrepository,Jun.2025.[Online]. Available: https://github.com/Aleph-Alpha/pharia-inference-sdk",
+      "citation": "Aleph Alpha. “Pharia Inference SDK,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/Aleph-Alpha/pharia-inference-sdk",
       "url": "https://github.com/Aleph-Alpha/pharia-inference-sdk"
     },
     {
       "number": 251,
       "key": "mistralforge2026",
-      "citation": "MISTRAL AI, Mistral Forge: Build AI models that know your enterprise, Oﬀicial prod- uct page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/ products/forge/",
+      "citation": "Mistral AI. “Mistral Forge: Build AI models that know your enterprise,” Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/products/forge/",
       "url": "https://mistral.ai/products/forge/"
     },
     {
       "number": 252,
       "key": "alephphariamodels2026",
-      "citation": "ALEPH ALPHA, Pharia model variants, Oﬀicial documentation, 2026. [Online]. Avail- able: https://docs.aleph-alpha.com/docs/models/model-card/",
+      "citation": "Aleph Alpha. “Pharia model variants,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aleph-alpha.com/docs/models/model-card/",
       "url": "https://docs.aleph-alpha.com/docs/models/model-card/"
     },
     {
       "number": 253,
       "key": "yandexaistudiosecurity2026",
-      "citation": "YANDEXAISTUDIO,Security,2026.[Online].Available:https://aistudio.yandex. ru/en/security",
-      "url": "https://aistudio.yandex"
+      "citation": "Yandex AI Studio. “Security,” Accessed: Jul. 21, 2026. [Online]. Available: aistudio.yandex.ru/en/security",
+      "url": "https://aistudio.yandex.ru/en/security"
     },
     {
       "number": 254,
       "key": "mistralAgents2025",
-      "citation": "M. AI, Agents api documentation, Oﬀicial documentation, 2025. [Online]. Available: https://docs.mistral.ai/capabilities/agents/",
+      "citation": "Mistral AI. “Agents API documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.mistral.ai/capabilities/agents/",
       "url": "https://docs.mistral.ai/capabilities/agents/"
     },
     {
       "number": 255,
       "key": "mistralstudio2026",
-      "citation": "MISTRAL AI, Mistral ai studio product documentation, Oﬀicial product page, 2026. [Online]. Available: https://mistral.ai/products/ai-studio",
+      "citation": "Mistral AI. “Mistral AI Studio product documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/products/ai-studio",
       "url": "https://mistral.ai/products/ai-studio"
     },
     {
       "number": 256,
       "key": "alephphariaai2026",
-      "citation": "ALEPHALPHA,Phariaaideveloperguide,Oﬀicialdocumentation,2026.[Online].Avail- able: https://docs.aleph-alpha.com/docs/",
+      "citation": "Aleph Alpha. “PhariaAI developer guide,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aleph-alpha.com/docs/",
       "url": "https://docs.aleph-alpha.com/docs/"
     },
     {
       "number": 257,
       "key": "darktraceactiveai2026",
-      "citation": "DARKTRACE, Darktrace ActiveAI Security Platform, Oﬀicial product page, 2026. Ac- cessed: Jul. 21, 2026. [Online]. Available: https://www.darktrace.com/platform",
+      "citation": "Darktrace. “Darktrace ActiveAI security platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.darktrace.com/platform",
       "url": "https://www.darktrace.com/platform"
     },
     {
       "number": 258,
       "key": "darktracecyberanalyst2026",
-      "citation": "DARKTRACE, Cyber AI Analyst, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.darktrace.com/products/cyber-ai-analyst",
+      "citation": "Darktrace. “Cyber AI Analyst,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.darktrace.com/products/cyber-ai-analyst",
       "url": "https://www.darktrace.com/products/cyber-ai-analyst"
     },
     {
       "number": 259,
       "key": "yandexaistudioonprem2026",
-      "citation": "YANDEX CLOUD, Yandex AI Studio on-premises, Oﬀicial product page, 2026. Ac- cessed: Jul. 21, 2026. [Online]. Available: https://aistudio.yandex.ru/en/on- premises",
+      "citation": "Yandex Cloud. “Yandex AI Studio on-premises,” Accessed: Jul. 21, 2026. [Online]. Available: https://aistudio.yandex.ru/en/on-premises",
       "url": "https://aistudio.yandex.ru/en/on-premises"
     },
     {
       "number": 260,
       "key": "yandexaisearch2026",
-      "citation": "YANDEX CLOUD, Ai search technology overview, Oﬀicial documentation, 2026. [On- line]. Available: https://aistudio.yandex.ru/docs/en/ai-studio/concepts/ search/",
+      "citation": "Yandex Cloud. “AI search technology overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://aistudio.yandex.ru/docs/en/ai-studio/concepts/search/",
       "url": "https://aistudio.yandex.ru/docs/en/ai-studio/concepts/search/"
     },
     {
       "number": 261,
       "key": "yandexaistudio2026",
-      "citation": "YANDEX CLOUD, AI Studio documentation, Oﬀicial documentation, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://aistudio.yandex.ru/docs/en/",
+      "citation": "Yandex Cloud. “AI Studio documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://aistudio.yandex.ru/docs/en/",
       "url": "https://aistudio.yandex.ru/docs/en/"
     },
     {
       "number": 262,
       "key": "mistrallachatenterprise2025",
+<<<<<<< Updated upstream
       "citation": "MISTRAL AI, Le chat enterprise, Oﬀicial product page, 2025. [Online]. Available: https://mistral.ai/products/la-plateforme/le-chat-enterprise",
       "url": "https://mistral.ai/products/le-chat"
+=======
+      "citation": "Mistral AI. “Le Chat enterprise,” Accessed: Jul. 21, 2026. [Online]. Available: https://mistral.ai/products/la-plateforme/le-chat-enterprise",
+      "url": "https://mistral.ai/products/la-plateforme/le-chat-enterprise"
+>>>>>>> Stashed changes
     },
     {
       "number": 263,
       "key": "darktraceautonomousresponse2026",
-      "citation": "DARKTRACE, Autonomous response, Oﬀicial product page, 2026. [Online]. Available: https://www.darktrace.com/darktrace-autonomous-response",
+      "citation": "Darktrace. “Autonomous response,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.darktrace.com/darktrace-autonomous-response",
       "url": "https://www.darktrace.com/darktrace-autonomous-response"
     },
     {
       "number": 264,
       "key": "yandexsecuritydeckassistant2026",
-      "citation": "YANDEX CLOUD, Security deck ai assistant, Oﬀicial documentation, 2026. [Online]. Available:https://yandex.cloud/en/docs/security-deck/concepts/ai-assistant",
+      "citation": "Yandex Cloud. “Security deck AI assistant,” Accessed: Jul. 21, 2026. [Online]. Available: https://yandex.cloud/en/docs/security-deck/concepts/ai-assistant",
       "url": "https://yandex.cloud/en/docs/security-deck/concepts/ai-assistant"
     },
     {
       "number": 265,
       "key": "aliyunopenclawdocs2026",
-      "citation": "ALIBABA CLOUD, Deploy a dedicated OpenClaw agent using PAI-EAS, Oﬀicial docu- mentation, Mar. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/ pai/user-guide/deploy-exclusive-openclaw-using-pai-eas-for-5-minutes",
+      "citation": "Alibaba Cloud. “Deploy a dedicated OpenClaw agent using PAI-EAS,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/pai/user-guide/deploy-exclusive-openclaw-using-pai-eas-for-5-minutes",
       "url": "https://www.alibabacloud.com/help/en/pai/user-guide/deploy-exclusive-openclaw-using-pai-eas-for-5-minutes"
     },
     {
       "number": 266,
       "key": "tencentagentgateway2026",
-      "citation": "TENCENT CLOUD, AI agent security gateway overview, Oﬀicial documentation, 2026. [Online]. Available: https://www.tencentcloud.com/document/product/1429/72299",
-      "url": "https://cloud.google.com/blog/products/identity-security/how-to-secure-your-remote-mcp-server-on-google-cloud"
+      "citation": "Tencent Cloud. “AI agent security gateway overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.tencentcloud.com/document/product/1429/72299",
+      "url": "https://www.tencentcloud.com/document/product/1429/72299"
     },
     {
       "number": 267,
       "key": "huaweiagentarts2026",
-      "citation": "HUAWEI CLOUD, What is the AgentArts agent platform? Oﬀicial documentation, Jun. 2026. [Online]. Available: https://support.huaweicloud.com/productdesc- agentarts/agentarts_03_0002.html",
+      "citation": "Huawei Cloud. “What is the AgentArts agent platform?” Accessed: Jul. 21, 2026. [Online]. Available: https://support.huaweicloud.com/productdesc-agentarts/agentarts_03_0002.html",
       "url": "https://support.huaweicloud.com/productdesc-agentarts/agentarts_03_0002.html"
     },
     {
       "number": 268,
       "key": "baiduqianfanagent2026",
-      "citation": "BAIDU AI CLOUD, Baidu Qianfan: Large model service and agent development plat- form, Oﬀicial documentation, 2026. [Online]. Available: https://cloud.baidu.com/ doc/qianfan/index.html",
+      "citation": "Baidu AI Cloud. “Baidu Qianfan: Large model service and agent development platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://cloud.baidu.com/doc/qianfan/index.html",
       "url": "https://cloud.baidu.com/doc/qianfan/index.html"
     },
     {
       "number": 269,
       "key": "iflyteksparkenterpriseagent2026",
-      "citation": "IFLYTEK, Spark Enterprise Agent Platform, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://sparklegion.iflytek.com/inner6.html",
-      "url": "https://xinghuo.xfyun.cn/"
+      "citation": "IFLYTEK. “Spark Enterprise Agent Platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://sparklegion.iflytek.com/inner6.html",
+      "url": "https://sparklegion.iflytek.com/inner6.html"
     },
     {
       "number": 270,
       "key": "iflytekxingchenagent2026",
-      "citation": "IFLYTEK, Xingchen agent platform, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://agent.xfyun.cn/",
+      "citation": "IFLYTEK. “Xingchen agent platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://agent.xfyun.cn/",
       "url": "https://agent.xfyun.cn/"
     },
     {
       "number": 271,
       "key": "huaweicodearts2026",
-      "citation": "HUAWEI CLOUD, Configuring CodeArts security, Oﬀicial documentation, Apr. 2026. [Online]. Available: https://support.huaweicloud.com/intl/en-us/bestpractice- devcloud/devcloud_practice_0002.html",
+      "citation": "Huawei Cloud. “Configuring CodeArts security,” Accessed: Jul. 21, 2026. [Online]. Available: https://support.huaweicloud.com/intl/en-us/bestpractice-devcloud/devcloud_practice_0002.html",
       "url": "https://support.huaweicloud.com/intl/en-us/bestpractice-devcloud/devcloud_practice_0002.html"
     },
     {
       "number": 272,
       "key": "threesixtyagentskillsreport2026",
-      "citation": "360, AI Agent Security Report: Skill as a new risk entry, Report / news release, 2026. [Online].Available:https://www.xinhuanet.com/tech/20260525/7bf4998c12894a7183432528ad25c756/ c.html",
+      "citation": "360, “AI Agent Security Report: Skill as a new risk entry,” 2026. [Online]. Available: https://www.xinhuanet.com/tech/20260525/7bf4998c12894a7183432528ad25c756/c.html",
       "url": "https://www.xinhuanet.com/tech/20260525/7bf4998c12894a7183432528ad25c756/c.html"
     },
     {
       "number": 273,
       "key": "aliyunaiguardrails2026",
-      "citation": "ALIBABA CLOUD, AI guardrails / openclaw runtime AI security protection, Oﬀicial documentation, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/ pai/user-guide/openclaw-runtime-ai-security-protection",
+      "citation": "Alibaba Cloud. “AI guardrails / openclaw runtime AI security protection,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/pai/user-guide/openclaw-runtime-ai-security-protection",
       "url": "https://www.alibabacloud.com/help/en/pai/user-guide/openclaw-runtime-ai-security-protection"
     },
     {
       "number": 274,
       "key": "volcenginellmfirewall2026",
-      "citation": "VOLCENGINE, Large model application firewall, Oﬀicial product page, 2026. [Online]. Available: https://www.volcengine.com/product/LLM-FW",
+      "citation": "VOLCENGINE. “Large model application firewall,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.volcengine.com/product/LLM-FW",
       "url": "https://www.volcengine.com/product/LLM-FW"
     },
     {
       "number": 275,
       "key": "tencentadp2026",
-      "citation": "TENCENTCLOUD,TencentCloudAgentDevelopmentPlatform,Oﬀicialproductpage, 2026. [Online]. Available: https://adp.tencentcloud.com/en",
+      "citation": "Tencent Cloud. “Tencent Cloud Agent Development Platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://adp.tencentcloud.com/en",
       "url": "https://adp.tencentcloud.com/en"
     },
     {
       "number": 276,
       "key": "huaweiagentidentity2026",
-      "citation": "Huawei Cloud, AgentArts agentidentity API key authentication, Oﬀicial documentation, 2026. [Online]. Available: https://support.huaweicloud.com/intl/en-us/api- agentarts/agentarts_api_0308.html",
+      "citation": "Huawei Cloud. “AgentArts agentidentity API key authentication,” Accessed: Jul. 21, 2026. [Online]. Available: https://support.huaweicloud.com/intl/en-us/api-agentarts/agentarts_api_0308.html",
       "url": "https://support.huaweicloud.com/intl/en-us/api-agentarts/agentarts_api_0308.html"
     },
     {
       "number": 277,
       "key": "threesixtymodelguard2026",
-      "citation": "360, 360 large model guard protection system, Oﬀicial product page, 2026. [Online]. Available: https://360.net/mobile/product-center/ai-security/protection",
+      "citation": "360. “360 large model guard protection system,” Accessed: Jul. 21, 2026. [Online]. Available: https://360.net/mobile/product-center/ai-security/protection",
       "url": "https://360.net/mobile/product-center/ai-security/protection"
     },
     {
       "number": 278,
       "key": "deepseektoolcalls2026",
-      "citation": "DEEPSEEK, DeepSeek API docs: Tool calls, Oﬀicial documentation, 2026. [Online]. Available: https://api-docs.deepseek.com/guides/tool_calls/",
-      "url": "https://api-docs.deepseek.com/"
+      "citation": "DeepSeek. “DeepSeek API docs: Tool calls,” Accessed: Jul. 21, 2026. [Online]. Available: https://api-docs.deepseek.com/guides/tool_calls/",
+      "url": "https://api-docs.deepseek.com/guides/tool_calls/"
     },
     {
       "number": 279,
       "key": "paddlepaddle2026",
-      "citation": "PADDLEPADDLE, PaddlePaddle oﬀicial website, Oﬀicial website, 2026. [Online]. Avail- able: https://www.paddlepaddle.org.cn/",
+      "citation": "PADDLEPADDLE, “PaddlePaddle Official Website,” 2026. [Online]. Available: https://www.paddlepaddle.org.cn/",
       "url": "https://www.paddlepaddle.org.cn/"
     },
     {
       "number": 280,
       "key": "baidu_agent_security_center_2026",
-      "citation": "百度智能云, 百度 Agent 安全中心：构筑企业智能体的安全底座, 百度智能云, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/article/",
+      "citation": "百度智能云, “百度 Agent 安全中心：构筑企业智能体的安全底座,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/article/7212409",
       "url": "https://cloud.baidu.com/article/7212409"
     },
     {
       "number": 281,
       "key": "baidu_qianfan_security_policy_2026",
-      "citation": "百度智能云,安全策略：百度千帆大模型服务及Agent开发平台,百度智能云文档,2026. Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/doc/qianfan/ s/Lmmxhsja8",
+      "citation": "Baidu Intelligent Cloud. “Security policy: Baidu qianfan large model service and agent development platform,” Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/doc/qianfan/s/Lmmxhsja8",
       "url": "https://cloud.baidu.com/doc/qianfan/s/Lmmxhsja8"
     },
     {
       "number": 282,
       "key": "baidu_qianfan_intervention_policy_2026",
-      "citation": "百度智能云, 干预策略：千帆 AI 应用开发者中心, 百度智能云文档, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/doc/qianfan-docs/s/ Iml9exr7d",
+      "citation": "Baidu Intelligent Cloud. “Intervention policy: Qianfan AI application developer center,” Accessed: Jul. 13, 2026. [Online]. Available: https://cloud.baidu.com/doc/qianfan-docs/s/Iml9exr7d",
       "url": "https://cloud.baidu.com/doc/qianfan-docs/s/Iml9exr7d"
     },
     {
       "number": 283,
       "key": "baiduduclaw2026",
-      "citation": "BAIDU,DuClaw AI agent service,Oﬀicialproductdocumentation,2026.[Online].Avail- able: https://duclaw.baidu.com/",
+      "citation": "Baidu. “DuClaw AI agent service,” Accessed: Jul. 21, 2026. [Online]. Available: https://duclaw.baidu.com/",
       "url": "https://duclaw.baidu.com/"
     },
     {
       "number": 284,
       "key": "alibaba_agent_security_center_2026",
-      "citation": "ALIBABA CLOUD, Agent security center, 2026. [Online]. Available: https://www. alibabacloud.com/help/en/asc/latest/agent-risk-1",
+      "citation": "Alibaba Cloud. “Agent security center,” Accessed: Jul. 13, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/asc/latest/agent-risk-1",
       "url": "https://www.alibabacloud.com/help/en/asc/latest/agent-risk-1"
     },
     {
       "number": 285,
       "key": "alibaba_agentic_soc_2026",
-      "citation": "ALIBABA CLOUD, Security operations agents, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/security-center/user- guide/agentic-soc-agent-architecture",
-      "url": "https://www.alibabacloud.com/help/en/security-center/user-"
+      "citation": "ALIBABA CLOUD, “Security Operations Agents,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/security-center/user-guide/agentic-soc-agent-architecture",
+      "url": "https://www.alibabacloud.com/help/en/security-center/user-guide/agentic-soc-agent-architecture"
     },
     {
       "number": 286,
       "key": "aliyunopenclawassistant2026",
-      "citation": "ALIBABACLOUD, OpenClaw security assistant,OﬀicialGitHubrepository,2026.[On- line]. Available: https://github.com/alibaba/openclaw-security-assistant",
+      "citation": "Alibaba Cloud. “OpenClaw security assistant,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/alibaba/openclaw-security-assistant",
       "url": "https://github.com/alibaba/openclaw-security-assistant"
     },
     {
       "number": 287,
       "key": "alibabailian2026",
-      "citation": "ALIBABACLOUD,ModelStudio/Bailiandocumentation,Oﬀicialdocumentation,2026. Accessed: Jul. 21, 2026. [Online]. Available: https://help.aliyun.com/zh/model- studio/",
-      "url": "https://help.aliyun.com/zh/model-"
+      "citation": "Alibaba Cloud. “Model Studio/Bailian documentation,” Accessed: Jul. 21, 2026. [Online]. Available: help.aliyun.com/zh/model-studio/",
+      "url": "https://help.aliyun.com/zh/model-studio/"
     },
     {
       "number": 288,
       "key": "tencent_agent_skills_security_2026",
-      "citation": "腾讯朱雀实验室, 当 ai 学会背刺：深度剖析 agent skills 的安全陷阱, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://matrix.tencent.com/zh/2026/01/23/ when-ai-learns-to-backstab-in-depth-analysis-of-the-security-pitfalls- of-agent-skills",
+      "citation": "腾讯朱雀实验室, “当AI学会背刺：深度剖析Agent Skills的安全陷阱,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://matrix.tencent.com/zh/2026/01/23/when-ai-learns-to-backstab-in-depth-analysis-of-the-security-pitfalls-of-agent-skills",
       "url": "https://matrix.tencent.com/zh/2026/01/23/when-ai-learns-to-backstab-in-depth-analysis-of-the-security-pitfalls-of-agent-skills"
     },
     {
       "number": 289,
       "key": "tencent_esg_report_2025_published_2026",
-      "citation": "腾讯控股有限公司, “2025 年环境、社会及管治报告,” 腾讯控股有限公司, Tech. Rep., 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://static.www.tencent.com/ uploads/2026/04/09/f6dbd30b3d8ca9c65f76f3d73b7da739.pdf",
+      "citation": "腾讯控股有限公司, “2025年环境、社会及管治报告,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://static.www.tencent.com/uploads/2026/04/09/f6dbd30b3d8ca9c65f76f3d73b7da739.pdf",
       "url": "https://static.www.tencent.com/uploads/2026/04/09/f6dbd30b3d8ca9c65f76f3d73b7da739.pdf"
     },
     {
       "number": 290,
       "key": "tencentagentgatewayquickstart2026",
-      "citation": "TENCENT CLOUD, AI agent security gateway quick start, Oﬀicial documentation, 2026. [Online]. Available: https://www.tencentcloud.com/document/product/1429/",
+      "citation": "Tencent Cloud. “AI agent security gateway quick start,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.tencentcloud.com/document/product/1429/72300",
       "url": "https://www.tencentcloud.com/document/product/1429/72300"
     },
     {
       "number": 291,
       "key": "tencenthunyuan2026",
+<<<<<<< Updated upstream
       "citation": "TENCENT, Tencent Hunyuan, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://hunyuan.tencent.com/",
+=======
+      "citation": "TENCENT, “Tencent Hunyuan,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://hunyuan.tencent.com/",
+>>>>>>> Stashed changes
       "url": "https://hunyuan.tencent.com/"
     },
     {
       "number": 292,
       "key": "tencentcodebuddysecurity2026",
-      "citation": "TENCENTCLOUD,CodeBuddy security and permissions documentation,Oﬀicialdocu- mentation,2026.Accessed:Jul.21,2026.[Online].Available:https://www.tencentcloud. com/document/product/1154/72936",
+      "citation": "Tencent Cloud. “CodeBuddy security and permissions documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.tencentcloud.com/document/product/1154/72936",
       "url": "https://www.tencentcloud.com/document/product/1154/72936"
     },
     {
       "number": 293,
       "key": "tencentcodebuddymcp2026",
-      "citation": "TENCENT CLOUD, Configure MCP, Oﬀicial documentation, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.codebuddy.ai/docs/ide/User-guide/MCP",
+      "citation": "Tencent Cloud. “Configure MCP,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.codebuddy.ai/docs/ide/User-guide/MCP",
       "url": "https://www.codebuddy.ai/docs/ide/User-guide/MCP"
     },
     {
       "number": 294,
       "key": "zhipu_coding_agent_serving_reliability_2026",
-      "citation": "Z.AI, Scaling pain of coding agent serving: Lessons from debugging GLM-5 at scale, Oﬀicial research blog, Apr. 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://z.ai/blog/scaling-pain",
+      "citation": "Z.AI, “Scaling pain of coding agent serving: Lessons from debugging GLM-5 at scale,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://z.ai/blog/scaling-pain",
       "url": "https://z.ai/blog/scaling-pain"
     },
     {
       "number": 295,
       "key": "zhipu_glm51_process_quality_2026",
-      "citation": "智谱 AI, 新品发布：GLM-5.1、GLM-5V-Turbo 及智谱 AI 模型与产品公告, Oﬀicial documentation, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://docs. bigmodel.cn/cn/update/new-releases",
+      "citation": "智谱AI, “新品发布：GLM-5.1、GLM-5V-Turbo及智谱AI模型与产品公告,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/update/new-releases",
       "url": "https://docs.bigmodel.cn/cn/update/new-releases"
     },
     {
       "number": 296,
       "key": "zhipu_open_autoglm_2026",
-      "citation": "Z.AI, Open-AutoGLM: An open phone agent model, Oﬀicial GitHub repository, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/zai-org/Open- AutoGLM",
-      "url": "https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone"
+      "citation": "Z.AI. “Open-AutoGLM: An open phone agent model,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/zai-org/Open-AutoGLM",
+      "url": "https://github.com/zai-org/Open-AutoGLM"
     },
     {
       "number": 297,
       "key": "zhipu_security_audit_2026",
-      "citation": "智谱 AI. “内容安全：安全审核机制,” 智谱 AI 开放文档, Accessed: Jul. 13, 2026. [On- line]. Available: https://docs.bigmodel.cn/cn/guide/platform/securityaudit",
+      "citation": "Z.AI. “Content security: Security audit mechanism,” Z.AI Oﬀicial Documentation, Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/guide/platform/securityaudit",
       "url": "https://docs.bigmodel.cn/cn/guide/platform/securityaudit"
     },
     {
       "number": 298,
       "key": "zhipu_security_risk_notice_2026",
-      "citation": "Z.AI, 安全与风险提示, Oﬀicial documentation, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/terms/security-risk-notice",
+      "citation": "Z.AI, “安全与风险提示,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/terms/security-risk-notice",
       "url": "https://docs.bigmodel.cn/cn/terms/security-risk-notice"
     },
     {
       "number": 299,
       "key": "zhipu_autoglm_phone_documentation_2026",
-      "citation": "智谱 AI, AutoGLM-Phone, Oﬀicial documentation, 2026. Accessed: Jul. 13, 2026. [On- line]. Available: https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone",
+      "citation": "Zhipu AI. “AutoGLM-Phone,” Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone",
       "url": "https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone"
     },
     {
       "number": 300,
       "key": "zhipu_glm52_2026",
-      "citation": "Z.AI, Glm-5.2: Built for long-horizon tasks, Z.ai Research, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://z.ai/blog/glm-5.2",
+      "citation": "Z.AI, “GLM-5.2: Built for Long-Horizon Tasks,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://z.ai/blog/glm-5.2",
       "url": "https://z.ai/blog/glm-5.2"
     },
     {
       "number": 301,
       "key": "zhipu_bigmodel_platform_2026",
-      "citation": "智谱 AI, 智谱大模型开放平台介绍, 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/guide/start/introduction",
+      "citation": "Zhipu AI. “Introduction to zhipu large model open platform,” Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/cn/guide/start/introduction",
       "url": "https://docs.bigmodel.cn/cn/guide/start/introduction"
     },
     {
       "number": 302,
       "key": "zhipu_content_moderation_api_2026",
-      "citation": "Z.AI,内容安全 api,智谱AI开放文档,2026.Accessed:Jul.13,2026.[Online].Available: https://docs.bigmodel.cn/api-reference/%E5%B7%A5%E5%85%B7-api/%E5%86%85% E5%AE%B9%E5%AE%89%E5%85%A8",
-      "url": "https://docs.bigmodel.cn/api-reference/工具-api/内容安全"
+      "citation": "Z.AI. “Content moderation api,” Accessed: Jul. 13, 2026. [Online]. Available: https://docs.bigmodel.cn/api-reference/%E5%B7%A5%E5%85%B7-api/%E5%86%85%E5%AE%B9%E5%AE%89%E5%85%A8",
+      "url": "https://docs.bigmodel.cn/api-reference/%E5%B7%A5%E5%85%B7-api/%E5%86%85%E5%AE%B9%E5%AE%89%E5%85%A8"
     },
     {
       "number": 303,
       "key": "zhang2026uam",
-      "citation": "J. Zhang et al., “Uam: A dual-stream perspective on forgetting in vla training,” arXiv, 2026. arXiv: 2605.15735. [Online]. Available: https://arxiv.org/abs/2605.15735",
+      "citation": "J. Zhang et al., UAM: A dual-stream perspective on forgetting in VLA training, May 2026. arXiv: 2605.15735 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2605.15735",
       "url": "https://arxiv.org/abs/2605.15735"
     },
     {
       "number": 304,
       "key": "li2026handitloop",
-      "citation": "Z. Li et al., “Hand-in-the-loop: Improving vla policies for dexterous manipulation via seamless hand-arm intervention,” arXiv, 2026. arXiv: 2605.15157. [Online]. Available: https://arxiv.org/abs/2605.15157",
+      "citation": "Z. Li et al., Hand-in-the-Loop: Improving VLA policies for dexterous manipulation via seamless hand-arm intervention, May 2026. arXiv: 2605.15157 [cs.RO]. [Online]. Available: https://arxiv.org/abs/2605.15157",
       "url": "https://arxiv.org/abs/2605.15157"
     },
     {
       "number": 305,
       "key": "he2025pasa",
+<<<<<<< Updated upstream
       "citation": "Y.Heetal.,“Pasa:An llm agent for comprehensive academic paper search,”arXiv,2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
+=======
+      "citation": "Y. He et al., PaSa: An LLM agent for comprehensive academic paper search, Jan. 2025. arXiv: 2501.10120 [cs.IR]. [Online]. Available: https://arxiv.org/abs/2501.10120",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2501.10120"
     },
     {
       "number": 306,
       "key": "bytedanceseedresponsibleai2026",
-      "citation": "BYTEDANCESEED,Responsibleai,2026.[Online].Available:https://seed.bytedance. com/zh/direction/responsible_ai",
-      "url": "https://seed.bytedance"
+      "citation": "BYTEDANCE SEED, “Responsible AI,” 2026. [Online]. Available: https://seed.bytedance.com/zh/direction/responsible_ai",
+      "url": "https://seed.bytedance.com/zh/direction/responsible_ai"
     },
     {
       "number": 307,
       "key": "zou2026taskmem",
-      "citation": "T. Zou, Y. He, T. Qiu, Y. Lin, and H. Li, “Task-focused memorization for multimodal agents,” arXiv, 2026. arXiv: 2605.31075 [cs.CV]. [Online]. Available: https://arxiv. org/abs/2605.31075",
+      "citation": "T. Zou, Y. He, T. Qiu, Y. Lin, and H. Li, Task-focused memorization for multimodal agents, 2026. arXiv: 2605.31075 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2605.31075",
       "url": "https://arxiv.org/abs/2605.31075"
     },
     {
       "number": 308,
       "key": "volcenginesecuritywhitepaper2026",
-      "citation": "VOLCENGINE, Volcano Ark large model service security white paper, Oﬀicial white paper, 2026. [Online]. Available: https://developer.volcengine.com/resource/",
-      "url": "https://www.volcengine.com/product/ark"
+      "citation": "VOLCENGINE, “Volcano Ark Large Model Service Security White Paper,” 2026. [Online]. Available: https://developer.volcengine.com/resource/7584381573106303012",
+      "url": "https://developer.volcengine.com/resource/7584381573106303012"
     },
     {
       "number": 309,
       "key": "cozeskillsecurity2026",
-      "citation": "COZE, Skill security guide, Oﬀicial documentation, 2026. [Online]. Available: https://www.coze.cn/open/docs/guides/skill_security",
+      "citation": "COZE. “Skill security guide,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.coze.cn/open/docs/guides/skill_security",
       "url": "https://www.coze.cn/open/docs/guides/skill_security"
     },
     {
       "number": 310,
       "key": "cozeoauthpkce2026",
-      "citation": "Coze, Oauth pkce authorization flow, Oﬀicial documentation, 2026. [Online]. Available: https://www.coze.cn/open/docs/developer_guides/oauth_pkce",
+      "citation": "Coze. “OAuth PKCE authorization flow,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.coze.cn/open/docs/developer_guides/oauth_pkce",
       "url": "https://www.coze.cn/open/docs/developer_guides/oauth_pkce"
     },
     {
       "number": 311,
       "key": "volcenginecozepro2026",
-      "citation": "VOLCENGINE, Coze pro enterprise ai productivity platform, Oﬀicial product page, 2026. [Online]. Available: https://www.volcengine.com/product/coze-pro",
+      "citation": "VOLCENGINE. “Coze Pro enterprise AI productivity platform,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.volcengine.com/product/coze-pro",
       "url": "https://www.volcengine.com/product/coze-pro"
     },
     {
       "number": 312,
       "key": "feishuaily2026",
-      "citation": "飞书, 快速了解飞书 aily, Online resource, 2026. [Online]. Available: https://www. feishu.cn/hc/zh-CN/articles/790732948604",
+      "citation": "飞书, “快速了解飞书 aily,” 2026. [Online]. Available: https://www.feishu.cn/hc/zh-CN/articles/790732948604",
       "url": "https://www.feishu.cn/hc/zh-CN/articles/790732948604"
     },
     {
       "number": 313,
       "key": "feishuailydataprotection2026",
-      "citation": "飞书, 飞书智能伙伴 aily 之数据保护和策略管理, Online resource, 2026. [Online]. Avail- able: https://www.feishu.cn/content/kdfkscpt",
+      "citation": "飞书, “飞书智能伙伴 Aily 之数据保护和策略管理,” 2026. [Online]. Available: https://www.feishu.cn/content/kdfkscpt",
       "url": "https://www.feishu.cn/content/kdfkscpt"
     },
     {
       "number": 314,
       "key": "kimiapi_officialtools2026",
-      "citation": "MOONSHOT AI, How to use oﬀicial tools in Kimi API, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-official-tools",
+      "citation": "Moonshot AI. “How to use oﬀicial tools in Kimi API,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-official-tools",
       "url": "https://platform.kimi.ai/docs/guide/use-official-tools"
     },
     {
       "number": 315,
       "key": "kimiapi_mcp2026",
-      "citation": "MOONSHOT AI, Configure modelscope mcp server in playground, 2026. [Online]. Avail- able: https://platform.kimi.ai/docs/guide/configure-the-modelscope-mcp- server",
-      "url": "https://www.codebuddy.ai/docs/ide/User-guide/MCP"
+      "citation": "Moonshot AI. “Configure modelscope mcp server in playground,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/configure-the-modelscope-mcp-server",
+      "url": "https://platform.kimi.ai/docs/guide/configure-the-modelscope-mcp-server"
     },
     {
       "number": 316,
       "key": "kimik26release2026",
-      "citation": "KIMI K2 TECHNICAL BLOG, Kimi K2.6 正式发布：智能体编码时代进入生产阶段, 2026. [Online]. Available: https://kimi-k2.org/zh/blog/24-kimi-k2-6-release",
+      "citation": "KIMI K2 TECHNICAL BLOG, “Kimi K2.6 正式发布：智能体编码时代进入生产阶段,” 2026. [Online]. Available: https://kimi-k2.org/zh/blog/24-kimi-k2-6-release",
       "url": "https://kimi-k2.org/zh/blog/24-kimi-k2-6-release"
     },
     {
       "number": 317,
       "key": "kimik2thinkingblog2025",
-      "citation": "KIMI K2 TECHNICAL BLOG, Kimi K2 Thinking: 月之暗面推出迄今最强的开源思 考模型, 2025. [Online]. Available: https://kimi-k2.org/zh/blog/15-kimi-k2- thinking",
+      "citation": "KIMI K2 TECHNICAL BLOG, “Kimi K2 Thinking: 月之暗面推出迄今最强的开源思考模型,” 2025. [Online]. Available: https://kimi-k2.org/zh/blog/15-kimi-k2-thinking",
       "url": "https://kimi-k2.org/zh/blog/15-kimi-k2-thinking"
     },
     {
       "number": 318,
       "key": "kimik2technicalreport2025",
-      "citation": "Y. Bai et al., “Kimi k2: Open agentic intelligence,” arXiv, Jul. 2025. arXiv: 2507.20534 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2507.20534",
+      "citation": "Y. Bai et al., Kimi k2: Open agentic intelligence, Jul. 2025. arXiv: 2507.20534 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2507.20534",
       "url": "https://arxiv.org/abs/2507.20534"
     },
     {
       "number": 319,
       "key": "moonshotkimik2github2025",
-      "citation": "MOONSHOT AI, Kimi-k2: Open agentic intelligence, 2025. [Online]. Available: https://github.com/MoonshotAI/Kimi-K2",
-      "url": "https://arxiv.org/abs/2507.20534"
+      "citation": "Moonshot AI. “Kimi-k2: Open agentic intelligence,” Accessed: Jul. 20, 2026. [Online]. Available: https://github.com/MoonshotAI/Kimi-K2",
+      "url": "https://github.com/MoonshotAI/Kimi-K2"
     },
     {
       "number": 320,
       "key": "kimiapi_k27code2026",
-      "citation": "MOONSHOT AI, Kimi api: Kimi k2.7 code model documentation, 2026. [Online]. Avail- able: https://platform.kimi.ai/docs/guide/kimi-k2-7-code-quickstart",
+      "citation": "Moonshot AI. “Kimi api: Kimi k2.7 code model documentation,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/kimi-k2-7-code-quickstart",
       "url": "https://platform.kimi.ai/docs/guide/kimi-k2-7-code-quickstart"
     },
     {
       "number": 321,
       "key": "kimiapi_toolcalls2026",
+<<<<<<< Updated upstream
       "citation": "MOONSHOT AI, Kimi api’s internet search functionality, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool- calls.md",
+=======
+      "citation": "Moonshot AI. “Kimi api’s internet search functionality,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool-calls.md",
+>>>>>>> Stashed changes
       "url": "https://platform.kimi.ai/docs/guide/use-kimi-api-to-complete-tool-calls.md"
     },
     {
       "number": 322,
       "key": "kimiapi_websearch2026",
-      "citation": "MOONSHOTAI,UseKimiAPI’sinternetsearchfunctionality,2026.[Online].Available: https://platform.kimi.ai/docs/guide/use-web-search",
+      "citation": "Moonshot AI. “Use Kimi API’s internet search functionality,” Accessed: Jul. 13, 2026. [Online]. Available: https://platform.kimi.ai/docs/guide/use-web-search",
       "url": "https://platform.kimi.ai/docs/guide/use-web-search"
     },
     {
       "number": 323,
       "key": "minimaxforge2026",
-      "citation": "MINIMAX, Forge: 可扩展的 agent 强化学习框架与算法, 2026. [Online]. Available: https://www.minimaxi.com/blog/forge-scalable-agent-rl",
+      "citation": "MINIMAX, “Forge: 可扩展的 Agent 强化学习框架与算法,” 2026. [Online]. Available: https://www.minimaxi.com/blog/forge-scalable-agent-rl",
       "url": "https://www.minimaxi.com/blog/forge-scalable-agent-rl"
     },
     {
       "number": 324,
       "key": "minimaxvoiceclone2026",
-      "citation": "MINIMAX,Minimaxapi:Voicecloneguide,2026.[Online].Available:https://platform. minimaxi.com/docs/guides/speech-voice-clone",
+      "citation": "Minimax. “Minimax api: Voice clone guide,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.minimaxi.com/docs/guides/speech-voice-clone",
       "url": "https://platform.minimaxi.com/docs/guides/speech-voice-clone"
     },
     {
       "number": 325,
       "key": "minimaxm2her2026",
-      "citation": "MINIMAX, Minimax-m2-her 技术深度解析, 2026. [Online]. Available: https://www. minimaxi.com/blog/minimax-m2-her",
+      "citation": "MINIMAX, “MiniMax-M2-her 技术深度解析,” 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-m2-her",
       "url": "https://www.minimaxi.com/blog/minimax-m2-her"
     },
     {
       "number": 326,
       "key": "minimaxm2blog2025",
-      "citation": "MINIMAX, Minimax m2 & agent: 大巧若拙, 2025. [Online]. Available: https://www. minimaxi.com/blog/minimax-m2",
+      "citation": "MINIMAX, “MiniMax M2 & Agent: 大巧若拙,” 2025. [Online]. Available: https://www.minimaxi.com/blog/minimax-m2",
       "url": "https://www.minimaxi.com/blog/minimax-m2"
     },
     {
       "number": 327,
       "key": "minimaxm25blog2026",
-      "citation": "MINIMAX, Minimax m2.5: 更快更强更智能，为真实世界生产力而生, Oﬀicial blog, 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-m25",
+      "citation": "MINIMAX, “MiniMax M2.5: 更快更强更智能，为真实世界生产力而生,” 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-m25",
       "url": "https://www.minimaxi.com/blog/minimax-m25"
     },
     {
       "number": 328,
       "key": "minimaxm3blog2026",
-      "citation": "MINIMAX, Minimax m3: 前沿 coding 能力，1m 上下文，原生多模态，一个模型全给你, Oﬀicial blog, 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-m3",
+      "citation": "MINIMAX, “MiniMax M3: 前沿 Coding 能力，1M 上下文，原生多模态，一个模型全给你,” 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-m3",
       "url": "https://www.minimaxi.com/blog/minimax-m3"
     },
     {
       "number": 329,
       "key": "minimaxagentteam2026",
-      "citation": "MINIMAX, Minimax agent team: 为长程任务，持续进化而生, Oﬀicial blog, 2026. [On- line]. Available: https://www.minimaxi.com/blog/minimax-agent-team-long- running-1779893521",
+      "citation": "MINIMAX, “MiniMax Agent Team: 为长程任务，持续进化而生,” 2026. [Online]. Available: https://www.minimaxi.com/blog/minimax-agent-team-long-running-1779893521",
       "url": "https://www.minimaxi.com/blog/minimax-agent-team-long-running-1779893521"
     },
     {
       "number": 330,
       "key": "minimaxfunctioncall2026",
-      "citation": "MINIMAX, Minimax api: Function call documentation, Oﬀicial documentation, 2026. [Online]. Available: https://platform.minimaxi.com/docs/guides/text-m3- function-call",
+      "citation": "Minimax. “Minimax api: Function call documentation,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.minimaxi.com/docs/guides/text-m3-function-call",
       "url": "https://platform.minimaxi.com/docs/guides/text-m3-function-call"
     },
     {
       "number": 331,
       "key": "minimaxmcp2026",
-      "citation": "MINIMAX, MiniMax API: Mcp guide, Oﬀicial documentation, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://platform.minimaxi.com/docs/guides/mcp-guide",
+      "citation": "Minimax. “MiniMax API: MCP guide,” Accessed: Jul. 21, 2026. [Online]. Available: https://platform.minimaxi.com/docs/guides/mcp-guide",
       "url": "https://platform.minimaxi.com/docs/guides/mcp-guide"
     },
     {
       "number": 332,
       "key": "minimaxminiagent2026",
-      "citation": "MINIMAX, Mini-agent, Oﬀicial documentation, 2026. [Online]. Available: https:// platform.minimaxi.com/docs/token-plan/mini-agent",
+      "citation": "Minimax. “Mini-agent,” Accessed: Jul. 20, 2026. [Online]. Available: https://platform.minimaxi.com/docs/token-plan/mini-agent",
       "url": "https://platform.minimaxi.com/docs/token-plan/mini-agent"
     },
     {
       "number": 333,
       "key": "deepseekproverv22025",
-      "citation": "Z. Z. Ren et al., “DeepSeek-Prover-V2: Advancing formal mathematical reasoning via reinforcement learning for subgoal decomposition,” arXiv, 2025. arXiv: 2504.21801 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2504.21801",
+      "citation": "Z. Z. Ren et al., DeepSeek-Prover-V2: Advancing formal mathematical reasoning via reinforcement learning for subgoal decomposition, Apr. 2025. arXiv: 2504.21801 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2504.21801",
       "url": "https://arxiv.org/abs/2504.21801"
     },
     {
       "number": 334,
       "key": "marjanovic2025thoughtology",
-      "citation": "S. V. Marjanovic et al., “DeepSeek-R1 thoughtology: Let’s think about LLM reasoning,” arXiv, 2025. arXiv: 2504.07128 [cs.CL]. [Online]. Available: https://arxiv.org/ abs/2504.07128",
+      "citation": "S. V. Marjanović et al., DeepSeek-R1 thoughtology: Let’s think about LLM reasoning, Apr. 2025. arXiv: 2504.07128 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2504.07128",
       "url": "https://arxiv.org/abs/2504.07128"
     },
     {
       "number": 335,
       "key": "deepseekfyiDualPipe2026",
-      "citation": "DEEPSEEK SYSTEMS TEAM, DeepSeek’s DualPipe: Bidirectional pipeline parallelism for V3/R1 training, Oﬀicial technical blog, Apr. 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://www.deepseek.fyi/deepseek-dualpipe.html",
+      "citation": "DEEPSEEK SYSTEMS TEAM, “DeepSeek's DualPipe: Bidirectional pipeline parallelism for V3/R1 training,” 2026. Accessed: Jul. 13, 2026. [Online]. Available: https://www.deepseek.fyi/deepseek-dualpipe.html",
       "url": "https://www.deepseek.fyi/deepseek-dualpipe.html"
     },
     {
       "number": 336,
       "key": "deepseekRateIsolation2026",
-      "citation": "DEEPSEEK,DeepSeek API docs: Rate limit and isolation,Oﬀicialdocumentation,2026. Accessed: Jul. 13, 2026. [Online]. Available: https://api-docs.deepseek.com/quick_ start/rate_limit/",
+      "citation": "DeepSeek. “DeepSeek API docs: Rate limit and isolation,” Accessed: Jul. 13, 2026. [Online]. Available: https://api-docs.deepseek.com/quick_start/rate_limit/",
       "url": "https://api-docs.deepseek.com/quick_start/rate_limit/"
     },
     {
       "number": 337,
       "key": "deepseekapi2026",
-      "citation": "DEEPSEEK,DeepSeek API documentation: Your first API call,Oﬀicial documentation, 2026. [Online]. Available: https://api-docs.deepseek.com/",
+      "citation": "DeepSeek. “DeepSeek API documentation: Your first API call,” Accessed: Jul. 21, 2026. [Online]. Available: https://api-docs.deepseek.com/",
       "url": "https://api-docs.deepseek.com/"
     },
     {
       "number": 338,
       "key": "deepseekjsonoutput2026",
-      "citation": "DEEPSEEK, JSON output, Oﬀicial documentation, 2026. Accessed: Jul. 21, 2026. [On- line]. Available: https://api-docs.deepseek.com/guides/json_mode",
+      "citation": "DeepSeek. “JSON output,” Accessed: Jul. 21, 2026. [Online]. Available: https://api-docs.deepseek.com/guides/json_mode",
       "url": "https://api-docs.deepseek.com/guides/json_mode"
     },
     {
       "number": 339,
       "key": "deepseekr12025",
-      "citation": "DEEPSEEK-AI, “DeepSeek-R1: Incentivizing reasoning capability in LLMs via rein- forcement learning,” arXiv, 2025. arXiv: 2501.12948 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2501.12948",
+      "citation": "D. Guo et al., DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning, Jan. 2025. arXiv: 2501.12948 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2501.12948",
       "url": "https://arxiv.org/abs/2501.12948"
     },
     {
       "number": 340,
       "key": "deepseekv3github2025",
-      "citation": "DEEPSEEK-AI, DeepSeek-V3 github repository, Oﬀicial GitHub repository, 2025. Ac- cessed:Jul.21,2026.[Online].Available:https://github.com/deepseek-ai/DeepSeek- V3",
+      "citation": "DeepSeek-AI. “DeepSeek-V3 github repository,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3"
     },
     {
       "number": 341,
       "key": "iflytekagentguide2026",
-      "citation": "IFLYTEK, Agent development guide, Oﬀicial documentation, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.xfyun.cn/doc/spark/Agent03-%E5%BC%80% E5%8F%91%E6%8C%87%E5%8D%97.html",
+      "citation": "IFLYTEK. “Agent development guide,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.xfyun.cn/doc/spark/Agent03-%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.html",
       "url": "https://www.xfyun.cn/doc/spark/Agent03-%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.html"
     },
     {
       "number": 342,
       "key": "iflyteksparkknowledgebase2026",
-      "citation": "IFLYTEK, Spark knowledge base, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.xfyun.cn/services/spark_knowledge_base",
-      "url": "https://xinghuo.xfyun.cn/"
+      "citation": "IFLYTEK. “Spark knowledge base,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.xfyun.cn/services/spark_knowledge_base",
+      "url": "https://www.xfyun.cn/services/spark_knowledge_base"
     },
     {
       "number": 343,
       "key": "iflyteksceneagent2026",
-      "citation": "IFLYTEK,Spark scenario agent documentation,Oﬀicialdocumentation,2026.Accessed: Jul. 21, 2026. [Online]. Available: https://xinghuo.xfyun.cn/doc/spark-guide/ %E5%9C%BA%E6%99%AF%E6%99%BA%E8%83%BD%E4%BD%93.html",
-      "url": "https://xinghuo.xfyun.cn/"
+      "citation": "IFLYTEK. “Spark scenario agent documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://xinghuo.xfyun.cn/doc/spark-guide/%E5%9C%BA%E6%99%AF%E6%99%BA%E8%83%BD%E4%BD%93.html",
+      "url": "https://xinghuo.xfyun.cn/doc/spark-guide/%E5%9C%BA%E6%99%AF%E6%99%BA%E8%83%BD%E4%BD%93.html"
     },
     {
       "number": 344,
       "key": "nyuLeCun2026",
-      "citation": "NEW YORK UNIVERSITY CENTER FOR DATA SCIENCE, Yann LeCun faculty profile, NYU Center for Data Science faculty webpage, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://cds.nyu.edu/team/yann-lecun/",
-      "url": "https://cds.nyu.edu/"
+      "citation": "New York University Center for Data Science. “Yann LeCun faculty profile,” Accessed: Jul. 21, 2026. [Online]. Available: https://cds.nyu.edu/team/yann-lecun/",
+      "url": "https://cds.nyu.edu/team/yann-lecun/"
     },
     {
       "number": 345,
       "key": "googleGeminiEnterpriseAgentPlatform2026",
-      "citation": "Google, Gemini enterprise agent platform, https://cloud.google.com/products/ gemini-enterprise-agent-platform, 2026.",
-      "url": "https://cloud.google.com/products/"
+      "citation": "Google, “Gemini Enterprise Agent Platform,” 2026. [Online]. Available: https://cloud.google.com/products/gemini-enterprise-agent-platform",
+      "url": "https://cloud.google.com/products/gemini-enterprise-agent-platform"
     },
     {
       "number": 346,
       "key": "vjepa2025",
-      "citation": "Meta AI FAIR Team, “V-JEPA 2: Self-supervised video models enable understanding, prediction and planning,” arXiv, 2025. arXiv: 2506.09985 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2506.09985",
+      "citation": "M. Assran et al., V-JEPA 2: Self-supervised video models enable understanding, prediction and planning, Jun. 2025. arXiv: 2506.09985 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2506.09985",
       "url": "https://arxiv.org/abs/2506.09985"
     },
     {
       "number": 347,
       "key": "googleADK2025",
-      "citation": "GOOGLE, Google Agent Development Kit (ADK), Oﬀicial developer documentation, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://google.github.io/adk- docs/",
+      "citation": "Google. “Google Agent Development Kit (ADK),” Accessed: Jul. 21, 2026. [Online]. Available: https://google.github.io/adk-docs/",
       "url": "https://google.github.io/adk-docs/"
     },
     {
       "number": 348,
       "key": "deepmindCoScientist2025",
-      "citation": "GOOGLE DEEPMIND, Co-Scientist: A multi-agent AI partner to accelerate research, Oﬀicial research blog, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https:// deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate- research/",
-      "url": "https://deepmind.google/"
+      "citation": "GOOGLE DEEPMIND, “Co-Scientist: A multi-agent AI partner to accelerate research,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/"
     },
     {
       "number": 349,
       "key": "pineauDeparture2025",
+<<<<<<< Updated upstream
       "citation": "CNBC, Meta’s head of AI research Joelle Pineau announces departure, Online news article, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.cnbc.com/ 2025/04/01/metas-head-of-ai-research-announces-departure.html",
       "url": "https://ai.meta.com/people/1914216782353556/joelle-pineau/"
+=======
+      "citation": "CNBC, “Meta's head of AI research Joelle Pineau announces departure,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.cnbc.com/2025/04/01/metas-head-of-ai-research-announces-departure.html",
+      "url": "https://www.cnbc.com/2025/04/01/metas-head-of-ai-research-announces-departure.html"
+>>>>>>> Stashed changes
     },
     {
       "number": 350,
       "key": "chennabasappa2025llamafirewall",
-      "citation": "S. Chennabasappa et al., “LlamaFirewall: An open source guardrail system for building secure AI agents,” arXiv, May 2025. arXiv: 2505.03574 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.03574",
-      "url": "https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/"
+      "citation": "S. Chennabasappa et al., LlamaFirewall: An open source guardrail system for building secure AI agents, May 2025. arXiv: 2505.03574 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.03574",
+      "url": "https://arxiv.org/abs/2505.03574"
     },
     {
       "number": 351,
       "key": "amiLabsFunding2026",
-      "citation": "FUTURUM GROUP, Yann LeCun’s AMI raises $1bn seed round, Online news arti- cle, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://futurumgroup.com/ insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era- finally-here/",
+      "citation": "FUTURUM GROUP, “Yann LeCun's AMI raises $1bn seed round,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://futurumgroup.com/insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era-finally-here/",
       "url": "https://futurumgroup.com/insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era-finally-here/"
     },
     {
       "number": 352,
       "key": "lejepaIdentifiability2026",
-      "citation": "R. L. Wells, Yann LeCun’s world model earns a formal proof: Benchmark finds current models brittle, Online news article, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world- model-earns-formal-proof-benchmark-finds-current-models-brittle.htm",
+      "citation": "R. L. Wells, “Yann LeCun's world model earns a formal proof: Benchmark finds current models brittle,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world-model-earns-formal-proof-benchmark-finds-current-models-brittle.htm",
       "url": "https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world-model-earns-formal-proof-benchmark-finds-current-models-brittle.htm"
     },
     {
       "number": 353,
       "key": "latentspaceGrayswan2026",
-      "citation": "LATENT SPACE, Red-teaming after mythos—Zico Kolter and Matt Fredrikson, Gray Swan,Podcast/articlewebpage,2026.Accessed:Jul.21,2026.[Online].Available:https://www.latent.space/p/gray-swan",
+      "citation": "LATENT SPACE, “Red-teaming after mythos - Zico Kolter and Matt Fredrikson, Gray Swan,” 2026. [Online]. Available: https://www.latent.space/p/gray-swan",
       "url": "https://www.latent.space/p/gray-swan"
     },
     {
       "number": 354,
       "key": "kolterWikipedia2026",
-      "citation": "WIKIPEDIA, Zico kolter, Wikipedia article, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://en.wikipedia.org/wiki/Zico_Kolter",
+      "citation": "WIKIPEDIA, “Zico Kolter,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://en.wikipedia.org/wiki/Zico_Kolter",
       "url": "https://en.wikipedia.org/wiki/Zico_Kolter"
     },
     {
       "number": 355,
       "key": "lecunMITTechReview2026",
-      "citation": "MIT TECHNOLOGY REVIEW, Yann LeCun’s new venture is a contrarian bet against large language models, Online news article, 2026. Accessed: Jul. 21, 2026. [Online]. Avail- able: https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns- new-venture-ami-labs/",
+      "citation": "MIT TECHNOLOGY REVIEW, “Yann LeCun's new venture is a contrarian bet against large language models,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
       "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/"
     },
     {
       "number": 356,
       "key": "gottweisAICoScientist2025",
-      "citation": "J. Gottweis et al., “Towards an AI co-scientist,” arXiv preprint arXiv:2502.18864, 2025. [Online]. Available: https://collimateur.uqam.ca/wp-content/uploads/sites/11/ 2025/03/2502.18864v1.pdf",
+      "citation": "J. Gottweis et al., “Accelerating scientific discovery with Co-Scientist,” Nature, vol. 655, pp. 487–496, May 2026.",
       "url": "https://collimateur.uqam.ca/wp-content/uploads/sites/11/"
     },
     {
       "number": 357,
       "key": "labcriticsCoScientist2026",
-      "citation": "LABCRITICS, Google DeepMind’s co-scientist graduates from research demo to Na- ture paper, Online article, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https:// labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates- from-research-demo-to-nature-paper/",
-      "url": "https://deepmind.google/"
+      "citation": "LABCRITICS, “Google DeepMind's co-scientist graduates from research demo to Nature paper,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/",
+      "url": "https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/"
     },
     {
       "number": 358,
       "key": "grayswanSeriesA2026",
-      "citation": "MADRON￿, Defining the frontier of AI security: Why we are co-leading Gray Swan’s series A, Oﬀicial company announcement, 2026. Accessed: Jul. 21, 2026. [Online]. Avail- able: https://www.madrona.com/gray-swan-series-a/",
+      "citation": "V. Ramaswami and M. McIlwain, “Defining the frontier of AI security: Why we are co-leading Gray Swan's Series A,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.madrona.com/gray-swan-series-a/",
       "url": "https://www.madrona.com/gray-swan-series-a/"
     },
     {
       "number": 359,
       "key": "openaiRedTeamNetwork2025",
-      "citation": "OPENAI, OpenAI red teaming network, Oﬀicial company webpage, 2025. Accessed: Jul.21,2026.[Online].Available:https://openai.com/index/red-teaming-network/",
+      "citation": "OpenAI. “OpenAI red teaming network,” Accessed: Jul. 21, 2026. [Online]. Available: https://openai.com/index/red-teaming-network/",
       "url": "https://openai.com/index/red-teaming-network/"
     },
     {
       "number": 360,
       "key": "acharya2026formal",
-      "citation": "N. Acharya and G. K. Gupta, “A formal security framework for MCP-based AI agents: Threat taxonomy, verification models, and defense mechanisms,” arXiv, Apr. 2026. arXiv: 2604.05969 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.05969",
+      "citation": "N. Acharya and G. K. Gupta, A formal security framework for MCP-based AI agents: Threat taxonomy, verification models, and defense mechanisms, Apr. 2026. arXiv: 2604.05969 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.05969",
       "url": "https://arxiv.org/abs/2604.05969"
     },
     {
       "number": 361,
       "key": "openaiAgentsSDK2025",
-      "citation": "OPENAI, OpenAI agents SDK documentation, https://openai.github.io/openai- agents-python/, 2025. [Online]. Available: https://openai.github.io/openai- agents-python/",
+      "citation": "OpenAI. “OpenAI agents SDK documentation,” Accessed: Jul. 21, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/",
       "url": "https://openai.github.io/openai-agents-python/"
     },
     {
       "number": 362,
       "key": "openaiGuardrailsApprovalsDoc2026",
-      "citation": "OPENAI, Guardrails and human review, Oﬀicial developer documentation, 2026. Ac- cessed: Jul. 21, 2026. [Online]. Available: https://developers.openai.com/api/ docs/guides/agents/guardrails-approvals",
+      "citation": "OpenAI. “Guardrails and human review,” Accessed: Jul. 21, 2026. [Online]. Available: https://developers.openai.com/api/docs/guides/agents/guardrails-approvals",
       "url": "https://developers.openai.com/api/docs/guides/agents/guardrails-approvals"
     },
     {
       "number": 363,
       "key": "venturebeatChatGPTAgent2025",
-      "citation": "VENTUREBEAT, How OpenAI’s red team made ChatGPT Agent into an AI fortress, Onlinenewsarticle,2025.Accessed:Jul.21,2026.[Online].Available:https://venturebeat. com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress",
-      "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent"
+      "citation": "VENTUREBEAT, “How OpenAI's red team made ChatGPT Agent into an AI fortress,” 2025. [Online]. Available: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress",
+      "url": "https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress"
     },
     {
       "number": 364,
       "key": "oxSecurityMCP2026",
-      "citation": "OX SECURITY, The mother of all AI supply chains: Critical, systemic vulnerability at the core of Anthropic MCP, Oﬀicial security research report, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.ox.security/blog/the-mother-of-all-ai- supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp/",
+      "citation": "OX SECURITY, “The mother of all AI supply chains: Critical, systemic vulnerability at the core of Anthropic MCP,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp/",
       "url": "https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp/"
     },
     {
       "number": 365,
       "key": "springLab2026",
-      "citation": "SPRINGLAB,EPFL,Carmela Troncoso – personal homepage,2026.[Online].Available: https://people.epfl.ch/carmela.troncoso",
-      "url": "https://aisecure.github.io/"
+      "citation": "SPRING LAB, EPFL. “Carmela Troncoso – personal homepage,” Accessed: Jul. 21, 2026. [Online]. Available: https://people.epfl.ch/carmela.troncoso",
+      "url": "https://people.epfl.ch/carmela.troncoso"
     },
     {
       "number": 366,
       "key": "karriNYU2026",
-      "citation": "R. Karri, Ramesh karri, NYU Center for Cybersecurity faculty profile, 2026.",
+      "citation": "NYU Center for Cybersecurity. “Ramesh Karri,” Accessed: Jul. 21, 2026. [Online]. Available: https://cyber.nyu.edu/profile/ramesh-karri/",
       "url": "https://cyber.nyu.edu/profile/ramesh-karri/"
     },
     {
       "number": 367,
       "key": "openaiGuardrailsDoc2026",
-      "citation": "OpenAI,Guardrails - openai agents sdk,https://openai.github.io/openai-agents- python/guardrails/, 2026.",
-      "url": "https://openai.github.io/openai-agents-"
+      "citation": "OpenAI. “Guardrails - OpenAI Agents SDK,” Accessed: Jul. 20, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/guardrails/",
+      "url": "https://openai.github.io/openai-agents-python/guardrails/"
     },
     {
       "number": 368,
       "key": "openaiExternalRedTeaming2025",
-      "citation": "L. Ahmad, S. Agarwal, M. Lampe, and P. Mishkin, “OpenAI’s approach to external red teamingforAImodelsandsystems,”arXiv,2025.arXiv:2503.16431[cs.AI].[Online]. Available: https://arxiv.org/abs/2503.16431",
+      "citation": "L. Ahmad, S. Agarwal, M. Lampe, and P. Mishkin, OpenAI’s approach to external red teaming for AI models and systems, Mar. 2025. arXiv: 2503.16431 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2503.16431",
       "url": "https://arxiv.org/abs/2503.16431"
     },
     {
       "number": 369,
       "key": "openaiTracingDoc2026",
-      "citation": "OpenAI, Tracing - openai agents sdk, https://openai.github.io/openai-agents- python/tracing/, 2026.",
+      "citation": "OpenAI. “Tracing - OpenAI Agents SDK,” Accessed: Jul. 20, 2026. [Online]. Available: https://openai.github.io/openai-agents-python/tracing/",
       "url": "https://openai.github.io/openai-agents-python/tracing/"
     },
     {
       "number": 370,
       "key": "anthropicClaudeCodeSecurity2026",
-      "citation": "ANTHROPIC, Making frontier cybersecurity capabilities available to defenders, Oﬀicial company announcement, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https:// www.anthropic.com/news/claude-code-security",
+      "citation": "ANTHROPIC, “Making frontier cybersecurity capabilities available to defenders,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.anthropic.com/news/claude-code-security",
       "url": "https://www.anthropic.com/news/claude-code-security"
     },
     {
       "number": 371,
       "key": "thehackernewsMCP2026",
-      "citation": "THE HACKER NEWS, Anthropic MCP design vulnerability enables RCE, threatening AI supply chain, Online news article, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability. html",
+      "citation": "THE HACKER NEWS, “Anthropic MCP design vulnerability enables RCE, threatening AI supply chain,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
       "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
     },
     {
       "number": 372,
       "key": "checkpointClaudeCode2026",
+<<<<<<< Updated upstream
       "citation": "CHECK POINT RESEARCH, Caught in the hook: RCE and API token exfiltration through Claude Code project files, Oﬀicial security research report, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://research.checkpoint.com/2026/rce- and-api-token-exfiltration-through-claude-code-project-files-cve-2025- 59536/",
+=======
+      "citation": "CheckPoint Research. “Caught in the hook: RCE and API token exfiltration through Claude Code project files,” Accessed: Jul. 21, 2026. [Online]. Available: https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/",
+>>>>>>> Stashed changes
       "url": "https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/"
     },
     {
       "number": 373,
       "key": "githubClaudeCodeAdvisory2026",
-      "citation": "GITHUB ADVISORY DATABASE, Claude Code leaks data via malicious environ- ment configuration before trust confirmation, GitHub Security Advisory GHSA-jh7p- qr78-84p7, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/ advisories/GHSA-jh7p-qr78-84p7",
+      "citation": "GitHub Advisory Database. “Claude Code leaks data via malicious environment configuration before trust confirmation.” Accessed: Jul. 21, 2026, Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/advisories/GHSA-jh7p-qr78-84p7",
       "url": "https://github.com/advisories/GHSA-jh7p-qr78-84p7"
     },
     {
       "number": 374,
       "key": "gaire2025mcpsok",
+<<<<<<< Updated upstream
       "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, “Systematization of knowledge: Security and safety in the model context protocol ecosystem,” arXiv preprint arXiv:2512.08290, 2025.",
       "url": ""
+=======
+      "citation": "S. Gaire, S. Gyawali, S. Mishra, S. Niroula, D. Thakur, and U. Yadav, Systematization of knowledge: Security and safety in the MCP ecosystem, Dec. 2025. arXiv: 2512.08290 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.08290",
+      "url": "https://arxiv.org/abs/2512.08290"
+>>>>>>> Stashed changes
     },
     {
       "number": 375,
       "key": "applePCCSecurityGuide2026",
-      "citation": "APPLE SECURITY RESEARCH, Private cloud compute security guide, Oﬀicial se- curity documentation, 2026. [Online]. Available: https://security.apple.com/ documentation/private-cloud-compute",
+      "citation": "Apple Security Research. “Private cloud compute security guide. ”[Online]. Available: https://security.apple.com/documentation/private-cloud-compute",
       "url": "https://security.apple.com/documentation/private-cloud-compute"
     },
     {
       "number": 376,
       "key": "appleSecurityResearch2026",
-      "citation": "APPLE, Apple Security Research, Oﬀicial security research website, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://security.apple.com/",
+      "citation": "Apple. “Apple Security Research,” Accessed: Jul. 21, 2026. [Online]. Available: https://security.apple.com/",
       "url": "https://security.apple.com/"
     },
     {
       "number": 377,
       "key": "nvidiaConfidentialComputingProduct2026",
-      "citation": "NVIDIA, AI security with confidential computing, Oﬀicial product webpage, 2026. Ac- cessed: Jul. 21, 2026. [Online]. Available: https://www.nvidia.com/en-us/data- center/solutions/confidential-computing/",
+      "citation": "NVIDIA, “AI security with confidential computing,” 2026. [Online]. Available: https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/",
       "url": "https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/"
     },
     {
       "number": 378,
       "key": "pkuAlignAnything2026",
-      "citation": "PKU ALIGNMENT GROUP, align-anything：全模态对齐训练、数据和测评框架, Of- ficial GitHub repository, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https:// github.com/PKU-Alignment/align-anything",
-      "url": "https://github.com/PKU-Alignment"
+      "citation": "PKU Alignment Group. “align-anything: Full-modal alignment training, data and evaluation framework,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/PKU-Alignment/align-anything",
+      "url": "https://github.com/PKU-Alignment/align-anything"
     },
     {
       "number": 379,
       "key": "noahArkSMARTS2026",
-      "citation": "HUAWEI NOAH’S ARK LAB, SMARTS: Scalable multi-agent reinforcement learning training school,OﬀicialGitHubrepository,2026.Accessed:Jul.21,2026.[Online].Avail- able: https://github.com/huawei-noah/SMARTS",
+      "citation": "Huawei Noah’s Ark Lab. “SMARTS: Scalable multi-agent reinforcement learning training school,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/huawei-noah/SMARTS",
       "url": "https://github.com/huawei-noah/SMARTS"
     },
     {
       "number": 380,
       "key": "ipadsSJTU2026",
-      "citation": "IPADS, SHANGHAI JIAO TONG UNIVERSITY, 并行与分布式系统研究所（IPADS）, 研究所官方网站, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://ipads. se.sjtu.edu.cn/",
+      "citation": "IPADS, Shanghai Jiao Tong University. “Institute of parallel and distributed systems (IPADS),” Accessed: Jul. 21, 2026. [Online]. Available: https://ipads.se.sjtu.edu.cn/",
       "url": "https://ipads.se.sjtu.edu.cn/"
     },
     {
       "number": 381,
       "key": "tsinghuaAIInstitute2026",
-      "citation": "清华大学, 清华大学人工智能研究院, 研究院官方网站, 2026. Accessed: Jul. 4, 2026. [Online]. Available: https://ai.tsinghua.edu.cn/",
+      "citation": "清华大学. “清华大学人工智能研究院,” Accessed: Jul. 4, 2026. [Online]. Available: https://ai.tsinghua.edu.cn/",
       "url": "https://ai.tsinghua.edu.cn/"
     },
     {
       "number": 382,
       "key": "tsinghuaAIR2026",
-      "citation": "TSINGHUA UNIVERSITY, Institute for AI industry research, tsinghua university, Of- ficial institute website, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://air. tsinghua.edu.cn/",
+      "citation": "Tsinghua University. “Institute for AI industry research,” Accessed: Jul. 4, 2026. [Online]. Available: air.tsinghua.edu.cn/",
       "url": "https://air.tsinghua.edu.cn/"
     },
     {
       "number": 383,
       "key": "sjtuLoCCS2026",
-      "citation": "SJTU LABORATORY OF CRYPTOLOGY AND COMPUTER SECURITY, 密码与 计算机安全实验室（LoCCS）, 实验室官方网站, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://infosec.sjtu.edu.cn/",
-      "url": "https://security.cs.washington.edu/"
+      "citation": "SJTU Laboratory of Cryptology and Computer Security. “Laboratory of cryptology and computer security (LoCCS),” Accessed: Jul. 21, 2026. [Online]. Available: https://infosec.sjtu.edu.cn/",
+      "url": "https://infosec.sjtu.edu.cn/"
     },
     {
       "number": 384,
       "key": "sjtuAISecLab2026",
-      "citation": "Z.Zhang,人工智能安全实验室·上海交通大学,实验室官方网站,2026.Accessed:Jul.4, 2026. [Online]. Available: https://sjtuaiseclab.github.io/",
+      "citation": "上海交通大学人工智能安全实验室. “人工智能安全实验室·上海交通大学,” Accessed: Jul. 4, 2026. [Online]. Available: sjtuaiseclab.github.io/",
       "url": "https://sjtuaiseclab.github.io/"
     },
     {
       "number": 385,
       "key": "internAgentSHLab2026",
-      "citation": "上海人工智能实验室, 多智能体框架 Intern·Agent 上线，探索科学发现新范式, 上海 人工智能实验室官方网站, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.shlab.org.cn/news/5444184",
+      "citation": "上海人工智能实验室, “多智能体框架 Intern·Agent 上线，探索科学发现新范式,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.shlab.org.cn/news/5444184",
       "url": "https://www.shlab.org.cn/news/5444184"
     },
     {
       "number": 386,
       "key": "santosgrueiro2026wgpulens",
+<<<<<<< Updated upstream
       "citation": "I. Santos-Grueiro et al., “What browsers do in the shaders: A measurement study of WebGPU privacy,” arXiv, 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
+=======
+      "citation": "I. Santos-Grueiro, What browsers do in the shaders: A measurement study of WebGPU privacy, Jun. 2026. arXiv: 2606.26412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26412",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.26412"
     },
     {
       "number": 387,
       "key": "nvbleed2025",
-      "citation": "Y. Zhang, R. Nazaraliyev, S. B. Dutta, A. Marquez, K. Barker, and N. Abu-Ghazaleh, Nvbleed: Covert and side-channel attacks on NVIDIA multi-GPU interconnect, 2025. arXiv: 2503.17847 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.17847",
-      "url": "https://www.engineering.org.cn/sscae/CN/10.15302/J-SSCAE-2023.06.009"
+      "citation": "Y. Zhang, R. Nazaraliyev, S. B. Dutta, A. Marquez, K. Barker, and N. Abu-Ghazaleh, NVBleed: Covert and side-channel attacks on NVIDIA multi-GPU interconnect, Mar. 2025. arXiv: 2503.17847 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.17847",
+      "url": "https://arxiv.org/abs/2503.17847"
     },
     {
       "number": 388,
       "key": "imtiaz2025llmhardwaretrojan",
-      "citation": "S. Imtiaz et al., “Detecting LLM-generated hardware trojans using security assertions,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025. arXiv: 2502.10194 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2502.10194",
+      "citation": "S. Imtiaz, U. Reinsalu, and T. Ghasempouri, Translating common security assertions across processor designs: A RISC-V case study, Feb. 2025. arXiv: 2502.10194 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2502.10194",
       "url": "https://arxiv.org/abs/2502.10194"
     },
     {
       "number": 389,
       "key": "gu2025gpuccdemystified",
-      "citation": "Z. Gu et al., “NVIDIA GPU confidential computing demystified,” arXiv, 2025. arXiv: 2507.02770 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2507.02770",
-      "url": "https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/"
+      "citation": "Z. Gu et al., Blueprint, bootstrap, and bridge: A security look at NVIDIA GPU confidential computing, Jul. 2025. arXiv: 2507.02770 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2507.02770",
+      "url": "https://arxiv.org/abs/2507.02770"
     },
     {
       "number": 390,
       "key": "nvidia2026gpudriverbulletin",
-      "citation": "NVIDIA,Securitybulletin:NVIDIAGPUdisplaydrivers—january2026,NVIDIAProd- uct Security Bulletin, Jan. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://nvidia.custhelp.com/app/answers/detail/a_id/5747",
+      "citation": "NVIDIA. “Security bulletin: NVIDIA GPU display drivers—january 2026,” Accessed: Jul. 21, 2026. [Online]. Available: https://nvidia.custhelp.com/app/answers/detail/a_id/5747",
       "url": "https://nvidia.custhelp.com/app/answers/detail/a_id/5747"
     },
     {
       "number": 391,
       "key": "darpaAISS2026",
-      "citation": "DARPA, Automatic implementation of secure silicon, 2026. [Online]. Available: https://www.darpa.mil/research/programs/automatic-implementation-of-secure- silicon",
+      "citation": "DARPA. “Automatic implementation of secure silicon,” Accessed: Jun. 30, 2026. [Online]. Available: https://www.darpa.mil/research/programs/automatic-implementation-of-secure-silicon",
       "url": "https://www.darpa.mil/research/programs/automatic-implementation-of-secure-silicon"
     },
     {
       "number": 392,
       "key": "chrapek2025confidentialllm",
+<<<<<<< Updated upstream
       "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, “Confidential LLM inference: Performance and cost across CPU and GPU TEEs,” arXiv, 2025. arXiv: 2509.18886 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2509.18886",
+=======
+      "citation": "M. Chrapek, M. Copik, E. Mettaz, and T. Hoefler, Confidential LLM inference: Performance and cost across CPU and GPU TEEs, 2025. arXiv: 2509.18886 [cs.PF]. [Online]. Available: https://arxiv.org/abs/2509.18886",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2509.18886"
     },
     {
       "number": 393,
       "key": "nvidiasecureai2025",
-      "citation": "E. Sakata, Announcing NVIDIA Secure AI general availability, NVIDIA Technical Blog, Apr. 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://developer.nvidia. com/blog/announcing-nvidia-secure-ai-general-availability/",
+      "citation": "E. Sakata, “Announcing NVIDIA Secure AI general availability,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://developer.nvidia.com/blog/announcing-nvidia-secure-ai-general-availability/",
       "url": "https://developer.nvidia.com/blog/announcing-nvidia-secure-ai-general-availability/"
     },
     {
       "number": 394,
       "key": "nvidia2026confidentialai",
-      "citation": "J.ZhouandJ.Wu,“Eﬀicientvector-multiplicativeprivacy-preservingretrieval-augmented generation for large language models,” IEEE Transactions on Dependable and Secure Computing, 2026.",
+      "citation": "NVIDIA. “Confidential computing for AI,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.nvidia.com/ai-enterprise/planning-resource/ai-factory-white-paper/latest/confidential-computing-for-ai.html",
       "url": "https://docs.nvidia.com/ai-enterprise/planning-resource/ai-factory-white-paper/latest/confidential-computing-for-ai.html"
     },
     {
       "number": 395,
       "key": "eurohpcAIFactories2026",
-      "citation": "EUROPEAN HIGH PERFORMANCE COMPUTING JOINT UNDERTAKING, AI factories: Computing power and customised support services, Oﬀicial EuroHPC JU web- page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.eurohpc-ju. europa.eu/ai-factories_en",
+      "citation": "European High Performance Computing Joint Undertaking. “AI factories: Computing power and customised support services,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.eurohpc-ju.europa.eu/ai-factories_en",
       "url": "https://www.eurohpc-ju.europa.eu/ai-factories_en"
     },
     {
       "number": 396,
       "key": "forough2026agents",
-      "citation": "J. Forough, M. Kogias, and H. Haddadi, “When agents handle secrets: A survey of confidential computing for agentic AI,” arXiv, May 2026. arXiv: 2605.03213 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.03213",
+      "citation": "J. Forough, M. Kogias, and H. Haddadi, When agents handle secrets: A survey of confidential computing for agentic AI, May 2026. arXiv: 2605.03213 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.03213",
       "url": "https://arxiv.org/abs/2605.03213"
     },
     {
       "number": 397,
       "key": "amdsb3034",
-      "citation": "ADVANCED MICRO DEVICES, AMD-SB-3034: SEV-SNP routing misconfiguration, AMD Product Security Bulletin, Apr. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.amd.com/en/resources/product-security/bulletin/amd-sb- 3034.html",
+      "citation": "Advanced Micro Devices. “AMD-SB-3034: SEV-SNP routing misconfiguration,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3034.html",
       "url": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3034.html"
     },
     {
       "number": 398,
       "key": "sinaki2026trustmee",
+<<<<<<< Updated upstream
       "citation": "P. S. Sinaki, Z. Ahmad, W. Xie, M. Sebrechts, J. Kjällman, and L. J. Gunn, “TrustMee: Self-verifying remote attestation evidence,” arXiv, 2026. arXiv: 2602.13148 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.13148",
+=======
+      "citation": "P. S. Sinaki, Z. Ahmad, W. Xie, M. Sebrechts, J. Kjällman, and L. J. Gunn, TrustMee: Self-verifying remote attestation evidence, Feb. 2026. arXiv: 2602.13148 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.13148",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.13148"
     },
     {
       "number": 399,
       "key": "psacertified2026",
-      "citation": "PSA CERTIFIED, PSA Certified: Expert IoT security framework and certification, Of- ficial certification program website, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.psacertified.org/",
+      "citation": "PSA CERTIFIED. “PSA Certified: Expert IoT security framework and certification,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.psacertified.org/",
       "url": "https://www.psacertified.org/"
     },
     {
       "number": 400,
       "key": "armplatformsecurity2026",
-      "citation": "ARM, Platform security, Oﬀicial architecture security documentation, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.arm.com/architecture/security- features/platform-security",
+      "citation": "ARM. “Platform security,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.arm.com/architecture/security-features/platform-security",
       "url": "https://www.arm.com/architecture/security-features/platform-security"
     },
     {
       "number": 401,
       "key": "pdrima2025",
-      "citation": "J. Mao and X. Chang, “PDRIMA: A policy-driven runtime integrity measurement and attestation approach for ARM TrustZone-based TEE,” arXiv, 2025. arXiv: 2512.06500 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.06500",
+      "citation": "J. Mao and X. Chang, PDRIMA: A policy-driven runtime integrity measurement and attestation approach for ARM TrustZone-based TEE, 2025. arXiv: 2512.06500 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.06500",
       "url": "https://arxiv.org/abs/2512.06500"
     },
     {
       "number": 402,
       "key": "vecodi2026trustzonem",
-      "citation": "M. Vero et al., “Verifiable and confidential DNN inference on low-end edge devices,” arXiv, 2026. arXiv: 2606.07470 [cs.CR]. [Online]. Available: https://arxiv.org/ abs/2606.07470",
+      "citation": "M. K. Kiri, I. D. O. Nunes, A. Francillon, and N. Rattanavipanon, Verifiable and confidential DNN inference on low-end edge devices, 2026. arXiv: 2606.07470 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.07470",
       "url": "https://arxiv.org/abs/2606.07470"
     },
     {
       "number": 403,
       "key": "ecAIFactories2026",
-      "citation": "EUROPEAN COMMISSION, AI factories, Shaping Europe’s Digital Future, Apr. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://digital-strategy.ec.europa. eu/en/policies/ai-factories",
-      "url": "https://digital-strategy.ec.europa.eu/en/activities/digital-programme"
+      "citation": "EUROPEAN COMMISSION. “AI factories,” Accessed: Jul. 21, 2026. [Online]. Available: https://digital-strategy.ec.europa.eu/en/policies/ai-factories",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-factories"
     },
     {
       "number": 404,
       "key": "stsafea1102026",
-      "citation": "STMICROELECTRONICS, STSAFE-A110: Authentication and state-of-the-art secu- rity for peripherals and IoT devices, Oﬀicial product page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.st.com/en/secure-mcus/stsafe-a110.html",
+      "citation": "STMicroelectronics. “STSAFE-A110: Authentication and state-of-the-art security for peripherals and IoT devices,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.st.com/en/secure-mcus/stsafe-a110.html",
       "url": "https://www.st.com/en/secure-mcus/stsafe-a110.html"
     },
     {
       "number": 405,
       "key": "st2025xcubestse01",
-      "citation": "STMICROELECTRONICS, X-CUBE-STSE01: Secure element software package with STSAFE-A110, STSAFE-A120, and STSAFE-L010, Oﬀicial product data brief, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.st.com/resource/en/data_ brief/x-cube-stse01.pdf",
+      "citation": "STMICROELECTRONICS. “X-CUBE-STSE01: Secure element software package with STSAFE-A110, STSAFE-A120, and STSAFE-L010,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.st.com/resource/en/data_brief/x-cube-stse01.pdf",
       "url": "https://www.st.com/resource/en/data_brief/x-cube-stse01.pdf"
     },
     {
       "number": 406,
       "key": "siemensindustrialcyber2026",
-      "citation": "Siemens, Cybersecurity for industry, Siemens industrial cybersecurity web page, 2026. [Online].Available:https://www.siemens.com/en-us/company/digital-transformation/ cybersecurity/industrial-cybersecurity/",
+      "citation": "Siemens. “Cybersecurity for industry,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.siemens.com/en-us/company/digital-transformation/cybersecurity/industrial-cybersecurity/",
       "url": "https://www.siemens.com/en-us/company/digital-transformation/cybersecurity/industrial-cybersecurity/"
     },
     {
       "number": 407,
       "key": "openpanguquant2026",
-      "citation": "T. Shi et al., “An empirical study of OpenPangu quantization on Ascend NPU,” arXiv, 2026. arXiv: 2606.21257 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2606.",
+      "citation": "T. Shi et al., An empirical study of OpenPangu quantization on Ascend NPU, Jun. 2026. arXiv: 2606.21257 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2606.21257",
       "url": "https://arxiv.org/abs/2606.21257"
     },
     {
       "number": 408,
       "key": "w4a16ascend2026",
+<<<<<<< Updated upstream
       "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, “W4A16 mixed-precision matrix multiplication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs,” arXiv, 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
+=======
+      "citation": "Y. He, P. Niu, J. Chen, C. Zhang, and C. Yang, W4A16 mixed-precision matrix multiplication on decoupled architecture: Kernel design and memory bottleneck analysis for Ascend NPUs, Jan. 2026. arXiv: 2601.16536 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2601.16536",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2601.16536"
     },
     {
       "number": 409,
       "key": "openeuler2026",
-      "citation": "OPENATOM OPENEULER COMMUNITY, openEuler: OS for digital infrastructure, Oﬀicial project website, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https:// www.openeuler.org/en/",
+      "citation": "OpenAtom openEuler Community. “openEuler: OS for digital infrastructure,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.openeuler.org/en/",
       "url": "https://www.openeuler.org/en/"
     },
     {
       "number": 410,
       "key": "psuie2026cvm",
+<<<<<<< Updated upstream
       "citation": "J.MaoandX.Chang,“PS-UIE: Privilege-separated integrity enforcement for user-space executable objects in confidential VMs,” arXiv, 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
+=======
+      "citation": "J. Mao and X. Chang, PS-UIE: Privilege-separated integrity enforcement for user-space executable objects in confidential VMs, Jun. 2026. arXiv: 2606.04549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04549",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.04549"
     },
     {
       "number": 411,
       "key": "hifloat2026",
+<<<<<<< Updated upstream
       "citation": "P. Zhao et al., “Unleashing low-bit inference on Ascend NPUs: A comprehensive evaluation of HiFloat formats,” arXiv, 2026. arXiv: 2602.12635 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2602.12635",
+=======
+      "citation": "P. Zhao et al., Unleashing low-bit inference on Ascend NPUs: A comprehensive evaluation of HiFloat formats, Feb. 2026. arXiv: 2602.12635 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2602.12635",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.12635"
     },
     {
       "number": 412,
       "key": "enec2026ascend",
-      "citation": "J. Yang et al., “ENEC: A lossless AI model compression method enabling fast inference onAscendNPUs,”arXiv,2026.arXiv:2604.03298[cs.LG].[Online].Available:https://arxiv.org/abs/2604.03298",
+      "citation": "J. Yang et al., ENEC: A lossless AI model compression method enabling fast inference on Ascend NPUs, Apr. 2026. arXiv: 2604.03298 [cs.AR]. [Online]. Available: https://arxiv.org/abs/2604.03298",
       "url": "https://arxiv.org/abs/2604.03298"
     },
     {
       "number": 413,
       "key": "m100dataflow2026",
-      "citation": "Y. Xie et al., “M100: An orchestrated dataflow architecture powering general AI com- puting,” arXiv, 2026. arXiv: 2604.17862 [cs.LG]. [Online]. Available: https://arxiv. org/abs/2604.17862",
+      "citation": "Y. Xie et al., M100: An orchestrated dataflow architecture powering general AI computing, Apr. 2026. arXiv: 2604.17862 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2604.17862",
       "url": "https://arxiv.org/abs/2604.17862"
     },
     {
       "number": 414,
       "key": "quantnpu2026",
-      "citation": "J. Zhang et al., “Quant.npu: Enabling eﬀicient mobile NPU inference for on-device LLMs via fully static quantization,” arXiv, 2026. arXiv: 2605.20295 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.20295",
+      "citation": "J. Zhang et al., Quant.npu: Enabling eﬀicient mobile NPU inference for on-device LLMs via fully static quantization, May 2026. arXiv: 2605.20295 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.20295",
       "url": "https://arxiv.org/abs/2605.20295"
     },
     {
       "number": 415,
       "key": "heterollm2025mobile",
-      "citation": "L. Chen et al., “HeteroLLM: Accelerating large language model inference on mobile SoCs with heterogeneous AI accelerators,” arXiv, 2025. arXiv: 2501.14794 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2501.14794",
+      "citation": "L. Chen et al., HeteroLLM: Accelerating large language model inference on mobile SoCs with heterogeneous AI accelerators, Jan. 2025. arXiv: 2501.14794 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2501.14794",
       "url": "https://arxiv.org/abs/2501.14794"
     },
     {
       "number": 416,
       "key": "ascendcann2026",
-      "citation": "华为技术有限公司, CANN：昇腾异构计算架构, 昇腾社区官方网站, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.hiascend.com/cann",
+      "citation": "Huawei Technologies Co., Ltd. “CANN: Ascend heterogeneous computing architecture,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.hiascend.com/cann",
       "url": "https://www.hiascend.com/cann"
     },
     {
       "number": 417,
       "key": "mindspore2026",
-      "citation": "MINDSPORE COMMUNITY, MindSpore oﬀicial site, Oﬀicial project website, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.mindspore.cn/en",
+      "citation": "MindSpore Community. “MindSpore oﬀicial site,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.mindspore.cn/en",
       "url": "https://www.mindspore.cn/en"
     },
     {
       "number": 418,
       "key": "cloudmatrix2025",
-      "citation": "P. Zuo et al., “Serving large language models on Huawei CloudMatrix384,” arXiv, 2025. arXiv: 2506.12708 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2506.12708",
+      "citation": "P. Zuo et al., Serving large language models on Huawei CloudMatrix384, Jun. 2025. arXiv: 2506.12708 [cs.DC]. [Online]. Available: https://arxiv.org/abs/2506.12708",
       "url": "https://arxiv.org/abs/2506.12708"
     },
     {
       "number": 419,
       "key": "huawei2025superpodopen",
-      "citation": "HUAWEI, Huawei launches open-access SuperPoD architecture for all-scenario comput- ing,Oﬀicialcompanynewsrelease,Sep.2025.Accessed:Jul.21,2026.[Online].Available: https://www.huawei.com/en/news/2025/9/hc-superpod-innovation",
+      "citation": "HUAWEI, “Huawei launches open-access SuperPoD architecture for all-scenario computing,” 2025. [Online]. Available: https://www.huawei.com/en/news/2025/9/hc-superpod-innovation",
       "url": "https://www.huawei.com/en/news/2025/9/hc-superpod-innovation"
     },
     {
       "number": 420,
       "key": "anthropicThreatIntel2025",
-      "citation": "ANTHROPIC, Detecting and countering misuse of AI: August 2025, Oﬀicial threat intelligence report, Aug. 2025. Accessed: Jul. 21, 2026. [Online]. Available: https:// www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "citation": "ANTHROPIC, “Detecting and countering misuse of AI: August 2025,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
     },
     {
       "number": 421,
       "key": "anthropicGTG1002_2025",
-      "citation": "ANTHROPIC, Disrupting the first reported AI-orchestrated cyber espionage campaign, Oﬀicial company report, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https:// www.anthropic.com/news/disrupting-AI-espionage",
+      "citation": "ANTHROPIC, “Disrupting the first reported AI-orchestrated cyber espionage campaign,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.anthropic.com/news/disrupting-AI-espionage",
       "url": "https://www.anthropic.com/news/disrupting-AI-espionage"
     },
     {
       "number": 422,
       "key": "replitDatabaseDeletion2025",
-      "citation": "FORTUNE, AI-powered coding tool wiped out a software company’s database in “catas- trophic failure”, Online news article, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database- called-it-a-catastrophic-failure/",
+      "citation": "FORTUNE, “AI-powered coding tool wiped out a software company's database in ``catastrophic failure'',” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/",
       "url": "https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/"
     },
     {
       "number": 423,
       "key": "openclawMoltbookBreach2026",
+<<<<<<< Updated upstream
       "citation": "WIZ RESEARCH, Hacking Moltbook: 1.5m API keys exposed, Oﬀicial security research blog, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.wiz.io/blog/ exposed-moltbook-database-reveals-millions-of-api-keys",
+=======
+      "citation": "WIZ RESEARCH, “Hacking Moltbook: 1.5M API keys exposed,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+>>>>>>> Stashed changes
       "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys"
     },
     {
       "number": 424,
       "key": "langgrinchCVE2025",
-      "citation": "THE HACKER NEWS, Critical LangChain Core vulnerability exposes secrets via serial- ization injection, Online news article, 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://thehackernews.com/2025/12/critical-langchain-core-vulnerability. html",
+      "citation": "THE HACKER NEWS, “Critical LangChain Core vulnerability exposes secrets via serialization injection,” 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
       "url": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html"
     },
     {
       "number": 425,
       "key": "amazonQCVE2025",
-      "citation": "AMAZON WEB SERVICES, Malicious script injected into amazon Q developer for visual studio code (VS Code) extension, GitHub Security Advisory GHSA-7g7f-ff96- 5gcw,2025.Accessed:Jul.21,2026.[Online].Available:https://github.com/aws/aws- toolkit-vscode/security/advisories/GHSA-7g7f-ff96-5gcw",
+      "citation": "AMAZON WEB SERVICES, “Malicious script injected into Amazon Q Developer for Visual Studio Code (VS Code) extension,” 2025. [Online]. Available: https://github.com/aws/aws-toolkit-vscode/security/advisories/GHSA-7g7f-ff96-5gcw",
       "url": "https://github.com/aws/aws-toolkit-vscode/security/advisories/GHSA-7g7f-ff96-5gcw"
     },
     {
       "number": 426,
       "key": "openclawCVE2026",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-25253 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-25253",
+      "citation": "National Vulnerability Database. “CVE-2026-25253 detail,” Accessed: Jul. 21, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-25253",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25253"
     },
     {
       "number": 427,
       "key": "openclawClawHavoc2026",
-      "citation": "KOI SECURITY, ClawHavoc: 341 malicious clawhub skills report, 2026. [Online]. Avail- able: https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills- found",
+      "citation": "KOI SECURITY, “ClawHavoc: 341 Malicious ClawHub Skills Report,” 2026. [Online]. Available: https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found",
       "url": "https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found"
     },
     {
       "number": 428,
       "key": "openclawExposure2026",
-      "citation": "SECURITYSCORECARD, Beyond the hype: Moltbot’s real risk is exposed infrastruc- ture, not AI superintelligence, Oﬀicial company blog, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://securityscorecard.com/blog/beyond-the-hype- moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/",
+      "citation": "SECURITYSCORECARD, “Beyond the hype: Moltbot's real risk is exposed infrastructure, not AI superintelligence,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/",
       "url": "https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/"
     },
     {
       "number": 429,
       "key": "perplexityCometVuln2026",
-      "citation": "ZENITY LABS, PerplexedBrowser: Perplexity’s agent browser can leak your personal PC local files, Oﬀicial research blog, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://labs.zenity.io/p/perplexedbrowser-perplexity-s-agent-browser- can-leak-your-personal-pc-local-files",
+      "citation": "ZENITY LABS, “PerplexedBrowser: Perplexity's agent browser can leak your personal PC local files,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://labs.zenity.io/p/perplexedbrowser-perplexity-s-agent-browser-can-leak-your-personal-pc-local-files",
       "url": "https://labs.zenity.io/p/perplexedbrowser-perplexity-s-agent-browser-can-leak-your-personal-pc-local-files"
     },
     {
       "number": 430,
       "key": "nvdCVE2025_68664",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-68664 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-68664",
+      "citation": "National Vulnerability Database. “CVE-2025-68664 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-68664",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68664"
     },
     {
       "number": 431,
       "key": "nvdCVE2026_40933",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-40933 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-40933",
+      "citation": "National Vulnerability Database. “CVE-2026-40933 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-40933",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40933"
     },
     {
       "number": 432,
       "key": "nvdCVE2026_26015",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-26015 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-26015",
+      "citation": "National Vulnerability Database. “CVE-2026-26015 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-26015",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-26015"
     },
     {
       "number": 433,
       "key": "nvdCVE2026_22252",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-22252 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-22252",
+      "citation": "National Vulnerability Database. “CVE-2026-22252 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-22252",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22252"
     },
     {
       "number": 434,
       "key": "nvdCVE2025_59528",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-59528 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-59528",
+      "citation": "National Vulnerability Database. “CVE-2025-59528 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-59528",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-59528"
     },
     {
       "number": 435,
       "key": "nvdCVE2026_30625",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-30625 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-30625",
+      "citation": "National Vulnerability Database. “CVE-2026-30625 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-30625",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-30625"
     },
     {
       "number": 436,
       "key": "nvdCVE2026_30615",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-30615 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-30615",
+      "citation": "National Vulnerability Database. “CVE-2026-30615 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-30615",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-30615"
     },
     {
       "number": 437,
       "key": "nvdCVE2026_34070",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-34070 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-34070",
+      "citation": "National Vulnerability Database. “CVE-2026-34070 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-34070",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34070"
     },
     {
       "number": 438,
       "key": "nvdCVE2026_44112",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-44112 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-44112",
+      "citation": "National Vulnerability Database. “CVE-2026-44112 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-44112",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44112"
     },
     {
       "number": 439,
       "key": "nvdCVE2025_3248",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-3248 detail, Oﬀicial vulnera- bility record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/ vuln/detail/CVE-2025-3248",
+      "citation": "National Vulnerability Database. “CVE-2025-3248 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-3248",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-3248"
     },
     {
       "number": 440,
       "key": "nvdCVE2026_34952",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-34952 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-34952",
+      "citation": "National Vulnerability Database. “CVE-2026-34952 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-34952",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34952"
     },
     {
       "number": 441,
       "key": "nvdCVE2026_32211",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-32211 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-32211",
+      "citation": "National Vulnerability Database. “CVE-2026-32211 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-32211",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32211"
     },
     {
       "number": 442,
       "key": "nvdCVE2025_68143",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-68143 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-68143",
+      "citation": "National Vulnerability Database. “CVE-2025-68143 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2025-68143",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68143"
     },
     {
       "number": 443,
       "key": "nvdCVE2025_68144",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-68144 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-68144",
+      "citation": "National Vulnerability Database. “CVE-2025-68144 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-68144",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68144"
     },
     {
       "number": 444,
       "key": "nvdCVE2025_68145",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-68145 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-68145",
+      "citation": "National Vulnerability Database. “CVE-2025-68145 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2025-68145",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68145"
     },
     {
       "number": 445,
       "key": "nvdCVE2025_6514",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-6514 detail, Oﬀicial vulnera- bility record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/ vuln/detail/CVE-2025-6514",
+      "citation": "National Vulnerability Database. “CVE-2025-6514 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-6514",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6514"
     },
     {
       "number": 446,
       "key": "nvdCVE2025_49596",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-49596 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-49596",
+      "citation": "National Vulnerability Database. “CVE-2025-49596 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-49596",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-49596"
     },
     {
       "number": 447,
       "key": "nvdCVE2025_32711",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-32711 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-32711",
+      "citation": "National Vulnerability Database. “CVE-2025-32711 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-32711",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32711"
     },
     {
       "number": 448,
       "key": "nvdCVE2026_44338",
+<<<<<<< Updated upstream
       "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-44338 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-44338",
+=======
+      "citation": "National Vulnerability Database. “CVE-2026-44338 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-44338",
+>>>>>>> Stashed changes
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44338"
     },
     {
       "number": 449,
       "key": "nvdCVE2026_30624",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-30624 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-30624",
+      "citation": "National Vulnerability Database. “CVE-2026-30624 detail,” Accessed: Jul. 9, 2026. [Online]. Available: httpsnvd.nist.gov/vuln/detail/CVE-2026-30624",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-30624"
     },
     {
       "number": 450,
       "key": "nvdCVE2026_22688",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2026-22688 detail, Oﬀicial vulner- ability record, 2026. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2026-22688",
+      "citation": "National Vulnerability Database. “CVE-2026-22688 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-22688",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22688"
     },
     {
       "number": 451,
       "key": "nvdCVE2025_64496",
-      "citation": "NATIONAL VULNERABILITY DATABASE, CVE-2025-64496 detail, Oﬀicial vulner- ability record, 2025. Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist. gov/vuln/detail/CVE-2025-64496",
+      "citation": "National Vulnerability Database. “CVE-2025-64496 detail,” Accessed: Jul. 9, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-64496",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-64496"
     },
     {
       "number": 452,
       "key": "Xu2026LoopTrap",
-      "citation": "H. Xu et al., “LoopTrap: Termination poisoning attacks on LLM agents,” arXiv, 2026. arXiv: 2605.05846 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05846",
+      "citation": "H. Xu et al., LoopTrap: Termination poisoning attacks on LLM agents, May 2026. arXiv: 2605.05846 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05846",
       "url": "https://arxiv.org/abs/2605.05846"
     },
     {
       "number": 453,
       "key": "Liu2025AgentFuzz",
-      "citation": "F.Liuetal.,“Makeagentdefeatagent:Automaticdetectionoftaint-stylevulnerabilities in LLM-based agents,” in Proc. 34th USENIX Security Symposium, Seattle, WA, USA: USENIX Association, 2025, pp. 3767–3786. [Online]. Available: https://www.usenix. org/conference/usenixsecurity25/presentation/liu-fengyu",
-      "url": "https://www.usenix"
+      "citation": "F. Liu et al., “Make agent defeat agent: Automatic detection of taint-style vulnerabilities in LLM-based agents,” in Proc. 34th USENIX Security Symposium, Seattle, WA, USA, Aug. 2025, pp. 3767–3786. [Online]. Available: https://www.usenix.org/conference/usenixsecurity25/presentation/liu-fengyu",
+      "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/liu-fengyu"
     },
     {
       "number": 454,
       "key": "MCPStrike",
-      "citation": "I.MartinezLeo,MCP-Strike: Active adversarial security scanner for Model Context Pro- tocol servers: Agentic red-teaming tool for MCP-based systems, Oﬀicial GitHub reposi- tory, version 0.1.1, 2026. Accessed: Jul. 6, 2026. [Online]. Available: https://github. com/LeoMartinezTAMUK/mcp-strike",
+      "citation": "I. Martinez Leo. “MCP-Strike: Active adversarial security scanner for Model Context Protocol servers: Agentic red-teaming tool for MCP-based systems,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/LeoMartinezTAMUK/mcp-strike",
       "url": "https://github.com/LeoMartinezTAMUK/mcp-strike"
     },
     {
       "number": 455,
       "key": "Crawford2026GhidraMCPAttack",
-      "citation": "B. Crawford, J. Phillips, and P. McClure, “Automatically attacking software reverse engineering AI agents,” arXiv, 2026. arXiv: 2605.30667 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.30667",
+      "citation": "B. Crawford, J. Phillips, and P. McClure, Automatically attacking software reverse engineering AI agents, May 2026. arXiv: 2605.30667 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.30667",
       "url": "https://arxiv.org/abs/2605.30667"
     },
     {
       "number": 456,
       "key": "Nazary2025PoisonRAG",
+<<<<<<< Updated upstream
       "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems,” in Proc. Advances in Information Retrieval, Springer, 2025, pp. 239–251. [Online]. Available: https:// arxiv.org/abs/2501.11759",
+=======
+      "citation": "F. Nazary, Y. Deldjoo, and T. Di Noia, “Poison-RAG: Adversarial data poisoning attacks on retrieval-augmented generation in recommender systems,” in Proc. 47th European Conference on Information Retrieval, Lucca, Italy, Apr. 2025, pp. 239–251.",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2501.11759"
     },
     {
       "number": 457,
       "key": "HexStrike",
-      "citation": "M. Osama, HexStrike AI MCP Agents: Ai-powered mcp cybersecurity automation plat- form,OﬀicialGitHubrepository,2025.Accessed:Jul.6,2026.[Online].Available:https://github.com/0x4m4/hexstrike-ai",
+      "citation": "M. Osama. “HexStrike AI MCP Agents: Ai-powered mcp cybersecurity automation platform,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/0x4m4/hexstrike-ai",
       "url": "https://github.com/0x4m4/hexstrike-ai"
     },
     {
       "number": 458,
       "key": "AgentBreaker",
-      "citation": "KAGEX AI, AgentBreaker: AI security testing engine for LLM agents: Framework for surfacing prompt leaks, bypasses, and unsafe agent behavior, Oﬀicial GitHub repository, 2026. Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/kagexai/ agentbreaker",
-      "url": "https://github.com/kagexai/"
+      "citation": "KAGEX AI. “AgentBreaker: AI security testing engine for LLM agents: Framework for surfacing prompt leaks, bypasses, and unsafe agent behavior,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/kagexai/agentbreaker",
+      "url": "https://github.com/kagexai/agentbreaker"
     },
     {
       "number": 459,
       "key": "SQLMap",
-      "citation": "M. Stampar, sqlmap: Automatic SQL injection and database takeover tool, Oﬀicial project website. Accessed: Jul. 7, 2026. [Online]. Available: https://sqlmap.org/",
+      "citation": "M. Stampar. “sqlmap: Automatic SQL injection and database takeover tool,” Accessed: Jul. 7, 2026. [Online]. Available: httpssqlmap.org/",
       "url": "https://sqlmap.org/"
     },
     {
       "number": 460,
       "key": "FastMCP",
-      "citation": "PREFECTHQ, FastMCP documentation: The fast, pythonic way to build MCP servers and clients, Oﬀicial documentation. Accessed: Jul. 7, 2026. [Online]. Available: https://gofastmcp.com/getting-started/welcome",
+      "citation": "PREFECTHQ. “FastMCP documentation: The fast, pythonic way to build MCP servers and clients,” Accessed: Jul. 7, 2026. [Online]. Available: httpsgofastmcp.com/getting-started/welcome",
       "url": "https://gofastmcp.com/getting-started/welcome"
     },
     {
       "number": 461,
       "key": "RedAmon",
-      "citation": "S. Giampieri and R. Gohil, RedAmon: An AI-powered agentic red-team framework: Au- tonomous offensive security pipeline from reconnaissance to post-exploitation, Oﬀicial GitHubrepository,version4.0.0,2026.Accessed:Jul.6,2026.[Online].Available:https://github.com/samugit83/redamon",
+      "citation": "S. Giampieri and R. Gohil. “RedAmon: An AI-powered agentic red-team framework: Autonomous offensive security pipeline from reconnaissance to post-exploitation,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/samugit83/redamon",
       "url": "https://github.com/samugit83/redamon"
     },
     {
       "number": 462,
       "key": "Strix",
-      "citation": "VIPER DROID, Strix: Open-source AI penetration testing tool, Oﬀicial GitHub reposi- tory. Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/usestrix/strix",
+      "citation": "V. DROID. “Strix: Open-source AI penetration testing tool,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/usestrix/strix",
       "url": "https://github.com/usestrix/strix"
     },
     {
       "number": 463,
       "key": "Ankou",
-      "citation": "REDHEX CONSULTING, Ankou: Ai-powered command-and-control framework: Modu- lar agent-based C2 platform with ai-assisted operations, Oﬀicial GitHub repository, ver- sion 1.1.2, 2026. Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/Red- Hex-Consulting/Ankou",
+      "citation": "R. CONSULTING. “Ankou: Ai-powered command-and-control framework: Modular agent-based C2 platform with ai-assisted operations,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/Red-Hex-Consulting/Ankou",
       "url": "https://github.com/Red-Hex-Consulting/Ankou"
     },
     {
       "number": 464,
       "key": "RAPTOR",
-      "citation": "G. Evron, D. Cuthbert, T. Dullien, M. Bargury, and J. Cartwright, RAPTOR: Au- tonomous offensive and defensive security research framework, Oﬀicial GitHub reposi- tory,2026.Accessed:Jul.6,2026.[Online].Available:https://github.com/gadievron/ raptor",
+      "citation": "G. Evron, D. Cuthbert, T. Dullien, M. Bargury, and J. Cartwright. “RAPTOR: Autonomous offensive and defensive security research framework,” Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/gadievron/raptor",
       "url": "https://github.com/gadievron/raptor"
     },
     {
       "number": 465,
       "key": "DeadendCLI",
-      "citation": "Y. Bargach, Deadend CLI: Feedback-driven autonomous pentesting, Oﬀicial GitHub repository, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/ xoxruns/deadend-cli",
+      "citation": "Y. Bargach. “Deadend CLI: Feedback-driven autonomous pentesting,” Accessed: Jul. 21, 2026. [Online]. Available: https://github.com/xoxruns/deadend-cli",
       "url": "https://github.com/xoxruns/deadend-cli"
     },
     {
       "number": 466,
       "key": "CAI_framework",
-      "citation": "ALIAS ROBOTICS. “Cybersecurity AI (CAI): Framework for AI security,” Accessed: Jul. 7, 2026. [Online]. Available: https://aliasrobotics.github.io/cai/",
+      "citation": "ALIAS ROBOTICS, “Cybersecurity AI (CAI): Framework for AI Security,”. Accessed: Jul. 7, 2026. [Online]. Available: https://aliasrobotics.github.io/cai/",
       "url": "https://aliasrobotics.github.io/cai/"
     },
     {
       "number": 467,
       "key": "CAI",
-      "citation": "V. Mayoral-Vilches et al., “CAI: An open, bug bounty-ready cybersecurity AI,” arXiv, 2025. arXiv: 2504.06017 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.",
+      "citation": "V. Mayoral-Vilches et al., CAI: An open, bug bounty-ready cybersecurity AI, 2025. arXiv: 2504.06017 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.06017",
       "url": "https://arxiv.org/abs/2504.06017"
     },
     {
       "number": 468,
       "key": "Nebula",
-      "citation": "BERYLLIUM SECURITY, Nebula: Ai-powered penetration testing assistant: Terminal- based ai-assisted security testing framework, Oﬀicial GitHub repository, 2026. Accessed: Jul. 6, 2026. [Online]. Available: https://github.com/berylliumsec/nebula",
+      "citation": "B. SECURITY. “Nebula: Ai-powered penetration testing assistant: Terminal-based ai-assisted security testing framework,” Accessed: Jul. 6, 2026. [Online]. Available: httpsgithub.com/berylliumsec/nebula",
       "url": "https://github.com/berylliumsec/nebula"
     },
     {
       "number": 469,
       "key": "Executive_Order_14409",
+<<<<<<< Updated upstream
       "citation": "THE WHITE HOUSE, Promoting advanced artificial intelligence innovation and security, Executive Order 14409, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting- advanced-artificial-intelligence-innovation-and-security",
+=======
+      "citation": "THE WHITE HOUSE. “Promoting advanced Artificial Intelligence innovation and security,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
+>>>>>>> Stashed changes
       "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security"
     },
     {
       "number": 470,
       "key": "M_2025_21",
-      "citation": "T. W. HOUSE, Memorandum for the heads of executive departments and agencies, 2025. [Online]. Available: https://www.whitehouse.gov/wp-content/uploads/2025/02/M- 25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and- Public-Trust.pdf",
+      "citation": "OFFICE OF MANAGEMENT AND BUDGET, “Accelerating federal use of AI through innovation, governance, and public trust,” EXECUTIVE OFFICE OF THE PRESIDENT, Tech. Rep. M-25-21, Apr. 2025. [Online]. Available: https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf",
       "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf"
     },
     {
       "number": 471,
       "key": "SB-53",
+<<<<<<< Updated upstream
       "citation": "CALIFORNIA STATE LEGISLATURE, Senate bill 53: Transparency in frontier artificial intelligence act, 2025–2026 Regular Session, Chapter 138, Statutes of 2025, Sep. 2025.[Online].Available:https://leginfo.legislature.ca.gov/faces/billTextClient. xhtml?bill_id=202520260SB53",
+=======
+      "citation": "CALIFORNIA STATE LEGISLATURE. “Senate bill 53: Transparency in frontier artificial intelligence act,” Accessed: Jul. 21, 2026. [Online]. Available: leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53",
+>>>>>>> Stashed changes
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53"
     },
     {
       "number": 472,
       "key": "2025-A6453B-Bill",
+<<<<<<< Updated upstream
       "citation": "NEW YORK STATE LEGISLATURE, Responsible AI safety and education act (RAISE act),S6953B/A6453B,2025–2026 RegularSession,Dec.2025.[Online].Available:https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B",
+=======
+      "citation": "NEW YORK STATE LEGISLATURE. “Responsible AI safety and education act (RAISE act), S6953B/A6453B,” Accessed: Jul. 21, 2026. [Online]. Available: nysenate.gov/legislation/bills/2025/A6453/amendment/B",
+>>>>>>> Stashed changes
       "url": "https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/B"
     },
     {
       "number": 473,
       "key": "Executive_Order_14365",
-      "citation": "EXECUTIVE OFFICE OF THE PRESIDENT, Executive order 14365: Ensuring a national policy framework for artificial intelligence, Compilation of Presidential Docu- ments, Dec. 2025. [Online]. Available: https://www.govinfo.gov/app/details/DCPD-",
+      "citation": "EXECUTIVE OFFICE OF THE PRESIDENT. “Executive order 14365: Ensuring a national policy framework for artificial intelligence,” Accessed: Jul. 21, 2026. [Online]. Available: www.govinfo.gov/app/details/DCPD-202501186",
       "url": "https://www.govinfo.gov/app/details/DCPD-202501186"
     },
     {
       "number": 474,
       "key": "AI_for_ALL",
-      "citation": "M. Carney, Canada’s national artificial intelligence strategy: AI for all, Government strategy webpage, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://ised- isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence- strategy-ai-all#_Toc76",
+      "citation": "CANADA GOVERNMENT. “Canada’s national artificial intelligence strategy: AI for all,” Accessed: Jul. 21, 2026. [Online]. Available: https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all#_Toc76",
       "url": "https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all#_Toc76"
     },
     {
       "number": 475,
       "key": "Bill_C-36",
+<<<<<<< Updated upstream
       "citation": "PARLIAMENT OF CANADA, Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic documents act and to make amendments to other acts, 45th Parliament, 1st Session, Jun. 2026. [Online]. Available: https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
       "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/"
+=======
+      "citation": "PARLIAMENT OF CANADA. “Bill C-36: An act to enact the protecting privacy and consumer data act, to amend the personal information protection and electronic documents act and to make amendments to other acts,” Accessed: Jul. 21, 2026. [Online]. Available: www.parl.ca/legisinfo/en/bill/45-1/c-36",
+      "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
+>>>>>>> Stashed changes
     },
     {
       "number": 476,
       "key": "AI_Diffusion_Rule",
-      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE, Framework for artificial intelligence diffusion, Interim final rule, Jan. 2025. Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/ 2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
+      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Framework for artificial intelligence diffusion,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
       "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
     },
     {
       "number": 477,
       "key": "Rescission_of_Biden-Era_AI_Diffusion_Rule",
+<<<<<<< Updated upstream
       "citation": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE, Department of commerce announces rescission of Biden-era artificial intelligence diffusion rule, strengthens chip-related export controls, 2025. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for- artificial-intelligence-diffusion",
+=======
+      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Department of commerce announces rescission of Biden-era artificial intelligence diffusion rule, strengthens chip-related export controls,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
+>>>>>>> Stashed changes
       "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
     },
     {
       "number": 478,
       "key": "Revises_License_Review_Policy_for_Semiconductors_Exported_to_China",
-      "citation": "BUREAU OF INDUSTRY AND SECURITY,U.S.DEPARTMENT OF COMMERCE, Department of commerce revises license review policy for semiconductors exported to China, 2026. [Online]. Available: https://www.bis.gov/press-release/department- commerce-revises-license-review-policy-semiconductors-exported-china",
+      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Department of commerce revises license review policy for semiconductors exported to China,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china",
       "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
     },
     {
       "number": 479,
       "key": "Entity_List",
-      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE, Export administration regulations, part 744: Control policy: End-user and end-use based, § 744.16 entity list, Code of Federal Regulations, 15 CFR Part 744, Mar. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.bis.gov/regulations/ear/744",
+      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Export administration regulations, part 744: Control policy: End-user and end-use based, § 744.16 entity list,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.bis.gov/regulations/ear/744",
       "url": "https://www.bis.gov/regulations/ear/744"
     },
     {
       "number": 480,
       "key": "USA_AI_Exports_Program",
-      "citation": "U. BUREAU OF INDUSTRY AND SECURITY, Department of commerce announces new american ai exports program phase, Mar. 2026. [Online]. Available: https://www. trade.gov/press-release/department-commerce-announces-new-american-ai- exports-program-phase",
+      "citation": "BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE. “Department of commerce announces new american AI exports program phase,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.trade.gov/press-release/department-commerce-announces-new-american-ai-exports-program-phase",
       "url": "https://www.trade.gov/press-release/department-commerce-announces-new-american-ai-exports-program-phase"
     },
     {
       "number": 481,
       "key": "ECL_Guide",
-      "citation": "G. A. Canada, A guide to Canada’s export control list – 2025, 2025. [Online]. Available: https://www.international.gc.ca/trade-commerce/controls-controles/ecl- lec/export_control_list-guide-liste_exportation_controlee_2025.aspx? lang=eng",
-      "url": "https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2025.aspx?lang=eng"
+      "citation": "GLOBAL AFFAIRS CANADA. “A guide to canada’s export control list–2026,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2026.aspx?lang=eng",
+      "url": "https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2026.aspx?lang=eng"
     },
     {
       "number": 482,
       "key": "DORS2025-89",
+<<<<<<< Updated upstream
       "citation": "GOVERNMENT OF CANADA, Order amending the export control list: Sor/2025-89, 2025. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html",
+=======
+      "citation": "GOVERNMENT OF CANADA. “Order amending the export control list: Sor/2025-89,” Accessed: Jul. 21, 2026. [Online]. Available: https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html",
+>>>>>>> Stashed changes
       "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/sor-dors89-eng.html"
     },
     {
       "number": 483,
       "key": "ECL_Guide_2025",
-      "citation": "GLOBAL AFFAIRS CANADA, A guide to canada’s export control list–2026, Oﬀicial government guide, Jan. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www. international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_ control_list-guide-liste_exportation_controlee_2026.aspx?lang=eng",
+      "citation": "GLOBAL AFFAIRS CANADA. “A guide to Canada’s export control list – 2025,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2025.aspx?lang=eng",
       "url": "https://www.international.gc.ca/trade-commerce/controls-controles/ecl-lec/export_control_list-guide-liste_exportation_controlee_2025.aspx?lang=eng"
     },
     {
       "number": 484,
       "key": "STL",
-      "citation": "S. Innovation and E. D. Canada, Sensitive technology list, 2024. [Online]. Available: https://www.canada.ca/en/services/defence/nationalsecurity/sensitive- technology-list.html",
+      "citation": "INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA. “Sensitive technology list,” Accessed: Jul. 21, 2026. [Online]. Available: www.canada.ca/en/services/defence/nationalsecurity/sensitive-technology-list.html",
       "url": "https://www.canada.ca/en/services/defence/nationalsecurity/sensitive-technology-list.html"
     },
     {
       "number": 485,
       "key": "eu_gpai_code_of_practice_2025",
+<<<<<<< Updated upstream
       "citation": "EUROPEAN COMMISSION, The general-purpose AI code of practice, European Commission, Shaping Europe’s Digital Future, Jul. 2025. [Online]. Available: https:// digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+=======
+      "citation": "EUROPEAN COMMISSION. “The general-purpose AI code of practice,” Accessed: Jul. 21, 2026. [Online]. Available: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+>>>>>>> Stashed changes
       "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai"
     },
     {
       "number": 486,
       "key": "Russia_AI_Draft",
-      "citation": "清华大学智能法治研究院,《俄罗斯联邦人工智能法（草案）》发布：技术主权与安全导 向下的 AI 监管框架, 2026. [Online]. Available: https://www.secrss.com/articles/",
+      "citation": "清华大学智能法治研究院, “《俄罗斯联邦人工智能法（草案）》发布：技术主权与安全导向下的AI监管框架,” 2026. [Online]. Available: https://www.secrss.com/articles/89033",
       "url": "https://www.secrss.com/articles/89033"
     },
     {
       "number": 487,
       "key": "uk_ai_cyber_security_code_2025",
-      "citation": "I. Department for Science and Technology, Code of practice for the cyber security of ai, GOV.UK guidance, Jan. 2025. [Online]. Available: https://www.gov.uk/government/ publications/ai-cyber-security-code-of-practice/code-of-practice-for- the-cyber-security-of-ai",
+      "citation": "DEPARTMENT FOR SCIENCE, INNOVATION AND TECHNOLOGY. “Code of practice for the cyber security of AI,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai",
       "url": "https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai"
     },
     {
       "number": 488,
       "key": "The_Export_Control_2024",
+<<<<<<< Updated upstream
       "citation": "THE SECRETARY OF STATE,The export control(amendment)regulations 2024, 2024. [Online]. Available: https://www.legislation.gov.uk/uksi/2024/346/made",
+=======
+      "citation": "THE SECRETARY OF STATE. “The export control (amendment) regulations 2024,” Accessed: Jul. 21, 2026. [Online]. Available: www.legislation.gov.uk/uksi/2024/346/made",
+>>>>>>> Stashed changes
       "url": "https://www.legislation.gov.uk/uksi/2024/346/made"
     },
     {
@@ -7479,50 +7639,54 @@ const DATA = {
     {
       "number": 491,
       "key": "智能体规范应用与创新发展实施意见",
-      "citation": "EUROPEAN COMMISSION, EU AI Act: first regulation on artificial intelligence, 2023. [Online]. Available: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
+      "citation": "CYBERSPACE ADMINISTRATION OF CHINA, NATIONAL DEVELOPMENT AND REFORM COMMISSION, MINISTRY OF INDUSTRY AND INFORMATION TECHNOLOGY. “Opinions on the standardized application and innovative development of intelligent agents,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
       "url": "https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm"
     },
     {
       "number": 492,
       "key": "人工智能安全治理框架2.0",
-      "citation": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心, 2025. [Online]. Available: https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm",
-      "url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm"
+      "citation": "NATIONAL INFORMATION SECURITY STANDARDIZATION TECHNICAL COMMITTEE, CNCERT. “Artificial intelligence security governance framework 2.0,” Accessed: Jul. 21, 2026. [Online]. Available: https://cac.gov.cn/2025-09/15/c_1759653448369123.htm",
+      "url": "https://cac.gov.cn/2025-09/15/c_1759653448369123.htm"
     },
     {
       "number": 493,
       "key": "“人工智能+”行动实施意见",
-      "citation": "中华人民共和国国务院,国务院关于深入实施“人工智能+”行动的意见,2025.[Online]. Available: https://www.gov.cn/gongbao/2025/issue_12266/202509/content_ 7039598.html",
+      "citation": "STATE COUNCIL OF THE PEOPLE’S REPUBLIC OF CHINA. “Opinion of the state council on further implementing the ”artificial intelligence +” initiative,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html",
       "url": "https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html"
     },
     {
       "number": 494,
       "key": "AI科技伦理审查与服务办法（试行）",
-      "citation": "中华人民共和国国家互联网信息办公室、中华人民共和国国家发展和改革委员会、中华 人民共和国工业和信息化部,智能体规范应用与创新发展实施意见,May2026.[Online]. Available: https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
+      "citation": "中华人民共和国工业和信息化部等十部门. “工业和信息化部等十部门关于印发《人工智能科 技伦理审查与服务办法（试行）》的通知,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm",
       "url": "https://www.gov.cn/zhengce/zhengceku/202604/content_7064646.htm"
     },
     {
       "number": 495,
       "key": "《人工智能智能体互联》系列国标",
-      "citation": "全国网络安全标准化技术委员会，国家计算机网络应急技术处理协调中心, 2025. [Online]. Available: https://std.sacinfo.org.cn/gnoc/queryInfo?id=495B8834610A6828F254D73BD7DCAF99",
+      "citation": "国家市场监督管理总局. “人工智能智能体互联系列国家标准,” Accessed: Jul. 28, 2026. [Online]. Available: https://std.sacinfo.org.cn/gnoc/queryInfo?id=495B8834610A6828F254D73BD7DCAF99",
       "url": "https://std.sacinfo.org.cn/gnoc/queryInfo?id=495B8834610A6828F254D73BD7DCAF99"
     },
     {
       "number": 496,
       "key": "中国出口管制法",
-      "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Export control law of the people’s republic of china,” Accessed: Jul. 21, 2026. [Online]. Available: https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266",
-      "url": "https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266"
+      "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Export control law of the people’s republic of china,” Accessed: Jul. 21, 2026. [Online]. Available: flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266",
+      "url": "https://flk.npc.gov.cn/detail?id=ff80808175265dd401753fb348ce1266&title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%B3%95"
     },
     {
       "number": 497,
       "key": "两用物项出口管制条例",
+<<<<<<< Updated upstream
       "citation": "中华人民共和国商务部, 中华人民共和国两用物项出口管制条例, 2024. [Online]. Available: https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+=======
+      "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Regulations of the people’s republic of china on the administration of dual-use items export control,” Accessed: Jul. 21, 2026. [Online]. Available: www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm",
+>>>>>>> Stashed changes
       "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981400.htm"
     },
     {
       "number": 498,
       "key": "中国禁止出口限制出口技术目录",
-      "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Catalogue of technologies prohibited or restricted from export of china,” Accessed: Jul. 21, 2026. [Online]. Available: fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749 cb0a98552.html",
-      "url": ""
+      "citation": "MINISTRY OF COMMERCE OF THE PEOPLE’S REPUBLIC OF CHINA. “Catalogue of technologies prohibited or restricted from export of china,” Accessed: Jul. 21, 2026. [Online]. Available: fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html",
+      "url": "https://fms.mofcom.gov.cn/zcfg/jsjckzcfg/art/2025/art_ba35a101c22c4f6e844f749cb0a98552.html"
     },
     {
       "number": 499,
@@ -7539,13 +7703,17 @@ const DATA = {
     {
       "number": 501,
       "key": "mitra2026agenticcyops",
+<<<<<<< Updated upstream
       "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, “AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations,” Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
+=======
+      "citation": "S. Mitra, R. Patel, S. Mittal, M. R. Rahman, and S. Rahimi, AgenticCyOps: Securing multi-agentic AI integration in enterprise cyber operations, Sep. 2026. arXiv: 2603.09134 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09134",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.09134"
     },
     {
       "number": 502,
       "key": "stanfordhai2026economyreport",
-      "citation": "STANFORDINSTITUTEFORHUMAN-CENTEREDARTIFICIALINTELLIGENCE, The 2026 ai index report — economy, https://hai.stanford.edu/ai-index/2026- ai-index-report/economy, Apr. 2026.",
+      "citation": "Stanford Institute for Human-Centered Artificial Intelligence. “The 2026 AI index report — economy,” Accessed: Jul. 21, 2026. [Online]. Available: https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
       "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
     },
     {
@@ -7557,7 +7725,7 @@ const DATA = {
     {
       "number": 504,
       "key": "su2026survey",
-      "citation": "H. Su et al., “A survey on autonomy-induced security risks in large model-based agents,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 48, no. 10, pp. 2795–2812, 2026.",
+      "citation": "H. Su et al., “A survey on autonomy-induced security risks in large model-based agents,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 10, pp. 2795–2812, Apr. 2026.",
       "url": ""
     },
     {
@@ -7569,8 +7737,8 @@ const DATA = {
     {
       "number": 506,
       "key": "yang2026empirical",
-      "citation": "H. Yang, H. Na, and D. Choi, “An empirical study of privacy leakage chains via prompt injection in black-box chatbot environments,” arXiv preprint arXiv:2605.18133, 2026.",
-      "url": ""
+      "citation": "H. Yang, H. Na, and D. Choi, An empirical study of privacy leakage chains via prompt injection in black-box chatbot environments, 2026. arXiv: 2605.18133 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.18133",
+      "url": "https://arxiv.org/abs/2605.18133"
     },
     {
       "number": 507,
@@ -7581,673 +7749,790 @@ const DATA = {
     {
       "number": 508,
       "key": "jain2026multimodal",
+<<<<<<< Updated upstream
       "citation": "B. Jain, S. O. Arik, and H. K. Thakur, “Adversarial attacks on multimodal large language models: A comprehensive survey,” Transactions on Machine Learning Research, 2026. [Online]. Available: https://arxiv.org/abs/2603.27918",
+=======
+      "citation": "B. Jain, S. O. Arik, and H. K. Thakur, Adversarial attacks on multimodal large language models: A comprehensive survey, Mar. 2026. arXiv: 2603.27918 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.27918",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.27918"
     },
     {
       "number": 509,
       "key": "sidik2026memtier",
-      "citation": "B. Sidik and L. Rokach, “Memtier: Tiered memory architecture and retrieval bottleneck analysisforlong-runningautonomousaiagents,”arXivpreprintarXiv:2605.03675,2026.",
-      "url": ""
+      "citation": "B. Sidik and L. Rokach, MEMTIER: Tiered memory architecture and retrieval bottleneck analysis for long-running autonomous AI agents, May 2026. arXiv: 2605.03675 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.03675",
+      "url": "https://arxiv.org/abs/2605.03675"
     },
     {
       "number": 510,
       "key": "chin2025dimensional",
-      "citation": "Z. S. Chin, “Dimensional characterization and pathway modeling for catastrophic ai risks,” arXiv preprint arXiv:2508.06411, 2025.",
-      "url": ""
+      "citation": "Z. S. Chin, Dimensional characterization and pathway modeling for catastrophic AI risks, Aug. 2025. arXiv: 2508.06411 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2508.06411",
+      "url": "https://arxiv.org/abs/2508.06411"
     },
     {
       "number": 511,
       "key": "pan2026beyond",
-      "citation": "K. Pan and R. Hou, “Beyond autonomy: A dynamic tiered agentrunner framework for governableandresiliententerpriseaiexecution,”arXiv preprint arXiv:2605.10223,2026.",
-      "url": ""
+      "citation": "K. Pan and R. Hou, Beyond autonomy: A dynamic tiered agentrunner framework for governable and resilient enterprise AI execution, May 2026. arXiv: 2605.10223 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.10223",
+      "url": "https://arxiv.org/abs/2605.10223"
     },
     {
       "number": 512,
       "key": "wang2026agentprovenance",
-      "citation": "Y. Wang et al., “From agent traces to trust: A survey of evidence tracing and execution provenance in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.04990 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04990",
+      "citation": "Y. Wang et al., From agent traces to trust: A survey of evidence tracing and execution provenance in LLM agents, Jun. 2026. arXiv: 2606.04990 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04990",
       "url": "https://arxiv.org/abs/2606.04990"
     },
     {
       "number": 513,
       "key": "zhu2025miniscope",
+<<<<<<< Updated upstream
       "citation": "J.Zhuetal.,“Miniscope:A least privilege framework for authorizing tool calling agents,” arXiv, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2512.11147",
       "url": "https://arxiv"
+=======
+      "citation": "J. Zhu et al., MiniScope: A least privilege framework for authorizing tool calling agents, Dec. 2025. arXiv: 2512.11147 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.11147",
+      "url": "https://arxiv.org/abs/2512.11147"
+>>>>>>> Stashed changes
     },
     {
       "number": 514,
       "key": "zhu2025collaborative",
-      "citation": "P. Zhu, L. Li, Y. Lyu, L. Sun, S. Su, and J. Shao, “Collaborative shadows: Distributed backdoor attacks in llm-based multi-agent systems,” arXiv preprint arXiv:2510.11246, 2025.",
-      "url": ""
+      "citation": "P. Zhu, L. Li, Y. Lyu, L. Sun, S. Su, and J. Shao, Collaborative shadows: Distributed backdoor attacks in LLM-based multi-agent systems, Oct. 2025. arXiv: 2510.11246 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.11246",
+      "url": "https://arxiv.org/abs/2510.11246"
     },
     {
       "number": 515,
       "key": "peigne2025multi",
+<<<<<<< Updated upstream
       "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration capabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Virtual, 2025, pp. 27573–27581. [Online]. Available: https://ojs.aaai.org/index. php/AAAI/article/view/34970",
+=======
+      "citation": "P. Peigné et al., “Multi-agent security tax: Trading off security and collaboration capabilities in multi-agent systems,” in Proc. AAAI Conference on Artificial Intelligence, Philadelphia, PA, USA, Feb. 2025, pp. 27 573–27 581.",
+>>>>>>> Stashed changes
       "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34970"
     },
     {
       "number": 516,
       "key": "eisenberg2025unified",
+<<<<<<< Updated upstream
       "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, “The unified control framework: Establishing a common foundation for enterprise ai governance, risk management and regulatory compliance,” arXiv preprint arXiv:2503.05937, 2025.",
       "url": ""
+=======
+      "citation": "I. W. Eisenberg, L. Gamboa, and E. Sherman, The unified control framework: Establishing a common foundation for enterprise AI governance, risk management and regulatory compliance, Mar. 2025. arXiv: 2503.05937 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2503.05937",
+      "url": "https://arxiv.org/abs/2503.05937"
+>>>>>>> Stashed changes
     },
     {
       "number": 517,
       "key": "roy2026premise",
-      "citation": "S. Roy et al., “Premise: Policy rubrics as measurement specifications for llm judges,” arXiv preprint arXiv:2605.30803, 2026.",
-      "url": ""
+      "citation": "S. Roy et al., PReMise: Policy rubrics as measurement specifications for LLM judges, 2026. arXiv: 2605.30803 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.30803",
+      "url": "https://arxiv.org/abs/2605.30803"
     },
     {
       "number": 518,
       "key": "hegazy2026mafa",
+<<<<<<< Updated upstream
       "citation": "M.Hegazy,A.Rodrigues,andA.Naeem,“Mafa:A multi-agent Framework for Enterprise-Scale Annotation with Configurable Task Adaptation,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, 2026, pp. 39968–39977.",
+=======
+      "citation": "M. Hegazy, A. Rodrigues, and A. Naeem, “MAFA: A multi-agent framework for enterprise-scale annotation with configurable task adaptation,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jan. 2026, pp. 39 968–39 977.",
+>>>>>>> Stashed changes
       "url": "https://artificialintelligenceact.eu/the-act/"
     },
     {
       "number": 519,
       "key": "eunsu2025trust",
+<<<<<<< Updated upstream
       "citation": "J. Eunsu and Y. Daeheon, “A Trust Score-Based Access Control Model for Zero Trust Architecture: Design, Sensitivity Analysis, and Real-World Performance Evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, 2025.",
+=======
+      "citation": "E. Jeong and D. Yang, “A trust score-based access control model for zero trust architecture: Design, sensitivity analysis, and real-world performance evaluation,” Applied Sciences, vol. 15, no. 17, p. 9551, Aug. 2025.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 520,
       "key": "shlomov2026governance",
+<<<<<<< Updated upstream
       "citation": "D. Shlomov et al., Governance frameworks for secure ai agent development and deployment, 2026. arXiv: 2605.XXXX.",
+=======
+      "citation": "S. Shlomov et al., “Governance by construction for generalist agents,” in Proc. ACM Conference on AI and Agentic Systems, New York, NY, USA, 2026, pp. 1280–1287.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 521,
       "key": "zhang2026agentsentry",
-      "citation": "T. Zhang et al., “AgentSentry: Mitigating indirect prompt injection in LLM agents via temporal causal diagnostics and context purification,” arXiv, Feb. 2026. arXiv: 2602. 22724 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.22724",
+      "citation": "T. Zhang et al., AgentSentry: Mitigating indirect prompt injection in LLM agents via temporal causal diagnostics and context purification, Feb. 2026. arXiv: 2602.22724 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.22724",
       "url": "https://arxiv.org/abs/2602.22724"
     },
     {
       "number": 522,
       "key": "microsoft2026autojack",
-      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, AutoJack: How a single page can RCE the host running your AI agent, Microsoft Security Blog, Jun. 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/06/ 18/autojack-single-page-rce-host-running-ai-agent/",
+      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, “AutoJack: how a single page can RCE the host running your AI agent,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/"
     },
     {
       "number": 523,
       "key": "madkour2026response",
-      "citation": "N. Madkour and D. Raman, “Response to the request for information regarding security considerations for artificial intelligence agents,” cltc.berkeley.edu, 2026.",
+      "citation": "U. B. C. for Long-Term Cybersecurity. “Cltc uc berkeley center for long-term cybersecurity,” Accessed: Jul. 29, 2026. [Online]. Available: https://cltc.berkeley.edu",
       "url": "https://cltc.berkeley.edu"
     },
     {
       "number": 524,
       "key": "ellismedvedev2026contextdatasecurity",
-      "citation": "S. Ellis and I. Medvedev. “Why context is the missing link in AI data security,” Google Cloud, Accessed: Jul. 16, 2026. [Online]. Available: https://cloud.google.com/blog/ products/identity-security/why-context-is-the-missing-link-in-ai-data- security",
+      "citation": "Scott Ellis and Ivan Medvedev, “Why Context Is the Missing Link in AI Data Security,”. Accessed: Jul. 16, 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security",
       "url": "https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security"
     },
     {
       "number": 525,
       "key": "lu2025adversarial",
+<<<<<<< Updated upstream
       "citation": "L.Luetal.,“Adversarial training for multimodal largel anguage models against jailbreak attacks,” arXiv preprints, arXiv–2503, 2025. [Online]. Available: https://arxiv.org/abs/2503.04833",
       "url": "https://arxiv.org/abs/2503.04833"
+=======
+      "citation": "L. Lu et al., Adversarial training for multimodal large language models against jailbreak attacks, 2025. arXiv: 2503.04833 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2503.04833v2",
+      "url": "https://arxiv.org/abs/2503.04833v2"
+>>>>>>> Stashed changes
     },
     {
       "number": 526,
       "key": "tan2026prompt",
-      "citation": "J. Tan et al., “From prompt injection to persistent control: Defending agentic harness against trojan backdoors,” arXiv preprint arXiv:2605.31042, 2026.",
-      "url": ""
+      "citation": "J. Tan et al., From prompt injection to persistent control: Defending agentic harness against trojan backdoors, May 2026. arXiv: 2605.31042 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.31042",
+      "url": "https://arxiv.org/abs/2605.31042"
     },
     {
       "number": 527,
       "key": "nist2025ai1002",
-      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Adversarial machine learning: A taxonomy and terminology of attacks and mitigations. ”[Online]. Available: doi.o rg/10.6028/NIST.AI.100-2e2025",
-      "url": ""
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Adversarial machine learning: A taxonomy and terminology of attacks and mitigations. ”[Online]. Available: doi.org/10.6028/NIST.AI.100-2e2025",
+      "url": "https://doi.org/10.6028/NIST.AI.100-2e2025"
     },
     {
       "number": 528,
       "key": "openai2026memoryfaq",
-      "citation": "OpenAI, Memory FAQ, OpenAI Help Center, 2026. Accessed: Jul. 15, 2026. [Online]. Available: https://help.openai.com/en/articles/8590148-memory-faq",
+      "citation": "OpenAI. “Memory FAQ,” Accessed: Jul. 15, 2026. [Online]. Available: https://help.openai.com/en/articles/8590148-memory-faq",
       "url": "https://help.openai.com/en/articles/8590148-memory-faq"
     },
     {
       "number": 529,
       "key": "isak2026guardingaimemory",
-      "citation": "N. Isak and S. Cooley. “Guarding AI memory.” Microsoft Security Blog, Microsoft, Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/ security/blog/2026/06/22/guarding-ai-memory/",
+      "citation": "N. Isak and S. Cooley, “Guarding AI Memory,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/"
     },
     {
       "number": 530,
       "key": "louck2026securing",
-      "citation": "Y. Louck, “Securing LLM-agent long-term memory against poisoning: Non-malleable, origin-bound authority with machine-checked guarantees,” arXiv, Jun. 2026. arXiv: 2606.24322 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.24322",
+      "citation": "Y. Louck, Securing LLM-agent long-term memory against poisoning: Non-malleable, origin-bound authority with machine-checked guarantees, Jun. 2026. arXiv: 2606.24322 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.24322",
       "url": "https://arxiv.org/abs/2606.24322"
     },
     {
       "number": 531,
       "key": "ouyang2026memlineage",
+<<<<<<< Updated upstream
       "citation": "C. Ouyang and R. Hou, “Memlineage: Lineage-guided enforcement for LLM agent memory,” arXiv, May 2026. arXiv: 2605.14421. [Online]. Available: https://arxiv.org/ abs/2605.14421",
+=======
+      "citation": "C. Ouyang and R. Hou, MemLineage: Lineage-guided enforcement for LLM agent memory, May 2026. arXiv: 2605.14421 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14421",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.14421"
     },
     {
       "number": 532,
       "key": "lin2026memorylifecycle",
-      "citation": "Z. Lin et al., “A survey on long-term memory security in LLM agents: Attacks, defenses, and governance across the memory lifecycle,” arXiv, Apr. 2026. arXiv: 2604.16548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.16548",
+      "citation": "Z. Lin et al., A survey on long-term memory security in LLM agents: Attacks, defenses, and governance across the memory lifecycle, Apr. 2026. arXiv: 2604.16548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.16548",
       "url": "https://arxiv.org/abs/2604.16548"
     },
     {
       "number": 533,
       "key": "aws2026agentcorememory",
-      "citation": "AMAZON WEB SERVICES, Encrypt your Amazon Bedrock AgentCore memory, Ama- zon Bedrock AgentCore Developer Guide, 2026. [Online]. Available: https://docs. aws.amazon.com/bedrock-agentcore/latest/devguide/storage-encryption.html",
+      "citation": "Amazon Web Services. “Encrypt your Amazon Bedrock AgentCore memory,” Accessed: Jul. 21, 2026. [Online]. Available: docs.aws.amazon.com/bedrock-agentcore/latest/devguide/storage-encryption.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/storage-encryption.html"
     },
     {
       "number": 534,
       "key": "microsoft2026promptsbecomeshells",
-      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, U. Oren, A. Eliahu, and D. Edry, When prompts become shells: RCE vulnerabilities in AI agent frameworks, Mi- crosoft Security Blog, May 2026. [Online]. Available: https://www.microsoft.com/en- us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities- ai-agent-frameworks/",
+      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, U. Oren, A. Eliahu, and D. Edry, “When prompts become shells: RCE vulnerabilities in AI agent frameworks,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/"
     },
     {
       "number": 535,
       "key": "singh2026invokeguardrailchecks",
-      "citation": "S. Singh, D. V. Batalov, K. Kethamakka, and S. Srinivasan, Safeguard your agentic AI applications with the Amazon Bedrock guardrails InvokeGuardrailChecks API, AWS Machine Learning Blog, Jun. 2026. [Online]. Available: https://aws.amazon.com/ blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the- amazon-bedrock-guardrails-invokeguardrailchecks-api/",
-      "url": "https://aws.amazon.com/bedrock/guardrails/"
+      "citation": "S. Singh, D. V. Batalov, K. Kethamakka, and S. Srinivasan, “Safeguard your agentic AI applications with the Amazon Bedrock guardrails InvokeGuardrailChecks API,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/"
     },
     {
       "number": 536,
       "key": "aws2026automatedreasoningrefinement",
-      "citation": "Amazon Web Services, Automated reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows, AWS What’s New, Jun. 2026. Accessed: Jul. 15, 2026. [Online]. Available: https://aws.amazon.com/about-aws/whats-new/2026/06/ amazon-bedrock-guardrails/",
-      "url": "https://aws.amazon.com/bedrock/guardrails/"
+      "citation": "Amazon Web Services, “Automated Reasoning Checks in Amazon Bedrock Guardrails Add New Policy Refinement Workflows,” 2026. Accessed: Jul. 15, 2026. [Online]. Available: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/"
     },
     {
       "number": 537,
       "key": "ai_agent_index_2026",
-      "citation": "L. Staufer et al., “The 2025 ai agent index: Documenting technical and safety features of deployed agentic ai systems,” arXiv preprint arXiv:2602.17753, 2026.",
+      "citation": "L. Staufer et al., The 2025 AI agent index: Documenting technical and safety features of deployed agentic AI systems, 2026. arXiv: 2602.17753 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2602.17753",
       "url": "https://arxiv.org/abs/2602.17753"
     },
     {
       "number": 538,
       "key": "alibabacloud2026skillsdetection",
-      "citation": "ALIBABA CLOUD, Skills detection, Alibaba Cloud Agent Security Center Documen- tation, Jul. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/asc/ latest/skills-detection-1",
-      "url": "https://kiro.dev/docs/skills/"
+      "citation": "Alibaba Cloud. “Skills detection,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/asc/latest/skills-detection-1",
+      "url": "https://www.alibabacloud.com/help/en/asc/latest/skills-detection-1"
     },
     {
       "number": 539,
       "key": "ji2026taming",
+<<<<<<< Updated upstream
       "citation": "Z. Ji et al., "Taming various privilege escalation in LLM-based agent systems: a mandatory access control framework," arXiv, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
+=======
+      "citation": "Z. Ji et al., Taming various privilege escalation in LLM-based agent systems: A mandatory access control framework, Jan. 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2601.11893"
     },
     {
       "number": 540,
       "key": "microsoft2026agenticfailuretaxonomy",
-      "citation": "MICROSOFT AI RED TEAM, Taxonomy of failure modes in agentic AI systems, ver- sion 2.0, Microsoft Security Report, Apr. 2026. [Online]. Available: https://cdn- dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/ products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in- Agentic-AI-Systems-v2-0.pdf",
+      "citation": "Microsoft AI Red Team. “Taxonomy of failure modes in agentic AI systems, version 2.0,” Accessed: Jul. 21, 2026. [Online]. Available: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf",
       "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf"
     },
     {
       "number": 541,
       "key": "Liang2025DontTY",
-      "citation": "R. Liang et al., “Don’t trust your upstream: Exploiting LLM multi-agent system via topology-guided adversarial propagation,” arXiv preprint arXiv:2512.04129, 2025.",
-      "url": ""
+      "citation": "R. Liang et al., Don’t trust your upstream: Exploiting LLM multi-agent system via topology-guided adversarial propagation, Dec. 2025. arXiv: 2512.04129 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.04129",
+      "url": "https://arxiv.org/abs/2512.04129"
     },
     {
       "number": 542,
       "key": "microsoft2026recommendationpoisoning",
-      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, Manipulating AI mem- ory for profit: The rise of AI recommendation poisoning, Microsoft Security Blog, Feb. 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/ 02/10/ai-recommendation-poisoning/",
+      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, “Manipulating AI Memory for Profit: The Rise of AI Recommendation Poisoning,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/"
     },
     {
       "number": 543,
       "key": "long2025funcpoison",
+<<<<<<< Updated upstream
       "citation": "Y. Long and S. Li, FuncPoison: Poisoning function library to hijack multi-agent autonomous driving systems, 2025. arXiv: 2509.24408. [Online]. Available: https:// arxiv.org/abs/2509.24408",
+=======
+      "citation": "Y. Long and S. Li, Funcpoison: Poisoning function library to hijack multi-agent autonomous driving systems, Sep. 2025. arXiv: 2509.24408 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.24408",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2509.24408"
     },
     {
       "number": 544,
       "key": "roshan2026securingmultiagents",
-      "citation": "M. Roshan and S. Nagesh, Securing multi-agent systems: An empirical analysis of secu- rity prompt hardening and residual risks, Google Research Publications, 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://research.google/pubs/securing-multi- agent-systems-an-empirical-analysis-of-security-prompt-hardening-and- residual-risks/",
+      "citation": "M. Roshan and S. Nagesh. “Securing multi-agent systems: An empirical analysis of security prompt hardening and residual risks,” Accessed: Jul. 16, 2026. [Online]. Available: https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/",
       "url": "https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/"
     },
     {
       "number": 545,
       "key": "alibabacloud2026agentsecuritycenter",
-      "citation": "ALIBABA CLOUD, Alibaba cloud’s major new release: Agent security center, an inte- grated defense platform for AI agents under a new security framework, Alibaba Cloud Community, Mar. 2026. [Online]. Available: https://www.alibabacloud.com/blog/ alibaba-clouds-major-new-release-agent-security-center-an-integrated- defense-platform-for-ai-agents-under-a-new-security-framework_602949",
-      "url": "https://www.alibabacloud.com/blog/"
+      "citation": "ALIBABA CLOUD, “Alibaba cloud's major new release: agent security center, an integrated defense platform for AI agents under a new security framework,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-clouds-major-new-release-agent-security-center-an-integrated-defense-platform-for-ai-agents-under-a-new-security-framework_602949",
+      "url": "https://www.alibabacloud.com/blog/alibaba-clouds-major-new-release-agent-security-center-an-integrated-defense-platform-for-ai-agents-under-a-new-security-framework_602949"
     },
     {
       "number": 546,
       "key": "alibabacloud2026aigovernancechecks",
-      "citation": "ALIBABA CLOUD, Check items supported by AI governance maturity check, Alibaba Cloud Agentic Cloud Governance Center Documentation, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance- supported-check-items",
+      "citation": "Alibaba Cloud. “Check items supported by AI governance maturity check,” Accessed: Jul. 15, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items",
       "url": "https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items"
     },
     {
       "number": 547,
       "key": "owaspMCPTop10_2026",
-      "citation": "OWASP FOUNDATION, OWASP MCP Top 10, Oﬀicial project page, 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://owasp.org/www-project-mcp-top-10/",
+      "citation": "OWASP Foundation. “OWASP MCP Top 10,” Accessed: Jul. 21, 2026. [Online]. Available: httpsowasp.org/www-project-mcp-top-10/",
       "url": "https://owasp.org/www-project-mcp-top-10/"
     },
     {
       "number": 548,
       "key": "yuan2026aegis",
+<<<<<<< Updated upstream
       "citation": "A. Yuan, Z. Su, and Y. Zhao, “Aegis: No tool call left unchecked–a pre-execution firewall and audit layer for AI agents” Available:https://arxiv.org/abs/2603.12621",
+=======
+      "citation": "A. Yuan, Z. Su, and Y. Zhao, AEGIS: No tool call left unchecked – a pre-execution firewall and audit layer for AI agents, Mar. 2026. arXiv: 2603.12621 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.12621",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.12621"
     },
     {
       "number": 549,
       "key": "alsayyad2026agenttrace",
-      "citation": "A. AlSayyad, K. Y. Huang, and R. Pal, “Agenttrace: A structured logging framework for agent system observability,” in LLM-Based Multi-Agent Systems: Towards Responsible, Reliable, and Scalable Agentic Systems, 2026.",
-      "url": ""
+      "citation": "A. AlSayyad, K. Y. Huang, and R. Pal, “AgentTrace: A structured logging framework for agent system observability,” in Proc. AAAI Workshop on LLM-Based Multi-Agent Systems: Towards Responsible, Reliable, and Scalable Agentic Systems, Singapore, Jan. 2026, to appear. [Online]. Available: https://openreview.net/forum?id=xfdpqwikdR",
+      "url": "https://openreview.net/forum?id=xfdpqwikdR"
     },
     {
       "number": 550,
       "key": "archaction_microsoft2026observability",
-      "citation": "M. Security, 80% of Fortune 500 use active AI agents: Observability, governance, and security shape the new frontier, Microsoft Security Blog, Feb. 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/ 02/10/80-of-fortune-500-use-active-ai-agents-observability-governance- and-security-shape-the-new-frontier/",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/"
+      "citation": "Microsoft Security, “80% of Fortune 500 Use Active AI Agents: Observability, Governance, and Security Shape the New Frontier,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/"
     },
     {
       "number": 551,
       "key": "fiveEyesAgenticAI2026",
-      "citation": "“Careful adoption of agentic ai services,” CISA, NSA, ASD ACSC, Canadian Centre for Cyber Security, NCSC-NZ, NCSC-UK, Tech. Rep., 2026. [Online]. Available: https://www.cisa.gov/",
+      "citation": "CISA, NSA. “Careful adoption of agentic AI services. ”[Online]. Available: https://www.cisa.gov/",
       "url": "https://www.cisa.gov/"
     },
     {
       "number": 552,
       "key": "alibabacloud2026agentpermission",
-      "citation": "Alibaba Cloud. “Agent permission management,” Alibaba Cloud Identity as a Service, Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/help/ en/idaas/eiam/user-guide/agent-permission-management",
+      "citation": "Alibaba Cloud, “Agent Permission Management,”. Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/agent-permission-management",
       "url": "https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/agent-permission-management"
     },
     {
       "number": 553,
       "key": "schwarz2025countermind",
-      "citation": "D. Schwarz, “Countermind: A multi-layered security architecture for large language models,” arXiv, Oct. 2025. [Online]. Available: https://arxiv.org/abs/2510.11837",
+      "citation": "D. Schwarz, Countermind: A multi-layered security architecture for large language models, Oct. 2025. arXiv: 2510.11837 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.11837",
       "url": "https://arxiv.org/abs/2510.11837"
     },
     {
       "number": 554,
       "key": "wen2026agentsys",
-      "citation": "R. Wen, H. Li, C. Xiao, and N. Zhang, “Agentsys: Secure and dynamic llm agents through explicit hierarchical memory management,” arXiv preprint arXiv:2602.07398, 2026.",
-      "url": ""
+      "citation": "R. Wen, H. Li, C. Xiao, and N. Zhang, AgentSys: Secure and dynamic LLM agents through explicit hierarchical memory management, Feb. 2026. arXiv: 2602.07398 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.07398",
+      "url": "https://arxiv.org/abs/2602.07398"
     },
     {
       "number": 555,
       "key": "zhou2026efficient",
-      "citation": "J. Zhou and J. Wu, “Eﬀicient vector-multiplicative privacy-preserving retrieval-augmented gen- eration for large language models,” IEEE Transactions on Dependable and Secure Computing, vol. 23, no. 3, pp. 6947–6963, Mar. 2026.",
+      "citation": "J. Zhou and J. Wu, “Eﬀicient vector-multiplicative privacy-preserving retrieval-augmented generation for large language models,” IEEE Transactions on Dependable and Secure Computing, vol. 23, no. 3, pp. 6947–6963, Mar. 2026.",
       "url": ""
     },
     {
       "number": 556,
       "key": "zou2026reasonflux",
+<<<<<<< Updated upstream
       "citation": "J. Zou et al., “Reasonflux-prm: Trajectory-aware prms for long chain-of-thought reasoning in LLMs,” arXiv preprint arXiv:2603.10068, 2026.",
       "url": ""
+=======
+      "citation": "H. Owiredu-Ashley, ADVERSA: Measuring multi-turn guardrail degradation and judge reliability in large language models, Mar. 2026. arXiv: 2603.10068 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.10068",
+      "url": "https://arxiv.org/abs/2603.10068"
+>>>>>>> Stashed changes
     },
     {
       "number": 557,
       "key": "srivastav2025safe",
-      "citation": "D. Srivastav and X. Zhang, “Safe in isolation, dangerous together: Agent-driven multi- turn decomposition jailbreaks on llms,” in Proceedings of the 1st Workshop for Research on Agent Language Models (REALM), 2025, pp. 170–183.",
+      "citation": "D. Srivastav and X. Zhang, “Safe in isolation, dangerous together: Agent-driven multi-turn decomposition jailbreaks on LLMs,” in Proc. 1st Workshop for Research on Agent Language Models, Vienna, Austria, Jul. 2025, pp. 170–183.",
       "url": ""
     },
     {
       "number": 558,
       "key": "son2026governed",
-      "citation": "D. Son, “Governed mcp: Kernel-level tool governance for ai agents via logit-based safety primitives,” arXiv preprint arXiv:2604.16870, 2026.",
-      "url": ""
+      "citation": "D. Son, Governed MCP: Kernel-level tool governance for AI agents via logit-based safety primitives, Apr. 2026. arXiv: 2604.16870 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.16870",
+      "url": "https://arxiv.org/abs/2604.16870"
     },
     {
       "number": 559,
       "key": "marchand2026quantifying",
+<<<<<<< Updated upstream
       "citation": "R. Marchand et al., “Quantifying frontier LLM capabilities for container sandbox escape,” arXiv, Mar. 2026. arXiv: 2603.02277. [Online]. Available: https://arxiv.org/ abs/2603.02277",
+=======
+      "citation": "R. Marchand et al., Quantifying frontier LLM capabilities for container sandbox escape, Mar. 2026. arXiv: 2603.02277 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.02277",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2603.02277"
     },
     {
       "number": 560,
       "key": "ferrag2025prompt",
-      "citation": "M. A. Ferrag, N. Tihanyi, D. Hamouda, L. Maglaras, A. Lakas, and M. Debbah, “From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows,” ICT Express, 2026.",
+      "citation": "M. A. Ferrag, N. Tihanyi, D. Hamouda, L. Maglaras, A. Lakas, and M. Debbah, “From prompt injections to protocol exploits: Threats in LLM-powered AI agent workflows,” ICT Express, vol. 12, no. 2, pp. 353–383, Apr. 2026.",
       "url": ""
     },
     {
       "number": 561,
       "key": "patlan2025murmur",
-      "citation": "A. S. Patlan, P. Sheng, S. A. Hebbar, P. Mittal, and P. Viswanath, “MURMUR: Using cross-user chatter to break collaborative language agents in groups,” arXiv, Nov. 2025. arXiv: 2511.17671 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.17671",
+      "citation": "A. S. Patlan, P. Sheng, S. A. Hebbar, P. Mittal, and P. Viswanath, MURMUR: Using cross-user chatter to break collaborative language agents in groups, Nov. 2025. arXiv: 2511.17671 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.17671",
       "url": "https://arxiv.org/abs/2511.17671"
     },
     {
       "number": 562,
       "key": "zheng2025agentsight",
-      "citation": "Y. Zheng, Y. Hu, T. Yu, and A. Quinn, “AgentSight: system-level observability for AI agents using eBPF,” in Proc. 4th Workshop on Practical Adoption Challenges of ML for Systems, 2025, pp. 110–115.",
-      "url": ""
+      "citation": "Y. Zheng, Y. Hu, T. Yu, and A. Quinn, “AgentSight: System-level observability for AI agents using eBPF,” in Proc. 4th Workshop on Practical Adoption Challenges of Machine Learning for Systems, New York, NY, USA, Oct. 2025, pp. 110–115. [Online]. Available: https://doi.org/10.1145/3766882.3767169",
+      "url": "https://doi.org/10.1145/3766882.3767169"
     },
     {
       "number": 563,
       "key": "he2025sentinelagent",
-      "citation": "X. He, D. Wu, Y. Zhai, and K. Sun, “SentinelAgent: Graph-based anomaly detection in multi-agentsystems,”arXiv,May2025.arXiv:2505.24201[cs.AI].[Online].Available: https://arxiv.org/abs/2505.24201",
+      "citation": "X. He, D. Wu, Y. Zhai, and K. Sun, SentinelAgent: Graph-based anomaly detection in multi-agent systems, May 2025. arXiv: 2505.24201 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.24201",
       "url": "https://arxiv.org/abs/2505.24201"
     },
     {
       "number": 564,
       "key": "fu2025sanitize",
-      "citation": "W. Fu, H. Wang, J. Gao, G. Wan, and T. Jiang, “Sanitize your responses: Mitigating privacy leakage in large language models,” arXiv, Sep. 2025. [Online]. Available: https://arxiv.org/abs/2509.24488",
+      "citation": "W. Fu, H. Wang, J. Gao, G. Wan, and T. Jiang, Sanitize your responses: Mitigating privacy leakage in large language models, Sep. 2025. arXiv: 2509.24488 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2509.24488",
       "url": "https://arxiv.org/abs/2509.24488"
     },
     {
       "number": 565,
       "key": "chong2025casper",
-      "citation": "C. J. Chong, C. Hou, Z. Yao, and S. M. S. Talebi, “Casper: Prompt sanitization for protecting user privacy in web-based large language models,” in Proc. 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud), 2025, pp. 122–133.",
+      "citation": "C. J. Chong, C. Hou, Z. Yao, and S. M. S. Talebi, “Casper: Prompt sanitization for protecting user privacy in web-based large language models,” in Proc. IEEE 12th International Conference on Cyber Security and Cloud Computing, New York City, NY, USA, Nov. 2025, pp. 122–133.",
       "url": ""
     },
     {
       "number": 566,
       "key": "zeng2025survey",
-      "citation": "C. Zeng, Y. Ge, L. Zhao, and Q. Wang, “Survey of multimodal vision-language represen- tation learning models and their adversarial examples attack and defense techniques,” Journal of Computer Research and Development, vol. 62, no. 09, pp. 2208–2232, 2025.",
+      "citation": "Z. Cheng, G. Yunjie, Z. Lingchen, and W. Qian, “Survey of multimodal vision-language representation learning models and their adversarial examples attack and defense techniques,” Journal of Computer Research and Development, vol. 62, no. 9, pp. 2208–2232, 2025.",
       "url": ""
     },
     {
       "number": 567,
       "key": "sun2026stego",
+<<<<<<< Updated upstream
       "citation": "Z. Sun et al., “Stego battlefield: Evaluating image steganography attacks and steganalysis defenses,” arXiv, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
+=======
+      "citation": "Z. Sun et al., Stego battlefield: Evaluating image steganography attacks and steganalysis defenses, May 2026. arXiv: 2605.05789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.05789",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.05789"
     },
     {
       "number": 568,
       "key": "na2025countering",
+<<<<<<< Updated upstream
       "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering Jailbreak Attacks with Two-Axis Pre-detection and Conditional Warning Wrappers,”inProc. European Symposium on Research in Computer Security, 2025, pp. 249–268.",
+=======
+      "citation": "H. Na, H. Kim, D. Yoon, and D. Choi, “Countering jailbreak attacks with two-axis pre-detection and conditional warning wrappers,” in Proc. European Symposium on Research in Computer Security, Cham, Switzerland, Sep. 2025, pp. 249–268.",
+>>>>>>> Stashed changes
       "url": "https://security.cs.washington.edu/"
     },
     {
       "number": 569,
       "key": "archinteraction_alibaba2026agentrisk",
-      "citation": "ALIBABA CLOUD, Agent risk detection and protection, Alibaba Cloud Agent Security Center Documentation, Jun. 2026. [Online]. Available: https://www.alibabacloud. com/help/en/security-center/user-guide/agent-risk-detection-protection",
+      "citation": "Alibaba Cloud. “Agent risk detection and protection,” Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/security-center/user-guide/agent-risk-detection-protection",
       "url": "https://www.alibabacloud.com/help/en/security-center/user-guide/agent-risk-detection-protection"
     },
     {
       "number": 570,
       "key": "bhosale2026dark",
-      "citation": "R. Bhosale, P. Chandre, S. Mehetre, S. Powar, S. Mathur, and A. Ghandat, “The dark side of autonomous intelligence: A survey on data leakage and privacy failures in agentic ai,” Frontiers in Computer Science, vol. 8, p. 1802727, 2026.",
+      "citation": "R. Bhosale, P. Chandre, S. Mehetre, S. Powar, S. Mathur, and A. Ghandat, “The dark side of autonomous intelligence: A survey on data leakage and privacy failures in agentic AI,” Frontiers in Computer Science, vol. 8, p. 1 802 727, 2026.",
       "url": ""
     },
     {
       "number": 571,
       "key": "lam2026governing",
-      "citation": "C. Lam, J. Li, L. Zhang, and K. Zhao, “Governing evolving memory in llm agents: Risks, mechanisms, and the stability and safety governed memory (ssgm) framework,” arXiv, Mar. 2026. arXiv: 2603.11768 [cs.AI]. [Online]. Available: https://arxiv.org/abs/ 2603.11768",
-      "url": "https://arxiv.org/abs/2501.07913"
+      "citation": "C. Lam, J. Li, L. Zhang, and K. Zhao, Governing evolving memory in LLM agents: Risks, mechanisms, and the stability and safety governed memory (ssgm) framework, Mar. 2026. arXiv: 2603.11768 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.11768",
+      "url": "https://arxiv.org/abs/2603.11768"
     },
     {
       "number": 572,
       "key": "bhardwaj2026superlocalmemory",
+<<<<<<< Updated upstream
       "citation": "V. P. Bhardwaj, “SuperLocalMemory: privacy-preserving multi-agent memory with Bayesian trust defense against memory poisoning,” arXiv,Feb.2026.arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
       "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+=======
+      "citation": "V. P. Bhardwaj, SuperLocalMemory: Privacy-preserving multi-agent memory with Bayesian trust defense against memory poisoning, Feb. 2026. arXiv: 2603.02240 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.02240",
+      "url": "https://arxiv.org/abs/2603.02240"
+>>>>>>> Stashed changes
     },
     {
       "number": 573,
       "key": "alibabacloud2026instanceisolation",
+<<<<<<< Updated upstream
       "citation": "ALIBABACLOUD,Instanceisolationoverview,AlibabaCloudFunctionComputeDoc- umentation, Apr. 2026. [Online]. Available: https://www.alibabacloud.com/help/ en/functioncompute/fc/overview-of-instance-isolation",
+=======
+      "citation": "Alibaba Cloud. “Instance isolation overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/fc/overview-of-instance-isolation",
+>>>>>>> Stashed changes
       "url": "https://www.alibabacloud.com/help/en/functioncompute/fc/overview-of-instance-isolation"
     },
     {
       "number": 574,
       "key": "kumar2026memarchitect",
-      "citation": "L. S. Kumar, Y. Ba, and R. Pan, “Memarchitect: A policy driven memory governance layer,” arXiv, Mar. 2026. [Online]. Available: https://arxiv.org/abs/2603.18330",
+      "citation": "L. S. Kumar, Y. Ba, and R. Pan, Memarchitect: A policy driven memory governance layer, Mar. 2026. arXiv: 2603.18330 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.18330",
       "url": "https://arxiv.org/abs/2603.18330"
     },
     {
       "number": 575,
       "key": "aepdAgenticAI2026",
+<<<<<<< Updated upstream
       "citation": "A. E. de Protección de Datos, Agentic artificial intelligence from the perspective of data protection, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf",
+=======
+      "citation": "AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS. “Agentic artificial intelligence from the perspective of data protection,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf",
+>>>>>>> Stashed changes
       "url": "https://www.aepd.es/en/guides/agentic-artificial-intelligence.pdf"
     },
     {
       "number": 576,
       "key": "liu2025safe",
+<<<<<<< Updated upstream
       "citation": "C. Liu et al., “Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 12171–12186.",
+=======
+      "citation": "C. Liu et al., “Safe: Enhancing mathematical reasoning in large language models via retrospective step-aware formal verification,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria, Jul. 2025, pp. 12 171–12 186.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 577,
       "key": "huang2026beyond",
-      "citation": "S.-Y.Huang,L.-H.Chang,C.-Y.Lin,andC.-L.Yang,“Beyondoracle:Verifier-supervision for instruction hierarchy in reasoning and instruction-tuned llms,” Advances in Neural Information Processing Systems, vol. 38, pp. 98362–98395, 2026.",
-      "url": ""
+      "citation": "S.-Y. Huang, L.-H. Chang, C.-Y. Lin, and C.-L. Yang, “Beyond oracle: Verifier-supervision for instruction hierarchy in reasoning and instruction-tuned LLMs,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA, Dec. 2025, pp. 98 362–98 395. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2025/file/8d9957ffda4c206cbdb1927e5aad83ba-Paper-Conference.pdf",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/8d9957ffda4c206cbdb1927e5aad83ba-Paper-Conference.pdf"
     },
     {
       "number": 578,
       "key": "chen2026too",
-      "citation": "F. Chen, T. Wu, V. Nguyen, S. Nepal, and C. Rudolph, “Agents at risk: How users unwittingly undermine llm safety,” arXiv, Jan. 2026. [Online]. Available: https:// arxiv.org/abs/2601.10758",
+      "citation": "F. Chen, T. Wu, V. Nguyen, S. Nepal, and C. Rudolph, Agents at risk: How users unwittingly undermine LLM safety, Jan. 2026. arXiv: 2601.10758 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.10758",
       "url": "https://arxiv.org/abs/2601.10758"
     },
     {
       "number": 579,
       "key": "khanSAFER2025",
-      "citation": "A. A. Khan et al., “Safety aware task planning via large language models in robotics,” in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2025, pp. 21024–21031.",
+      "citation": "A. A. Khan et al., Safety aware task planning via large language models in robotics, Mar. 2025. arXiv: 2503.15707 [cs.RO]. [Online]. Available: https://arxiv.org/abs/2503.15707",
       "url": "https://arxiv.org/abs/2503.15707"
     },
     {
       "number": 580,
       "key": "archaction_salesforce2026agentscript",
-      "citation": "Salesforce, Agent script: The control plane for agentic decisions, Salesforce Blog, Apr. 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.salesforce.com/ blog/agent-script-control-plane/",
+      "citation": "Salesforce, “Agent Script: The Control Plane for Agentic Decisions,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.salesforce.com/blog/agent-script-control-plane/",
       "url": "https://www.salesforce.com/blog/agent-script-control-plane/"
     },
     {
       "number": 581,
       "key": "zhou2025tempest",
-      "citation": "A. Zhou and R. Arel, “Tempest: Autonomous multi-turn jailbreaking of large language models with tree search,” arXiv, Mar. 2025. arXiv: 2503.10619 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2503.10619",
+      "citation": "A. Zhou and R. Arel, Tempest: Autonomous multi-turn jailbreaking of large language models with tree search, Mar. 2025. arXiv: 2503.10619 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2503.10619",
       "url": "https://arxiv.org/abs/2503.10619"
     },
     {
       "number": 582,
       "key": "albrethsen2026deepcontext",
+<<<<<<< Updated upstream
       "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, “Deepcontext: Stateful real-time detection of multi-turn adversarial intent drift in LLMs,” arXiv, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
+=======
+      "citation": "J. Albrethsen, Y. Datta, K. Kumar, and S. Rajasekar, Deepcontext: Stateful real-time detection of multi-turn adversarial intent drift in LLMs, Feb. 2026. arXiv: 2602.16935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16935",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.16935"
     },
     {
       "number": 583,
       "key": "hu2025steering",
-      "citation": "H. Hu, A. Robey, and C. Liu, “Steering dialogue dynamics for robustness against multi- turn jailbreaking attacks,” arXiv, Feb. 2025. arXiv: 2503.00187 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2503.00187",
+      "citation": "H. Hu, A. Robey, and C. Liu, Steering dialogue dynamics for robustness against multi-turn jailbreaking attacks, Feb. 2025. arXiv: 2503.00187 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2503.00187",
       "url": "https://arxiv.org/abs/2503.00187"
     },
     {
       "number": 584,
       "key": "tencent2026agentsecuritydrill",
-      "citation": "TENCENT ZHUQUE LAB, A.I.G releases an agent security drill skill, Tencent Zhuque Lab, Jun. 2026. [Online]. Available: https://matrix.tencent.com/zh/2026/06/29/ agent-security-drill-skill",
+      "citation": "TENCENT ZHUQUE LAB, “A.I.G releases an agent security drill skill,” 2026. [Online]. Available: https://matrix.tencent.com/zh/2026/06/29/agent-security-drill-skill",
       "url": "https://matrix.tencent.com/zh/2026/06/29/agent-security-drill-skill"
     },
     {
       "number": 585,
       "key": "luo2026agentguard",
-      "citation": "J. Luo et al., “AgentGuard: An attribute-based access control framework for Tool-Use LLM-based agent,” arXiv, May 2026. arXiv: 2605.28071 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.28071",
+      "citation": "J. Luo et al., AgentGuard: An attribute-based access control framework for Tool-Use LLM-based agent, May 2026. arXiv: 2605.28071 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.28071",
       "url": "https://arxiv.org/abs/2605.28071"
     },
     {
       "number": 586,
       "key": "pan2026skillguard",
-      "citation": "S. Pan, X. Sun, T. Zhang, D. Liao, M. Si, and Z. Xing, “SkillGuard: A permission framework for agent skills,” arXiv, Jun. 2026. arXiv: 2606.03024 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.03024",
+      "citation": "S. Pan, X. Sun, T. Zhang, D. Liao, M. Si, and Z. Xing, SkillGuard: A permission framework for agent skills, Jun. 2026. arXiv: 2606.03024 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.03024",
       "url": "https://arxiv.org/abs/2606.03024"
     },
     {
       "number": 587,
       "key": "wang2026sandlock",
-      "citation": "C. Wang and Y. Zheng, “Sandlock: Confining AI agent code with unprivileged Linux primitives,” arXiv, May 2026. arXiv: 2605.26298 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.26298",
+      "citation": "C. Wang and Y. Zheng, Sandlock: Confining AI agent code with unprivileged Linux primitives, May 2026. arXiv: 2605.26298 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.26298",
       "url": "https://arxiv.org/abs/2605.26298"
     },
     {
       "number": 588,
       "key": "sidik2026beyond",
-      "citation": "B. Sidik and L. Rokach, “Beyond static sandboxing: Learned capability governance for autonomous ai agents,” arXiv preprint arXiv:2604.11839, 2026. [Online]. Available: https://arxiv.org/abs/2604.11839",
+      "citation": "B. Sidik and L. Rokach, Beyond static sandboxing: Learned capability governance for autonomous AI agents, Apr. 2026. arXiv: 2604.11839 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.11839",
       "url": "https://arxiv.org/abs/2604.11839"
     },
     {
       "number": 589,
       "key": "prabakaran2026cl",
+<<<<<<< Updated upstream
       "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer genomic integrity with hierarchical Bloom–Merkle trees for Ethics-Aware, explainable personalized gene editing,” IEEE Access, 2026.",
+=======
+      "citation": "C. Prabakaran and K. Rajendran, “CL-GIE v4.0: Blockchain-anchored cross-layer genomic integrity with hierarchical Bloom–Merkle trees for ethics-aware, explainable personalized gene editing,” IEEE Access, vol. 14, pp. 17 702–17 723, Feb. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 590,
       "key": "azarafrooz2026cross",
+<<<<<<< Updated upstream
       "citation": "A. Azarafrooz, “Cross-session threats in AI agents: Benchmark, evaluation, and algorithms,” arXiv, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
+=======
+      "citation": "A. Azarafrooz, Cross-session threats in AI agents: Benchmark, evaluation, and algorithms, Apr. 2026. arXiv: 2604.21131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.21131",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2604.21131"
     },
     {
       "number": 591,
       "key": "archinteraction_mondal2026multitenantagent",
-      "citation": "A. Mondal, M. Kunamneni, P. Alluri, and Z. Sahajwani, Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS, AWS Machine Learning Blog, Jun. 2026. [Online]. Available: https://aws.amazon.com/blogs/machine- learning/multi-tenant-llm-analytics-with-row-level-security-how-we- built-a-secure-agent-on-aws/",
+      "citation": "A. Mondal, M. Kunamneni, P. Alluri, and Z. Sahajwani, “Multi-Tenant LLM analytics with Row-Level security: how we built a secure agent on AWS,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
       "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/"
     },
     {
       "number": 592,
       "key": "desai2026safegpt",
-      "citation": "P. Desai, L. Tang, Y. Meng, and Z. Xi, “Safegpt: Preventing data leakage and unethical outputs in enterprise llm use,” arXiv preprint arXiv:2601.06366, 2026.",
-      "url": ""
+      "citation": "P. Desai, L. Tang, Y. Meng, and Z. Xi, SafeGPT: Preventing data leakage and unethical outputs in enterprise LLM use, Jan. 2026. arXiv: 2601.06366 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.06366",
+      "url": "https://arxiv.org/abs/2601.06366"
     },
     {
       "number": 593,
       "key": "li2026towards",
-      "citation": "C. Li et al., “Towards security-auditable LLM agents: A unified graph representation,” arXiv, May 2026. arXiv: 2605.06812. [Online]. Available: https://arxiv.org/abs/ 2605.06812",
+      "citation": "C. Li et al., Towards security-auditable LLM agents: A unified graph representation, May 2026. arXiv: 2605.06812 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.06812",
       "url": "https://arxiv.org/abs/2605.06812"
     },
     {
       "number": 594,
       "key": "hemrajani2026iamagentgovernance",
-      "citation": "A. A. Hemrajani. “What’s new in IAM: Security, governance, and runtime defense,” Google Cloud, Accessed: Jul. 16, 2026. [Online]. Available: https://cloud.google. com/blog/products/identity-security/whats-new-in-iam-security-governance- and-runtime-defense",
+      "citation": "Abhishek A. Hemrajani, “What's New in IAM: Security, Governance, and Runtime Defense,”. Accessed: Jul. 16, 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense",
       "url": "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense"
     },
     {
       "number": 595,
       "key": "zouBlockA2A2025",
+<<<<<<< Updated upstream
       "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, “Blocka2a: Towards secure and verifiable agent-to-agent interoperability,” arXiv, Aug. 2025. arXiv: 2508.01332. [Online]. Available: https://arxiv.org/abs/2508.01332",
+=======
+      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, BlockA2A: Towards secure and verifiable agent-to-agent interoperability, Aug. 2025. arXiv: 2508.01332 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.01332",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2508.01332"
     },
     {
       "number": 596,
       "key": "archgovernance_alibaba2026agenticsoc",
-      "citation": "A. Cloud, Alibaba cloud unveils agentic SOC: An enterprise-grade, ai agent-driven se- curity operations platform, Alibaba Cloud Community, Apr. 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/blog/603015",
+      "citation": "Alibaba Cloud, “Alibaba Cloud Unveils Agentic SOC: An Enterprise-Grade, AI Agent-Driven Security Operations Platform,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/blog/603015",
       "url": "https://www.alibabacloud.com/blog/603015"
     },
     {
       "number": 597,
       "key": "sarabamoun2025special",
-      "citation": "E. Sarabamoun, “Special-character adversarial attacks on open-source language model,” arXiv preprint arXiv:2508.14070, 2025.",
-      "url": ""
+      "citation": "E. Sarabamoun, Special-character adversarial attacks on open-source language model, Aug. 2025. arXiv: 2508.14070 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.14070",
+      "url": "https://arxiv.org/abs/2508.14070"
     },
     {
       "number": 598,
       "key": "gao2025imperceptible",
+<<<<<<< Updated upstream
       "citation": "K.Gaoetal.,“Imperceptible jailbreaking against large language models,”arXiv preprint arXiv:2510.05025, 2025.",
+=======
+      "citation": "K. Gao et al., Imperceptible jailbreaking against large language models, Oct. 2025. arXiv: 2510.05025 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2510.05025",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2510.05025"
     },
     {
       "number": 599,
       "key": "kim2025really",
-      "citation": "S. Kim, Y. Lee, Y. Song, and K. Lee, “What really matters in many-shot attacks? an empirical study of long-context vulnerabilities in llms,” in In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 2043–2063.",
+      "citation": "S. Kim, Y. Lee, Y. Song, and K. Lee, “What really matters in many-shot attacks? an empirical study of long-context vulnerabilities in LLMs,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 2043– 2063.",
       "url": ""
     },
     {
       "number": 600,
       "key": "das2026trojan",
+<<<<<<< Updated upstream
       "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, “Trojan hippo: Weaponizing agent memory for data exfiltration,”arXivpreprintarXiv:2605.01970, 2026.",
+=======
+      "citation": "D. Das, J. Piet, D. Kaviani, L. Beurer-Kellner, F. Tramèr, and D. Wagner, Trojan hippo: Weaponizing agent memory for data exfiltration, 2026. arXiv: 2605.01970 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.01970",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.01970"
     },
     {
       "number": 601,
       "key": "karthikeyan2025agentcrypt",
-      "citation": "H. Karthikeyan et al., “Agentcrypt: Advancing privacy and (secure) computation in ai agent collaboration,” arXiv preprint arXiv:2512.08104, 2025.",
-      "url": ""
+      "citation": "H. Karthikeyan et al., AgentCrypt: Advancing privacy and (secure) computation in AI agent collaboration, Dec. 2025. arXiv: 2512.08104 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.08104",
+      "url": "https://arxiv.org/abs/2512.08104"
     },
     {
       "number": 602,
       "key": "luo2025agrail",
+<<<<<<< Updated upstream
       "citation": "W. Luo et al., “AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 8104–8139.",
+=======
+      "citation": "W. Luo et al., “AGrail: A lifelong agent guardrail with effective and adaptive safety detection,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 8104–8139.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 603,
       "key": "wei2025trojan",
-      "citation": "R. Wei et al., “The trojan knowledge: Bypassing commercial llm guardrails via harmless prompt weaving and adaptive tree search,” arXiv preprint arXiv:2512.01353, 2025.",
-      "url": ""
+      "citation": "R. Wei et al., The trojan knowledge: Bypassing commercial LLM guardrails via harmless prompt weaving and adaptive tree search, 2025. arXiv: 2512.01353 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.01353",
+      "url": "https://arxiv.org/abs/2512.01353"
     },
     {
       "number": 604,
       "key": "li2026agentharness",
-      "citation": "J. Li et al., “Agent harness engineering: A survey,” arXiv preprint arXiv:2603.12230, 2026. [Online]. Available: https://openreview.net/pdf?id=eONq7FdiHa",
+      "citation": "J. Li et al., Agent harness engineering: A survey, 2026. arXiv: 2603.12230. [Online]. Available: https://openreview.net/pdf?id=eONq7FdiHa",
       "url": "https://openreview.net/pdf?id=eONq7FdiHa"
     },
     {
       "number": 605,
       "key": "xie2025security",
-      "citation": "Y. Xie et al., “Red-teaming coding agents from a tool-invocation perspective: An em- pirical security assessment,” arXiv preprint arXiv:2509.05755, 2025. [Online]. Available: https://arxiv.org/abs/2509.05755",
+      "citation": "Y. Xie et al., Red-teaming coding agents from a tool-invocation perspective: An empirical security assessment, Sep. 2025. arXiv: 2509.05755 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.05755",
       "url": "https://arxiv.org/abs/2509.05755"
     },
     {
       "number": 606,
       "key": "mitchell2026agent",
-      "citation": "R. J. Mitchell, “When the agent is the adversary: Architectural requirements for agentic aicontainmentaftertheapril2026frontiermodelescape,”arXivpreprintarXiv:2604.23425, 2026.",
-      "url": ""
+      "citation": "R. J. Mitchell, When the agent is the adversary: Architectural requirements for agentic AI containment after the april 2026 frontier model escape, Apr. 2026. arXiv: 2604.23425 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.23425",
+      "url": "https://arxiv.org/abs/2604.23425"
     },
     {
       "number": 607,
       "key": "uchibeke2026preaction",
-      "citation": "U.Uchibeke,“Beforethetoolcall:Deterministicpre-actionauthorizationforautonomous AI agents,” arXiv, Mar. 2026. arXiv: 2603.20953. [Online]. Available: https://arxiv. org/abs/2603.20953",
-      "url": "https://arxiv"
+      "citation": "U. Uchibeke, Before the tool call: Deterministic pre-action authorization for autonomous AI agents, Mar. 2026. arXiv: 2603.20953 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.20953",
+      "url": "https://arxiv.org/abs/2603.20953"
     },
     {
       "number": 608,
       "key": "gan2026navigating",
-      "citation": "Y.Ganetal.,“Navigatingtherisks:Asurveyofsecurityandprivacythreatsinllm-based agents,” ACM Transactions on Software Engineering and Methodology, 2026.",
+      "citation": "Y. Gan et al., “Navigating the risks: A survey of security and privacy threats in LLM-based agents,” ACM Transactions on Software Engineering and Methodology, Mar. 2026.",
       "url": "https://www.sap.com/products/artificial-intelligence/ai-agents.html"
     },
     {
       "number": 609,
       "key": "arceo2026securing",
-      "citation": "F. J. Arceo and V. P. Narsing, “Securing the agent: Vendor-neutral, multitenant enter- prise retrieval and tool use,” in Proc. ACM Conf. AI Agentic Syst., San Jose, CA, USA, May 2026, pp. 862–872.",
+      "citation": "F. J. Arceo and V. P. Narsing, “Securing the agent: Vendor-neutral, multitenant enterprise retrieval and tool use,” in Proc. ACM Conference on AI and Agentic Systems, San Jose, CA, USA, May 2026, pp. 862–872.",
       "url": ""
     },
     {
       "number": 610,
       "key": "prakash2026ldp",
-      "citation": "S.Prakash,“Ldp:Anidentity-awareprotocolformulti-agentllmsystems,”arXivpreprint arXiv:2603.08852, 2026.",
-      "url": ""
+      "citation": "S. Prakash, LDP: An identity-aware protocol for multi-agent LLM systems, 2026. arXiv: 2603.08852 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.08852",
+      "url": "https://arxiv.org/abs/2603.08852"
     },
     {
       "number": 611,
       "key": "chen2026credential",
-      "citation": "Z. Chen et al., “Credential leakage in LLM agent skills: A large-scale empirical study,” arXiv preprint arXiv:2604.03070, 2026. [Online]. Available: https://arxiv.org/abs/ 2604.03070",
-      "url": "https://kiro.dev/docs/skills/"
+      "citation": "Z. Chen et al., How your credentials are leaked by LLM agent skills: An empirical study, Apr. 2026. arXiv: 2604.03070 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.03070",
+      "url": "https://arxiv.org/abs/2604.03070"
     },
     {
       "number": 612,
       "key": "shi2025sok",
-      "citation": "G. Shi et al., “Sok: Trust-authorization mismatch in llm agent interactions,” arXiv preprint arXiv:2512.06914, 2025.",
-      "url": ""
+      "citation": "G. Shi et al., SoK: Trust-authorization mismatch in LLM agent interactions, Dec. 2025. arXiv: 2512.06914 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.06914",
+      "url": "https://arxiv.org/abs/2512.06914"
     },
     {
       "number": 613,
       "key": "zhu2025metabreak",
-      "citation": "W. Zhu, Z. Xiang, W. Niu, and L. Guan, “Metabreak: Jailbreaking online llm services via special token manipulation,” arXiv preprint arXiv:2510.10271, 2025.",
-      "url": ""
+      "citation": "W. Zhu, Z. Xiang, W. Niu, and L. Guan, MetaBreak: Jailbreaking online LLM services via special token manipulation, Oct. 2025. arXiv: 2510.10271 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.10271",
+      "url": "https://arxiv.org/abs/2510.10271"
     },
     {
       "number": 614,
       "key": "barua2025guardians",
+<<<<<<< Updated upstream
       "citation": "S.Barua,M.Rahman,M.J.Sadek,R.Islam,S.Khaled,andA.Kabir,“Guardiansofthe agentic system: Preventing many shots jailbreak with agentic system,” arXiv preprint arXiv:2502.16750, 2025. Available: https://arxiv.org/abs/2502.16750",
+=======
+      "citation": "S. Barua, M. Rahman, M. J. Sadek, R. Islam, S. Khaled, and A. Kabir, Guardians of the agentic system: Preventing many shots jailbreak with agentic system, 2025. arXiv: 2502.16750 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2502.16750",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2502.16750"
     },
     {
       "number": 615,
       "key": "kasu2026chain",
-      "citation": "S. K. R. Kasu, N. Lukas, and S. Poppi, “When the chain of thought knows better: Failure modes in multi-turn reasoning models,” arXiv preprint arXiv:2606.10740, 2026.",
-      "url": ""
+      "citation": "S. K. R. Kasu, N. Lukas, and S. Poppi, When the chain of thought knows better: Failure modes in multi-turn reasoning models, Jun. 2026. arXiv: 2606.10740 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.10740",
+      "url": "https://arxiv.org/abs/2606.10740"
     },
     {
       "number": 616,
       "key": "shan2026don",
-      "citation": "Z. Shan, J. Xin, Y. Zhang, and M. Xu, “Don’t let the claw grip your hand: A security analysis and defense framework for openclaw,” arXiv preprint arXiv:2603.10387, 2026.",
-      "url": ""
+      "citation": "Z. Shan, J. Xin, Y. Zhang, and M. Xu, Don’t let the claw grip your hand: A security analysis and defense framework for OpenClaw, Mar. 2026. arXiv: 2603.10387 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.10387",
+      "url": "https://arxiv.org/abs/2603.10387"
     },
     {
       "number": 617,
       "key": "das2025commandsans",
-      "citation": "D. Das, L. Beurer-Kellner, M. Fischer, and M. Baader, “Commandsans: Securing ai agents with surgical precision prompt sanitization,” arXiv preprint arXiv:2510.08829, 2025.",
-      "url": ""
+      "citation": "D. Das, L. Beurer-Kellner, M. Fischer, and M. Baader, CommandSans: Securing AI agents with surgical precision prompt sanitization, Oct. 2025. arXiv: 2510.08829 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.08829",
+      "url": "https://arxiv.org/abs/2510.08829"
     },
     {
       "number": 618,
       "key": "konakandla2026systemprompt",
-      "citation": "M. Konakandla. “Designing for the inevitable: System prompt leakage and mitigations in generative AI applications.” AWS Security Blog, Amazon Web Services, Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/security/ designing-for-the-inevitable-system-prompt-leakage-and-mitigations- in-generative-ai-applications/",
+      "citation": "Manideep Konakandla, “Designing for the inevitable: system prompt leakage and mitigations in generative AI applications,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/",
       "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/"
     },
     {
       "number": 619,
       "key": "brunner2026promptinjections",
-      "citation": "T. Brunner, Y.-H. Liu, and M. Pande. “AI threats in the wild: The current state of prompt injections on the web.” Google Online Security Blog, Google, Accessed: Jul. 16, 2026. [Online]. Available: https://security.googleblog.com/2026/04/ai-threats- in-wild-current-state-of.html",
+      "citation": "Thomas Brunner, Yu-Han Liu, and Moni Pande, “AI threats in the wild: the current state of prompt injections on the web,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
       "url": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html"
     },
     {
@@ -8259,787 +8544,827 @@ const DATA = {
     {
       "number": 621,
       "key": "tencentzhuque2026agentskills",
-      "citation": "腾讯朱雀实验室 and Nicky. “当 ai 学会背刺：深度剖析 agent skills 的安全陷阱.” 腾讯 安全官方技术文章, 腾讯安全应急响应中心, Accessed: Jul. 16, 2026. [Online]. Available: https://security.tencent.com/index.php/blog/msg/215?from_tab=security",
-      "url": "https://matrix.tencent.com/zh/2026/01/23/when-ai-learns-to-backstab-in-depth-analysis-of-the-security-pitfalls-of-agent-skills"
+      "citation": "腾讯朱雀实验室 and Nicky, “当AI学会背刺：深度剖析Agent skills的安全陷阱,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://security.tencent.com/index.php/blog/msg/215?from_tab=security",
+      "url": "https://security.tencent.com/index.php/blog/msg/215?from_tab=security"
     },
     {
       "number": 622,
       "key": "alibabacloud2026sase",
-      "citation": "Alibaba Cloud Security. “Alibaba cloud SASE 2.0 upgrade: Comprehensive monitoring of agent oﬀice security.” Alibaba Cloud Community Blog, Alibaba Cloud, Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba- cloud-sase-2-0-upgrade-comprehensive-monitoring-of-agent-office- security_603047",
+      "citation": "ALIBABA CLOUD SECURITY, “Alibaba cloud SASE 2.0 upgrade: comprehensive monitoring of agent office security,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-cloud-sase-2-0-upgrade-comprehensive-monitoring-of-agent-office-security_603047",
       "url": "https://www.alibabacloud.com/blog/alibaba-cloud-sase-2-0-upgrade-comprehensive-monitoring-of-agent-office-security_603047"
     },
     {
       "number": 623,
       "key": "srivastava2025memorygraft",
-      "citation": "S. S. Srivastava and H. He, “Memorygraft: Persistent compromise of llm agents via poisoned experience retrieval,” arXiv, Dec. 2025. arXiv: 2512.16962 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.16962",
+      "citation": "S. S. Srivastava and H. He, MemoryGraft: Persistent compromise of LLM agents via poisoned experience retrieval, Dec. 2025. arXiv: 2512.16962 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.16962",
       "url": "https://arxiv.org/abs/2512.16962"
     },
     {
       "number": 624,
       "key": "hadareantristan2026cedar",
-      "citation": "L. Hadarean and J.-B. Tristan. “Why policy in amazon bedrock agentcore chose Cedar for securing agentic workflows.” AWS Security Blog, Amazon Web Services, Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/security/why- policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic- workflows/",
+      "citation": "Liana Hadarean and Jean-Baptiste Tristan, “Why policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/",
       "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
     },
     {
       "number": 625,
       "key": "gavish2026workspaceipi",
-      "citation": "A. Gavish and Google GenAI Security Team. “Google workspace’s continuous approach to mitigating indirect prompt injections,” Google, Accessed: Jul. 16, 2026. [Online]. Available: https://blog.google/security/google-workspaces-continuous- approach-to-mitigating-indirect-prompt-injections/",
+      "citation": "Adam Gavish and GOOGLE GENAI SECURITY TEAM, “Google workspace's continuous approach to mitigating indirect prompt injections,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://blog.google/security/google-workspaces-continuous-approach-to-mitigating-indirect-prompt-injections/",
       "url": "https://blog.google/security/google-workspaces-continuous-approach-to-mitigating-indirect-prompt-injections/"
     },
     {
       "number": 626,
       "key": "jiralerspong2026noticing",
-      "citation": "T. Jiralerspong, F. Kondrup, and Y. Bengio, “Noticing the watcher: Llm agents can infer cot monitoring from blocking feedback,” arXiv preprint arXiv:2603.16928, 2026.",
-      "url": ""
+      "citation": "T. Jiralerspong, F. Kondrup, and Y. Bengio, Noticing the watcher: LLM agents can infer CoT monitoring from blocking feedback, Mar. 2026. arXiv: 2603.16928 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.16928",
+      "url": "https://arxiv.org/abs/2603.16928"
     },
     {
       "number": 627,
       "key": "zhang2026reasoninglens",
-      "citation": "J. Zhang et al., “Reasoninglens: Hierarchical visualization and diagnostic auditing for large reasoning models,” arXiv preprint arXiv:2606.23404, 2026.",
-      "url": ""
+      "citation": "J. Zhang et al., ReasoningLens: Hierarchical visualization and diagnostic auditing for large reasoning models, 2026. arXiv: 2606.23404 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2606.23404",
+      "url": "https://arxiv.org/abs/2606.23404"
     },
     {
       "number": 628,
       "key": "lacyshen2026agentobservability",
-      "citation": "J. Lacy and J. Shen. “Debugging production agents with amazon bedrock agentcore ob- servability,” Amazon Web Services, Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/debugging-production-agents- with-amazon-bedrock-agentcore-observability/",
+      "citation": "Joshua Lacy and Jenny Shen, “Debugging production agents with Amazon Bedrock AgentCore observability,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
       "url": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/"
     },
     {
       "number": 629,
       "key": "lin2026safeharness",
-      "citation": "X. Lin et al., “SafeHarness: Lifecycle-integrated security architecture for LLM-based agent deployment,” arXiv preprint arXiv:2604.13630, 2026. [Online]. Available: https://arxiv.org/abs/2604.13630",
+      "citation": "X. Lin et al., SafeHarness: Lifecycle-integrated security architecture for LLM-based agent deployment, Apr. 2026. arXiv: 2604.13630 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.13630",
       "url": "https://arxiv.org/abs/2604.13630"
     },
     {
       "number": 630,
       "key": "russinovich2026oneprompt",
-      "citation": "M. Russinovich, G. Severi, B. Bullwinkel, Y. Cai, K. Hines, and A. Salem. “A one- prompt attack that breaks LLM safety alignment,” Microsoft, Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/02/ 09/prompt-attack-breaks-llm-safety/",
+      "citation": "Mark Russinovich, Giorgio Severi, Blake Bullwinkel, Yanan Cai, Keegan Hines, and Ahmed Salem, “A One-Prompt attack that breaks LLM safety alignment,” 2026. Accessed: Jul. 16, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/"
     },
     {
       "number": 631,
       "key": "cartagena2026mind",
-      "citation": "A. Cartagena and A. Teixeira, “Mind the gap: Text safety does not transfer to tool-call safety in llm agents,” arXiv preprint arXiv:2602.16943, 2026.",
-      "url": ""
+      "citation": "A. Cartagena and A. Teixeira, Mind the GAP: Text safety does not transfer to tool-call safety in LLM agents, 2026. arXiv: 2602.16943 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16943",
+      "url": "https://arxiv.org/abs/2602.16943"
     },
     {
       "number": 632,
       "key": "ryland2026agenticsecurityprinciples",
-      "citation": "M.Ryland,R.G.III,andT.MacDermid,FoursecurityprinciplesforagenticAIsystems, Amazon Web Services, Apr. 2026. [Online]. Available: https://aws.amazon.com/ blogs/security/four-security-principles-for-agentic-ai-systems/",
+      "citation": "M. Ryland, R. I. Goodman, and T. MacDermid, “Four Security Principles for Agentic AI Systems,” 2026. [Online]. Available: https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/",
       "url": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
     },
     {
       "number": 633,
       "key": "alibabacloud2026ossagent",
-      "citation": "Alibaba Cloud. “OSS agent: AI-powered bucket management and data search,” Alibaba Cloud Object Storage Service, Accessed: Jul. 16, 2026. [Online]. Available: https:// www.alibabacloud.com/help/en/oss/developer-reference/oss-agent",
+      "citation": "Alibaba Cloud. “OSS agent: AI-powered bucket management and data search,” Alibaba Cloud Object Storage Service, Accessed: Jul. 16, 2026. [Online]. Available: www.alibabacloud.com/help/en/oss/developer-reference/oss-agent",
       "url": "https://www.alibabacloud.com/help/en/oss/developer-reference/oss-agent"
     },
     {
       "number": 634,
       "key": "goswami2025agenticjwt",
-      "citation": "A. Goswami, “Agentic JWT: A secure delegation protocol for autonomous AI agents,” arXiv, Sep. 2025. arXiv: 2509.13597. [Online]. Available: https://arxiv.org/abs/ 2509.13597",
+      "citation": "A. Goswami, Agentic JWT: A secure delegation protocol for autonomous AI agents, Sep. 2025. arXiv: 2509.13597 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.13597",
       "url": "https://arxiv.org/abs/2509.13597"
     },
     {
       "number": 635,
       "key": "microsoft2026exploitablemisconfigurations",
+<<<<<<< Updated upstream
       "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Y. Weizman, When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps, Mi- crosoft,May2026.[Online].Available:https://www.microsoft.com/en-us/security/ blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations- ai-apps/",
+=======
+      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM and Yossi Weizman, “When configuration becomes a vulnerability: exploitable misconfigurations in AI apps,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
+>>>>>>> Stashed changes
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/"
     },
     {
       "number": 636,
       "key": "ge2026governance",
-      "citation": "Y. Ge, “Governance architecture for autonomous agent systems: Threats, framework, and engineering practice,” arXiv, Mar. 2026. arXiv: 2603.07191. [Online]. Available: https://arxiv.org/abs/2603.07191",
+      "citation": "Y. Ge, Governance architecture for autonomous agent systems: Threats, framework, and engineering practice, Mar. 2026. arXiv: 2603.07191 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.07191",
       "url": "https://arxiv.org/abs/2603.07191"
     },
     {
       "number": 637,
       "key": "wang2026agent",
-      "citation": "Y. Wang et al., “From agent traces to trust: Evidence tracing and execution provenance in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.04990. [Online]. Available: https://arxiv.org/abs/2606.04990",
+      "citation": "Y. Wang et al., From agent traces to trust: Evidence tracing and execution provenance in LLM agents, Jun. 2026. arXiv: 2606.04990 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04990",
       "url": "https://arxiv.org/abs/2606.04990"
     },
     {
       "number": 638,
       "key": "zhang2026agent",
-      "citation": "H. Zhang, Y. Nian, and Y. Zhao, “Agent audit: A security analysis system for LLM agent applications,” arXiv, Mar. 2026. arXiv: 2603.22853 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.22853",
+      "citation": "H. Zhang, Y. Nian, and Y. Zhao, Agent audit: A security analysis system for LLM agent applications, Mar. 2026. arXiv: 2603.22853 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.22853",
       "url": "https://arxiv.org/abs/2603.22853"
     },
     {
       "number": 639,
       "key": "microsoft2026agentmisconfigurations",
-      "citation": "M. D. S. R. Team, Detecting and mitigating common agent misconfigurations, Microsoft, Feb. 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/ 2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
+      "citation": "Microsoft Defender Security Research Team, “Detecting and mitigating common agent misconfigurations,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/"
     },
     {
       "number": 640,
       "key": "hu2025agentsentinel",
-      "citation": "H. Hu, P. Chen, Y. Zhao, and Y. Chen, “AgentSentinel: An end-to-end and real-time securitydefenseframeworkforcomputer-useagents,”inProc. ACM SIGSAC Conference on Computer and Communications Security, Taiwan,China, Oct. 2025, pp. 3535–3549.",
+      "citation": "H. Hu, P. Chen, Y. Zhao, and Y. Chen, “AgentSentinel: An end-to-end and real-time security defense framework for computer-use agents,” in Proc. ACM SIGSAC Conference on Computer and Communications Security, Taipei, Taiwan, Oct. 2025, pp. 3535–3549.",
       "url": "https://security.cs.washington.edu/"
     },
     {
       "number": 641,
       "key": "yang2025chain",
+<<<<<<< Updated upstream
       "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide Your Intention Through Multi-Turn Interrogation,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
+=======
+      "citation": "X. Yang, B. Zhou, X. Tang, J. Han, and S. Hu, “Chain of attack: Hide your intention through multi-turn interrogation,” in Proc. Findings of the Association for Computational Linguistics, Vienna, Austria, Jul. 2025, pp. 9881–9901.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 642,
       "key": "wei2025memguard",
-      "citation": "Q. Wei et al., “A-MemGuard: A proactive defense framework for LLM-based agent memory,” arXiv, Oct. 2025. arXiv: 2510.02373. [Online]. Available: https://arxiv. org/abs/2510.02373",
+      "citation": "Q. Wei et al., A-MemGuard: A proactive defense framework for LLM-based agent memory, Oct. 2025. arXiv: 2510.02373 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.02373",
       "url": "https://arxiv.org/abs/2510.02373"
     },
     {
       "number": 643,
       "key": "rahman2025xteaming",
-      "citation": "S. Rahman et al., “X-Teaming: Multi-turn jailbreaks and defenses with adaptive multi- agents,” arXiv, Apr. 2025. arXiv: 2504.13203. [Online]. Available: https://arxiv. org/abs/2504.13203",
+      "citation": "S. Rahman et al., X-Teaming: Multi-turn jailbreaks and defenses with adaptive multi-agents, Apr. 2025. arXiv: 2504.13203 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.13203",
       "url": "https://arxiv.org/abs/2504.13203"
     },
     {
       "number": 644,
       "key": "dingeto2026agentredbench",
-      "citation": "H.DingetoandW.Leeney,“Agentredbench:Dynamicredteamingandintegration-aware defense for llm agents over saas integrations,” arXiv preprint arXiv:2606.02240, 2026.",
-      "url": ""
+      "citation": "H. Dingeto and W. Leeney, AgentRedBench: Dynamic redteaming and integration-aware defense for LLM agents over saas integrations, Jun. 2026. arXiv: 2606.02240 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.02240",
+      "url": "https://arxiv.org/abs/2606.02240"
     },
     {
       "number": 645,
       "key": "zhao2026beyond",
-      "citation": "Y. Zhao, Z. Zhang, Q. Le, L. Qu, and Z. Xu, “Beyond Goodhart’s law: A dynamic benchmark for evaluating compliance in multi-agent systems,” arXiv, Jun. 2026. arXiv: 2606.07805. [Online]. Available: https://arxiv.org/abs/2606.07805",
+      "citation": "Y. Zhao, Z. Zhang, Q. Le, L. Qu, and Z. Xu, Beyond Goodhart’s law: A dynamic benchmark for evaluating compliance in multi-agent systems, Jun. 2026. arXiv: 2606.07805 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.07805",
       "url": "https://arxiv.org/abs/2606.07805"
     },
     {
       "number": 646,
       "key": "nian2026auditable",
-      "citation": "Y. Nian, A. Yuan, H. Zhang, J. Li, and Y. Zhao, “Auditable agents,” arXiv preprint arXiv:2604.05485, 2026. [Online]. Available: https://arxiv.org/abs/2604.05485",
+      "citation": "Y. Nian, A. Yuan, H. Zhang, J. Li, and Y. Zhao, Auditable agents, 2026. arXiv: 2604.05485 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2604.05485",
       "url": "https://arxiv.org/abs/2604.05485"
     },
     {
       "number": 647,
       "key": "jiang2026agentlab",
-      "citation": "T. Jiang, Y. Wang, J. Liang, and T. Wang, “AgentLab: Benchmarking LLM agents against long-horizon attacks,” arXiv, Feb. 2026. arXiv: 2602.16901. [Online]. Available: https://arxiv.org/abs/2602.16901",
+      "citation": "T. Jiang, Y. Wang, J. Liang, and T. Wang, AgentLab: Benchmarking LLM agents against long-horizon attacks, Feb. 2026. arXiv: 2602.16901 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.16901",
       "url": "https://arxiv.org/abs/2602.16901"
     },
     {
       "number": 648,
       "key": "zhang2025agent",
-      "citation": "H. Zhang et al., “Agent security bench (ASB): Formalizing and benchmarking attacks and defenses in LLM-based agents,” in Proc. International Conference on Learning Representations, Singapore, Apr. 2025, pp. 35331–35366.",
-      "url": ""
+      "citation": "H. Zhang et al., “Agent security bench (ASB): Formalizing and benchmarking attacks and defenses in LLM-based agents,” in Proc. International Conference on Learning Representations (ICLR), Singapore, Apr. 2025, to appear. [Online]. Available: https://openreview.net/forum?id=V4y0CpX4hK",
+      "url": "https://openreview.net/forum?id=V4y0CpX4hK"
     },
     {
       "number": 649,
       "key": "tencent_skill_trust_bench",
-      "citation": "TENCENT, First skill trust bench, Jun. 2026. [Online]. Available: https://matrix. tencent.com/en/2026/06/17/first-skill-trust-bench",
+      "citation": "TENCENT, “First skill trust bench,” 2026. [Online]. Available: https://matrix.tencent.com/en/2026/06/17/first-skill-trust-bench",
       "url": "https://matrix.tencent.com/en/2026/06/17/first-skill-trust-bench"
     },
     {
       "number": 650,
       "key": "microsoft_agent_evaluation",
-      "citation": "MICROSOFT AZURE AI FOUNDRY TEAM, Evaluating multi-turn agents: A qual- ity study of Microsoft Foundry’s multi-turn e... Jun. 2026. [Online]. Available: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating- multi-turn-agents-a-quality-study-of-microsoft-foundry%E2%80%99s-multi- turn-e/4524106",
+      "citation": "MICROSOFT AZURE AI FOUNDRY TEAM, “Evaluating multi-turn agents: A quality study of Microsoft Foundry's multi-turn e...,” 2026. [Online]. Available: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating-multi-turn-agents-a-quality-study-of-microsoft-foundry%E2%80%99s-multi-turn-e/4524106",
       "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating-multi-turn-agents-a-quality-study-of-microsoft-foundry%E2%80%99s-multi-turn-e/4524106"
     },
     {
       "number": 651,
       "key": "google_ai_benchmarks",
-      "citation": "GOOGLE RESEARCH, Building better AI benchmarks: How many raters are enough? Mar. 2026. [Online]. Available: https://research.google/blog/building-better- ai-benchmarks-how-many-raters-are-enough/",
+      "citation": "GOOGLE RESEARCH, “Building better AI benchmarks: How many raters are enough?,” 2026. [Online]. Available: https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
       "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
     },
     {
       "number": 652,
       "key": "ren2026gatemem",
-      "citation": "Z. Ren et al., “GateMem: Benchmarking memory governance in multi-principal shared- memory agents,” arXiv, Jun. 2026. arXiv: 2606.18829. [Online]. Available: https://arxiv.org/abs/2606.18829",
+      "citation": "Z. Ren et al., GateMem: Benchmarking memory governance in multi-principal shared-memory agents, Jun. 2026. arXiv: 2606.18829 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2606.18829",
       "url": "https://arxiv.org/abs/2606.18829"
     },
     {
       "number": 653,
       "key": "dong2025memory",
-      "citation": "S. Dong et al., “Memory injection attacks on LLM agents via query-only interaction,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA and Mexico City, Mexico, Dec. 2025, pp. 46697–46731.",
-      "url": ""
+      "citation": "S. Dong et al., “Memory injection attacks on LLM agents via query-only interaction,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA and Mexico City, Mexico, Dec. 2025, pp. 46 697–46 731. [Online]. Available: https://openreview.net/forum?id=QINnsnppv8",
+      "url": "https://openreview.net/forum?id=QINnsnppv8"
     },
     {
       "number": 654,
       "key": "google_machine_unlearning",
-      "citation": "GOOGLE RESEARCH, New framework for auditing machine unlearning, Jun. 2026. [Online].Available:https://research.google/blog/new-framework-for-auditing- machine-unlearning/",
-      "url": "https://arxiv.org/abs/1912.03817"
+      "citation": "GOOGLE RESEARCH, “New framework for auditing machine unlearning,” 2026. [Online]. Available: https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
+      "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/"
     },
     {
       "number": 655,
       "key": "owaspLLM08VectorEmbedding2025",
-      "citation": "OWASP FOUNDATION, LLM08:2025 vector and embedding weaknesses, Oct. 2025. [Online]. Available: https://genai.owasp.org/llmrisk/llm082025-vector-and- embedding-weaknesses/",
+      "citation": "OWASP FOUNDATION, “LLM08:2025 vector and embedding weaknesses,” 2025. [Online]. Available: https://genai.owasp.org/llmrisk/llm082025-vector-and-embedding-weaknesses/",
       "url": "https://genai.owasp.org/llmrisk/llm082025-vector-and-embedding-weaknesses/"
     },
     {
       "number": 656,
       "key": "li2026blackHoleVectorDB",
-      "citation": "H. Li et al., “Can you trust the vectors in your vector database? black-hole attack from embedding space defects,” arXiv, Apr. 2026. arXiv: 2604.05480 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.05480",
+      "citation": "H. Li et al., Can you trust the vectors in your vector database? black-hole attack from embedding space defects, Apr. 2026. arXiv: 2604.05480 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.05480",
       "url": "https://arxiv.org/abs/2604.05480"
     },
     {
       "number": 657,
       "key": "aws_agentcore_memory",
+<<<<<<< Updated upstream
       "citation": "AMAZON WEB SERVICES, Amazon AgentCore now supports memory with session metadata, May 2026. [Online]. Available: https://aws.amazon.com/cn/about-aws/ whats-new/2026/05/agentcore-memory-scmetadata/",
+=======
+      "citation": "AMAZON WEB SERVICES, “Amazon AgentCore now supports memory with session metadata,” 2026. [Online]. Available: https://aws.amazon.com/cn/about-aws/whats-new/2026/05/agentcore-memory-scmetadata/",
+>>>>>>> Stashed changes
       "url": "https://aws.amazon.com/cn/about-aws/whats-new/2026/05/agentcore-memory-scmetadata/"
     },
     {
       "number": 658,
       "key": "zhang2025benchmarkingRAGPoisoning",
-      "citation": "B. Zhang et al., “Benchmarking poisoning attacks against retrieval-augmented gen- eration,” arXiv, May 2025. arXiv: 2505.18543 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.18543",
+      "citation": "B. Zhang et al., Benchmarking poisoning attacks against retrieval-augmented generation, May 2025. arXiv: 2505.18543 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.18543",
       "url": "https://arxiv.org/abs/2505.18543"
     },
     {
       "number": 659,
       "key": "zhang2026burnAfterUse",
-      "citation": "Q. Zhang, E. E. Wang, J. Li, and X. Wang, “Burn-after-use for preventing data leakage through a secure multi-tenant architecture in enterprise LLM,” arXiv, Jan. 2026. arXiv: 2601.06627. [Online]. Available: https://arxiv.org/abs/2601.06627",
+      "citation": "Q. Zhang, E. E. Wang, J. Li, and X. Wang, Burn-after-use for preventing data leakage through a secure multi-tenant architecture in enterprise LLM, Jan. 2026. arXiv: 2601.06627 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.06627",
       "url": "https://arxiv.org/abs/2601.06627"
     },
     {
       "number": 660,
       "key": "alibabacloud_memory_storage",
-      "citation": "ALIBABA CLOUD, Product overview - memory storage, Jul. 2026. [Online]. Avail- able: https://www.alibabacloud.com/help/en/tablestore/memory-storage- introduction",
+      "citation": "Alibaba Cloud. “Product overview - memory storage,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/tablestore/memory-storage-introduction",
       "url": "https://www.alibabacloud.com/help/en/tablestore/memory-storage-introduction"
     },
     {
       "number": 661,
       "key": "elYagoubi2026agentLeak",
-      "citation": "F.ElYagoubi,G.Badu-Marfo,andR.AlMallah,“AgentLeak:Abenchmarkforinternal- channel privacy leakage in multi-agent LLM systems,” arXiv, Feb. 2026. arXiv: 2602. 11510 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.11510",
+      "citation": "F. El Yagoubi, G. Badu-Marfo, and R. Al Mallah, AgentLeak: A benchmark for internal-channel privacy leakage in multi-agent LLM systems, Feb. 2026. arXiv: 2602.11510 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2602.11510",
       "url": "https://arxiv.org/abs/2602.11510"
     },
     {
       "number": 662,
       "key": "dash2026trustedmemory",
-      "citation": "P. Dash, T. Ge, A. Jain, T. Shah, and Z. Shang, “From untrusted input to trusted memory: A systematic study of memory poisoning attacks in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.04329. [Online]. Available: https://arxiv.org/abs/2606.04329",
+      "citation": "P. Dash, T. Ge, A. Jain, T. Shah, and Z. Shang, From untrusted input to trusted memory: A systematic study of memory poisoning attacks in LLM agents, Jun. 2026. arXiv: 2606.04329 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04329",
       "url": "https://arxiv.org/abs/2606.04329"
     },
     {
       "number": 663,
       "key": "li2025stac",
-      "citation": "J.-J. Li et al., “STAC: When innocent tools form dangerous chains to jailbreak LLM agents,” arXiv, Sep. 2025. arXiv: 2509.25624. [Online]. Available: https://arxiv. org/abs/2509.25624",
+      "citation": "J.-J. Li et al., STAC: When innocent tools form dangerous chains to jailbreak LLM agents, Sep. 2025. arXiv: 2509.25624 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.25624",
       "url": "https://arxiv.org/abs/2509.25624"
     },
     {
       "number": 664,
       "key": "singh2026strandsevals",
-      "citation": "I. Singh, A. Sehwag, J. Buck, P.-S. Chen, and S. Dhakecha, Evaluating AI agents for production: A practical guide to Strands evals, Mar. 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for- production-a-practical-guide-to-strands-evals/",
+      "citation": "I. Singh, A. Sehwag, J. Buck, P. S. Chen, and S. Dhakecha, “Evaluating AI agents for production: A practical guide to Strands evals,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
       "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/"
     },
     {
       "number": 665,
       "key": "rath2026agentdrift",
-      "citation": "A. Rath, “Agent drift: Quantifying behavioral degradation in multi-agent LLM systems over extended interactions,” arXiv, Jan. 2026. arXiv: 2601.04170. [Online]. Available: https://arxiv.org/abs/2601.04170",
+      "citation": "A. Rath, Agent drift: Quantifying behavioral degradation in multi-agent LLM systems over extended interactions, Jan. 2026. arXiv: 2601.04170 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2601.04170",
       "url": "https://arxiv.org/abs/2601.04170"
     },
     {
       "number": 666,
       "key": "wang2025agentspec",
-      "citation": "H. Wang, C. M. Poskitt, and J. Sun, “AgentSpec: Customizable runtime enforcement for safe and reliable LLM agents,” in Proc. IEEE/ACM International Conference on Software Engineering (ICSE), Rio de Janeiro, Brazil, Apr. 2026, pp. 1–12.",
+      "citation": "H. Wang, C. M. Poskitt, and J. Sun, “AgentSpec: Customizable runtime enforcement for safe and reliable LLM agents,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026, pp. 1–12.",
       "url": ""
     },
     {
       "number": 667,
       "key": "tzeveleka2026agentops",
-      "citation": "A. Tzeveleka, A. Grüebler, A. Rodriguez, S. Garcés Vitale, and A. Tsakpinis, Agen- tOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore, Jun. 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/agentops- operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
+      "citation": "A. Tzeveleka, A. Gruebler, A. Rodriguez, S. Garces Vitale, and A. Tsakpinis, “AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
       "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/"
     },
     {
       "number": 668,
       "key": "bai2026realworldagentevaluation",
-      "citation": "Y. Bai, A. Colin, K. Imran, and W. Xiong. “Evaluating AI agents: Real-world lessons from building agentic systems at amazon. ”[Online]. Available: https://aws.amazon. com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons- from-building-agentic-systems-at-amazon/",
+      "citation": "Y. Bai, A. Colin, K. Imran, and W. Xiong, “Evaluating AI Agents: Real-World Lessons from Building Agentic Systems at Amazon,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
       "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/"
     },
     {
       "number": 669,
       "key": "microsoftaireteam2026failuretaxonomy",
-      "citation": "MICROSOFT AI RED TEAM, Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us, Jun. 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy- failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
-      "url": "https://arxiv.org/abs/2606.24496"
+      "citation": "MICROSOFT AI RED TEAM, “Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/"
     },
     {
       "number": 670,
       "key": "alibabacloud2026agenticapisecurity",
-      "citation": "ALIBABA CLOUD SECURITY, Alibaba Cloud launches agentic API security: The data defense line for API calls, Apr. 2026. [Online]. Available: https://www.alibabacloud. com/blog/alibaba-cloud-launches-agentic-api-security-the-data-defense- line-for-api-calls_603018",
-      "url": "https://www.alibabacloud.com/blog/603018"
+      "citation": "ALIBABA CLOUD SECURITY, “Alibaba Cloud launches agentic API security: The data defense line for API calls,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-cloud-launches-agentic-api-security-the-data-defense-line-for-api-calls_603018",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-launches-agentic-api-security-the-data-defense-line-for-api-calls_603018"
     },
     {
       "number": 671,
       "key": "alibabacloud2026waapagenticsecurity",
-      "citation": "CLOUDSECURITY, Alibaba Cloud WAAP pioneers a new paradigm for agentic appli- cation security in China, Jul. 2026. [Online]. Available: https://www.alibabacloud. com/blog/alibaba-cloud-waap-pioneers-a-new-paradigm-for-agentic- application-security-in-china_603344",
+      "citation": "CLOUDSECURITY, “Alibaba Cloud WAAP pioneers a new paradigm for agentic application security in China,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-cloud-waap-pioneers-a-new-paradigm-for-agentic-application-security-in-china_603344",
       "url": "https://www.alibabacloud.com/blog/alibaba-cloud-waap-pioneers-a-new-paradigm-for-agentic-application-security-in-china_603344"
     },
     {
       "number": 672,
       "key": "keastead2026agenticgovernance",
-      "citation": "P.KeasteadandS.Uppalapati,A governance framework for building trustworthy agentic AI for public sector and regulated organizations,May2026.[Online].Available:https:// aws.amazon.com/blogs/publicsector/a-governance-framework-for-building- trustworthy-agentic-ai-for-public-sector-and-regulated-organizations/",
+      "citation": "P. Keastead and S. Uppalapati, “A governance framework for building trustworthy agentic AI for public sector and regulated organizations,” 2026. [Online]. Available: https://aws.amazon.com/blogs/publicsector/a-governance-framework-for-building-trustworthy-agentic-ai-for-public-sector-and-regulated-organizations/",
       "url": "https://aws.amazon.com/blogs/publicsector/a-governance-framework-for-building-trustworthy-agentic-ai-for-public-sector-and-regulated-organizations/"
     },
     {
       "number": 673,
       "key": "alibabacloud2026agentidguard",
-      "citation": "ALIBABA CLOUD, Agent ID Guard overview, Alibaba Cloud Documentation Center, May 2026. [Online]. Available: https://www.alibabacloud.com/help/en/idaas/ eiam/user-guide/what-is-agent-id-guard",
+      "citation": "Alibaba Cloud. “Agent ID Guard overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/what-is-agent-id-guard",
       "url": "https://www.alibabacloud.com/help/en/idaas/eiam/user-guide/what-is-agent-id-guard"
     },
     {
       "number": 674,
       "key": "mateo2026gammaf",
-      "citation": "P. Mateo-Torrejón and A. Sánchez-Macián, “GAMMAF: A common framework for graph-based anomaly monitoring benchmarking in LLM multi-agent systems,” arXiv, Apr. 2026. arXiv: 2604.24477. [Online]. Available: https://arxiv.org/abs/2604.",
+      "citation": "P. Mateo-Torrejón and A. Sánchez-Macián, GAMMAF: A common framework for graph-based anomaly monitoring benchmarking in LLM multi-agent systems, Apr. 2026. arXiv: 2604.24477 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.24477",
       "url": "https://arxiv.org/abs/2604.24477"
     },
     {
       "number": 675,
       "key": "alibabacloud2026rcabenchmark",
-      "citation": "ALIBABA CLOUD NATIVE COMMUNITY, Alibaba Cloud releases RCA benchmark, the industry’s first open source root cause analysis benchmark system for agentic ops, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba- cloud-releases-rca-benchmark-the-industrys-first-open-source-root- cause-analysis-benchmark-system-for-agentic-ops_603252",
+      "citation": "ALIBABA CLOUD NATIVE COMMUNITY, “Alibaba Cloud releases RCA benchmark, the industry's first open source root cause analysis benchmark system for agentic ops,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-cloud-releases-rca-benchmark-the-industrys-first-open-source-root-cause-analysis-benchmark-system-for-agentic-ops_603252",
       "url": "https://www.alibabacloud.com/blog/alibaba-cloud-releases-rca-benchmark-the-industrys-first-open-source-root-cause-analysis-benchmark-system-for-agentic-ops_603252"
     },
     {
       "number": 676,
       "key": "michelakis2025core",
-      "citation": "P. Michelakis, Y. Hadjiyiannis, and D. Stamoulis, “CORE: Full-path evaluation of LLM agents beyond final state,” arXiv, Sep. 2025. arXiv: 2509.20998 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2509.20998",
+      "citation": "P. Michelakis, Y. Hadjiyiannis, and D. Stamoulis, CORE: Full-path evaluation of LLM agents beyond final state, Sep. 2025. arXiv: 2509.20998 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2509.20998",
       "url": "https://arxiv.org/abs/2509.20998"
     },
     {
       "number": 677,
       "key": "guasch2025star",
-      "citation": "A. Guasch and M. I. Valdez, “The STAR-XAI protocol: A framework for inducing and verifying agency, reasoning, and reliability in AI agents,” arXiv, Sep. 2025. arXiv: 2509. 17978. [Online]. Available: https://arxiv.org/abs/2509.17978",
+      "citation": "A. Guasch and M. I. Valdez, The STAR-XAI protocol: A framework for inducing and verifying agency, reasoning, and reliability in AI agents, Sep. 2025. arXiv: 2509.17978 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2509.17978",
       "url": "https://arxiv.org/abs/2509.17978"
     },
     {
       "number": 678,
       "key": "ghosh2025safety",
-      "citation": "S. Ghosh et al., “A safety and security framework for real-world agentic systems,” arXiv, Nov. 2025. arXiv: 2511.21990. [Online]. Available: https://arxiv.org/abs/2511.",
+      "citation": "S. Ghosh et al., A safety and security framework for real-world agentic systems, Nov. 2025. arXiv: 2511.21990 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.21990",
       "url": "https://arxiv.org/abs/2511.21990"
     },
     {
       "number": 679,
       "key": "fogel2026inference",
+<<<<<<< Updated upstream
       "citation": "A.Fogel,O.Hofman,E.Cohen,andR.Vainshtein,“Inference-timebackdoorsviahidden instructions in LLM chat templates,” arXiv, Feb. 2026. arXiv: 2602.04653. [Online]. Available: https://arxiv.org/abs/2602.04653",
+=======
+      "citation": "A. Fogel, O. Hofman, E. Cohen, and R. Vainshtein, Inference-time backdoors via hidden instructions in LLM chat templates, Feb. 2026. arXiv: 2602.04653 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.04653",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.04653"
     },
     {
       "number": 680,
       "key": "xie2026proxy",
-      "citation": "S. Xie et al., “The proxy knows too much: Sealing LLM API routers with attested TEEs,” arXiv, Jun. 2026. arXiv: 2606.16358. [Online]. Available: https://arxiv.org/ abs/2606.16358",
+      "citation": "S. Xie et al., The proxy knows too much: Sealing LLM API routers with attested TEEs, Jun. 2026. arXiv: 2606.16358 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.16358",
       "url": "https://arxiv.org/abs/2606.16358"
     },
     {
       "number": 681,
       "key": "liu2025secure",
-      "citation": "Y. Liu et al., “Secure multi-LLM agentic AI and agentification for edge general intelli- gencebyzero-trust:Asurvey,”arXiv,Aug.2025.arXiv:2508.19870.[Online].Available: https://arxiv.org/abs/2508.19870",
+      "citation": "Y. Liu et al., Secure multi-LLM agentic AI and agentification for edge general intelligence by zero-trust: A survey, Aug. 2025. arXiv: 2508.19870 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.19870",
       "url": "https://arxiv.org/abs/2508.19870"
     },
     {
       "number": 682,
       "key": "wang2025mi9",
-      "citation": "C. L. Wang, T. Singhal, A. Kelkar, and J. Tuo, “MI9: An integrated runtime governance framework for agentic AI,” arXiv, Aug. 2025. arXiv: 2508.03858. [Online]. Available: https://arxiv.org/abs/2508.03858",
+      "citation": "C. L. Wang, T. Singhal, A. Kelkar, and J. Tuo, MI9: An integrated runtime governance framework for agentic AI, Aug. 2025. arXiv: 2508.03858 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.03858",
       "url": "https://arxiv.org/abs/2508.03858"
     },
     {
       "number": 683,
       "key": "fu2025ras",
-      "citation": "Y. Fu, X. Yuan, and D. Wang, “RAS-Eval: A comprehensive benchmark for security evaluation of LLM agents in real-world environments,” arXiv, Jun. 2025. arXiv: 2506. 15253. [Online]. Available: https://arxiv.org/abs/2506.15253",
+      "citation": "Y. Fu, X. Yuan, and D. Wang, RAS-Eval: A comprehensive benchmark for security evaluation of LLM agents in real-world environments, Jun. 2025. arXiv: 2506.15253 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.15253",
       "url": "https://arxiv.org/abs/2506.15253"
     },
     {
       "number": 684,
       "key": "pulipaka2026hidden",
-      "citation": "S. Pulipaka et al., “Hidden in memory: Sleeper memory poisoning in LLM agents,” arXiv, May 2026. arXiv: 2605.15338. [Online]. Available: https://arxiv.org/abs/ 2605.15338",
+      "citation": "S. Pulipaka et al., Hidden in memory: Sleeper memory poisoning in LLM agents, May 2026. arXiv: 2605.15338 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.15338",
       "url": "https://arxiv.org/abs/2605.15338"
     },
     {
       "number": 685,
       "key": "boisvert2026malice",
-      "citation": "L. Boisvert et al., “Malice in Agentland: Down the rabbit hole of backdoors in the AI supply chain,” in Proc. ACM Conference on AI and Agentic Systems, San Jose, CA, USA, May 2026, pp. 755–772.",
+      "citation": "L. Boisvert et al., “Malice in Agentland: Down the rabbit hole of backdoors in the AI supply chain,” in Proc. ACM Conference on AI and Agentic Systems (CAIS), San Jose, CA, USA, May 2026, pp. 755–772.",
       "url": ""
     },
     {
       "number": 686,
       "key": "rajagopalan2026authenticated",
-      "citation": "M. Rajagopalan and V. Rao, “Authenticated workflows: A systems approach to protect- ing agentic ai,” arXiv preprint arXiv:2602.10465, 2026.",
-      "url": ""
+      "citation": "M. Rajagopalan and V. Rao, Authenticated workflows: A systems approach to protecting agentic ai, 2026. arXiv: 2602.10465 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.10465",
+      "url": "https://arxiv.org/abs/2602.10465"
     },
     {
       "number": 687,
       "key": "shi2026organizational",
-      "citation": "T. Shi et al., “Organizational control layer: Governance infrastructure at the execu- tion boundary of LLM agent systems,” arXiv, Jun. 2026. arXiv: 2606.04306. [Online]. Available: https://arxiv.org/abs/2606.04306",
+      "citation": "T. Shi et al., Organizational control layer: Governance infrastructure at the execution boundary of LLM agent systems, Jun. 2026. arXiv: 2606.04306 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04306",
       "url": "https://arxiv.org/abs/2606.04306"
     },
     {
       "number": 688,
       "key": "tuan2026toward",
-      "citation": "T. L. Tuan and A. Sanyal, “Toward pre-deployment assurance for enterprise AI agents: Ontology-grounded simulation and trust certification,” arXiv, Jun. 2026. arXiv: 2606. 04037. [Online]. Available: https://arxiv.org/abs/2606.04037",
+      "citation": "T. L. Tuan and A. Sanyal, Toward pre-deployment assurance for enterprise AI agents: Ontology-grounded simulation and trust certification, Jun. 2026. arXiv: 2606.04037 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.04037",
       "url": "https://arxiv.org/abs/2606.04037"
     },
     {
       "number": 689,
       "key": "khan2025agentsafe",
-      "citation": "R. Khan, D. Joyce, and M. Habiba, “AGENTSAFE: A unified framework for ethical assuranceandgovernanceinagenticAI,”arXiv,Dec.2025.arXiv:2512.03180.[Online]. Available: https://arxiv.org/abs/2512.03180",
+      "citation": "R. Khan, D. Joyce, and M. Habiba, AGENTSAFE: A unified framework for ethical assurance and governance in agentic AI, Dec. 2025. arXiv: 2512.03180 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.03180",
       "url": "https://arxiv.org/abs/2512.03180"
     },
     {
       "number": 690,
       "key": "horovicz2025agentshap",
-      "citation": "M. Horovicz, “AgentSHAP: Interpreting LLM agent tool importance with Monte Carlo Shapley value estimation,” arXiv, Dec. 2025. arXiv: 2512.12597. [Online]. Available: https://arxiv.org/abs/2512.12597",
+      "citation": "M. Horovicz, AgentSHAP: Interpreting LLM agent tool importance with Monte Carlo Shapley value estimation, Dec. 2025. arXiv: 2512.12597 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.12597",
       "url": "https://arxiv.org/abs/2512.12597"
     },
     {
       "number": 691,
       "key": "khanzadeh2026project",
-      "citation": "S. Khanzadeh, “Project Ariadne: A structural causal framework for auditing faithfulness in LLM agents,” arXiv, Jan. 2026. arXiv: 2601.02314. [Online]. Available: https://arxiv.org/abs/2601.02314",
+      "citation": "S. Khanzadeh, Project Ariadne: A structural causal framework for auditing faithfulness in LLM agents, Jan. 2026. arXiv: 2601.02314 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2601.02314",
       "url": "https://arxiv.org/abs/2601.02314"
     },
     {
       "number": 692,
       "key": "wang2026triex",
+<<<<<<< Updated upstream
       "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
+=======
+      "citation": "Z. Wang, C. Zhang, W. Peng, Q. Wu, and X. Wang, “TriEx: A game-based tri-view framework for explaining internal reasoning in multi-agent LLMs,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 6448–6479.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 693,
       "key": "kim2026towards",
-      "citation": "J. Kim, S. Mun, S. Lee, J. Cho, and J. Ok, “Towards faithful agentic XAI: A verification method and an open-world benchmark for better model faithfulness,” arXiv, May 2026. arXiv: 2605.27879. [Online]. Available: https://arxiv.org/abs/2605.27879",
+      "citation": "J. Kim, S. Mun, S. Lee, J. Cho, and J. Ok, Towards faithful agentic XAI: A verification method and an open-world benchmark for better model faithfulness, May 2026. arXiv: 2605.27879 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.27879",
       "url": "https://arxiv.org/abs/2605.27879"
     },
     {
       "number": 694,
       "key": "chen2026strandsrootcause",
-      "citation": "P.-S. Chen, A. Farntrog, A. Kumar, J. Cho, M. Kim, and N. Kulkarni, AI agent fail- ure detection and root cause analysis with Strands evals, Jun. 2026. [Online]. Avail- able: https://aws.amazon.com/blogs/machine-learning/ai-agent-failure- detection-and-root-cause-analysis-with-strands-evals/",
+      "citation": "P. S. Chen, A. Farntrog, A. Kumar, J. Cho, M. Kim, and N. Kulkarni, “AI agent failure detection and root cause analysis with Strands evals,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
       "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/"
     },
     {
       "number": 695,
       "key": "alibabacloud2026agenticsoc",
-      "citation": "CLOUDSECURITY,Alibaba Cloud unveils agentic SOC: An enterprise-grade, AI agent- driven security operations platform, Apr. 2026. [Online]. Available: https://www. alibabacloud.com/blog/603015",
-      "url": "https://www.arm.com/architecture/security-features/platform-security"
+      "citation": "CLOUDSECURITY, “Alibaba Cloud unveils agentic SOC: An enterprise-grade, AI agent-driven security operations platform,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/603015",
+      "url": "https://www.alibabacloud.com/blog/603015"
     },
     {
       "number": 696,
       "key": "ma2026secureclaw",
-      "citation": "Y. Ma and S. Schmid, “SecureClaw: Clawing back control of LLM agents,” arXiv, Jun. 2026. arXiv: 2606.09549. [Online]. Available: https://arxiv.org/abs/2606.09549",
+      "citation": "Y. Ma and S. Schmid, SecureClaw: Clawing back control of LLM agents, Jun. 2026. arXiv: 2606.09549 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.09549",
       "url": "https://arxiv.org/abs/2606.09549"
     },
     {
       "number": 697,
       "key": "garg2026evaluations",
-      "citation": "M.Garg and S.Pedapudi, Frontier and center: Who evaluates the evaluations? Jul. 2026. [Online]. Available: https://cloud.google.com/blog/products/data-analytics/ evaluate-agent-performance",
+      "citation": "M. Garg and S. Pedapudi, “Frontier and Center: Who Evaluates the Evaluations?,” 2026. [Online]. Available: https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance",
       "url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance"
     },
     {
       "number": 698,
       "key": "chenmangalore2026multitenancy",
-      "citation": "A. Chen and S. Mangalore, Shared infrastructure, isolated tenants: Pool model multi- tenancy with Amazon Bedrock AgentCore, Jun. 2026. [Online]. Available: https:// aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated- tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
+      "citation": "A. Chen and S. Mangalore, “Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
       "url": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/"
     },
     {
       "number": 699,
       "key": "alibabacloud2026dataagentsecurity",
-      "citation": "ALIBABA CLOUD, Data agent security whitepaper, Mar. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/dms/data-agent-security-system- details",
+      "citation": "Alibaba Cloud. “Data agent security whitepaper,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/dms/data-agent-security-system-details",
       "url": "https://www.alibabacloud.com/help/en/dms/data-agent-security-system-details"
     },
     {
       "number": 700,
       "key": "ravindran2026portable",
-      "citation": "S. K. Ravindran, “Portable agent memory: A protocol for cryptographically-verified memory transfer across heterogeneous AI agents,” arXiv, May 2026. arXiv: 2605.11032. [Online]. Available: https://arxiv.org/abs/2605.11032",
+      "citation": "S. K. Ravindran, Portable agent memory: A protocol for cryptographically-verified memory transfer across heterogeneous AI agents, May 2026. arXiv: 2605.11032 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.11032",
       "url": "https://arxiv.org/abs/2605.11032"
     },
     {
       "number": 701,
       "key": "microsoft2026memorysafety",
-      "citation": "MICROSOFT, Manage memory safety in agentic systems, Microsoft Learn, Jun. 2026. [Online]. Available: https://learn.microsoft.com/en-us/security/zero-trust/ sfi/manage-agentic-memory-safety",
+      "citation": "Microsoft. “Manage memory safety in agentic systems,” Accessed: Jul. 21, 2026. [Online]. Available: https://learn.microsoft.com/en-us/security/zero-trust/sfi/manage-agentic-memory-safety",
       "url": "https://learn.microsoft.com/en-us/security/zero-trust/sfi/manage-agentic-memory-safety"
     },
     {
       "number": 702,
       "key": "quintero2026agenttrustedfiles",
-      "citation": "B. Quintero and D. Kapellmann Zafra, Beyond source code: The files AI coding agents trust—and attackers exploit, Google Cloud Blog, May 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/beyond-source-code- the-files-ai-coding-agents-trust-and-attackers-exploit",
-      "url": "https://cursor.com/blog/cloud-agents"
+      "citation": "B. Quintero and D. Kapellmann Zafra, “Beyond source code: The files AI coding agents trust - and attackers exploit,” 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit",
+      "url": "https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit"
     },
     {
       "number": 703,
       "key": "srinivasan2026agentqualityoptimization",
+<<<<<<< Updated upstream
       "citation": "B. Srinivasan, A. Khurana, and N. Kandoi, Introducing agent quality optimization in AgentCore, now in preview, May 2026. [Online]. Available: https://aws.amazon. com/blogs/machine-learning/introducing-agent-quality-optimization-in- agentcore-now-in-preview/",
+=======
+      "citation": "B. Srinivasan, A. Khurana, and N. Kandoi, “Introducing agent quality optimization in AgentCore, now in preview,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/",
+>>>>>>> Stashed changes
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/"
     },
     {
       "number": 704,
       "key": "yser2026leastprivilegeagents",
-      "citation": "Y. Yser and T. Kohlenberg, Least privilege for AI agents: Identity, access, and tool binding,Jul.2026.[Online].Available:https://www.microsoft.com/en-us/security/ blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool- binding/",
+      "citation": "Y. Yser and T. Kohlenberg, “Least privilege for AI agents: Identity, access, and tool binding,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/"
     },
     {
       "number": 705,
       "key": "deng2026secureagentic",
-      "citation": "Z. Deng, J. Gui, and W. Zhang, “From secure agentic AI to secure agentic web: Chal- lenges, threats, and future directions,” arXiv, Mar. 2026. arXiv: 2603.01564. [Online]. Available: https://arxiv.org/abs/2603.01564",
+      "citation": "Z. Deng, J. Gui, and W. Zhang, From secure agentic AI to secure agentic web: Challenges, threats, and future directions, Mar. 2026. arXiv: 2603.01564 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.01564",
       "url": "https://arxiv.org/abs/2603.01564"
     },
     {
       "number": 706,
       "key": "alibabacloud2026fcsandboxisolation",
-      "citation": "ALIBABA CLOUD, Security isolation, Jul. 2026. [Online]. Available: https://www. alibabacloud.com/help/en/functioncompute/security-isolation",
+      "citation": "Alibaba Cloud. “Security isolation,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/security-isolation",
       "url": "https://www.alibabacloud.com/help/en/functioncompute/security-isolation"
     },
     {
       "number": 707,
       "key": "agentdyn2026",
-      "citation": "H. Li, R. Wen, S. Shi, N. Zhang, and C. Xiao, “AgentDyn: A dynamic open-ended benchmark for evaluating prompt injection attacks of real-world agent security system,” arXiv, Feb. 2026. arXiv: 2602.03117. [Online]. Available: https://arxiv.org/abs/ 2602.03117",
-      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+      "citation": "H. Li, R. Wen, S. Shi, N. Zhang, Y. Vorobeychik, and C. Xiao, AgentDyn: Are your agent security defenses deployable in real-world dynamic environments? Feb. 2026. arXiv: 2602.03117 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.03117",
+      "url": "https://arxiv.org/abs/2602.03117"
     },
     {
       "number": 708,
       "key": "alibabacloud2026governancecheck",
-      "citation": "ALIBABA CLOUD, Agentic cloud governance center: Supported check items, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/cgc/user-guide/ai- governance-supported-check-items",
+      "citation": "ALIBABA CLOUD, “Agentic Cloud Governance Center: Supported Check Items,” 2026. [Online]. Available: https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items",
       "url": "https://www.alibabacloud.com/help/en/cgc/user-guide/ai-governance-supported-check-items"
     },
     {
       "number": 709,
       "key": "alibabacloud2026promptattack",
-      "citation": "ALIBABA CLOUD, Web application firewall: Prompt attack protection, Jan. 2026. [On- line]. Available: https://www.alibabacloud.com/help/tc/doc-detail/2920825. html",
+      "citation": "Alibaba Cloud. “Web application firewall: Prompt attack protection,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/tc/doc-detail/2920825.html",
       "url": "https://www.alibabacloud.com/help/tc/doc-detail/2920825.html"
     },
     {
       "number": 710,
       "key": "ma2026autodojo",
-      "citation": "X. Ma, T. Li, C. Xiao, Z. Yu, N. Zhang, and Y. Vorobeychik, “AutoDojo: Adaptive attacks expose superficial defenses and user-underspecification limits in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.15057. [Online]. Available: https://arxiv.org/abs/ 2606.15057",
+      "citation": "X. Ma, T. Li, C. Xiao, Z. Yu, N. Zhang, and Y. Vorobeychik, AutoDojo: Adaptive attacks expose superficial defenses and user-underspecification limits in LLM agents, Jun. 2026. arXiv: 2606.15057 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.15057",
       "url": "https://arxiv.org/abs/2606.15057"
     },
     {
       "number": 711,
       "key": "verma2026multitenantagentcore",
-      "citation": "S. Verma, S. Khurpa, P. Pabbati, V. K. Samanthapudi, and Z. Norouzi, Secure multi- tenant AI agents with Amazon Bedrock AgentCore resource-based policies, Jun. 2026. [Online]. Available: https://aws.amazon.com/blogs/security/secure-multi- tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
+      "citation": "S. Verma, S. Khurpa, P. Pabbati, V. K. Samanthapudi, and Z. Norouzi, “Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies,” 2026. [Online]. Available: https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
       "url": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/"
     },
     {
       "number": 712,
       "key": "alibabacloud2026wafprotectionoverview",
-      "citation": "ALIBABA CLOUD, Web application firewall: Protection configuration overview, Jul. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/waf/web- application-firewall-3-0/user-guide/protection-configuration-overview",
+      "citation": "Alibaba Cloud. “Web application firewall: Protection configuration overview,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/waf/web-application-firewall-3-0/user-guide/protection-configuration-overview",
       "url": "https://www.alibabacloud.com/help/en/waf/web-application-firewall-3-0/user-guide/protection-configuration-overview"
     },
     {
       "number": 713,
       "key": "microsoft2026shadowai",
-      "citation": "MICROSOFT, Shadow AI in Microsoft 365 admin center (preview), Jul. 2026. [Online]. Available: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/ agent-shadow-ai?view=o365-worldwide",
+      "citation": "Microsoft. “Shadow AI in Microsoft 365 admin center (preview),” Accessed: Jul. 21, 2026. [Online]. Available: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide",
       "url": "https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide"
     },
     {
       "number": 714,
       "key": "messenger2026gkeblueprint",
-      "citation": "G.MessengerandS.Kularathna,Securing AI at enterprise scale: The Google Kubernetes Engine blueprint, Jul. 2026. [Online]. Available: https://cloud.google.com/blog/ topics/developers-practitioners/securing-ai-at-enterprise-scale-the- google-kubernetes-engine-blueprint",
+      "citation": "G. Messenger and S. Kularathna, “Securing AI at enterprise scale: The Google Kubernetes Engine blueprint,” 2026. [Online]. Available: https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint",
       "url": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint"
     },
     {
       "number": 715,
       "key": "shahroz2025agents",
+<<<<<<< Updated upstream
       "citation": "R. Shahroz, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
+=======
+      "citation": "R. M. S. Khan, Z. Tan, S. Yun, C. Fleming, and T. Chen, “Agents under siege: Breaking pragmatic multi-agent LLM systems with optimized prompt attacks,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 9661–9674.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 716,
       "key": "li2025drift",
-      "citation": "H. Li, X. Liu, C. Chun, D. Li, N. Zhang, and C. Xiao, “DRIFT: Dynamic rule-based defense with injection isolation for securing LLM agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA and Mexico City, Mexico, Dec. 2025, pp. 83262–83290.",
-      "url": ""
+      "citation": "H. Li, X. Liu, C. Chiu, D. Li, N. Zhang, and C. Xiao, “DRIFT: Dynamic rule-based defense with injection isolation for securing LLM agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA and Mexico City, Mexico, Dec. 2025, pp. 83 262– 83 290. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2025/file/77f3b26c7907aa27b207df9b9d43f29a-Paper-Conference.pdf",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/77f3b26c7907aa27b207df9b9d43f29a-Paper-Conference.pdf"
     },
     {
       "number": 717,
       "key": "shahriar2025survey",
-      "citation": "A. Shahriar, M. N. Rahman, S. Ahmed, F. Sadeque, and M. R. Parvez, “A survey on agentic security: Applications, threats and defenses,” arXiv, Oct. 2025. arXiv: 2510. 06445. [Online]. Available: https://arxiv.org/abs/2510.06445",
+      "citation": "A. Shahriar, M. N. Rahman, S. Ahmed, F. Sadeque, and M. R. Parvez, A survey on agentic security: Applications, threats and defenses, Oct. 2025. arXiv: 2510.06445 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.06445",
       "url": "https://arxiv.org/abs/2510.06445"
     },
     {
       "number": 718,
       "key": "dhodapkar2026safetydrift",
-      "citation": "A. Dhodapkar and F. Pishori, “SafetyDrift: Predicting when AI agents cross the line before they actually do,” arXiv, Mar. 2026. arXiv: 2603.27148. [Online]. Available: https://arxiv.org/abs/2603.27148",
+      "citation": "A. Dhodapkar and F. Pishori, SafetyDrift: Predicting when AI agents cross the line before they actually do, Mar. 2026. arXiv: 2603.27148 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.27148",
       "url": "https://arxiv.org/abs/2603.27148"
     },
     {
       "number": 719,
       "key": "yan2026coding",
-      "citation": "Z.Yanetal.,“Docodingagentsunderstandleast-privilegeauthorization?”arXivpreprint arXiv:2605.14859, 2026.",
-      "url": ""
+      "citation": "Z. Yan et al., Do coding agents understand least-privilege authorization? May 2026. arXiv: 2605.14859 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14859",
+      "url": "https://arxiv.org/abs/2605.14859"
     },
     {
       "number": 720,
       "key": "kumarage2025personalized",
-      "citation": "T. Kumarage et al., “Personalized attacks of social engineering in multi-turn conversa- tions: LLM agents for simulation and detection,” arXiv, Mar. 2025. arXiv: 2503.15552. [Online]. Available: https://arxiv.org/abs/2503.15552",
+      "citation": "T. Kumarage, Z. Li, A. Lou, Y. Zhao, W. Wei, and Y. Bao, Personalized attacks of social engineering in multi-turn conversations: LLM agents for simulation and detection, Mar. 2025. arXiv: 2503.15552 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.15552",
       "url": "https://arxiv.org/abs/2503.15552"
     },
     {
       "number": 721,
       "key": "xie2026if",
-      "citation": "Y. Xie et al., “What if prompt injection never left? exploring cross-session stored prompt injection in agentic systems,” arXiv, Jun. 2026. arXiv: 2606.04425. [Online]. Available: https://arxiv.org/abs/2606.04425",
+      "citation": "Y. Xie et al., What if prompt injection never left? exploring cross-session stored prompt injection in agentic systems, Jun. 2026. arXiv: 2606.04425 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04425",
       "url": "https://arxiv.org/abs/2606.04425"
     },
     {
       "number": 722,
       "key": "liu2025traceaegis",
-      "citation": "J. Liu et al., “TraceAegis: Securing LLM-based agents via hierarchical and behavioral anomaly detection,” arXiv, Oct. 2025. arXiv: 2510.11203. [Online]. Available: https://arxiv.org/abs/2510.11203",
+      "citation": "J. Liu et al., TraceAegis: Securing LLM-based agents via hierarchical and behavioral anomaly detection, Oct. 2025. arXiv: 2510.11203 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.11203",
       "url": "https://arxiv.org/abs/2510.11203"
     },
     {
       "number": 723,
       "key": "chen2025harmonyguard",
-      "citation": "Y. Chen et al., “HarmonyGuard: Toward safety and utility in web agents via adaptive policy enhancement and dual-objective optimization,” arXiv, Aug. 2025. arXiv: 2508. 04010. [Online]. Available: https://arxiv.org/abs/2508.04010",
+      "citation": "Y. Chen et al., HarmonyGuard: Toward safety and utility in web agents via adaptive policy enhancement and dual-objective optimization, Aug. 2025. arXiv: 2508.04010 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.04010",
       "url": "https://arxiv.org/abs/2508.04010"
     },
     {
       "number": 724,
       "key": "nasr2025attacker",
-      "citation": "M. Nasr et al., “The attacker moves second: Stronger adaptive attacks bypass defenses against LLM jailbreaks and prompt injections,” arXiv, Oct. 2025. arXiv: 2510.09023. [Online]. Available: https://arxiv.org/abs/2510.09023",
+      "citation": "M. Nasr et al., The attacker moves second: Stronger adaptive attacks bypass defenses against LLM jailbreaks and prompt injections, Oct. 2025. arXiv: 2510.09023 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.09023",
       "url": "https://arxiv.org/abs/2510.09023"
     },
     {
       "number": 725,
       "key": "bhuiya2025plague",
+<<<<<<< Updated upstream
       "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, “Plague: Plug-and-play framework for life-long adaptive generation of multi-turn exploits,” arXiv, Oct. 2025. arXiv: 2510.17947. [Online]. Available: https://arxiv.org/abs/2510.17947",
+=======
+      "citation": "N. Bhuiya, M. Aggarwal, and D. Purwar, Plague: Plug-and-play framework for lifelong adaptive generation of multi-turn exploits, Oct. 2025. arXiv: 2510.17947 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.17947",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2510.17947"
     },
     {
       "number": 726,
       "key": "errico2025securingmcp",
-      "citation": "H. Errico, J. Ngiam, and S. Sojan, “Securing the model context protocol (MCP): Risks, controls, and governance,” arXiv, Nov. 2025. arXiv: 2511.20920. [Online]. Available: https://arxiv.org/abs/2511.20920",
+      "citation": "H. Errico, J. Ngiam, and S. Sojan, Securing the model context protocol (MCP): Risks, controls, and governance, Nov. 2025. arXiv: 2511.20920 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.20920",
       "url": "https://arxiv.org/abs/2511.20920"
     },
     {
       "number": 727,
       "key": "wang2025gsafeguard",
+<<<<<<< Updated upstream
       "citation": "S. Wang et al., “G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-Agent systems,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261–7276.",
+=======
+      "citation": "S. Wang et al., “G-Safeguard: A topology-guided security lens and treatment on LLM-based multi-agent systems,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 7261–7276.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 728,
       "key": "cheng2025forgedan",
-      "citation": "S. Cheng et al., “ForgeDAN: An evolutionary framework for jailbreaking aligned large language models,” arXiv, Nov. 2025. arXiv: 2511.13548. [Online]. Available: https://arxiv.org/abs/2511.13548",
+      "citation": "S. Cheng et al., ForgeDAN: An evolutionary framework for jailbreaking aligned large language models, Nov. 2025. arXiv: 2511.13548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.13548",
       "url": "https://arxiv.org/abs/2511.13548"
     },
     {
       "number": 729,
       "key": "desouza2026aithreatdefense",
-      "citation": "F. deSouza, Introducing Google AI threat defense to help you outpace the adversary, May 2026. [Online]. Available: https://cloud.google.com/blog/products/identity- security/introducing-google-ai-threat-defense/",
+      "citation": "F. deSouza, “Introducing Google AI threat defense to help you outpace the adversary,” 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense/",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense/"
     },
     {
       "number": 730,
       "key": "shojaei2026bedrockguardrails",
-      "citation": "H. Shojaei, B. Shin, K. Gopalakrishnan, A. Narwadkar, and S. Koppar, Safeguard gen- erative AI applications with Amazon Bedrock guardrails, Jan. 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai- applications-with-amazon-bedrock-guardrails/",
-      "url": "https://aws.amazon.com/bedrock/guardrails/"
+      "citation": "H. Shojaei, B. Shin, K. Gopalakrishnan, A. Narwadkar, and S. Koppar, “Safeguard generative AI applications with Amazon Bedrock guardrails,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/"
     },
     {
       "number": 731,
       "key": "alibabacloud2026agenticndr",
-      "citation": "ALIBABA CLOUD, Alibaba Cloud releases agentic NDR, ushering threat detection and response into the age of agents, Apr. 2026. [Online]. Available: https://www. alibabacloud.com/blog/alibaba-cloud-releases-agentic-ndrushering-threat- detection-and-response-into-the-age-of-agents_603077",
-      "url": "https://cursor.com/blog/cloud-agents"
+      "citation": "ALIBABA CLOUD, “Alibaba Cloud releases agentic NDR, ushering threat detection and response into the age of agents,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-cloud-releases-agentic-ndrushering-threat-detection-and-response-into-the-age-of-agents_603077",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-releases-agentic-ndrushering-threat-detection-and-response-into-the-age-of-agents_603077"
     },
     {
       "number": 732,
       "key": "wang2025unveiling",
-      "citation": "B. Wang et al., “Unveiling privacy risks in LLM agent memory,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics, Jul. 2025, pp. 25241–25260. [Online]. Available: https://aclanthology.org/2025.acl-long.1227",
+      "citation": "B. Wang et al., “Unveiling privacy risks in LLM agent memory,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 25 241–25 260. [Online]. Available: https://aclanthology.org/2025.acl-long.1227",
       "url": "https://aclanthology.org/2025.acl-long.1227"
     },
     {
       "number": 733,
       "key": "aws2026cve15746",
-      "citation": "AMAZON WEB SERVICES, CVE-2026-15746: Credential disclosure in Strands agents tools elasticsearch_memory tool, Jul. 2026. [Online]. Available: https://aws.amazon. com/security/security-bulletins/2026-056-aws/",
-      "url": "https://aws.amazon"
+      "citation": "Amazon Web Services. “CVE-2026-15746: Credential disclosure in Strands agents tools elasticsearch_memory tool,” Accessed: Jul. 21, 2026. [Online]. Available: https://aws.amazon.com/security/security-bulletins/2026-056-aws/",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-056-aws/"
     },
     {
       "number": 734,
       "key": "aws2026secureagentsra",
-      "citation": "AWS SECURITY CUSTOMER OUTCOMES TEAM, Capability 5: Providing secure access, usage, and implementation of generative AI agents, Feb. 2026. [Online]. Avail- able: https://docs.aws.amazon.com/prescriptive-guidance/latest/security- reference-architecture-generative-ai/gen-auto-agents.html",
-      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/security-"
+      "citation": "AWS Security Customer Outcomes Team. “Capability 5: Providing secure access, usage, and implementation of generative AI agents,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture-generative-ai/gen-auto-agents.html",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture-generative-ai/gen-auto-agents.html"
     },
     {
       "number": 735,
       "key": "zhang2026memmorph",
-      "citation": "X. Zhang et al., “MemMorph: Tool hijacking in LLM agents via memory poisoning,” arXiv, May 2026. arXiv: 2605.26154. [Online]. Available: https://arxiv.org/abs/ 2605.26154",
+      "citation": "X. Zhang et al., MemMorph: Tool hijacking in LLM agents via memory poisoning, May 2026. arXiv: 2605.26154 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.26154",
       "url": "https://arxiv.org/abs/2605.26154"
     },
     {
       "number": 736,
       "key": "aws2026secureagentmemory",
-      "citation": "AMAZON WEB SERVICES, Secure agent memory and state, Jun. 2026. [Online]. Avail- able: https://docs.aws.amazon.com/wellarchitected/latest/agentic-ai- lens/agentsec01.html",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+      "citation": "Amazon Web Services. “Secure agent memory and state,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aws.amazon.com/wellarchitected/latest/agentic-ai-lens/agentsec01.html",
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/agentic-ai-lens/agentsec01.html"
     },
     {
       "number": 737,
       "key": "weng2025fitd",
-      "citation": "Z. Weng, X. Jin, J. Jia, and X. Zhang, “Foot-in-the-door: A multi-turn jailbreak for llms,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Nov. 2025, pp. 1939–1950.",
+      "citation": "Z. Weng, X. Jin, J. Jia, and X. Zhang, “Foot-in-the-door: A multi-turn jailbreak for LLMs,” in Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, Nov. 2025, pp. 1939–1950.",
       "url": ""
     },
     {
       "number": 738,
       "key": "shadwell2026resistpromptinjection",
-      "citation": "T. Shadwell and A. Spânu, Designing AI agents to resist prompt injection, Mar. 2026. [Online]. Available: https://openai.com/index/designing-agents-to-resist- prompt-injection/",
+      "citation": "T. Shadwell and A. Spânu, “Designing AI agents to resist prompt injection,” 2026. [Online]. Available: https://openai.com/index/designing-agents-to-resist-prompt-injection/",
       "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection/"
     },
     {
       "number": 739,
       "key": "kurian2026cloudnext",
-      "citation": "T. Kurian, Welcome to Google Cloud Next ’26, Apr. 2026. [Online]. Available: https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google- cloud-next26",
+      "citation": "T. Kurian, “Welcome to Google Cloud Next '26,” 2026. [Online]. Available: https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26",
       "url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26"
     },
     {
       "number": 740,
       "key": "bhasin2026operationalizingagents",
-      "citation": "N. Bhasin and S. Elaprolu, Operationalizing agentic AI part 1: A stakeholder’s guide, 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/ operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+      "citation": "N. Bhasin and S. Elaprolu, “Operationalizing agentic AI part 1: A stakeholder's guide,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
       "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/"
     },
     {
       "number": 741,
       "key": "safeagent2026",
-      "citation": "X. Zhou et al., “SafeAgent: Safeguarding LLM agents via an automated risk simulator,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 32516–32543.",
+      "citation": "X. Zhou et al., “SafeAgent: Safeguarding LLM agents via an automated risk simulator,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 32 516–32 543.",
       "url": ""
     },
     {
       "number": 742,
       "key": "aws2026cve7191",
-      "citation": "AMAZON WEB SERVICES, CVE-2026-7191: Arbitrary code execution via sandbox bypass in QnABot on AWS, Apr. 2026. [Online]. Available: https://aws.amazon.com/ security/security-bulletins/2026-020-aws/",
+      "citation": "Amazon Web Services. “CVE-2026-7191: Arbitrary code execution via sandbox bypass in QnABot on AWS,” Accessed: Jul. 21, 2026. [Online]. Available: https://aws.amazon.com/security/security-bulletins/2026-020-aws/",
       "url": "https://aws.amazon.com/security/security-bulletins/2026-020-aws/"
     },
     {
       "number": 743,
       "key": "microsoft2026trivycompromise",
-      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, Guidance for detecting, investigating, and defending against the Trivy supply chain compromise, Mar. 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/ 03/24/detecting-investigating-defending-against-trivy-supply-chain- compromise/",
+      "citation": "MICROSOFT DEFENDER SECURITY RESEARCH TEAM, “Guidance for detecting, investigating, and defending against the Trivy supply chain compromise,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/"
     },
     {
       "number": 744,
       "key": "alibabacloud2026agentidguardlaunch",
-      "citation": "ALIBABA CLOUD, Alibaba Cloud’s new launch: Agent ID guard, who will manage the identity security of these “claws”? Mar. 2026. [Online]. Available: https://www. alibabacloud.com/blog/alibaba-clouds-new-launch-agent-id-guard-who- will-manage-the-identity-security-of-these-claws_602954",
+      "citation": "ALIBABA CLOUD, “Alibaba Cloud's new launch: Agent ID guard, who will manage the identity security of these ``claws''?,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/alibaba-clouds-new-launch-agent-id-guard-who-will-manage-the-identity-security-of-these-claws_602954",
       "url": "https://www.alibabacloud.com/blog/alibaba-clouds-new-launch-agent-id-guard-who-will-manage-the-identity-security-of-these-claws_602954"
     },
     {
       "number": 745,
       "key": "lupinacci2025dark",
+<<<<<<< Updated upstream
       "citation": "M. Lupinacci, F. A. Pironti, F. Blefari, F. Romeo, L. Arena, and A. Furfaro, “The dark side of llms: Agent-based attacks for complete computer takeover,” arXiv preprint arXiv:2507.06850, 2025. [Online] Available: https://arxiv.org/abs/2507.06850",
+=======
+      "citation": "M. Lupinacci, F. A. Pironti, F. Blefari, F. Romeo, L. Arena, and A. Furfaro, The dark side of LLMs: Agent-based attacks for complete computer takeover, Jul. 2025. arXiv: 2507.06850 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2507.06850",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2507.06850"
     },
     {
       "number": 746,
       "key": "inman2026unc1069",
-      "citation": "R. Inman and A. Hernandez, UNC1069 targets cryptocurrency sector with new tool- ing and AI-enabled social engineering, Feb. 2026. [Online]. Available: https://cloud. google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency- ai-social-engineering",
+      "citation": "R. Inman and A. Hernandez, “UNC1069 targets cryptocurrency sector with new tooling and AI-enabled social engineering,” 2026. [Online]. Available: https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering",
       "url": "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering"
     },
     {
       "number": 747,
       "key": "schafer2026sharedmemory",
-      "citation": "J. Schafer and M. Li, System design and security recommendations for agentic AI sys- tems, Jan. 2026. [Online]. Available: https://docs.aws.amazon.com/prescriptive- guidance/latest/agentic-ai-security/best-practices-system-design.html",
-      "url": "https://istio.io/latest/docs/ops/best-practices/security/"
+      "citation": "J. Schafer and M. Li. “System design and security recommendations for agentic AI systems,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-security/best-practices-system-design.html",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-security/best-practices-system-design.html"
     },
     {
       "number": 748,
       "key": "verma2026agentgateway",
-      "citation": "A. Verma and V. Katkade, Introducing agent gateway ISV ecosystem for security and governance, May 2026. [Online]. Available: https://cloud.google.com/blog/ products/identity-security/introducing-agent-gateway-isv-ecosystem-for- security-and-governance",
+      "citation": "A. Verma and V. Katkade, “Introducing agent gateway ISV ecosystem for security and governance,” 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance"
     },
     {
       "number": 749,
       "key": "messenger2026k8saibom",
-      "citation": "G. Messenger, Securing the AI supply chain on GKE: Introducing k8s-aibom for auto- mated AI BOMs, Jul. 2026. [Online]. Available: https://cloud.google.com/blog/ products/identity-security/introducing-k8s-aibom-on-gke-for-automated- ai-bills-of-materials",
+      "citation": "G. Messenger, “Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs,” 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials"
     },
     {
       "number": 750,
       "key": "openai2026gptred",
-      "citation": "OPENAI, GPT-Red: Unlocking self-improvement for robustness, Jul. 2026. [Online]. Available: https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "citation": "OPENAI, “GPT-Red: Unlocking self-improvement for robustness,” 2026. [Online]. Available: https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/"
     },
     {
       "number": 751,
       "key": "wangchen2026constraintinfra",
-      "citation": "c. Wang, The constraint infrastructure growing on Alibaba Cloud agent infra, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/blog/603305",
+      "citation": "c. Wang, “The constraint infrastructure growing on Alibaba Cloud agent infra,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/603305",
       "url": "https://www.alibabacloud.com/blog/603305"
     },
     {
@@ -9051,457 +9376,496 @@ const DATA = {
     {
       "number": 753,
       "key": "zha2026autonomous",
-      "citation": "M. Zha and X. Wang, “Autonomous LLM agent worms: Cross-platform propagation, automated discovery and temporal re-entry defense,” arXiv, May 2026. arXiv: 2605. 02812. [Online]. Available: https://arxiv.org/abs/2605.02812",
+      "citation": "M. Zha and X. Wang, Autonomous LLM agent worms: Cross-platform propagation, automated discovery and temporal re-entry defense, May 2026. arXiv: 2605.02812 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.02812",
       "url": "https://arxiv.org/abs/2605.02812"
     },
     {
       "number": 754,
       "key": "huang2025ai",
-      "citation": "K. Huang and C. Hughes, AI agents life cycle and security considerations, Cham, Switzerland, 2025.",
+      "citation": "K. Huang and C. Hughes, “AI agents life cycle and security considerations,” Securing AI Agents: Foundations, Frameworks, and Real-World Deployment, 2025.",
       "url": ""
     },
     {
       "number": 755,
       "key": "DarkReading2026lifecycle",
-      "citation": "A. Slesarenko, Why retiring an AI agent is more diﬀicult than deploying one, Jun. 2026. [Online]. Available: https://onereach.ai/blog/ai-lifecycle-management-how- to-retire-ai-agents-safely/",
+      "citation": "A. Slesarenko, “Why retiring an AI agent is more difficult than deploying one,” 2026. [Online]. Available: https://onereach.ai/blog/ai-lifecycle-management-how-to-retire-ai-agents-safely/",
       "url": "https://onereach.ai/blog/ai-lifecycle-management-how-to-retire-ai-agents-safely/"
     },
     {
       "number": 756,
       "key": "andriawan2026disposableworkspace",
-      "citation": "R. Andriawan, Giving your AI agent a disposable workspace with Alibaba Cloud Agen- tRun, Jul. 2026. [Online]. Available: https://www.alibabacloud.com/blog/giving- your-ai-agent-a-disposable-workspace-with-alibaba-cloud-agentrun_603324",
+      "citation": "R. Andriawan, “Giving your AI agent a disposable workspace with Alibaba Cloud AgentRun,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/giving-your-ai-agent-a-disposable-workspace-with-alibaba-cloud-agentrun_603324",
       "url": "https://www.alibabacloud.com/blog/giving-your-ai-agent-a-disposable-workspace-with-alibaba-cloud-agentrun_603324"
     },
     {
       "number": 757,
       "key": "sistla2026persistentmemory",
-      "citation": "V. Sistla and S. Devabakthini, Building persistent memory for multi-agent AI systems with Amazon S3 Vectors, Jun. 2026. [Online]. Available: https://aws.amazon.com/ blogs/storage/building-persistent-memory-for-multi-agent-ai-systems- with-amazon-s3-vectors/",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+      "citation": "V. Sistla and S. Devabakthini, “Building persistent memory for multi-agent AI systems with Amazon S3 Vectors,” 2026. [Online]. Available: https://aws.amazon.com/blogs/storage/building-persistent-memory-for-multi-agent-ai-systems-with-amazon-s3-vectors/",
+      "url": "https://aws.amazon.com/blogs/storage/building-persistent-memory-for-multi-agent-ai-systems-with-amazon-s3-vectors/"
     },
     {
       "number": 758,
       "key": "shah2026agent365",
-      "citation": "N. Shah, R. Lefferts, and J. Roszak, Microsoft Agent 365, now generally available, expands capabilities and integrations, May 2026. [Online]. Available: https://www. microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now- generally-available-expands-capabilities-and-integrations/",
+      "citation": "N. Shah, R. Lefferts, and J. Roszak, “Microsoft Agent 365, now generally available, expands capabilities and integrations,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/"
     },
     {
       "number": 759,
       "key": "alibabacloud2026adksessionstate",
-      "citation": "ALIBABA CLOUD, Use session state in Google ADK, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/using-session- state-in-google-adk",
+      "citation": "Alibaba Cloud. “Use session state in Google ADK,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/using-session-state-in-google-adk",
       "url": "https://www.alibabacloud.com/help/en/functioncompute/using-session-state-in-google-adk"
     },
     {
       "number": 760,
       "key": "nvidia2026r580releasenotes",
-      "citation": "NVIDIA, NVIDIA data center GPU driver version 580.126.09 (Linux): Release notes, Mar. 2026. [Online]. Available: https://docs.nvidia.com/datacenter/tesla/pdf/ NVIDIA_Data_Center_GPU_Driver_Release_Notes_580_v5.1.pdf",
+      "citation": "NVIDIA. “NVIDIA data center GPU driver version 580.126.09 (Linux): Release notes,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.nvidia.com/datacenter/tesla/pdf/NVIDIA_Data_Center_GPU_Driver_Release_Notes_580_v5.1.pdf",
       "url": "https://docs.nvidia.com/datacenter/tesla/pdf/NVIDIA_Data_Center_GPU_Driver_Release_Notes_580_v5.1.pdf"
     },
     {
       "number": 761,
       "key": "xueren2026aitaskscheduling",
-      "citation": "r. Xue, AI task scheduling helps agent costs drop by 90%, Jun. 2026. [Online]. Available: https://www.alibabacloud.com/blog/603271",
+      "citation": "r. Xue, “AI task scheduling helps agent costs drop by 90%,” 2026. [Online]. Available: https://www.alibabacloud.com/blog/603271",
       "url": "https://www.alibabacloud.com/blog/603271"
     },
     {
       "number": 762,
       "key": "dogan2026agentexecutor",
-      "citation": "J. Dogan and E. Bao, Introducing agent executor, Google’s distributed agent runtime, May 2026. [Online]. Available: https://cloud.google.com/blog/products/ai- machine-learning/agent-executor-googles-distributed-agent-runtime",
+      "citation": "J. Dogan and E. Bao, “Introducing agent executor, Google's distributed agent runtime,” 2026. [Online]. Available: https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime"
     },
     {
       "number": 763,
       "key": "preethi2026awsagentregistry",
-      "citation": "P. C N, The future of managing agents at scale: AWS agent registry now in preview, Apr. 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/the- future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
+      "citation": "P. C N, “The future of managing agents at scale: AWS agent registry now in preview,” 2026. [Online]. Available: https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
       "url": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/"
     },
     {
       "number": 764,
       "key": "google2026nonhumanidentityhardening",
-      "citation": "M.McWhirtetal.,Proactive preparation and hardening against destructive attacks: 2026 edition, Mar. 2026. [Online]. Available: https://cloud.google.com/blog/topics/ threat-intelligence/preparation-hardening-destructive-attacks/",
+      "citation": "M. McWhirt et al., “Proactive preparation and hardening against destructive attacks: 2026 edition,” 2026. [Online]. Available: https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/",
       "url": "https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/"
     },
     {
       "number": 765,
       "key": "microsoft2026relatedidentityaccounts",
-      "citation": "MICROSOFT CORPORATION, Manage related identities and accounts in Microsoft Defender for identity, Jun. 2026. Accessed: Jul. 17, 2026. [Online]. Available: https://learn.microsoft.com/en-us/defender-for-identity/manage-related- identities-accounts",
+      "citation": "Microsoft. “Manage related identities and accounts in Microsoft Defender for identity,” Accessed: Jul. 17, 2026. [Online]. Available: https://learn.microsoft.com/en-us/defender-for-identity/manage-related-identities-accounts",
       "url": "https://learn.microsoft.com/en-us/defender-for-identity/manage-related-identities-accounts"
     },
     {
       "number": 766,
       "key": "aws2026securityhubunusedaccess",
-      "citation": "AMAZON WEB SERVICES, AWS security hub now uncovers identity risks from unused access, May 2026. [Online]. Available: https://aws.amazon.com/about-aws/whats- new/2026/05/aws-security-hub-unused-access/",
+      "citation": "AMAZON WEB SERVICES, “AWS security hub now uncovers identity risks from unused access,” 2026. [Online]. Available: https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/"
     },
     {
       "number": 767,
       "key": "aws2026mcpoauthrevocation",
-      "citation": "V.Chowla,J.Bhatt,andA.Joshi,Introducing OAuth support for AWS MCP server,Jul. 2026. [Online]. Available: https://aws.amazon.com/blogs/security/introducing- oauth-support-for-aws-mcp-server/",
-      "url": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server"
+      "citation": "V. Chowla, J. Bhatt, and A. Joshi, “Introducing OAuth support for AWS MCP server,” 2026. [Online]. Available: https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
+      "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/"
     },
     {
       "number": 768,
       "key": "microsoft2026ngroktunnelintrusion",
+<<<<<<< Updated upstream
       "citation": "MICROSOFT INCIDENT RESPONSE, Undermining the trust boundary: Investigat- ing a stealthy intrusion through third-party compromise, May 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining- the-trust-boundary-investigating-a-stealthy-intrusion-through-third- party-compromise/",
+=======
+      "citation": "MICROSOFT INCIDENT RESPONSE, “Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
+>>>>>>> Stashed changes
       "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/"
     },
     {
       "number": 769,
       "key": "alibabacloud2026agentrunmemorystorage",
-      "citation": "ALIBABA CLOUD, Create and manage memory storage, Jun. 2026. Accessed: Jul. 17, 2026.[Online].Available:https://www.alibabacloud.com/help/en/functioncompute/ create-and-manage-memory-storage",
+      "citation": "Alibaba Cloud. “Create and manage memory storage,” Accessed: Jul. 17, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/functioncompute/create-and-manage-memory-storage",
       "url": "https://www.alibabacloud.com/help/en/functioncompute/create-and-manage-memory-storage"
     },
     {
       "number": 770,
       "key": "alibabacloud2026centralauditdelivery",
-      "citation": "ALIBABA CLOUD, Configure centralized audit log delivery, Jun. 2026. [Online]. Avail- able: https://www.alibabacloud.com/help/en/cgc/user-guide/deliver-audit- logs-in-a-unified-manner",
+      "citation": "Alibaba Cloud. “Configure centralized audit log delivery,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/cgc/user-guide/deliver-audit-logs-in-a-unified-manner",
       "url": "https://www.alibabacloud.com/help/en/cgc/user-guide/deliver-audit-logs-in-a-unified-manner"
     },
     {
       "number": 771,
       "key": "alibabacloud2026ramaccessanalyzer",
-      "citation": "ALIBABACLOUD,Govern permissions with access analyzer,Jun.2026.[Online].Avail- able: https://www.alibabacloud.com/help/en/ram/managing-over-privileged- identities-with-access-analyzer",
+      "citation": "Alibaba Cloud. “Govern permissions with access analyzer,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.alibabacloud.com/help/en/ram/managing-over-privileged-identities-with-access-analyzer",
       "url": "https://www.alibabacloud.com/help/en/ram/managing-over-privileged-identities-with-access-analyzer"
     },
     {
       "number": 772,
       "key": "microsoft2026lifecycleworkflowhistory",
-      "citation": "MICROSOFT, Lifecycle workflows history, Mar. 2026. [Online]. Available: https:// learn.microsoft.com/en-us/entra/id-governance/lifecycle-workflow-history",
+      "citation": "Microsoft. “Lifecycle workflows history,” Accessed: Jul. 21, 2026. [Online]. Available: https://learn.microsoft.com/en-us/entra/id-governance/lifecycle-workflow-history",
       "url": "https://learn.microsoft.com/en-us/entra/id-governance/lifecycle-workflow-history"
     },
     {
       "number": 773,
       "key": "li2025safeflow",
-      "citation": "P. Li et al., “SAFEFLOW: A principled protocol for trustworthy and transactional autonomous agent systems,” arXiv, Jun. 2025. arXiv: 2506.07564. [Online]. Available: https://arxiv.org/abs/2506.07564",
+      "citation": "P. Li et al., SAFEFLOW: A principled protocol for trustworthy and transactional autonomous agent systems, Jun. 2025. arXiv: 2506.07564 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.07564",
       "url": "https://arxiv.org/abs/2506.07564"
     },
     {
       "number": 774,
       "key": "li2025piguard",
+<<<<<<< Updated upstream
       "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt Injection Guardrail via Miti-Gating Overdefense for Free,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30420–30437.",
+=======
+      "citation": "H. Li, X. Liu, N. Zhang, and C. Xiao, “PIGuard: Prompt injection guardrail via mitigating overdefense for free,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 30 420–30 437.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 775,
       "key": "alqithami2025forgetful",
-      "citation": "S. Alqithami, “Forgetful but faithful: A cognitive memory architecture and benchmark for privacy-aware generative agents,” arXiv, Dec. 2025. arXiv: 2512.12856. [Online]. Available: https://arxiv.org/abs/2512.12856",
+      "citation": "S. Alqithami, Forgetful but faithful: A cognitive memory architecture and benchmark for privacy-aware generative agents, 2025. arXiv: 2512.12856 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.12856",
       "url": "https://arxiv.org/abs/2512.12856"
     },
     {
       "number": 776,
       "key": "russinovich2025great",
-      "citation": "A. M.Russinovich and R.Eldan, “Great, now write an article about that: The Crescendo multi-turn LLM jailbreak attack,” in Proc. 34th USENIX Security Symposium, Seattle, WA, USA, Aug. 2025, pp. 2421–2440.",
-      "url": ""
+      "citation": "M. Russinovich, A. Salem, and R. Eldan, “Great, now write an article about that: The Crescendo multi-turn LLM jailbreak attack,” in Proc. 34th USENIX Security Symposium, Seattle, WA, USA, Aug. 2025, pp. 2421–2440. [Online]. Available: https://www.usenix.org/conference/usenixsecurity25/presentation/russinovich",
+      "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/russinovich"
     },
     {
       "number": 777,
       "key": "he2025atrust",
-      "citation": "P. He et al., “To trust or not to trust: Attention-based trust management for LLM multi-agent systems,” arXiv, Jun. 2025. arXiv: 2506.02546. [Online]. Available: https://arxiv.org/abs/2506.02546",
+      "citation": "P. He et al., To trust or not to trust: Attention-based trust management for LLM multi-agent systems, Jun. 2025. arXiv: 2506.02546 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2506.02546",
       "url": "https://arxiv.org/abs/2506.02546"
     },
     {
       "number": 778,
       "key": "ojewale2026audittrails",
-      "citation": "V. Ojewale, H. Suresh, and S. Venkatasubramanian, Audit trails for accountability in large language models, Jan. 2026. arXiv: 2601.20727. [Online]. Available: https:// arxiv.org/abs/2601.20727",
+      "citation": "V. Ojewale, H. Suresh, and S. Venkatasubramanian, Audit trails for accountability in large language models, Jan. 2026. arXiv: 2601.20727 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.20727",
       "url": "https://arxiv.org/abs/2601.20727"
     },
     {
       "number": 779,
       "key": "cai2026ghostagent",
-      "citation": "Y. Cai, W. Tang, C. Wen, and S. Qin, “Ghost in the agent: Redefining information flow tracking for LLM agents,” arXiv, Apr. 2026. arXiv: 2604.23374. [Online]. Available: https://arxiv.org/abs/2604.23374",
+      "citation": "Y. Cai, W. Tang, C. Wen, and S. Qin, Ghost in the agent: Redefining information flow tracking for LLM agents, Apr. 2026. arXiv: 2604.23374 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.23374",
       "url": "https://arxiv.org/abs/2604.23374"
     },
     {
       "number": 780,
       "key": "li2025ace",
-      "citation": "E. Li, T. Mallick, E. Rose, W. Robertson, A. Oprea, and C. Nita-Rotaru, “ACE: A security architecture for LLM-Integrated app systems,” arXiv, Apr. 2025. arXiv: 2504. 20984. [Online]. Available: https://arxiv.org/abs/2504.20984",
+      "citation": "E. Li, T. Mallick, E. Rose, W. Robertson, A. Oprea, and C. Nita-Rotaru, “ACE: A security architecture for LLM-integrated app systems,” in Proc. Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb. 2026, to appear.",
       "url": "https://arxiv.org/abs/2504.20984"
     },
     {
       "number": 781,
       "key": "vijayvargiya2026openagentsafety",
+<<<<<<< Updated upstream
       "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. 14th International Conference on Learning Representations, Rio de Janeiro, Brazil, Apr. 2026.",
       "url": ""
+=======
+      "citation": "S. Vijayvargiya et al., “OpenAgentSafety: A comprehensive framework for evaluating real-world AI agent safety,” in Proc. International Conference on Learning Representations, Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://openreview.net/forum?id=xggSxCFQbA",
+      "url": "https://openreview.net/forum?id=xggSxCFQbA"
+>>>>>>> Stashed changes
     },
     {
       "number": 782,
       "key": "zhang2025privweb",
-      "citation": "S. Zhang et al., “PrivWeb: Unobtrusive and content-aware privacy protection for web agents,” arXiv, Sep. 2025. arXiv: 2509.11939. [Online]. Available: https://arxiv. org/abs/2509.11939",
+      "citation": "S. Zhang et al., PrivWeb: Unobtrusive and content-aware privacy protection for web agents, Sep. 2025. arXiv: 2509.11939 [cs.HC]. [Online]. Available: https://arxiv.org/abs/2509.11939",
       "url": "https://arxiv.org/abs/2509.11939"
     },
     {
       "number": 783,
       "key": "liao2025eia",
-      "citation": "Z. Liao et al., “EIA: Environmental injection attack on generalist web agents for privacy leakage,” in Proc. 13th International Conference on Learning Representations, vol. 2025, Singapore, Apr. 2025, pp. 66972–67003.",
-      "url": ""
+      "citation": "Z. Liao et al., “EIA: Environmental injection attack on generalist web agents for privacy leakage,” in Proc. International Conference on Learning Representations (ICLR), Singapore, Apr. 2025, pp. 66 972–67 003. [Online]. Available: https://openreview.net/forum?id=xMOLUzo2Lk",
+      "url": "https://openreview.net/forum?id=xMOLUzo2Lk"
     },
     {
       "number": 784,
       "key": "liu2025datasentinel",
+<<<<<<< Updated upstream
       "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks,” in Proc. IEEE Symposium on Security and Privacy, San Francisco, CA, USA, May 2025, pp. 2190–2208.",
+=======
+      "citation": "Y. Liu, Y. Jia, J. Jia, D. Song, and N. Z. Gong, “DataSentinel: A game-theoretic detection of prompt injection attacks,” in Proc. IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, USA, May 2025, pp. 2190–2208.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 785,
       "key": "chhikara2025mem0",
-      "citation": "P. Chhikara, D. Khant, S. Aryan, T. Singh, and D. Yadav, “Mem0: Building production- ready AI agents with scalable long-term memory,” arXiv, Apr. 2025. arXiv: 2504.19413 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2504.19413",
+      "citation": "P. Chhikara, D. Khant, S. Aryan, T. Singh, and D. Yadav, Mem0: Building production-ready AI agents with scalable long-term memory, Apr. 2025. arXiv: 2504.19413 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2504.19413",
       "url": "https://arxiv.org/abs/2504.19413"
     },
     {
       "number": 786,
       "key": "nist2025media",
+<<<<<<< Updated upstream
       "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY, “Guidelines for media sanitization (NIST SP 800-88 rev. 2),” National Institute of Standards and Technology, Tech. Rep. 800-88 Rev. 2, 2025.",
+=======
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Guidelines for media sanitization (NIST SP 800-88 rev. 2).”",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 787,
       "key": "microsoft2025presidio",
-      "citation": "MICROSOFT, Presidio: Data protection and de-identification SDK, Jan. 2025. [Online]. Available: https://microsoft.github.io/presidio/",
-      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/"
+      "citation": "Microsoft. “Presidio: Data protection and de-identification SDK,” Accessed: Jul. 21, 2026. [Online]. Available: https://microsoft.github.io/presidio/",
+      "url": "https://microsoft.github.io/presidio/"
     },
     {
       "number": 788,
       "key": "rezazadeh2025collaborativememory",
-      "citation": "A. Rezazadeh, Z. Li, A. Lou, Y. Zhao, W. Wei, and Y. Bao, “Collaborative memory: Multi-user memory sharing in LLM agents with dynamic access control,” arXiv, May 2025. arXiv: 2505.18279. [Online]. Available: https://arxiv.org/abs/2505.18279",
+      "citation": "A. Rezazadeh, Z. Li, A. Lou, Y. Zhao, W. Wei, and Y. Bao, Collaborative memory: Multi-user memory sharing in LLM agents with dynamic access control, May 2025. arXiv: 2505.18279 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.18279",
       "url": "https://arxiv.org/abs/2505.18279"
     },
     {
       "number": 789,
       "key": "chen2025shieldagent",
-      "citation": "Z. Chen, M. Kang, and B. Li, “ShieldAgent: Shielding agents via verifiable safety policy reasoning,” arXiv, Mar. 2025. arXiv: 2503.22738. [Online]. Available: https://arxiv. org/abs/2503.22738",
+      "citation": "Z. Chen, M. Kang, and B. Li, ShieldAgent: Shielding agents via verifiable safety policy reasoning, Mar. 2025. arXiv: 2503.22738 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.22738",
       "url": "https://arxiv.org/abs/2503.22738"
     },
     {
       "number": 790,
       "key": "raza2025trism",
-      "citation": "S. Raza et al., “TRiSM for agentic AI: A review of trust, risk, and security manage- ment in LLM-based agentic multi-agent systems,” arXiv, Jun. 2025. arXiv: 2506.04133. [Online]. Available: https://arxiv.org/abs/2506.04133",
+      "citation": "S. Raza, TRiSM for agentic AI: A review of trust, risk, and security management in LLM-based agentic multi-agent systems, Jun. 2025. arXiv: 2506.04133 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.04133",
       "url": "https://arxiv.org/abs/2506.04133"
     },
     {
       "number": 791,
       "key": "huang2025maestro",
-      "citation": "K. Huang, Agentic AI threat modeling framework: MAESTRO, Cloud Security Alliance, Feb. 2025. [Online]. Available: https://cloudsecurityalliance.org/blog/2025/02/ 06/agentic-ai-threat-modeling-framework-maestro",
+      "citation": "K. Huang, “Agentic AI Threat Modeling Framework: MAESTRO,” 2025. [Online]. Available: https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro",
       "url": "https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro"
     },
     {
       "number": 792,
       "key": "narajala2025toolsquatting",
-      "citation": "V. S. Narajala, K. Huang, and I. Habler, “Securing GenAI multi-agent systems against tool squatting: A zero trust registry-based approach,” arXiv, Apr. 2025. arXiv: 2504. 19951. [Online]. Available: https://arxiv.org/abs/2504.19951",
+      "citation": "V. S. Narajala, K. Huang, and I. Habler, Securing GenAI multi-agent systems against tool squatting: A zero trust registry-based approach, Apr. 2025. arXiv: 2504.19951 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.19951",
       "url": "https://arxiv.org/abs/2504.19951"
     },
     {
       "number": 793,
       "key": "wu2026phantompolicy",
+<<<<<<< Updated upstream
       "citation": "J. Wu and M. Gong, “Policy-invisible violations in LLM-based agents,” arXiv, Apr. 2026. arXiv: 2604.12177. [Online]. Available: https://arxiv.org/abs/2604.12177",
+=======
+      "citation": "J. Wu and M. Gong, Policy-invisible violations in LLM-based agents, Apr. 2026. arXiv: 2604.12177 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.12177",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2604.12177"
     },
     {
       "number": 794,
       "key": "linuxkernel2025landlock",
-      "citation": "M. Salaün, Landlock: Unprivileged access control, Jun. 2025. [Online]. Available: https://www.kernel.org/doc/html/latest/userspace-api/landlock.html",
+      "citation": "Mickaël Salaün, “Landlock: Unprivileged Access Control,” 2025. [Online]. Available: https://www.kernel.org/doc/html/latest/userspace-api/landlock.html",
       "url": "https://www.kernel.org/doc/html/latest/userspace-api/landlock.html"
     },
     {
       "number": 795,
       "key": "jia2025taskshield",
-      "citation": "F. Jia, T. Wu, X. Qin, and A. Squicciarini, “The task shield: Enforcing task alignment to defend against indirect prompt injection in LLM agents,” in Proc. ACL, Vienna, Austria, Jul. 2025, pp. 29680–29697.",
+      "citation": "F. Jia, T. Wu, X. Qin, and A. Squicciarini, “The Task Shield: Enforcing task alignment to defend against indirect prompt injection in LLM agents,” in Proc. 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), Vienna, Austria, Jul. 2025, pp. 29 680–29 697.",
       "url": ""
     },
     {
       "number": 796,
       "key": "yang2026toolprivbench",
-      "citation": "K. Yanget al., “When lower privileges suﬀice: Investigatingover-privileged tool selection in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.20023 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2606.20023",
+      "citation": "K. Yang et al., When lower privileges suﬀice: Investigating over-privileged tool selection in LLM agents, Jun. 2026. arXiv: 2606.20023 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2606.20023",
       "url": "https://arxiv.org/abs/2606.20023"
     },
     {
       "number": 797,
       "key": "wang2025ipleakage",
-      "citation": "L. Wang et al., “IP leakage attacks targeting LLM-based multi-agent systems,” arXiv, May 2025. arXiv: 2505.12442 [cs.CR]. [Online]. Available: https://arxiv.org/abs/ 2505.12442",
+      "citation": "L. Wang et al., IP leakage attacks targeting LLM-based multi-agent systems, May 2025. arXiv: 2505.12442 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.12442",
       "url": "https://arxiv.org/abs/2505.12442"
     },
     {
       "number": 798,
       "key": "feng2025sentinelnet",
-      "citation": "Y. Feng and X. Pan, “SentinelNet: Safeguarding multi-agent collaboration through credit-based dynamic threat detection,” in Proc. ACM Web Conference 2026, Dubai, United Arab Emirates, Jun. 2026.",
+      "citation": "Y. Feng and X. Pan, “SentinelNet: Safeguarding multi-agent collaboration through credit-based dynamic threat detection,” in Proc. ACM Web Conference, Dubai, United Arab Emirates, Apr. 2026, pp. 3135–3146.",
       "url": ""
     },
     {
       "number": 799,
       "key": "triedman2025maliciouscode",
-      "citation": "H. Triedman, R. D. Jha, and V. Shmatikov, “Multi-agent systems execute arbitrary malicious code,” in Proc. Second Conference on Language Modeling (COLM 2025), Montreal, Canada, Oct. 2025.",
-      "url": ""
+      "citation": "H. Triedman, R. Jha, and V. Shmatikov, “Multi-agent systems execute arbitrary malicious code,” in Proc. Conference on Language Modeling, Montreal, Canada, Oct. 2025, to appear. [Online]. Available: https://openreview.net/forum?id=DAozI4etUp",
+      "url": "https://openreview.net/forum?id=DAozI4etUp"
     },
     {
       "number": 800,
       "key": "yang2025agentprotocols",
-      "citation": "Y. Yang et al., “A survey of AI agent protocols,” arXiv, Apr. 2025. arXiv: 2504.16736 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2504.16736",
+      "citation": "Y. Yang et al., A survey of AI agent protocols, Apr. 2025. arXiv: 2504.16736 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2504.16736",
       "url": "https://arxiv.org/abs/2504.16736"
     },
     {
       "number": 801,
       "key": "datla2025executablegovernance",
-      "citation": "G. V. Datla, A. Vurity, T. Dash, T. Ahmad, M. Adnan, and S. Rafi, “Executable gov- ernance for AI: Translating policies into rules using LLMs,” arXiv, Dec. 2025. arXiv: 2512.04408 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.04408",
+      "citation": "G. V. Datla, A. Vurity, T. Dash, T. Ahmad, M. Adnan, and S. Rafi, Executable governance for AI: Translating policies into rules using LLMs, Dec. 2025. arXiv: 2512.04408 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.04408",
       "url": "https://arxiv.org/abs/2512.04408"
     },
     {
       "number": 802,
       "key": "chishti2026testbeforedeploy",
-      "citation": "M. S. Chishti, D. P. Oyinloye, and J. Li, “Test before you deploy: Governing updates in the llm supply chain,” arXiv, Apr. 2026. arXiv: 2604.27789. [Online]. Available: https://arxiv.org/abs/2604.27789",
+      "citation": "M. S. Chishti, D. P. Oyinloye, and J. Li, Test before you deploy: Governing updates in the LLM supply chain, Apr. 2026. arXiv: 2604.27789 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.27789",
       "url": "https://arxiv.org/abs/2604.27789"
     },
     {
       "number": 803,
       "key": "nvidia2026openshellarchitecture",
-      "citation": "NVIDIA, How OpenShell works. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.nvidia.com/openshell/about/how-it-works",
+      "citation": "NVIDIA, “How OpenShell works,”. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.nvidia.com/openshell/about/how-it-works",
       "url": "https://docs.nvidia.com/openshell/about/how-it-works"
     },
     {
       "number": 804,
       "key": "google2026agentgatewayarmor",
-      "citation": "GOOGLE CLOUD, Model Armor release notes, Google Cloud Documentation, Jan. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/ model-armor/release-notes",
+      "citation": "Google Cloud. “Model Armor release notes,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/model-armor/release-notes",
       "url": "https://docs.cloud.google.com/model-armor/release-notes"
     },
     {
       "number": 805,
       "key": "microsoft2026promptshields",
-      "citation": "MICROSOFT, Prompt Shields in Azure AI Content Safety, Jan. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/ai- services/content-safety/concepts/jailbreak-detection",
+      "citation": "MICROSOFT, “Prompt Shields in Azure AI Content Safety,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection",
       "url": "https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection"
     },
     {
       "number": 806,
       "key": "memlineage2026",
-      "citation": "C. Ouyang and R. Hou, “Memlineage: Lineage-guided enforcement for LLM agent mem- ory,” arXiv, May 2026. arXiv: 2605.14421. [Online]. Available: https://arxiv.org/ abs/2605.14421",
+      "citation": "C. Ouyang and R. Hou, Memlineage: Lineage-guided enforcement for LLM agent memory, May 2026. arXiv: 2605.14421 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14421",
       "url": "https://arxiv.org/abs/2605.14421"
     },
     {
       "number": 807,
       "key": "costa2025fides",
-      "citation": "M. Costa et al., “Securing AI agents with information-flow control,” arXiv, May 2025. arXiv: 2505.23643. [Online]. Available: https://arxiv.org/abs/2505.23643",
+      "citation": "M. Costa et al., Securing AI agents with information-flow control, May 2025. arXiv: 2505.23643 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.23643",
       "url": "https://arxiv.org/abs/2505.23643"
     },
     {
       "number": 808,
       "key": "li2026fortis",
-      "citation": "S. Li et al., “FORTIS: Benchmarking over-privilege in agent skills,” arXiv, May 2026. arXiv: 2605.09163. [Online]. Available: https://arxiv.org/abs/2605.09163",
-      "url": "https://kiro.dev/docs/skills/"
+      "citation": "S. Li et al., FORTIS: Benchmarking over-privilege in agent skills, May 2026. arXiv: 2605.09163 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.09163",
+      "url": "https://arxiv.org/abs/2605.09163"
     },
     {
       "number": 809,
       "key": "guo2025mcpanalysis",
-      "citation": "Y. Guo et al., “MCPXKIT: The unified toolkit for analyzing model context protocol security,” arXiv, Aug. 2025. arXiv: 2508.12538 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.12538",
+      "citation": "Y. Guo et al., MCPXKIT: The unified toolkit for analyzing model context protocol security, Aug. 2025. arXiv: 2508.12538 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.12538",
       "url": "https://arxiv.org/abs/2508.12538"
     },
     {
       "number": 810,
       "key": "bhardwaj2026agentassay",
-      "citation": "V. P. Bhardwaj, “AgentAssay: Token-eﬀicient regression testing for non-deterministic AI agent workflows,” arXiv, Mar. 2026. arXiv: 2603.02601. [Online]. Available: https://arxiv.org/abs/2603.02601",
+      "citation": "V. P. Bhardwaj, AgentAssay: Token-eﬀicient regression testing for non-deterministic AI agent workflows, Mar. 2026. arXiv: 2603.02601 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.02601",
       "url": "https://arxiv.org/abs/2603.02601"
     },
     {
       "number": 811,
       "key": "aws2026agentcoresearch",
-      "citation": "AMAZON WEB SERVICES, Web search tool - Amazon bedrock agentcore, AWS Doc- umentation, Jul. 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock- agentcore/latest/devguide/gateway-target-connector-web-search-tool.html",
+      "citation": "Amazon Web Services. “Web search tool - Amazon bedrock agentcore,” Accessed: Jul. 21, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-target-connector-web-search-tool.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-target-connector-web-search-tool.html"
     },
     {
       "number": 812,
       "key": "chen2025mmprivacy",
-      "citation": "T. Chen, P. Li, K. Zhou, T. Chen, and H. Wei, “Unveiling privacy risks in multi- modal large language models: Task-specific vulnerabilities and mitigation challenges,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria: Association for Computational Linguistics, Jul. 2025, pp. 4573–4586. [Online]. Available: https://aclanthology.org/2025.findings-acl.237",
+      "citation": "T. Chen, P. Li, K. Zhou, T. Chen, and H. Wei, “Unveiling privacy risks in multi-modal large language models: Task-specific vulnerabilities and mitigation challenges,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 4573– 4586.",
       "url": "https://aclanthology.org/2025.findings-acl.237"
     },
     {
       "number": 813,
       "key": "wang2025privacyinaction",
+<<<<<<< Updated upstream
       "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP,Suzhou,China:AssociationforComputationalLinguistics,Nov.2025, pp. 17055–17074. [Online]. Available: https://aclanthology.org/2025.findings- emnlp.925",
+=======
+      "citation": "S. Wang et al., “Privacy in action: Towards realistic privacy mitigation and evaluation for LLM-powered agents,” in Proc. Findings of the Association for Computational Linguistics: EMNLP, Suzhou, China, Nov. 2025, pp. 17 055–17 074.",
+>>>>>>> Stashed changes
       "url": "https://aclanthology.org/2025.findings-emnlp.925"
     },
     {
       "number": 814,
       "key": "evtivmov2025wasp",
-      "citation": "I. Evtimov, A. Zharmagambetov, A. Grattafiori, C. Guo, and K. Chaudhuri, “WASP: Benchmarking web agent security against prompt injection attacks,” arXiv, Apr. 2025. arXiv: 2504.18575. [Online]. Available: https://arxiv.org/abs/2504.18575",
+      "citation": "I. Evtimov, A. Zharmagambetov, A. Grattafiori, C. Guo, and K. Chaudhuri, WASP: Benchmarking web agent security against prompt injection attacks, 2025. arXiv: 2504.18575 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.18575",
       "url": "https://arxiv.org/abs/2504.18575"
     },
     {
       "number": 815,
       "key": "microsoft2026mcpauth",
-      "citation": "MICROSOFT,Setupauthenticationformodelcontextprotocoltools,Jul.2026.Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/ foundry/agents/how-to/mcp-authentication",
-      "url": "https://learn.microsoft.com/en-us/azure/foundry/concepts/architecture"
+      "citation": "MICROSOFT, “Set Up Authentication for Model Context Protocol Tools,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/mcp-authentication",
+      "url": "https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/mcp-authentication"
     },
     {
       "number": 816,
       "key": "oracle2026buildingagents",
-      "citation": "ORACLE,Building agents in OCI generative AI,OracleCloudInfrastructureDocumen- tation, Apr. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.oracle. com/en-us/iaas/Content/generative-ai/building-agents.htm",
+      "citation": "ORACLE, “Building Agents in OCI Generative AI,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.oracle.com/en-us/iaas/Content/generative-ai/building-agents.htm",
       "url": "https://docs.oracle.com/en-us/iaas/Content/generative-ai/building-agents.htm"
     },
     {
       "number": 817,
       "key": "databricks2026agentmemory",
-      "citation": "DATABRICKS, Agent memory, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.databricks.com/aws/en/agents/agent-framework/stateful- agents",
+      "citation": "DATABRICKS, “Agent memory,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents",
       "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
     },
     {
       "number": 818,
       "key": "cognee2026architecture",
-      "citation": "COGNEE, Cognee architecture, Cognee Documentation, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cognee.ai/core-concepts/architecture",
+      "citation": "COGNEE. “Cognee architecture,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cognee.ai/core-concepts/architecture",
       "url": "https://docs.cognee.ai/core-concepts/architecture"
     },
     {
       "number": 819,
       "key": "liu2025unlearning",
+<<<<<<< Updated upstream
       "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Machine Intelligence, vol. 7, no. 2, pp. 181–194, 2025. [Online]. Available: https://www. nature.com/articles/s42256-025-00985-0",
       "url": "https://arxiv.org/abs/1912.03817"
+=======
+      "citation": "S. Liu et al., “Rethinking machine unlearning for large language models,” Nature Machine Intelligence, vol. 7, no. 2, pp. 181–194, Feb. 2025.",
+      "url": "https://www.nature.com/articles/s42256-025-00985-0"
+>>>>>>> Stashed changes
     },
     {
       "number": 820,
       "key": "ibm2026managingmemory",
-      "citation": "IBM CORPORATION, Managing agent memory, IBM watsonx Orchestrate Documen- tation, Jul. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://www.ibm.com/ docs/en/watsonx/watson-orchestrate/base?topic=memory-managing-agent",
-      "url": "https://www.ibm.com/products/watsonx-orchestrate"
+      "citation": "IBM. “Managing agent memory,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=memory-managing-agent",
+      "url": "https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=memory-managing-agent"
     },
     {
       "number": 821,
       "key": "kang2025memoryos",
+<<<<<<< Updated upstream
       "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025, pp. 25961–25970. [Online]. Available: https://aclanthology.org/2025.emnlp-main.1318",
       "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+=======
+      "citation": "J. Kang, M. Ji, Z. Zhao, and T. Bai, “Memory OS of AI agent,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Nov. 2025, pp. 25 961– 25 970.",
+      "url": "https://aclanthology.org/2025.emnlp-main.1318"
+>>>>>>> Stashed changes
     },
     {
       "number": 822,
       "key": "aws2026agentcorepolicy",
-      "citation": "AMAZON WEB SERVICES, Policy in Amazon bedrock AgentCore: Control agent inter- actions,AmazonBedrockAgentCoreDeveloperGuide,2026.[Online].Available:https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html",
+      "citation": "AMAZON WEB SERVICES, “Policy in Amazon Bedrock AgentCore: Control Agent Interactions,” 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html"
     },
     {
       "number": 823,
       "key": "microsoft2026interventionpoints",
-      "citation": "MICROSOFT, Intervention points concepts, Microsoft Learn, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/ guardrails/intervention-points",
+      "citation": "MICROSOFT, “Intervention Points Concepts,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/guardrails/intervention-points",
       "url": "https://learn.microsoft.com/en-us/azure/foundry/guardrails/intervention-points"
     },
     {
       "number": 824,
       "key": "nvidia2026guardrailtypes",
-      "citation": "NVIDIA, Guardrail types, NVIDIA NeMo Guardrails Library Developer Guide, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.nvidia.com/nemo/ guardrails/latest/about-nemo-guardrails-library/rail-types",
+      "citation": "NVIDIA. “Guardrail types,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.nvidia.com/nemo/guardrails/latest/about-nemo-guardrails-library/rail-types",
       "url": "https://docs.nvidia.com/nemo/guardrails/latest/about-nemo-guardrails-library/rail-types"
     },
     {
       "number": 825,
       "key": "lpsbench2026",
-      "citation": "T. Chen, C. Hu, G. Gao, D. Liu, X. Hu, and W. Wang, “LPS-Bench: Benchmarking safety awareness of computer-use agents in long-horizon planning under benign and adversarial scenarios,” arXiv, Feb. 2026. arXiv: 2602.03255. [Online]. Available: https://arxiv.org/abs/2602.03255",
+      "citation": "T. Chen, C. Hu, G. Gao, D. Liu, X. Hu, and W. Wang, LPS-Bench: Benchmarking safety awareness of computer-use agents in long-horizon planning under benign and adversarial scenarios, Feb. 2026. arXiv: 2602.03255 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.03255",
       "url": "https://arxiv.org/abs/2602.03255"
     },
     {
       "number": 826,
       "key": "google2026agenticsocarchitecture",
-      "citation": "GOOGLE CLOUD, Agentic AI use case: Orchestrate security operations workflows, Google Cloud Architecture Center, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/architecture/agentic-ai-orchestrate- security-ops-workflows",
+      "citation": "Google Cloud. “Agentic AI use case: Orchestrate security operations workflows,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/architecture/agentic-ai-orchestrate-security-ops-workflows",
       "url": "https://docs.cloud.google.com/architecture/agentic-ai-orchestrate-security-ops-workflows"
     },
     {
       "number": 827,
       "key": "google2025securemcpserver",
-      "citation": "L. Ogunmola and B. Awojobi, How to secure your remote MCP server on Google Cloud, Google Cloud Blog, Sep. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/how-to-secure-your- remote-mcp-server-on-google-cloud",
+      "citation": "L. Ogunmola and B. Awojobi, “How to Secure Your Remote MCP Server on Google Cloud,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://cloud.google.com/blog/products/identity-security/how-to-secure-your-remote-mcp-server-on-google-cloud",
       "url": "https://cloud.google.com/blog/products/identity-security/how-to-secure-your-remote-mcp-server-on-google-cloud"
     },
     {
       "number": 828,
       "key": "toolprivacybench2026",
-      "citation": "S. Hu, L. Liu, Z. Meng, and Z. Zhao, “Toolprivacybench: Benchmarking purpose-bound privacy in tool-using LLM agents,” arXiv, Jun. 2026. arXiv: 2606.28061. [Online]. Available: https://arxiv.org/abs/2606.28061",
+      "citation": "S. Hu, L. Liu, Z. Meng, and Z. Zhao, ToolPrivacyBench: Benchmarking purpose-bound privacy in tool-using LLM agents, Jun. 2026. arXiv: 2606.28061 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.28061",
       "url": "https://arxiv.org/abs/2606.28061"
     },
     {
@@ -9513,283 +9877,287 @@ const DATA = {
     {
       "number": 830,
       "key": "microsoft2026toolapproval",
-      "citation": "MICROSOFT, Using function tools with human in the loop approvals, Microsoft Agent Framework Documentation, Apr. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/agent-framework/agents/tools/tool- approval",
+      "citation": "MICROSOFT, “Using Function Tools with Human in the Loop Approvals,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/agent-framework/agents/tools/tool-approval",
       "url": "https://learn.microsoft.com/en-us/agent-framework/agents/tools/tool-approval"
     },
     {
       "number": 831,
       "key": "aws2026agentcorecodeinterpreter",
-      "citation": "AMAZON WEB SERVICES, Execute code and analyze data using Amazon Bedrock AgentCore code interpreter, Amazon Bedrock AgentCore Developer Guide, 2026. Ac- cessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock- agentcore/latest/devguide/code-interpreter-tool.html",
+      "citation": "Amazon Web Services. “Execute code and analyze data using Amazon Bedrock AgentCore code interpreter,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-tool.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-tool.html"
     },
     {
       "number": 832,
       "key": "google2026gkeagentsandbox",
-      "citation": "GOOGLE CLOUD, About GKE agent sandbox, Google Kubernetes Engine Documenta- tion, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google. com/kubernetes-engine/docs/concepts/machine-learning/agent-sandbox",
+      "citation": "Google Cloud. “About GKE agent sandbox,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/kubernetes-engine/docs/concepts/machine-learning/agent-sandbox",
       "url": "https://docs.cloud.google.com/kubernetes-engine/docs/concepts/machine-learning/agent-sandbox"
     },
     {
       "number": 833,
       "key": "redhat2026agentruntime",
-      "citation": "R. Hat, Developer preview features, Red Hat OpenShift AI Self-Managed 3.4 Release Notes, 2026. [Online]. Available: https://docs.redhat.com/en/documentation/red_ hat_openshift_ai_self-managed/3.4/html/release_notes/developer-preview- features_relnotes",
+      "citation": "Red Hat. “Developer preview features,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.4/html/release_notes/developer-preview-features_relnotes",
       "url": "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.4/html/release_notes/developer-preview-features_relnotes"
     },
     {
       "number": 834,
       "key": "gosmar2509sentinel",
-      "citation": "D. Gosmar and D. A. Dahl, “Sentinel agents for secure and trustworthy agentic AI in multi-agent systems,” arXiv, Sep. 2025. arXiv: 2509.14956. [Online]. Available: https://arxiv.org/abs/2509.14956",
+      "citation": "D. Gosmar and D. A. Dahl, Sentinel agents for secure and trustworthy agentic AI in multi-agent systems, Sep. 2025. arXiv: 2509.14956 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.14956",
       "url": "https://arxiv.org/abs/2509.14956"
     },
     {
       "number": 835,
       "key": "redhat2026mcpgateway",
+<<<<<<< Updated upstream
       "citation": "RED HAT, MCP server, Red Hat OpenShift Container Platform Documentation, 2026. Accessed:Jul.20,2026.[Online].Available:https://docs.redhat.com/en/documentation/ openshift_container_platform/4.22/html/ai_applications/mcp-server",
+=======
+      "citation": "RED HAT. “MCP server,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server",
+>>>>>>> Stashed changes
       "url": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server"
     },
     {
       "number": 836,
       "key": "paloalto2025mcpgateway",
-      "citation": "PALOALTONETWORKS,Prisma AIRS MCP server for centralized AI agent security, Prisma AIRS Documentation, Jul. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.paloaltonetworks.com/ai-runtime-security/activation-and- onboarding/prisma-airs-mcp-server-for-centralized-ai-agent-security",
-      "url": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.22/html/ai_applications/mcp-server"
+      "citation": "Palo Alto Networks. “Prisma AIRS MCP server for centralized AI agent security,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/prisma-airs-mcp-server-for-centralized-ai-agent-security",
+      "url": "https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/prisma-airs-mcp-server-for-centralized-ai-agent-security"
     },
     {
       "number": 837,
       "key": "oracle2026hostedapplications",
-      "citation": "ORACLE, Hosted applications, Oracle Cloud Infrastructure Documentation, Apr. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.oracle.com/en-us/iaas/ Content/generative-ai/applications.htm",
+      "citation": "ORACLE. “Hosted applications,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.oracle.com/en-us/iaas/Content/generative-ai/applications.htm",
       "url": "https://docs.oracle.com/en-us/iaas/Content/generative-ai/applications.htm"
     },
     {
       "number": 838,
       "key": "ibm2026assistantarchitecture",
-      "citation": "G. E. S. and S. Aechiraju, Architect AI assistants with watsonx Orchestrate, IBM De- veloper, May 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://developer. ibm.com/articles/architect-ai-assistants-watsonx-orchestrate/",
-      "url": "https://www.ibm.com/products/watsonx-orchestrate"
+      "citation": "G. E. S. and S. Aechiraju, “Architect AI Assistants with watsonx Orchestrate,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://developer.ibm.com/articles/architect-ai-assistants-watsonx-orchestrate/",
+      "url": "https://developer.ibm.com/articles/architect-ai-assistants-watsonx-orchestrate/"
     },
     {
       "number": 839,
       "key": "nist2025cosais",
-      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY, SP 800-53 control overlays for securing AI systems (COSAiS), NIST Computer Security Resource Center, Jan. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://csrc.nist.gov/ projects/cosais",
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “SP 800-53 control overlays for securing AI systems (COSAiS),” Accessed: Jul. 20, 2026. [Online]. Available: https://csrc.nist.gov/projects/cosais",
       "url": "https://csrc.nist.gov/projects/cosais"
     },
     {
       "number": 840,
       "key": "nist2026agentstandards",
-      "citation": "NATIONALINSTITUTEOFSTANDARDSANDTECHNOLOGY,AIagentstandards initiative, NIST, Apr. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://www. nist.gov/artificial-intelligence/ai-agent-standards-initiative",
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “AI agent standards initiative,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative",
       "url": "https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative"
     },
     {
       "number": 841,
       "key": "kolt2025governing",
-      "citation": "N. Kolt, “Governing AI agents,” arXiv, Jan. 2025. arXiv: 2501.07913. [Online]. Avail- able: https://arxiv.org/abs/2501.07913",
+      "citation": "N. Kolt, Governing AI agents, Jan. 2025. arXiv: 2501.07913 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2501.07913",
       "url": "https://arxiv.org/abs/2501.07913"
     },
     {
       "number": 842,
       "key": "microsoft2026agentapplications",
-      "citation": "MICROSOFT, Agent applications in Microsoft Foundry, Microsoft Learn, Jul. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en- us/azure/foundry/agents/how-to/agent-applications",
+      "citation": "MICROSOFT, “Agent Applications in Microsoft Foundry,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/agent-applications",
       "url": "https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/agent-applications"
     },
     {
       "number": 843,
       "key": "google2026governancetemplate",
-      "citation": "GOOGLECLOUD,Agent platform with governance template,GoogleCloudApplication Design Center Documentation, Jul. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/application-design-center/docs/agent- platform-with-governance",
+      "citation": "Google Cloud. “Agent platform with governance template,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/application-design-center/docs/agent-platform-with-governance",
       "url": "https://docs.cloud.google.com/application-design-center/docs/agent-platform-with-governance"
     },
     {
       "number": 844,
       "key": "opentelemetry2026genaiobservability",
-      "citation": "OPENTELEMETRY, Inside the LLM call: GenAI observability with opentelemetry, OpenTelemetry Blog, May 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://opentelemetry.io/blog/2026/genai-observability/",
+      "citation": "OPENTELEMETRY, “Inside the LLM Call: GenAI Observability with OpenTelemetry,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://opentelemetry.io/blog/2026/genai-observability/",
       "url": "https://opentelemetry.io/blog/2026/genai-observability/"
     },
     {
       "number": 845,
       "key": "kim2026agenticsecurity",
-      "citation": "J.Kimetal.,“TheattackanddefenselandscapeofagenticAI:Acomprehensivesurvey,” arXiv preprint arXiv:2603.11088, 2026. [Online]. Available: https://arxiv.org/abs/ 2603.11088",
-      "url": "https://arxiv.org/abs/"
+      "citation": "J. Kim et al., The attack and defense landscape of agentic AI: A comprehensive survey, 2026. arXiv: 2603.11088 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.11088",
+      "url": "https://arxiv.org/abs/2603.11088"
     },
     {
       "number": 846,
       "key": "aws2026qdeveloperreview",
-      "citation": "AMAZON WEB SERVICES, Reviewing code with Amazon Q developer, Amazon Q Developer Documentation. Accessed: Jul. 20, 2026. [Online]. Available: https://docs. aws.amazon.com/amazonq/latest/qdeveloper-ug/code-reviews.html",
+      "citation": "Amazon Web Services. “Reviewing code with Amazon Q developer,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/code-reviews.html",
       "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/code-reviews.html"
     },
     {
       "number": 847,
       "key": "google2026modelarmor",
-      "citation": "GOOGLE CLOUD, Model armor overview, Google Cloud Documentation, 2026. Ac- cessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/model- armor/overview",
+      "citation": "Google Cloud. “Model armor overview,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.cloud.google.com/model-armor/overview",
       "url": "https://docs.cloud.google.com/model-armor/overview"
     },
     {
       "number": 848,
       "key": "chen2025securevibebench",
-      "citation": "J. Chen et al., “Securevibebench: Benchmarking secure vibe coding of AI agents via re- constructing vulnerability-introducing scenarios,” arXiv, Sep. 2025. arXiv: 2509.22097. [Online]. Available: https://arxiv.org/abs/2509.22097",
+      "citation": "J. Chen et al., SecureVibeBench: Benchmarking secure vibe coding of AI agents via reconstructing vulnerability-introducing scenarios, Sep. 2025. arXiv: 2509.22097 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2509.22097",
       "url": "https://arxiv.org/abs/2509.22097"
     },
     {
       "number": 849,
       "key": "sonar2026aicodeassurance",
-      "citation": "SONARSOURCE, AI code assurance, SonarQube Server 2026.1 LTA Documentation, Mar. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.sonarsource. com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance",
+      "citation": "SonarSource. “AI code assurance,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.sonarsource.com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance",
       "url": "https://docs.sonarsource.com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance"
     },
     {
       "number": 850,
       "key": "maloyan2026codinginjection",
-      "citation": "N. Maloyan and D. Namiot, “Prompt injection attacks on agentic coding assistants: A systematic analysis of vulnerabilities in skills, tools, and protocol ecosystems,” arXiv, Jan. 2026. arXiv: 2601.17548. [Online]. Available: https://arxiv.org/abs/2601.",
+      "citation": "N. Maloyan and D. Namiot, Prompt injection attacks on agentic coding assistants: A systematic analysis of vulnerabilities in skills, tools, and protocol ecosystems, Jan. 2026. arXiv: 2601.17548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.17548",
       "url": "https://arxiv.org/abs/2601.17548"
     },
     {
       "number": 851,
       "key": "github2026copilotrisks",
-      "citation": "GITHUB, Risks and mitigations for GitHub Copilot cloud agent, GitHub Docs, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.github.com/en/copilot/ concepts/agents/cloud-agent/risks-and-mitigations",
-      "url": "https://cursor.com/blog/cloud-agents"
+      "citation": "GITHUB. “Risks and mitigations for GitHub Copilot cloud agent,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.github.com/en/copilot/concepts/agents/cloud-agent/risks-and-mitigations",
+      "url": "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/risks-and-mitigations"
     },
     {
       "number": 852,
       "key": "aliyun2026lingmafilter",
-      "citation": "ALIBABA CLOUD, 企业过滤器配置：通义灵码（qoder cn）, Alibaba Cloud Documen- tation, Mar. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://help.aliyun. com/zh/lingma/qoder-cn/user-guide/enterprise-filter-configuration",
+      "citation": "Alibaba Cloud. “Enterprise filter configuration: Qoder cn (tongyi lingma),” Accessed: Jul. 20, 2026. [Online]. Available: https://help.aliyun.com/zh/lingma/qoder-cn/user-guide/enterprise-filter-configuration",
       "url": "https://help.aliyun.com/zh/lingma/qoder-cn/user-guide/enterprise-filter-configuration"
     },
     {
       "number": 853,
       "key": "gitlab2026pushprotection",
-      "citation": "GITLAB, Secret push protection, GitLab Documentation, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.gitlab.com/user/application_security/ secret_detection/secret_push_protection/",
+      "citation": "GitLab. “Secret push protection,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.gitlab.com/user/application_security/secret_detection/secret_push_protection/",
       "url": "https://docs.gitlab.com/user/application_security/secret_detection/secret_push_protection/"
     },
     {
       "number": 854,
       "key": "ying2026agentvisor",
-      "citation": "Z.Yingetal.,“AgentVisor:DefendingLLMagentsagainstpromptinjectionviasemantic virtualization,” arXiv, Apr. 2026. arXiv: 2604.24118. [Online]. Available: https:// arxiv.org/abs/2604.24118",
-      "url": ""
+      "citation": "Z. Ying et al., AgentVisor: Defending LLM agents against prompt injection via semantic virtualization, Apr. 2026. arXiv: 2604.24118 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.24118",
+      "url": "https://arxiv.org/abs/2604.24118"
     },
     {
       "number": 855,
       "key": "baidu2026comateprivate",
-      "citation": "BAIDU,文心快码（baidu comate）企业私有化部署方案,BaiduComateOﬀicialWebsite. Accessed: Jul. 20, 2026. [Online]. Available: https://comate.baidu.com/zh",
+      "citation": "BAIDU, “文心快码（Baidu Comate）企业私有化部署方案,”. Accessed: Jul. 20, 2026. [Online]. Available: https://comate.baidu.com/zh",
       "url": "https://comate.baidu.com/zh"
     },
     {
       "number": 856,
       "key": "huawei2026agentartsmemory",
-      "citation": "HUAWEI CLOUD, 什么是智果（AgentArts）智能体平台？, 华为云产品文档, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://support.huaweicloud.com/ productdesc-agentarts/agentarts_03_0002.html",
+      "citation": "Huawei Cloud. “What is AgentArts intelligent agent platform,” Accessed: Jul. 20, 2026. [Online]. Available: https://support.huaweicloud.com/productdesc-agentarts/agentarts_03_0002.html",
       "url": "https://support.huaweicloud.com/productdesc-agentarts/agentarts_03_0002.html"
     },
     {
       "number": 857,
       "key": "aliyun2026memorylibrary",
-      "citation": "ALIBABA CLOUD, 记忆库, 大模型服务平台百炼文档, Apr. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://help.aliyun.com/zh/model-studio/memory- library",
-      "url": "https://help.aliyun.com/zh/model-studio/memory-"
+      "citation": "Alibaba Cloud. “Memory library,” Accessed: Jul. 20, 2026. [Online]. Available: https://help.aliyun.com/zh/model-studio/memory-library",
+      "url": "https://help.aliyun.com/zh/model-studio/memory-library"
     },
     {
       "number": 858,
       "key": "baidu2026qianfaniam",
-      "citation": "BAIDU INTELLIGENT CLOUD, 角色与权限控制列表, 百度千帆大模型服务及 Agent 开发平台文档, Feb. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://cloud. baidu.com/doc/qianfan/s/Emh4sucy7",
-      "url": "https://cloud.baidu.com/doc/qianfan/s/Lmmxhsja8"
+      "citation": "Baidu Intelligent Cloud. “Role and access control list,” Accessed: Jul. 20, 2026. [Online]. Available: cloud.baidu.com/doc/qianfan/s/Emh4sucy7",
+      "url": "https://cloud.baidu.com/doc/qianfan/s/Emh4sucy7"
     },
     {
       "number": 859,
       "key": "wang2025reflection",
-      "citation": "B. Wang, J. Quan, X. Yu, H. Hu, Y. Yu, and I. Tsang, “Reflection-driven control for trustworthy code agents,” arXiv preprint arXiv:2512.21354, 2025. [Online]. Available: https://arxiv.org/abs/2512.21354",
+      "citation": "B. Wang, J. Quan, X. Yu, H. Hu, and I. Tsang, Reflection-driven control for trustworthy code agents, Dec. 2025. arXiv: 2512.21354 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.21354",
       "url": "https://arxiv.org/abs/2512.21354"
     },
     {
       "number": 860,
       "key": "anthropic2026claudecodehooks",
-      "citation": "ANTHROPIC, Hooks reference, Claude Code Documentation. Accessed: Jul. 20, 2026. [Online]. Available: https://code.claude.com/docs/en/hooks",
+      "citation": "Anthropic. “Hooks reference,” Accessed: Jul. 20, 2026. [Online]. Available: https://code.claude.com/docs/en/hooks",
       "url": "https://code.claude.com/docs/en/hooks"
     },
     {
       "number": 861,
       "key": "cheng2026seclaw",
-      "citation": "H. Cheng et al., Seclaw: Spec-driven security task synthesis for evaluating autonomous agents, Jun. 2026. arXiv: 2606.02302. [Online]. Available: https://arxiv.org/abs/ 2606.02302",
+      "citation": "H. Cheng et al., SeClaw: Spec-driven security task synthesis for evaluating autonomous agents, Jun. 2026. arXiv: 2606.02302 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.02302",
       "url": "https://arxiv.org/abs/2606.02302"
     },
     {
       "number": 862,
       "key": "kiro2026specs",
-      "citation": "Kiro, Specs, Kiro Documentation, 2026. [Online]. Available: https://kiro.dev/docs/ specs/",
-      "url": "https://aws.amazon.com/documentation-overview/kiro/"
+      "citation": "Kiro. “Specs,” Accessed: Jul. 20, 2026. [Online]. Available: https://kiro.dev/docs/specs/",
+      "url": "https://kiro.dev/docs/specs/"
     },
     {
       "number": 863,
       "key": "snyk2026agentdirectives",
-      "citation": "SNYK, Directives, Snyk User Docs, May 2026. Accessed: Jul. 20, 2026. [Online]. Avail- able: https://docs.snyk.io/evo-by-snyk/agentic-security-with-snyk- studio/directives",
-      "url": "https://docs.snyk.io/evo-by-snyk/agentic-security-with-snyk-"
+      "citation": "SNYK. “Directives,” Accessed: Jul. 20, 2026. [Online]. Available: https://docs.snyk.io/evo-by-snyk/agentic-security-with-snyk-studio/directives",
+      "url": "https://docs.snyk.io/evo-by-snyk/agentic-security-with-snyk-studio/directives"
     },
     {
       "number": 864,
       "key": "guo2026malskillbench",
-      "citation": "W. Guo et al., “Malskillbench: A runtime-verified benchmark of malicious agent skills,” arXiv, Jun. 2026. arXiv: 2606.07131. [Online]. Available: https://arxiv.org/abs/ 2606.07131",
-      "url": "https://kiro.dev/docs/skills/"
+      "citation": "W. Guo et al., MalSkillBench: A runtime-verified benchmark of malicious agent skills, Jun. 2026. arXiv: 2606.07131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.07131",
+      "url": "https://arxiv.org/abs/2606.07131"
     },
     {
       "number": 865,
       "key": "tencent2026codebuddysecurity",
-      "citation": "TENCENT CLOUD, Codebuddy code security, Tencent Cloud CodeBuddy Documenta- tion. Accessed: Jul. 20, 2026. [Online]. Available: https://www.codebuddy.ai/docs/ zh/cli/security",
+      "citation": "Tencent Cloud. “Codebuddy code security,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.codebuddy.ai/docs/zh/cli/security",
       "url": "https://www.codebuddy.ai/docs/zh/cli/security"
     },
     {
       "number": 866,
       "key": "xu2026codingagentsafety",
-      "citation": "X. Xu, S. Feng, G. Shen, and X. Zhang, “When harmful intent dissolves into technical detail: How safe are coding agents against cyber misuse?” In Proc. ACM Conference on AI and Agentic Systems,SanJose,CA,USA,May2026,pp.873–889.[Online].Available: https://dl.acm.org/doi/10.1145/3786335.3813176",
+      "citation": "X. Xu, S. Feng, G. Shen, and X. Zhang, “When harmful intent dissolves into technical detail: How safe are coding agents against cyber misuse?” In Proc. ACM Conference on AI and Agentic Systems (CAIS), San Jose, CA, USA, May 2026, pp. 873–889.",
       "url": "https://dl.acm.org/doi/10.1145/3786335.3813176"
     },
     {
       "number": 867,
       "key": "kaufman2025basharena",
-      "citation": "A. Kaufman, J. Lucassen, T. Tracy, C. Rushing, and A. Bhatt, “Basharena: A control setting for highly privileged AI agents,” arXiv, Dec. 2025. arXiv: 2512.15688. [Online]. Available: https://arxiv.org/abs/2512.15688",
+      "citation": "A. Kaufman, J. Lucassen, T. Tracy, C. Rushing, and A. Bhatt, Basharena: A control setting for highly privileged AI agents, Dec. 2025. arXiv: 2512.15688 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.15688",
       "url": "https://arxiv.org/abs/2512.15688"
     },
     {
       "number": 868,
       "key": "openai2026codexsafety",
-      "citation": "OPENAI, Running codex safely at openai, OpenAI. Accessed: Jul. 20, 2026. [Online]. Available: https://openai.com/index/running-codex-safely/",
+      "citation": "OPENAI, “Running Codex Safely at OpenAI,”. Accessed: Jul. 20, 2026. [Online]. Available: https://openai.com/index/running-codex-safely/",
       "url": "https://openai.com/index/running-codex-safely/"
     },
     {
       "number": 869,
       "key": "tencent2026agentruntime",
-      "citation": "TENCENT CLOUD, Tencent Cloud agent runtime documentation, Tencent Cloud Doc- umentation. Accessed: Jul. 20, 2026. [Online]. Available: https://cloud.tencent.com/ document/product/1814",
+      "citation": "Tencent Cloud. “Tencent Cloud agent runtime documentation,” Accessed: Jul. 20, 2026. [Online]. Available: https://cloud.tencent.com/document/product/1814",
       "url": "https://cloud.tencent.com/document/product/1814"
     },
     {
       "number": 870,
       "key": "microsoft2026agentauthorization",
-      "citation": "MICROSOFT, Authorization in Microsoft Entra Agent ID, Microsoft Learn, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en- us/entra/agent-id/authorization-agent-id",
+      "citation": "MICROSOFT, “Authorization in Microsoft Entra Agent ID,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/entra/agent-id/authorization-agent-id",
       "url": "https://learn.microsoft.com/en-us/entra/agent-id/authorization-agent-id"
     },
     {
       "number": 871,
       "key": "mcp2025authorization",
-      "citation": "MODEL CONTEXT PROTOCOL, Authorization, Model Context Protocol Specifica- tion,Nov.2025.Accessed:Jul.20,2026.[Online].Available:https://modelcontextprotocol. io/specification/2025-11-25/basic/authorization",
-      "url": "https://www.anthropic.com/news/model-context-protocol"
+      "citation": "MODEL CONTEXT PROTOCOL, “Authorization,” 2025. [Online]. Available: https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization",
+      "url": "https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization"
     },
     {
       "number": 872,
       "key": "christodorescu2026agent",
-      "citation": "W.Hackett,L.Birch,S.Trawicki,N.Suri,andP.Garraghan,“Bypassingllmguardrails: Anempiricalanalysisofevasionattacksagainstpromptinjectionandjailbreakdetection systems,” in Proceedings of the The First Workshop on LLM Security (LLMSEC), 2025, pp. 101–114.",
+      "citation": "M. Christodorescu et al., Agent security is a systems problem, May 2026. arXiv: 2605.18991 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.18991",
       "url": "https://arxiv.org/abs/2605.18991"
     },
     {
       "number": 873,
       "key": "huawei2026codeartscheck",
-      "citation": "HUAWEI CLOUD, Codearts check: Code quality and security inspection, Huawei Cloud. Accessed: Jul. 20, 2026. [Online]. Available: https://www.huaweicloud.com/product/ codecheck.html",
+      "citation": "HUAWEI CLOUD, “CodeArts Check: Code Quality and Security Inspection,”. Accessed: Jul. 20, 2026. [Online]. Available: https://www.huaweicloud.com/product/codecheck.html",
       "url": "https://www.huaweicloud.com/product/codecheck.html"
     },
     {
       "number": 874,
       "key": "openssf2026ospsbaseline",
-      "citation": "OPEN SOURCE SECURITY FOUNDATION, Open source project security baseline, OpenSSFstandard,2026.Accessed:Jul.20,2026.[Online].Available:https://baseline. openssf.org/versions/2026-02-19.html",
+      "citation": "Open Source Security Foundation. “Open source project security baseline,” Accessed: Jul. 20, 2026. [Online]. Available: https://baseline.openssf.org/versions/2026-02-19.html",
       "url": "https://baseline.openssf.org/versions/2026-02-19.html"
     },
     {
       "number": 875,
       "key": "slsa2026provenance",
-      "citation": "SLSA. “Provenance,” Accessed: Jul. 20, 2026. [Online]. Available: https://slsa.dev/ provenance/v1",
-      "url": "https://slsa.dev/"
+      "citation": "SLSA. “Provenance,” Accessed: Jul. 20, 2026. [Online]. Available: slsa.dev/provenance/v1",
+      "url": "https://slsa.dev/provenance/v1"
     },
     {
       "number": 876,
       "key": "litmus2026",
-      "citation": "C. Zhang et al., “Litmus: Benchmarking behavioral jailbreaks of LLM agents in real OS environments,” arXiv, May 2026. arXiv: 2605.10779. [Online]. Available: https://arxiv.org/abs/2605.10779",
+      "citation": "C. Zhang et al., LITMUS: Benchmarking behavioral jailbreaks of LLM agents in real OS environments, May 2026. arXiv: 2605.10779 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.10779",
       "url": "https://arxiv.org/abs/2605.10779"
     },
     {
@@ -9801,139 +10169,139 @@ const DATA = {
     {
       "number": 878,
       "key": "wang2026mcptox",
-      "citation": "Z. Wang et al., “McpTox: A benchmark for tool poisoning on real-world MCP servers,” in Proc. AAAI Conference on Artificial Intelligence, vol. 40, Singapore: Association for Computing Machinery, Feb. 2026, pp. 35811–35819.",
+      "citation": "Z. Wang et al., “MCPTox: A benchmark for tool poisoning on real-world MCP servers,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jun. 2026, pp. 35 811–35 819.",
       "url": ""
     },
     {
       "number": 879,
       "key": "databricks2026blackice",
-      "citation": "C. Kaplan, A. Warnecke, and N. Archibald, Blackice: A containerized red teaming toolkit for AI security testing, 2025. arXiv: 2510.11823. [Online]. Available: https://arxiv. org/abs/2510.11823",
+      "citation": "C. Kaplan, A. Warnecke, and N. Archibald, Blackice: A containerized red teaming toolkit for AI security testing, 2025. arXiv: 2510.11823 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.11823",
       "url": "https://arxiv.org/abs/2510.11823"
     },
     {
       "number": 880,
       "key": "microsoft2025redteamagent",
-      "citation": "MICROSOFT, AI red teaming agent: Automated adversarial scanning in Microsoft foundry,MicrosoftFoundryDocumentation,Apr.2026.Accessed:Jul.20,2026.[Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/concepts/ai- red-teaming-agent",
+      "citation": "Microsoft. “AI red teaming agent: Automated adversarial scanning in Microsoft foundry,” Accessed: Jul. 20, 2026. [Online]. Available: https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent",
       "url": "https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent"
     },
     {
       "number": 881,
       "key": "pihunter2026",
-      "citation": "P. He et al., “PI-Hunter: Automated red-teaming for exposing and localizing prompt injections,” arXiv, Jun. 2026. arXiv: 2606.12737. [Online]. Available: https://arxiv. org/abs/2606.12737",
+      "citation": "P. He et al., PI-Hunter: Automated red-teaming for exposing and localizing prompt injections, Jun. 2026. arXiv: 2606.12737 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.12737",
       "url": "https://arxiv.org/abs/2606.12737"
     },
     {
       "number": 882,
       "key": "wang2025mindguard",
-      "citation": "Z. Wang et al., “MindGuard: Intrinsic decision inspection for securing LLM agents against metadata poisoning,” arXiv, Aug. 2025. arXiv: 2508.20412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.20412",
+      "citation": "Z. Wang et al., MindGuard: Intrinsic decision inspection for securing LLM agents against metadata poisoning, Aug. 2025. arXiv: 2508.20412 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.20412",
       "url": "https://arxiv.org/abs/2508.20412"
     },
     {
       "number": 883,
       "key": "advani2026trajectory",
-      "citation": "L.Advani,“Trajectoryguard–alightweight,sequence-awaremodelforreal-timeanomaly detection in agentic AI,” in Proc. Workshop on Trustworthy Agentic AI (TrustAgent) at AAAI, Philadelphia, PA, USA, Feb. 2026, to appear.",
+      "citation": "L. Advani, “Trajectory guard – a lightweight, sequence-aware model for real-time anomaly detection in agentic AI,” in Proc. AAAI Workshop on Trustworthy Agentic AI, Singapore, Jan. 2026, to appear.",
       "url": ""
     },
     {
       "number": 884,
       "key": "meng2025cellmate",
-      "citation": "L. Meng, H. Feng, I. Shumailov, and E. Fernandes, “ceLLMate: Sandboxing browser AI agents,” arXiv, Dec. 2025. arXiv: 2512.12594 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.12594",
+      "citation": "L. Meng, H. Feng, I. Shumailov, and E. Fernandes, ceLLMate: Sandboxing browser AI agents, Dec. 2025. arXiv: 2512.12594 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.12594",
       "url": "https://arxiv.org/abs/2512.12594"
     },
     {
       "number": 885,
       "key": "zhou2025guardian",
-      "citation": "J. Zhou, L. Wang, and X. Yang, “Guardian: Safeguarding LLM multi-agent collabora- tions with temporal graph modeling,” arXiv, May 2025. arXiv: 2505.19234 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.19234",
+      "citation": "J. Zhou, L. Wang, and X. Yang, Guardian: Safeguarding LLM multi-agent collaborations with temporal graph modeling, May 2025. arXiv: 2505.19234 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.19234",
       "url": "https://arxiv.org/abs/2505.19234"
     },
     {
       "number": 886,
       "key": "demmbench2026",
-      "citation": "O.Solozobov,“DEMM-Bench:Across-regimebenchmarkforagent-runtimegovernance- evidence suﬀiciency,” arXiv, May 2026. arXiv: 2606.20634 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.20634",
+      "citation": "O. Solozobov, DEMM-Bench: A cross-regime benchmark for agent-runtime governance-evidence suﬀiciency, May 2026. arXiv: 2606.20634 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.20634",
       "url": "https://arxiv.org/abs/2606.20634"
     },
     {
       "number": 887,
       "key": "xu2026redagent",
-      "citation": "H. Xu et al., “Redagent: An autonomous agent for context-aware red teaming of LLM jailbreaks,” IEEE Transactions on Dependable and Secure Computing, vol. 23, no. 3, pp. 6506–6521, May 2026.",
+      "citation": "H. Xu et al., “Redagent: An autonomous agent for context-aware red teaming of LLM jailbreaks,” IEEE Transactions on Dependable and Secure Computing, vol. 23, no. 3, pp. 6506– 6521, May 2026.",
       "url": ""
     },
     {
       "number": 888,
       "key": "owasp2025redteamguide",
-      "citation": "OWASP GenAI Security Project, GenAI red teaming guide, OWASP Red Teaming Ini- tiative, Aug. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://genai.owasp. org/initiatives/red-teaming-initiative/",
+      "citation": "OWASP GenAI Security Project. “GenAI red teaming guide,” Accessed: Jul. 20, 2026. [Online]. Available: https://genai.owasp.org/initiatives/red-teaming-initiative/",
       "url": "https://genai.owasp.org/initiatives/red-teaming-initiative/"
     },
     {
       "number": 889,
       "key": "lan2026silentegress",
-      "citation": "Q. Lan, A. Kaul, S. Jones, and S. Westrum, “Silent egress: When implicit prompt in- jection makes LLM agents leak without a trace,” arXiv, Feb. 2026. arXiv: 2602.22450 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.22450",
+      "citation": "Q. Lan, A. Kaul, S. Jones, and S. Westrum, Silent egress: When implicit prompt injection makes LLM agents leak without a trace, Feb. 2026. arXiv: 2602.22450 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.22450",
       "url": "https://arxiv.org/abs/2602.22450"
     },
     {
       "number": 890,
       "key": "kuntz2025osharm",
-      "citation": "T. Kuntz et al., “Os-harm: A benchmark for measuring safety of computer use agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA, Dec. 2025.",
-      "url": ""
+      "citation": "T. Kuntz et al., “OS-Harm: A benchmark for measuring safety of computer use agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA, Dec. 2025. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2025/hash/4009bff0cd87ba2203c8e3a2f082aaec-Abstract-Datasets_and_Benchmarks_Track.html",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4009bff0cd87ba2203c8e3a2f082aaec-Abstract-Datasets_and_Benchmarks_Track.html"
     },
     {
       "number": 891,
       "key": "mao2025agentsafe",
-      "citation": "J. Mao et al., “AgentSafe: safeguarding large language model-based multi-agent systems via hierarchical data management,” arXiv, Mar. 2025. arXiv: 2503.04392 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2503.04392",
+      "citation": "J. Mao et al., AgentSafe: Safeguarding large language model-based multi-agent systems via hierarchical data management, Mar. 2025. arXiv: 2503.04392 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2503.04392",
       "url": "https://arxiv.org/abs/2503.04392"
     },
     {
       "number": 892,
       "key": "csa2025agenticredteam",
-      "citation": "Cloud Security Alliance, Agentic AI red teaming guide, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://cloudsecurityalliance.org/",
+      "citation": "Cloud Security Alliance. “Agentic AI red teaming guide,” Accessed: Jul. 20, 2026. [Online]. Available: https://cloudsecurityalliance.org/",
       "url": "https://cloudsecurityalliance.org/"
     },
     {
       "number": 893,
       "key": "microsoft2026failuremodes",
-      "citation": "R. S. S. Kumar, New whitepaper outlines the taxonomy of failure modes in AI agents, 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2025/ 04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai- agents/",
+      "citation": "Ram Shankar Siva Kumar, “New whitepaper outlines the taxonomy of failure modes in AI agents,” 2026. [Online]. Available: https://www.microsoft.com/en-us/security/blog/2025/04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai-agents/",
       "url": "https://www.microsoft.com/en-us/security/blog/2025/04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai-agents/"
     },
     {
       "number": 894,
       "key": "lingering2026authority",
-      "citation": "I. Santos-Grueiro, “Lingering authority: Revocable resource-and-effect capabilities for coding agents,” arXiv, Jun. 2026. arXiv: 2606.22504 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.22504",
+      "citation": "I. Santos-Grueiro, Lingering authority: Revocable resource-and-effect capabilities for coding agents, Jun. 2026. arXiv: 2606.22504 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.22504",
       "url": "https://arxiv.org/abs/2606.22504"
     },
     {
       "number": 895,
       "key": "causality2026laundering",
-      "citation": "M. H. Chinaei, “Causality laundering: Denial-feedback leakage in tool-calling LLM agents,” arXiv, Apr. 2026. arXiv: 2604.04035 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.04035",
+      "citation": "M. H. Chinaei, Causality laundering: Denial-feedback leakage in tool-calling LLM agents, Apr. 2026. arXiv: 2604.04035 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.04035",
       "url": "https://arxiv.org/abs/2604.04035"
     },
     {
       "number": 896,
       "key": "shield2026dos",
-      "citation": "Y.Zhou,X.Wang,P.Ma,Z.Xue,Z.Wang,andS.Wang,“Fromshieldtotarget:Denial- of-serviceattacksonLLM-basedagentguardrails,”arXiv,Jun.2026.arXiv:2606.14517 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.14517",
+      "citation": "Y. Zhou, X. Wang, P. Ma, Z. Xue, Z. Wang, and S. Wang, From shield to target: Denial-of-service attacks on LLM-based agent guardrails, Jun. 2026. arXiv: 2606.14517 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.14517",
       "url": "https://arxiv.org/abs/2606.14517"
     },
     {
       "number": 897,
       "key": "li2026besafebench",
-      "citation": "Y. Li, Y. Lin, P. Wang, and X. Wei, “BeSafe-Bench: Unveiling behavioral safety risks of situated agents in functional environments,” arXiv, Jan. 2026. arXiv: 2603.25747 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.25747",
+      "citation": "Y. Li, Y. Lin, P. Wang, and X. Wei, BeSafe-Bench: Unveiling behavioral safety risks of situated agents in functional environments, Jan. 2026. arXiv: 2603.25747 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.25747",
       "url": "https://arxiv.org/abs/2603.25747"
     },
     {
       "number": 898,
       "key": "promptfoo2025",
-      "citation": "promptfoo, Promptfoo: Open-source framework for evaluating, testing and red-teaming LLM applications, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://www. promptfoo.dev/",
+      "citation": "promptfoo. “Promptfoo: Open-source framework for evaluating, testing and red-teaming LLM applications,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.promptfoo.dev/",
       "url": "https://www.promptfoo.dev/"
     },
     {
       "number": 899,
       "key": "xie2025toolsafety",
-      "citation": "Y. Xie, Y. Yuan, W. Wang, F. Mo, J. Guo, and P. He, “ToolSafety: A comprehensive dataset for enhancing safety in LLM-based agent tool invocations,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Nov. 2025, pp. 14135–14156.",
+      "citation": "Y. Xie, Y. Yuan, W. Wang, F. Mo, J. Guo, and P. He, “ToolSafety: A comprehensive dataset for enhancing safety in LLM-based agent tool invocations,” in Proc. Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Nov. 2025, pp. 14 135–14 156.",
       "url": ""
     },
     {
       "number": 900,
       "key": "mou2026toolsafe",
-      "citation": "Y. Mou et al., “ToolSafe: Enhancing tool invocation safety of LLM-based agents via proactive step-level guardrail and feedback,” arXiv, Jan. 2026. arXiv: 2601.10156 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2601.10156",
+      "citation": "Y. Mou et al., ToolSafe: Enhancing tool invocation safety of LLM-based agents via proactive step-level guardrail and feedback, Jan. 2026. arXiv: 2601.10156 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2601.10156",
       "url": "https://arxiv.org/abs/2601.10156"
     },
     {
@@ -9945,553 +10313,583 @@ const DATA = {
     {
       "number": 902,
       "key": "propguard2026",
+<<<<<<< Updated upstream
       "citation": "B. Yan et al., “Propguard: Safeguarding LLM-mas via propagation-aware exploration and remediation,” arXiv, May 2026. arXiv: 2605.16346 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.16346",
+=======
+      "citation": "B. Yan et al., Propguard: Safeguarding LLM-mas via propagation-aware exploration and remediation, May 2026. arXiv: 2605.16346 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.16346",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2605.16346"
     },
     {
       "number": 903,
       "key": "csa2026pyriteval",
-      "citation": "Cloud Security Alliance, Evaluating PyRIT for agentic AI red teaming, CSA Artifact, 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://cloudsecurityalliance. org/artifacts/evaluating-pyrit-for-agentic-ai-red-teaming",
+      "citation": "Cloud Security Alliance, “Evaluating PyRIT for Agentic AI Red Teaming,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://cloudsecurityalliance.org/artifacts/evaluating-pyrit-for-agentic-ai-red-teaming",
       "url": "https://cloudsecurityalliance.org/artifacts/evaluating-pyrit-for-agentic-ai-red-teaming"
     },
     {
       "number": 904,
       "key": "nguyen2025violentutf",
+<<<<<<< Updated upstream
       "citation": "T. N. Nguyen, “Demo: Violentutf as An Accessible Platform for Generative AI Red Teaming” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
+=======
+      "citation": "T. N. Nguyen, “Demo: ViolentUTF as an accessible platform for generative AI red teaming,” in Proc. Silicon Valley Cybersecurity Conference, San Francisco, CA, USA, Jun. 2025, pp. 1–3.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 905,
       "key": "yuan2026agenticred",
-      "citation": "J. Yuan, J. Nöther, N. Jaques, and G. Radanović, “Agenticred: Optimizing agentic systems for automated red-teaming,” arXiv, Jan. 2026. arXiv: 2601.13518 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2601.13518",
+      "citation": "J. Yuan, J. Nöther, N. Jaques, and G. Radanović, Agenticred: Optimizing agentic systems for automated red-teaming, Jan. 2026. arXiv: 2601.13518 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2601.13518",
       "url": "https://arxiv.org/abs/2601.13518"
     },
     {
       "number": 906,
       "key": "mitre2025atlas",
-      "citation": "MITRE,ATLAS: Adversarial threat landscape for artificial-intelligence systems,MITRE ATLAS Knowledge Base, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://atlas.mitre.org/",
+      "citation": "MITRE. “ATLAS: Adversarial threat landscape for artificial-intelligence systems,” Accessed: Jul. 20, 2026. [Online]. Available: httpsatlas.mitre.org/",
       "url": "https://atlas.mitre.org/"
     },
     {
       "number": 907,
       "key": "clawevallive2026",
-      "citation": "C.Lietal.,“Claw-Eval-Live:Aliveagentbenchmarkforevolvingreal-worldworkflows,” arXiv, Apr. 2026. arXiv: 2604.28139 [cs.SE]. [Online]. Available: https://arxiv. org/abs/2604.28139",
-      "url": "https://arxiv"
+      "citation": "C. Li et al., Claw-Eval-Live: A live agent benchmark for evolving real-world workflows, Apr. 2026. arXiv: 2604.28139 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2604.28139",
+      "url": "https://arxiv.org/abs/2604.28139"
     },
     {
       "number": 908,
       "key": "li2026clawsbench",
-      "citation": "X. Li et al., “ClawsBench: Evaluating capability and safety of LLM productivity agents in simulated workspaces,” arXiv, Apr. 2026. arXiv: 2604.05172 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2604.05172",
+      "citation": "X. Li et al., ClawsBench: Evaluating capability and safety of LLM productivity agents in simulated workspaces, Apr. 2026. arXiv: 2604.05172 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2604.05172",
       "url": "https://arxiv.org/abs/2604.05172"
     },
     {
       "number": 909,
       "key": "wang2026openclawsecurity",
-      "citation": "Y. Wang et al., “A systematic security evaluation of OpenClaw and its variants,” arXiv, Apr. 2026. arXiv: 2604.03131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/ 2604.03131",
+      "citation": "Y. Wang et al., A systematic security evaluation of OpenClaw and its variants, Apr. 2026. arXiv: 2604.03131 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.03131",
       "url": "https://arxiv.org/abs/2604.03131"
     },
     {
       "number": 910,
       "key": "cesarano2026supplychain",
-      "citation": "C. Cesarano and M. Monperrus, “The grand software supply chain of AI systems,” arXiv, Apr. 2026. arXiv: 2604.27781 [cs.SE]. [Online]. Available: https://arxiv. org/abs/2604.27781",
+      "citation": "C. Cesarano and M. Monperrus, The grand software supply chain of AI systems, Apr. 2026. arXiv: 2604.27781 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2604.27781",
       "url": "https://arxiv.org/abs/2604.27781"
     },
     {
       "number": 911,
       "key": "he2026sab",
-      "citation": "J. He and D. Yu, “Sovereign assurance boundary: Certificate-bound admission for agen- tic infrastructure,” arXiv, Jun. 2026. arXiv: 2606.11632 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.11632",
+      "citation": "J. He and D. Yu, Sovereign assurance boundary: Certificate-bound admission for agentic infrastructure, Jun. 2026. arXiv: 2606.11632 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.11632",
       "url": "https://arxiv.org/abs/2606.11632"
     },
     {
       "number": 912,
       "key": "booth2026agentidentity",
+<<<<<<< Updated upstream
       "citation": "H. Booth, W. Fisher, R. Galluzzo, and J. Roberts, “Accelerating the adoption of software and artificial intelligence agent identity and authorization,” National Institute of Standards and Technology, Initial Public Draft Concept Paper, Feb. 2026. [Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the- adoption-of-software-and-ai-agent/ipd",
+=======
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Accelerating the adoption of software and artificial intelligence agent identity and authorization. ”[Online]. Available: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd",
+>>>>>>> Stashed changes
       "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd"
     },
     {
       "number": 913,
       "key": "dutta2026agentriskbom",
-      "citation": "S. Dutta and A. K. Moharir, “AgentRiskBOM: A risk-scoping security bill of materi- als for agentic AI systems,” arXiv, Jun. 2026. arXiv: 2606.21877 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.21877",
+      "citation": "S. Dutta and A. K. Moharir, AgentRiskBOM: A risk-scoping security bill of materials for agentic AI systems, Jun. 2026. arXiv: 2606.21877 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.21877",
       "url": "https://arxiv.org/abs/2606.21877"
     },
     {
       "number": 914,
       "key": "qu2026securing",
-      "citation": "W. Qu, M. Xu, P. Wang, S. Zhai, J. Zhang, and D. Song, “Securing LLM agents need intent-to-execution integrity,” arXiv, May 2026. arXiv: 2605.16976 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.16976",
+      "citation": "W. Qu, M. Xu, P. Wang, S. Zhai, J. Zhang, and D. Song, Securing LLM agents need intent-to-execution integrity, May 2026. arXiv: 2605.16976 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.16976",
       "url": "https://arxiv.org/abs/2605.16976"
     },
     {
       "number": 915,
       "key": "cosai2025incidentresponse",
-      "citation": "Coalition for Secure AI, “AI incident response framework, version 1.0,” Coalition for Secure AI, OASIS Open, Tech. Rep., Oct. 2025. Accessed: Jul. 1, 2026. [Online]. Avail- able: https://www.coalitionforsecureai.org/wp-content/uploads/2026/03/AI- Incident-Response-1.pdf",
-      "url": "https://saif.google/"
+      "citation": "Coalition for Secure AI, “AI incident response framework, version 1.0,” Coalition for Secure AI, OASIS Open, Tech. Rep., Oct. 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://www.coalitionforsecureai.org/wp-content/uploads/2026/03/AI-Incident-Response-1.pdf",
+      "url": "https://www.coalitionforsecureai.org/wp-content/uploads/2026/03/AI-Incident-Response-1.pdf"
     },
     {
       "number": 916,
       "key": "openssf2025modelsigning",
-      "citation": "M. Maruseac, E. Wickens, D. Major, and M. Sablotny, An introduction to the openssf model signing (oms) specification: Model signing for secure and trusted AI supply chains, Open Source Security Foundation, 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://openssf.org/blog/2025/06/25/an-introduction-to-the-openssf- model-signing-oms-specification/",
+      "citation": "M. Maruseac, E. Wickens, D. Major, and M. Sablotny, “An Introduction to the OpenSSF Model Signing (OMS) Specification: Model Signing for Secure and Trusted AI Supply Chains,” 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://openssf.org/blog/2025/06/25/an-introduction-to-the-openssf-model-signing-oms-specification/",
       "url": "https://openssf.org/blog/2025/06/25/an-introduction-to-the-openssf-model-signing-oms-specification/"
     },
     {
       "number": 917,
       "key": "github2026attestationadmission",
-      "citation": "GitHub. “Enforcing artifact attestations with a kubernetes admission controller,” Ac- cessed:Jul.1,2026.[Online].Available:https://docs.github.com/actions/security- guides/enforcing-artifact-attestations-with-a-kubernetes-admission- controller",
+      "citation": "GitHub. “Enforcing artifact attestations with a kubernetes admission controller,” Accessed: Jul. 1, 2026. [Online]. Available: docs.github.com/actions/security-guides/enforcing-artifact-attestations-with-a-kubernetes-admission-controller",
       "url": "https://docs.github.com/actions/security-guides/enforcing-artifact-attestations-with-a-kubernetes-admission-controller"
     },
     {
       "number": 918,
       "key": "tekton2025supplychainsecurity",
-      "citation": "Tekton Authors, Getting started supply chain security, Tekton Documentation, 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://tekton.dev/docs/getting- started/supply-chain-security/",
+      "citation": "Tekton Authors. “Getting started supply chain security,” Accessed: Jul. 1, 2026. [Online]. Available: httpstekton.dev/docs/getting-started/supply-chain-security/",
       "url": "https://tekton.dev/docs/getting-started/supply-chain-security/"
     },
     {
       "number": 919,
       "key": "abdollahi2026agentee",
-      "citation": "S. Abdollahi et al., “AgenTEE: Confidential LLM agent execution on edge devices,” in Proc. Workshop on Machine Learning and Systems (EuroMLSys), Edinburgh, Scotland, UK, Apr. 2026, pp. 473–480.",
+      "citation": "S. Abdollahi et al., “AgenTEE: Confidential LLM agent execution on edge devices,” in Proc. Sixth European Workshop on Machine Learning and Systems, Edinburgh, Scotland, UK, Apr. 2026, pp. 473–480.",
       "url": ""
     },
     {
       "number": 920,
       "key": "zhou2026openpcc",
-      "citation": "H. Zhou, S. Zhao, C. Wang, and Z. Lin, “OpenPCC: Open and confidential LLM serv- ing on commodity TEEs,” arXiv, Jun. 2026. arXiv: 2606.11145 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.11145",
+      "citation": "H. Zhou, S. Zhao, C. Wang, and Z. Lin, OpenPCC: Open and confidential LLM serving on commodity TEEs, Jun. 2026. arXiv: 2606.11145 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.11145",
       "url": "https://arxiv.org/abs/2606.11145"
     },
     {
       "number": 921,
       "key": "abdollahi2025cca",
-      "citation": "S. Abdollahi, M. Maheri, S. Siby, M. Kogias, and H. Haddadi, “An early experience with confidential computing architecture for on-device model protection,” in Proc. IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Rome, Italy, Jun. 2025, pp. 1–6.",
+      "citation": "S. Abdollahi, M. Maheri, S. D. Siby, M. Kogias, and H. Haddadi, “An early experience with confidential computing architecture for on-device model protection,” in Proc. IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Venice, Italy, Jun. 2025, pp. 401–410.",
       "url": "https://www.nvidia.com/en-us/data-center/solutions/confidential-computing/"
     },
     {
       "number": 922,
       "key": "hashicorp2026dynamicsecrets",
-      "citation": "HashiCorp, Dynamic secrets for database credential management, HashiCorp Vault Doc- umentation, 2026. Accessed: Jul. 1, 2026. [Online]. Available: https://developer. hashicorp.com/vault/tutorials/db-credentials/database-secrets",
+      "citation": "HashiCorp. “Dynamic secrets for database credential management,” Accessed: Jul. 1, 2026. [Online]. Available: developer.hashicorp.com/vault/tutorials/db-credentials/database-secrets",
       "url": "https://developer.hashicorp.com/vault/tutorials/db-credentials/database-secrets"
     },
     {
       "number": 923,
       "key": "he2026seb",
+<<<<<<< Updated upstream
       "citation": "J. He and D. Yu, “Sovereign execution broker: Enforcing certificate-bound authority in agentic control planes,” arXiv, Jun. 2026. arXiv: 2606.20520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.20520",
+=======
+      "citation": "J. He and D. Yu, Sovereign execution broker: Enforcing certificate-bound authority in agentic control planes, Jun. 2026. arXiv: 2606.20520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.20520",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2606.20520"
     },
     {
       "number": 924,
       "key": "kubernetes2026admissioncontrol",
-      "citation": "Kubernetes Authors, Admission control in kubernetes, Kubernetes Documentation, Mar. 2026. Accessed: Jul. 1, 2026. [Online]. Available: https://kubernetes.io/docs/ reference/access-authn-authz/admission-controllers/",
+      "citation": "Kubernetes Authors. “Admission control in kubernetes,” Accessed: Jul. 1, 2026. [Online]. Available: kubernetes.io/docs/reference/access-authn-authz/admission-controllers/",
       "url": "https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/"
     },
     {
       "number": 925,
       "key": "argo2026analysisrollout",
-      "citation": "Argo Project, Analysis and progressive delivery, Argo Rollouts Documentation, 2026. Accessed: Jul. 1, 2026. [Online]. Available: https://argo-rollouts.readthedocs.io/ en/stable/features/analysis/",
+      "citation": "Argo Project. “Analysis and progressive delivery,” Accessed: Jul. 1, 2026. [Online]. Available: https://argo-rollouts.readthedocs.io/en/stable/features/analysis/",
       "url": "https://argo-rollouts.readthedocs.io/en/stable/features/analysis/"
     },
     {
       "number": 926,
       "key": "liu2026trajad",
-      "citation": "Y. Liu et al., “TrajAD: Trajectory anomaly detection for trustworthy LLM agents,” arXiv, Feb. 2026. arXiv: 2602.06443 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2602.06443",
+      "citation": "Y. Liu et al., TrajAD: Trajectory anomaly detection for trustworthy LLM agents, Feb. 2026. arXiv: 2602.06443 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.06443",
       "url": "https://arxiv.org/abs/2602.06443"
     },
     {
       "number": 927,
       "key": "pirch2026securingagents",
-      "citation": "L. Pirch et al., “Toward securing AI agents like operating systems,” arXiv, May 2026. arXiv: 2605.14932 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14932",
+      "citation": "L. Pirch et al., Toward securing AI agents like operating systems, May 2026. arXiv: 2605.14932 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.14932",
       "url": "https://arxiv.org/abs/2605.14932"
     },
     {
       "number": 928,
       "key": "andronchik2026codesandboxes",
-      "citation": "G. Andronchik and P. Lokhmakov, “AI code sandboxes: A comparative security study. part 1 of 2—engine-level properties (attack surface, leakage, stackability, CVE history, patch cadence, fuzzing),” arXiv, Jun. 2026. arXiv: 2606.08433 [cs.CR]. [Online]. Avail- able: https://arxiv.org/abs/2606.08433",
+      "citation": "G. Andronchik and P. Lokhmakov, AI code sandboxes: A comparative security study. part 1 of 2—engine-level properties (attack surface, leakage, stackability, CVE history, patch cadence, fuzzing), Jun. 2026. arXiv: 2606.08433 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.08433",
       "url": "https://arxiv.org/abs/2606.08433"
     },
     {
       "number": 929,
       "key": "singh2026aisandboxes",
-      "citation": "I. Singh, H. Mahmoud, and A. Murillo, “AI sandboxes: A threat model, taxonomy, and measurement framework,” arXiv, Jun. 2026. arXiv: 2606.18532 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.18532",
+      "citation": "I. Singh, H. Mahmoud, and A. Murillo, AI sandboxes: A threat model, taxonomy, and measurement framework, Jun. 2026. arXiv: 2606.18532 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.18532",
       "url": "https://arxiv.org/abs/2606.18532"
     },
     {
       "number": 930,
       "key": "qin2026icandeploy",
-      "citation": "X. Qin, S. Luan, J. See, Z. Boukhers, C. Yang, and Z. Li, “ICAN-Deploy: Identity- stable canary deployment for safety-critical embodied agents,” arXiv, May 2026. arXiv: 2605.28097 [cs.RO]. [Online]. Available: https://arxiv.org/abs/2605.28097",
+      "citation": "X. Qin, S. Luan, J. See, Z. Boukhers, C. Yang, and Z. Li, ICAN-Deploy: Identity-stable canary deployment for safety-critical embodied agents, May 2026. arXiv: 2605.28097 [cs.RO]. [Online]. Available: https://arxiv.org/abs/2605.28097",
       "url": "https://arxiv.org/abs/2605.28097"
     },
     {
       "number": 931,
       "key": "google2026agenticarchitecture",
-      "citation": "Google Cloud, Choose your agentic AI architecture components, Google Cloud Archi- tecture Center, Apr. 2026. Accessed: Jul. 1, 2026. [Online]. Available: https://docs. cloud.google.com/architecture/choose-agentic-ai-architecture-components",
+      "citation": "Google Cloud. “Choose your agentic AI architecture components,” Accessed: Jul. 1, 2026. [Online]. Available: https://docs.cloud.google.com/architecture/choose-agentic-ai-architecture-components",
       "url": "https://docs.cloud.google.com/architecture/choose-agentic-ai-architecture-components"
     },
     {
       "number": 932,
       "key": "rodriguez2026agenturi",
-      "citation": "R. R. R. Jr., “Agent identity uri scheme: Topology-independent naming and capability- baseddiscoveryformulti-agentsystems,”arXiv,Jan.2026.arXiv:2601.14567[cs.MA]. [Online]. Available: https://arxiv.org/abs/2601.14567",
-      "url": "https://help.aliyun.com/zh/agentidentity/using-agent-identity-in-bailian-high-code"
+      "citation": "J. Rodriguez Roland R., Agent identity URI scheme: Topology-independent naming and capability-based discovery for multi-agent systems, Jan. 2026. arXiv: 2601.14567 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2601.14567",
+      "url": "https://arxiv.org/abs/2601.14567"
     },
     {
       "number": 933,
       "key": "tallam2026authorization",
-      "citation": "K. Tallam, “Authorization propagation in multi-agent AI systems: Identity governance as infrastructure,” arXiv, May 2026. arXiv: 2605.05440 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.05440",
+      "citation": "K. Tallam, Authorization propagation in multi-agent AI systems: Identity governance as infrastructure, May 2026. arXiv: 2605.05440 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.05440",
       "url": "https://arxiv.org/abs/2605.05440"
     },
     {
       "number": 934,
       "key": "posta2025agentgateway",
-      "citation": "C. Posta and J. Howard, Announcing A2A, MCP, and kubernetes gateway API sup- port, agentgateway, Jul. 2025. Accessed: Jul. 1, 2026. [Online]. Available: https:// agentgateway.dev/blog/2025-07-14-a2a-mcp-gateway-api-0-6-release/",
+      "citation": "Christian Posta and John Howard, “Announcing A2A, MCP, and Kubernetes Gateway API Support,” 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://agentgateway.dev/blog/2025-07-14-a2a-mcp-gateway-api-0-6-release/",
       "url": "https://agentgateway.dev/blog/2025-07-14-a2a-mcp-gateway-api-0-6-release/"
     },
     {
       "number": 935,
       "key": "jamdade2026aigateway",
-      "citation": "P. Jamdade, The AI gateway: One runtime for LLM, MCP, and A2A, Gravitee, Jun. 2026.Accessed:Jul.1,2026.[Online].Available:https://www.gravitee.io/blog/the- ai-gateway-one-runtime-for-llm-mcp-and-a2a",
+      "citation": "Prachi Jamdade, “The AI Gateway: One Runtime for LLM, MCP, and A2A,” 2026. [Online]. Available: https://www.gravitee.io/blog/the-ai-gateway-one-runtime-for-llm-mcp-and-a2a",
       "url": "https://www.gravitee.io/blog/the-ai-gateway-one-runtime-for-llm-mcp-and-a2a"
     },
     {
       "number": 936,
       "key": "istio2025security",
-      "citation": "I. Authors, Security best practices, 2025. Accessed: Jul. 1, 2026. [Online]. Available: https://istio.io/latest/docs/ops/best-practices/security/",
+      "citation": "Istio Authors. “Security best practices,” Accessed: Jul. 1, 2026. [Online]. Available: https://istio.io/latest/docs/ops/best-practices/security/",
       "url": "https://istio.io/latest/docs/ops/best-practices/security/"
     },
     {
       "number": 937,
       "key": "Vandendriessche_2026_CAIN",
+<<<<<<< Updated upstream
       "citation": "W.Vandendriessche,J.Thijsman,L.D’hooge,B.Volckaert,andM.Sebrechts,“AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training,” in Proc. ACM/IEEE International Conference on AI Engineering—Software Engineering for AI, 2026. [Online]. Available: https://arxiv.org/abs/2601.05703",
       "url": "https://arxiv.org/abs/2601.05703"
+=======
+      "citation": "W. Vandendriessche, J. Thijsman, L. D’hooge, B. Volckaert, and M. Sebrechts, “AIBoMGen: Generating an AI bill of materials for secure, transparent, and compliant model training,” in Proc. ACM/IEEE International Conference on AI Engineering, Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://www.researchgate.net/profile/Wiebe-Vandendriessche/publication/399667421_AIBoMGen_Generating_an_AI_Bill_of_Materials_for_Secure_Transparent_and_Compliant_Model_Training/links/6964ccf5c906f117f2a3e0a8/AIBoMGen-Generating-an-AI-Bill-of-Materials-for-Secure-Transparent-and-Compliant-Model-Training.pdf",
+      "url": "https://www.researchgate.net/profile/Wiebe-Vandendriessche/publication/399667421_AIBoMGen_Generating_an_AI_Bill_of_Materials_for_Secure_Transparent_and_Compliant_Model_Training/links/6964ccf5c906f117f2a3e0a8/AIBoMGen-Generating-an-AI-Bill-of-Materials-for-Secure-Transparent-and-Compliant-Model-Training.pdf"
+>>>>>>> Stashed changes
     },
     {
       "number": 938,
       "key": "nathanson2025airs",
-      "citation": "S. Nathanson et al., “AI bill of materials and beyond: Systematizing security assurance through the AI risk scanning (AIRS) framework,” arXiv, Nov. 2025. arXiv: 2511.12668. [Online]. Available: https://arxiv.org/abs/2511.12668",
+      "citation": "S. Nathanson et al., AI bill of materials and beyond: Systematizing security assurance through the AI risk scanning (AIRS) framework, Nov. 2025. arXiv: 2511.12668 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.12668",
       "url": "https://arxiv.org/abs/2511.12668"
     },
     {
       "number": 939,
       "key": "rajbahadur2025openaibom",
-      "citation": "G. K. Rajbahadur et al., “Building an open AIBOM standard in the wild,” in Proc. IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Rio de Janeiro, Brazil, Jul. 2026, pp. 842–853.",
+      "citation": "G. K. Rajbahadur et al., “Building an open AIBOM standard in the wild: An experience report on extending the SPDX SBOM (ISO/IEC 5962:2021) for AI supply chains,” in Proc. IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice, Rio de Janeiro, Brazil, Jul. 2026, pp. 842–853.",
       "url": ""
     },
     {
       "number": 940,
       "key": "vadlamani2026auditing",
-      "citation": "A. T. Vadlamani, A. Srinivasan, and S. Parthasarathy, “Towards auditing AI systems in the wild,” in Proc. ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, Aug. 2026, to appear.",
+      "citation": "A. T. Vadlamani, A. Srinivasan, and S. Parthasarathy, “Towards auditing AI systems in the wild,” in Proc. 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, Aug. 2026, to appear.",
       "url": ""
     },
     {
       "number": 941,
       "key": "aws2025agentcoreruntime",
-      "citation": "Amazon Web Services, Amazon bedrock agentcore runtime, Oct. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://aws.amazon.com/bedrock/agentcore",
+      "citation": "Amazon Web Services, “Amazon Bedrock AgentCore Runtime,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://aws.amazon.com/bedrock/agentcore",
       "url": "https://aws.amazon.com/bedrock/agentcore"
     },
     {
       "number": 942,
       "key": "wang2025envinjection",
-      "citation": "X. Wang, J. Bloch, Z. Shao, Y. Hu, S. Zhou, and N. Z. Gong, “Envinjection: Environ- mental prompt injection attack to multi-modal web agents,” arXiv, May 2025. arXiv: 2505.11717 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2505.11717",
+      "citation": "X. Wang, J. Bloch, Z. Shao, Y. Hu, S. Zhou, and N. Z. Gong, “EnvInjection: Environmental prompt injection attack to multi-modal web agents,” in Proc. EMNLP, Suzhou, China, Nov. 2025, to appear.",
       "url": "https://arxiv.org/abs/2505.11717"
     },
     {
       "number": 943,
       "key": "wang2026agenticunlearning",
-      "citation": "B. Wang et al., “Agentic unlearning: When LLM agent meets machine unlearning,” arXiv, Feb. 2026. arXiv: 2602.17692 [cs.LG]. [Online]. Available: https://arxiv. org/abs/2602.17692",
-      "url": "https://arxiv.org/abs/1912.03817"
+      "citation": "B. Wang et al., Agentic Unlearning: When LLM agent meets machine unlearning, Feb. 2026. arXiv: 2602.17692 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2602.17692",
+      "url": "https://arxiv.org/abs/2602.17692"
     },
     {
       "number": 944,
       "key": "li2026constraintdrift",
-      "citation": "T. Li et al., “Safe multi-agent behavior must be maintained, not merely asserted: Con- straint drift in llm-based multi-agent systems,” arXiv, May 2026. arXiv: 2605.10481 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2605.10481",
+      "citation": "T. Li et al., Safe multi-agent behavior must be maintained, not merely asserted: Constraint drift in LLM-based multi-agent systems, May 2026. arXiv: 2605.10481 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2605.10481",
       "url": "https://arxiv.org/abs/2605.10481"
     },
     {
       "number": 945,
       "key": "abdelnabi2025taskdrift",
-      "citation": "S. Abdelnabi, A. Fay, G. Cherubin, A. Salem, M. Fritz, and A. Paverd, “Get my drift? catchingLLMtaskdriftwithactivationdeltas,”inProc.IEEEConferenceon Secureand Trustworthy Machine Learning (SaTML), Copenhagen, Denmark, Apr. 2025, pp. 43–67.",
+      "citation": "S. Abdelnabi, A. Fay, G. Cherubin, A. Salem, M. Fritz, and A. Paverd, “Get my drift? catching LLM task drift with activation deltas,” in Proc. IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), Copenhagen, Denmark, Apr. 2025, pp. 43–67.",
       "url": "https://ml.utexas.edu/"
     },
     {
       "number": 946,
       "key": "beurerkellner2025designpatterns",
-      "citation": "L. Beurer-Kellner et al., “Design patterns for securing llm agents against prompt in- jections,” arXiv preprint arXiv:2506.08837, 2025. [Online]. Available: https://arxiv. org/abs/2506.08837",
+      "citation": "L. Beurer-Kellner et al., Design patterns for securing LLM agents against prompt injections, 2025. arXiv: 2506.08837 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.08837",
       "url": "https://arxiv.org/abs/2506.08837"
     },
     {
       "number": 947,
       "key": "aws_bedrock_guardrails_2026",
-      "citation": "AMAZON WEB SERVICES, Automated reasoning checks in Amazon Bedrock guardrails add new policy refinement workflows, AWS What’s New, Jun. 2026. [Online]. Available: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock- guardrails/",
+      "citation": "Amazon Web Services. “Amazon bedrock guardrails,” Accessed: Jul. 20, 2026. [Online]. Available: https://aws.amazon.com/bedrock/guardrails/",
       "url": "https://aws.amazon.com/bedrock/guardrails/"
     },
     {
       "number": 948,
       "key": "zhou2025rescriber",
-      "citation": "J. Zhou, E. Xu, Y. Wu, and T. Li, “Rescriber: Smaller LLM-powered user-led data min- imization for LLM-based chatbots,” in Proc. ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan, Apr. 2025, pp. 1–28.",
+      "citation": "J. Zhou, E. Xu, Y. Wu, and T. Li, “Rescriber: Smaller LLM-powered user-led data minimization for LLM-based chatbots,” in Proc. ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan, Apr. 2025, pp. 1–28.",
       "url": ""
     },
     {
       "number": 949,
       "key": "zharmagambetov2025agentdam",
-      "citation": "A. Zharmagambetov, C. Guo, I. Evtimov, M. Pavlova, R. Salakhutdinov, and K. Chaud- huri,“AgentDAM:privacyleakageevaluationforautonomouswebagents,”arXivpreprint arXiv:2503.09780, 2025. [Online]. Available: https://arxiv.org/abs/2503.09780",
+      "citation": "A. Zharmagambetov, C. Guo, I. Evtimov, M. Pavlova, R. Salakhutdinov, and K. Chaudhuri, “AgentDAM: Privacy leakage evaluation for autonomous web agents,” in Proc. Advances in Neural Information Processing Systems, Vancouver, Canada, Dec. 2025, to appear.",
       "url": "https://arxiv.org/abs/2503.09780"
     },
     {
       "number": 950,
       "key": "du2026agentmemory",
-      "citation": "P. Du, “Memory for autonomous LLM agents: Mechanisms, evaluation, and emerging frontiers,” arXiv, Mar. 2026. arXiv: 2603.07670 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.07670",
+      "citation": "P. Du, Memory for autonomous LLM agents: Mechanisms, evaluation, and emerging frontiers, Mar. 2026. arXiv: 2603.07670 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2603.07670",
       "url": "https://arxiv.org/abs/2603.07670"
     },
     {
       "number": 951,
       "key": "xiong2025memorymanagement",
-      "citation": "Z. Xiong et al., “How memory management impacts LLM agents: An empirical study of experience-following behavior,” arXiv, May 2025. arXiv: 2505.16067 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.16067",
+      "citation": "Z. Xiong et al., How memory management impacts LLM agents: An empirical study of experience-following behavior, May 2025. arXiv: 2505.16067 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2505.16067",
       "url": "https://arxiv.org/abs/2505.16067"
     },
     {
       "number": 952,
       "key": "xu2025amem",
-      "citation": "W. Xu, Z. Liang, K. Mei, H. Gao, J. Tan, and Y. Zhang, “A-Mem: Agentic memory for LLM agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA, Dec. 2025, to appear.",
+      "citation": "W. Xu, Z. Liang, K. Mei, H. Gao, J. Tan, and Y. Zhang, “A-Mem: Agentic memory for LLM agents,” in Proc. Advances in Neural Information Processing Systems, San Diego, CA, USA and Mexico City, Mexico, Dec. 2025, pp. 17 577–17 604.",
       "url": ""
     },
     {
       "number": 953,
       "key": "louck2026originboundmemory",
-      "citation": "Y. Louck, “Securing LLM-agent long-term memory against poisoning: Non-malleable, origin-bound authority with machine-checked guarantees,” arXiv, Jun. 2026. arXiv: 2606.24322 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.24322",
+      "citation": "Y. Louck, Origin-bound memory: Securing LLM-agent long-term memory against poisoning, Jun. 2026. arXiv: 2606.24322 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.24322",
       "url": "https://arxiv.org/abs/2606.24322"
     },
     {
       "number": 954,
       "key": "miculicich2025veriguard",
-      "citation": "L. Miculicich et al., “Veriguard: Enhancing LLM agent safety via verified code gen- eration,” arXiv, Oct. 2025. arXiv: 2510.05156 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2510.05156",
+      "citation": "L. Miculicich et al., VeriGuard: Enhancing LLM agent safety via verified code generation, Oct. 2025. arXiv: 2510.05156 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2510.05156",
       "url": "https://arxiv.org/abs/2510.05156"
     },
     {
       "number": 955,
       "key": "kim2025promptflowintegrity",
-      "citation": "J. Kim, W. Choi, and B. Lee, “Prompt flow integrity to prevent privilege escalation in LLM agents,” arXiv, Mar. 2025. arXiv: 2503.15547 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.15547",
+      "citation": "J. Kim, W. Choi, and B. Lee, Prompt flow integrity to prevent privilege escalation in LLM agents, Mar. 2025. arXiv: 2503.15547 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.15547",
       "url": "https://arxiv.org/abs/2503.15547"
     },
     {
       "number": 956,
       "key": "ji2026seagent",
-      "citation": "Z. Ji et al., “Taming various privilege escalation in llm-based agent systems: A manda- tory access control framework,” arXiv preprint arXiv:2601.11893, 2026. [Online]. Avail- able: https://arxiv.org/abs/2601.11893",
+      "citation": "Z. Ji et al., Taming various privilege escalation in LLM-based agent systems: A mandatory access control framework, 2026. arXiv: 2601.11893 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.11893",
       "url": "https://arxiv.org/abs/2601.11893"
     },
     {
       "number": 957,
       "key": "xiang2025guardagent",
-      "citation": "Z. Xiang et al., “GuardAgent: Safeguard LLM agents via knowledge-enabled reasoning,” in Proc. AAAI Conference on Artificial Intelligence, Philadelphia, PA, USA, Feb. 2026, pp. 39968–39977.",
-      "url": ""
+      "citation": "Z. Xiang et al., “GuardAgent: Safeguard LLM agents via knowledge-enabled reasoning,” in Proc. 42nd International Conference on Machine Learning, Vancouver, Canada, Jul. 2025, pp. 68 316–68 342. [Online]. Available: https://proceedings.mlr.press/v267/xiang25a.html",
+      "url": "https://proceedings.mlr.press/v267/xiang25a.html"
     },
     {
       "number": 958,
       "key": "huang2025zerotrustidentity",
-      "citation": "K. Huang et al., “A novel zero-trust identity framework for agentic AI: Decentralized authentication and fine-grained access control,” arXiv preprint arXiv:2505.19301, May 2025. arXiv: 2505.19301 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505. 19301",
+      "citation": "K. Huang et al., A novel zero-trust identity framework for agentic AI: Decentralized authentication and fine-grained access control, May 2025. arXiv: 2505.19301 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2505.19301",
       "url": "https://arxiv.org/abs/2505.19301"
     },
     {
       "number": 959,
       "key": "google2025a2a",
-      "citation": "Google For Developers, Announcing the Agent2Agent protocol (A2A): A new era of agent interoperability, Apr. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "citation": "Google For Developers, “Announcing the Agent2Agent protocol (A2A): A new era of agent interoperability,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
       "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
     },
     {
       "number": 960,
       "key": "radosevich2025mcpsafety",
-      "citation": "B. Radosevich and J. Halloran, “MCP safety audit: LLMs with the model context pro- tocol allow major security exploits,” arXiv, Apr. 2025. arXiv: 2504.03767 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.03767",
+      "citation": "B. Radosevich and J. Halloran, MCP safety audit: LLMs with the model context protocol allow major security exploits, Apr. 2025. arXiv: 2504.03767 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2504.03767",
       "url": "https://arxiv.org/abs/2504.03767"
     },
     {
       "number": 961,
       "key": "europeancommission2025gpaiguidelines",
-      "citation": "EUROPEAN COMMISSION, Guidelines on the scope of the obligations for providers of general-purpose AI models under the AI act, Jul. 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://digital-strategy.ec.europa.eu/en/library/guidelines- scope-obligations-providers-general-purpose-ai-models-under-ai-act",
+      "citation": "EUROPEAN COMMISSION, “Guidelines on the scope of the obligations for providers of general-purpose AI models under the AI Act,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
       "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act"
     },
     {
       "number": 962,
       "key": "opa2025docs",
-      "citation": "OPEN POLICY AGENT, Open policy agent documentation, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://www.openpolicyagent.org/docs/latest/",
+      "citation": "OPEN POLICY AGENT. “Open policy agent documentation,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.openpolicyagent.org/docs/latest/",
       "url": "https://www.openpolicyagent.org/docs/latest/"
     },
     {
       "number": 963,
       "key": "invariantlabs2025mcpscan",
-      "citation": "INVARIANTLABS.“MCP-scan:Securityscannerformodelcontextprotocolconfigura- tions,”Accessed:Jul.20,2026.[Online].Available:https://explorer.invariantlabs. ai/docs/mcp-scan/",
-      "url": "https://explorer.invariantlabs"
+      "citation": "Invariant Labs. “MCP-scan: Security scanner for model context protocol configurations,” Accessed: Jul. 20, 2026. [Online]. Available: explorer.invariantlabs.ai/docs/mcp-scan/",
+      "url": "https://explorer.invariantlabs.ai/docs/mcp-scan/"
     },
     {
       "number": 964,
       "key": "opentelemetry2025genai",
-      "citation": "OpenTelemetry. “Opentelemetry genAI semantic conventions,” Accessed: Jul. 20, 2026. [Online]. Available: https://github.com/open-telemetry/semantic-conventions- genai",
+      "citation": "OpenTelemetry. “Opentelemetry genAI semantic conventions,” Accessed: Jul. 20, 2026. [Online]. Available: github.com/open-telemetry/semantic-conventions-genai",
       "url": "https://github.com/open-telemetry/semantic-conventions-genai"
     },
     {
       "number": 965,
       "key": "buhler2025agentbound",
-      "citation": "C. Bühler, M. Biagiola, L. Di Grazia, and G. Salvaneschi, “Securing AI agent execu- tion,” arXiv, Oct. 2025. arXiv: 2510.21236 [cs.CR]. Accessed: Jul. 20, 2026. [Online]. Available: https://arxiv.org/abs/2510.21236",
+      "citation": "C. Bühler, M. Biagiola, L. Di Grazia, and G. Salvaneschi, AgentBound: Securing execution boundaries of AI agents, Oct. 2025. arXiv: 2510.21236 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.21236",
       "url": "https://arxiv.org/abs/2510.21236"
     },
     {
       "number": 966,
       "key": "aws2025agentcoregateway",
-      "citation": "AMAZON WEB SERVICES, Amazon bedrock agentcore gateway: A secure AI gateway for agents, tools, and models, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html",
+      "citation": "AMAZON WEB SERVICES, “Amazon Bedrock AgentCore Gateway: A secure AI gateway for agents, tools, and models,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html"
     },
     {
       "number": 967,
       "key": "wang2025manipulating",
-      "citation": "L. Wang et al., “Manipulating multimodal agents via cross-modal prompt injection,” in Proc. 33rd ACM International Conference on Multimedia, Dublin, Ireland, Oct. 2025, pp. 10955–10964.",
+      "citation": "L. Wang et al., “Manipulating multimodal agents via cross-modal prompt injection,” in Proc. 33rd ACM International Conference on Multimedia, Dublin, Ireland, Oct. 2025, pp. 10 955– 10 964.",
       "url": ""
     },
     {
       "number": 968,
       "key": "li2026vigil",
-      "citation": "Y. Li et al., “Vigil: Runtime enforcement of behavioral specifications in AI agent skills,” arXiv, Jun. 2026. arXiv: 2606.26524 [cs.CR]. Accessed: Jul. 20, 2026. [Online]. Avail- able: https://arxiv.org/abs/2606.26524",
+      "citation": "Y. Li et al., VIGIL: Runtime enforcement of behavioral specifications in AI agent skills, Jun. 2026. arXiv: 2606.26524 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.26524",
       "url": "https://arxiv.org/abs/2606.26524"
     },
     {
       "number": 969,
       "key": "he2025aitm",
+<<<<<<< Updated upstream
       "citation": "P. He, Y. Lin, S. Dong, H. Xu, Y. Xing, and H. Liu, “Red-teaming LLM multi-agent systems via communication attacks,” in Proc. Findings of the Association for Compu- tational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 6726–6747.",
+=======
+      "citation": "P. He, Y. Lin, S. Dong, H. Xu, Y. Xing, and H. Liu, “Red-teaming LLM multi-agent systems via communication attacks,” in Proc. Findings of the Association for Computational Linguistics: ACL, Vienna, Austria, Jul. 2025, pp. 6726–6747.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 970,
       "key": "palumbo2026pcas",
-      "citation": "N. Palumbo, S. Choudhary, J. Choi, P. Chalasani, M. Christodorescu, and S. Jha, “Formal policy enforcement for real-world agentic systems,” arXiv, Feb. 2026. arXiv: 2602.16708 [cs.CR]. Accessed: Jul. 20, 2026. [Online]. Available: https://arxiv. org/abs/2602.16708",
+      "citation": "N. Palumbo, S. Choudhary, J. Choi, P. Chalasani, M. Christodorescu, and S. Jha, Formal policy enforcement for real-world agentic systems, Feb. 2026. arXiv: 2602.16708 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.16708",
       "url": "https://arxiv.org/abs/2602.16708"
     },
     {
       "number": 971,
       "key": "ye2026secureforgetting",
-      "citation": "D. Ye et al., “Secure forgetting: A framework for privacy-driven unlearning in large language model (LLM)-based agents,” arXiv, Apr. 2026. arXiv: 2604.00430 [cs.MA]. Accessed: Jul. 20, 2026. [Online]. Available: https://arxiv.org/abs/2604.00430",
-      "url": "https://saif.google/"
+      "citation": "D. Ye et al., Secure forgetting: A framework for privacy-driven unlearning in large language model (LLM)-based agents, Apr. 2026. arXiv: 2604.00430 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2604.00430",
+      "url": "https://arxiv.org/abs/2604.00430"
     },
     {
       "number": 972,
       "key": "dong2026deltabox",
-      "citation": "Y. Dong et al., “DeltaBox: Scaling stateful AI agents with millisecond-level sandbox checkpoint/rollback,”arXiv,May2026.arXiv:2605.22781[cs.OS].[Online].Available: https://arxiv.org/abs/2605.22781",
+      "citation": "Y. Dong et al., DeltaBox: Scaling stateful AI agents with millisecond-level sandbox checkpoint/rollback, May 2026. arXiv: 2605.22781 [cs.OS]. [Online]. Available: https://arxiv.org/abs/2605.22781",
       "url": "https://arxiv.org/abs/2605.22781"
     },
     {
       "number": 973,
       "key": "nelson2025incidentresponse",
-      "citation": "A.Nelson,S.Rekhi,M.Souppaya,andK.Scarfone,“Incidentresponserecommendations and considerations for cybersecurity risk management: A csf 2.0 community profile,” National Institute of Standards and Technology, Tech. Rep. NIST SP 800-61r3, Apr. 2025. [Online]. Available: https://doi.org/10.6028/NIST.SP.800-61r3",
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Incident response recommendations and considerations for cybersecurity risk management: A csf 2.0 community profile. ”[Online]. Available: https://doi.org/10.6028/NIST.SP.800-61r3",
       "url": "https://doi.org/10.6028/NIST.SP.800-61r3"
     },
     {
       "number": 974,
       "key": "aws2025agentcoreidentity",
-      "citation": "A. W. Services, Provide identity and credential management for agent applications with amazon bedrock agentcore identity, Amazon Bedrock AgentCore Developer Guide, 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock- agentcore/latest/devguide/identity.html",
+      "citation": "Amazon Web Services, “Provide Identity and Credential Management for Agent Applications with Amazon Bedrock AgentCore Identity,” 2025. Accessed: Jul. 20, 2026. [Online]. Available: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html"
     },
     {
       "number": 975,
       "key": "zeng2025privacyannotation",
-      "citation": "H. Zeng et al., “Automated privacy information annotation in large language model interactions,”arXiv,May2025.arXiv:2505.20910[cs.CL].[Online].Available:https://arxiv.org/abs/2505.20910",
+      "citation": "H. Zeng et al., Automated privacy information annotation in large language model interactions, May 2025. arXiv: 2505.20910 [cs.CL]. [Online]. Available: https://arxiv.org/abs/2505.20910",
       "url": "https://arxiv.org/abs/2505.20910"
     },
     {
       "number": 976,
       "key": "garza2025prvl",
-      "citation": "L. Garza, A. Kotal, A. Piplai, L. Elluri, P. K. Das, and A. Chadha, “PRvL: Quantifying the capabilities and risks of large language models for PII redaction,” arXiv, Aug. 2025. arXiv: 2508.05545 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.05545",
+      "citation": "L. Garza, A. Kotal, A. Piplai, L. Elluri, P. K. Das, and A. Chadha, PRvL: Quantifying the capabilities and risks of large language models for PII redaction, Aug. 2025. arXiv: 2508.05545 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.05545",
       "url": "https://arxiv.org/abs/2508.05545"
     },
     {
       "number": 977,
       "key": "holschneider2026piishield",
-      "citation": "M. Holschneider and S. LeeYuk, “PII shield: A browser-level overlay for user-controlled personal identifiable information (PII) management in AI interactions,” arXiv, Mar. 2026. arXiv: 2603.24895 [cs.HC]. [Online]. Available: https://arxiv.org/abs/2603.",
+      "citation": "M. Holschneider and S. LeeYuk, PII shield: A browser-level overlay for user-controlled personal identifiable information (PII) management in AI interactions, Mar. 2026. arXiv: 2603.24895 [cs.HC]. [Online]. Available: https://arxiv.org/abs/2603.24895",
       "url": "https://arxiv.org/abs/2603.24895"
     },
     {
       "number": 978,
       "key": "bullwinkel2026trigger",
-      "citation": "B. Bullwinkel, G. Severi, K. Hines, A. Minnich, R. S. Siva Kumar, and Y. Zunger, “The trigger in the haystack: Extracting and reconstructing LLM backdoor triggers,” arXiv, Feb. 2026. arXiv: 2602.03085 [cs.CR]. [Online]. Available: https://arxiv.org/abs/ 2602.03085",
+      "citation": "B. Bullwinkel, G. Severi, K. Hines, A. Minnich, R. S. Siva Kumar, and Y. Zunger, The trigger in the haystack: Extracting and reconstructing LLM backdoor triggers, Feb. 2026. arXiv: 2602.03085 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.03085",
       "url": "https://arxiv.org/abs/2602.03085"
     },
     {
       "number": 979,
       "key": "geng2025pisanitizer",
-      "citation": "R. Geng, Y. Wang, C. Yin, M. Cheng, Y. Chen, and J. Jia, “PISanitizer: Preventing prompt injection to long-context LLMs via prompt sanitization,” arXiv, Nov. 2025. arXiv: 2511.10720 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.10720",
+      "citation": "R. Geng, Y. Wang, C. Yin, M. Cheng, Y. Chen, and J. Jia, PISanitizer: Preventing prompt injection to long-context LLMs via prompt sanitization, Nov. 2025. arXiv: 2511.10720 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2511.10720",
       "url": "https://arxiv.org/abs/2511.10720"
     },
     {
       "number": 980,
       "key": "sunil2026memorypoisoning",
-      "citation": "B. D. Sunil, I. Sinha, P. Maheshwari, S. Todmal, S. Mallik, and S. Mishra, “Memory poisoning attack and defense on memory based LLM-agents,” arXiv, Jan. 2026. arXiv: 2601.05504 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.05504",
+      "citation": "B. D. Sunil, I. Sinha, P. Maheshwari, S. Todmal, S. Mallik, and S. Mishra, Memory poisoning attack and defense on memory based LLM-agents, Jan. 2026. arXiv: 2601.05504 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.05504",
       "url": "https://arxiv.org/abs/2601.05504"
     },
     {
       "number": 981,
       "key": "doshi2026safetooluse",
-      "citation": "A. Doshi, Y. Hong, C. Xu, E. Kang, A. Kapravelos, and C. Kästner, “Towards verifiably safe tool use for LLM agents,” in Proc. IEEE/ACM Int. Conf. Softw. Eng.: New Ideas Emerg. Results (ICSE-NIER), Pittsburgh, PA, USA, Jul. 2026, pp. 201–205.",
+      "citation": "A. Doshi, Y. Hong, C. Xu, E. Kang, A. Kapravelos, and C. K”astner, “Towards verifiably safe tool use for LLM agents,” in Proc. IEEE/ACM 48th International Conference on Software Engineering: New Ideas and Emerging Results, Rio de Janeiro, Brazil, Jul. 2026, pp. 201–205.",
       "url": ""
     },
     {
       "number": 982,
       "key": "jiang2026agenticskills",
-      "citation": "Y. Jiang et al., “SoK: Agentic skills—beyond tool use in LLM agents,” arXiv, Feb. 2026. arXiv: 2602.20867 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.20867",
+      "citation": "Y. Jiang et al., SoK: Agentic skills—beyond tool use in LLM agents, Feb. 2026. arXiv: 2602.20867 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.20867",
       "url": "https://arxiv.org/abs/2602.20867"
     },
     {
       "number": 983,
       "key": "zhang2026grantbox",
-      "citation": "Q. Zhang et al., “Evaluating privilege usage of agents with real-world tools,” in Proc. ACM Int. Conf. Found. Softw. Eng. (FSE Companion), Ideas, Visions, and Reflections Track, Seattle, WA, USA, Jul. 2026, pp. 1192–1196.",
+      "citation": "Q. Zhang et al., “Evaluating privilege usage of agents with real-world tools,” in Proc. 34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering Companion, Montreal, QC, Canada, Jul. 2026, pp. 1192–1196.",
       "url": ""
     },
     {
       "number": 984,
       "key": "piao2025agentbay",
-      "citation": "Y. Piao et al., “AgentBay: A hybrid interaction sandbox for seamless human-AI inter- vention in agentic systems,” arXiv, Dec. 2025. arXiv: 2512.04367 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.04367",
+      "citation": "Y. Piao et al., AgentBay: A hybrid interaction sandbox for seamless human-AI intervention in agentic systems, Dec. 2025. arXiv: 2512.04367 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2512.04367",
       "url": "https://arxiv.org/abs/2512.04367"
     },
     {
       "number": 985,
       "key": "south2025delegation",
-      "citation": "T. South et al., “Authenticated delegation and authorized AI agents,” arXiv, Jan. 2025. arXiv: 2501.09674 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2501.09674",
+      "citation": "T. South et al., Authenticated delegation and authorized AI agents, Jan. 2025. arXiv: 2501.09674 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2501.09674",
       "url": "https://arxiv.org/abs/2501.09674"
     },
     {
       "number": 986,
       "key": "luo2025crossoauth",
-      "citation": "K. Luo, X. Wang, P. H. A. Fung, W. C. Lau, and J. Lecomte, “Universal cross-app attacks: Exploiting and securing OAuth 2.0 in integration platforms,” in Proc. USENIX Security Symp., Seattle, WA, USA, Aug. 2025, pp. 3221–3238.",
-      "url": ""
+      "citation": "K. Luo, X. Wang, P. H. A. Fung, W. C. Lau, and J. Lecomte, “Universal cross-app attacks: Exploiting and securing OAuth 2.0 in integration platforms,” in Proc. 34th USENIX Security Symposium, Seattle, WA, USA, Aug. 2025, pp. 3221–3238. [Online]. Available: https://www.usenix.org/conference/usenixsecurity25/presentation/luo-kaixuan",
+      "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/luo-kaixuan"
     },
     {
       "number": 987,
       "key": "zhou2026mcpauth",
-      "citation": "H. Zhou, X. Zhang, H. Zhang, H. Zhang, M. Zhang, and M. Yang, “A first measurement study on authentication security in real-world remote MCP servers,” arXiv, May 2026. arXiv: 2605.22333 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.22333",
+      "citation": "H. Zhou, X. Zhang, H. Zhang, H. Zhang, M. Zhang, and M. Yang, A first measurement study on authentication security in real-world remote MCP servers, May 2026. arXiv: 2605.22333 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.22333",
       "url": "https://arxiv.org/abs/2605.22333"
     },
     {
       "number": 988,
       "key": "wang2026mage",
-      "citation": "Y. Wang, T. Jiang, J. Liang, C. Fleming, and T. Wang, “MAGE: Safeguarding LLM agentsagainstlong-horizonthreatsviashadowmemory,”arXiv,May2026.arXiv:2605. 03228 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.03228",
+      "citation": "Y. Wang, T. Jiang, J. Liang, C. Fleming, and T. Wang, MAGE: Safeguarding LLM agents against long-horizon threats via shadow memory, May 2026. arXiv: 2605.03228 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.03228",
       "url": "https://arxiv.org/abs/2605.03228"
     },
     {
       "number": 989,
       "key": "kahani2026ctrace",
-      "citation": "N. Kahani, M. Barati, and D. Addae, “Runtime compliance verification for ai agents,” arXiv preprint arXiv:2606.19242, 2026. [Online]. Available: https://arxiv.org/abs/ 2606.19242",
+      "citation": "N. Kahani, M. Barati, and D. Addae, Runtime compliance verification for AI agents, 2026. arXiv: 2606.19242 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.19242",
       "url": "https://arxiv.org/abs/2606.19242"
     },
     {
       "number": 990,
       "key": "piccardo2026agentic",
+<<<<<<< Updated upstream
       "citation": "G. Piccardo, G. F. Italiano, and A. Martino, “The agentic kill chain: A cognitive threat framework for autonomous agent ecosystems,” in Proc. Joint National Conference on Cybersecurity (ITASEC/SERICS), CEUR Workshop Proceedings, Vol. 4198, Italy, Jan. 2026.",
       "url": ""
+=======
+      "citation": "G. Piccardo, G. F. Italiano, and A. Martino, “The agentic kill chain: A cognitive threat framework for autonomous agent ecosystems,” in Proc. Joint National Conference on Cybersecurity, Cagliari, Italy, Feb. 2026, to appear. [Online]. Available: https://ceur-ws.org/Vol-4198/paper7.pdf",
+      "url": "https://ceur-ws.org/Vol-4198/paper7.pdf"
+>>>>>>> Stashed changes
     },
     {
       "number": 991,
       "key": "macdiarmid2511natural",
-      "citation": "M. MacDiarmid et al., “Natural emergent misalignment from reward hacking in produc- tion RL,” arXiv, Nov. 2025. arXiv: 2511.18397 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2511.18397",
+      "citation": "M. MacDiarmid et al., Natural emergent misalignment from reward hacking in production RL, Nov. 2025. arXiv: 2511.18397 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2511.18397",
       "url": "https://arxiv.org/abs/2511.18397"
     },
     {
       "number": 992,
       "key": "qu2026supply",
-      "citation": "Y. Qu et al., “Supply-chain poisoning attacks against LLM coding agent skill ecosys- tems,” arXiv, Apr. 2026. arXiv: 2604.03081 [cs.CR]. [Online]. Available: https:// arxiv.org/abs/2604.03081",
+      "citation": "Y. Qu et al., Supply-chain poisoning attacks against LLM coding agent skill ecosystems, Apr. 2026. arXiv: 2604.03081 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.03081",
       "url": "https://arxiv.org/abs/2604.03081"
     },
     {
       "number": 993,
       "key": "Coalition2025Announcing",
-      "citation": "Coalition for Secure AI, Announcing the CoSAI principles for secure-by-design agentic systems, Coalition for Secure AI (OASIS Open Project), Jul. 2025. Accessed: Jul. 16, 2026. [Online]. Available: https://www.coalitionforsecureai.org/announcing- the-cosai-principles-for-secure-by-design-agentic-systems/",
+      "citation": "Coalition for Secure AI, “Announcing the CoSAI Principles for Secure-by-Design Agentic Systems,” 2025. Accessed: Jul. 16, 2026. [Online]. Available: https://www.coalitionforsecureai.org/announcing-the-cosai-principles-for-secure-by-design-agentic-systems/",
       "url": "https://www.coalitionforsecureai.org/announcing-the-cosai-principles-for-secure-by-design-agentic-systems/"
     },
     {
@@ -10503,31 +10901,35 @@ const DATA = {
     {
       "number": 995,
       "key": "mavravcic2025policy",
-      "citation": "J. Mavračić, “Policy cards: Machine-readable runtime governance for autonomous AI agents,” arXiv, Oct. 2025. arXiv: 2510.24383 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2510.24383",
+      "citation": "J. Mavračić, Policy cards: Machine-readable runtime governance for autonomous AI agents, Oct. 2025. arXiv: 2510.24383 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2510.24383",
       "url": "https://arxiv.org/abs/2510.24383"
     },
     {
       "number": 996,
       "key": "muhammad2026audit",
+<<<<<<< Updated upstream
       "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code framework for continuous AI assurance,” Front. Artif. Intell., vol. 9, p. 1759211, Feb. 2026.",
+=======
+      "citation": "A. E. Muhammad, K.-C. Yow, and S. Alsenan, “Audit-as-code: A policy-as-code framework for continuous AI assurance,” Frontiers in Artificial Intelligence, vol. 9, p. 1 759 211, Feb. 2026.",
+>>>>>>> Stashed changes
       "url": "https://docs.sonarsource.com/sonarqube-server/2026.1/ai-capabilities/ai-code-assurance"
     },
     {
       "number": 997,
       "key": "josh2025the",
-      "citation": "J. Woodruff, The agentic trust framework: Zero trust governance for AI agents, Cloud Security Alliance Blog, Feb. 2026. Accessed: Feb. 2, 2026. [Online]. Available: https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework- zero-trust-governance-for-ai-agents",
-      "url": "https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework-"
+      "citation": "J. Woodruff, “The Agentic Trust Framework: Zero Trust Governance for AI Agents,” 2026. Accessed: Feb. 2, 2026. [Online]. Available: https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework-zero-trust-governance-for-ai-agents",
+      "url": "https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework-zero-trust-governance-for-ai-agents"
     },
     {
       "number": 998,
       "key": "chu2026systematic",
-      "citation": "K.Chu,“Fromstatelessqueriestoautonomousactions:Alayeredsecurityframeworkfor agentic AI systems,” arXiv, Apr. 2026. arXiv: 2604.23338 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.23338",
-      "url": "https://docs.gitlab.com/user/duo_agent_platform/security_threats/"
+      "citation": "K. Chu, From stateless queries to autonomous actions: A layered security framework for agentic AI systems, Apr. 2026. arXiv: 2604.23338 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.23338",
+      "url": "https://arxiv.org/abs/2604.23338"
     },
     {
       "number": 999,
       "key": "maxwell2026microsoft",
-      "citation": "M. Cooter, Microsoft identifies seven new ways AI agents can be hacked, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://www.csoonline.com/article/ 4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked- 2.html",
+      "citation": "M. Cooter, “Microsoft Identifies Seven New Ways AI Agents Can Be Hacked,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://www.csoonline.com/article/4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked-2.html",
       "url": "https://www.csoonline.com/article/4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked-2.html"
     },
     {
@@ -10539,73 +10941,81 @@ const DATA = {
     {
       "number": 1001,
       "key": "qi2026towards",
-      "citation": "J. Qi et al., “Towards trustworthy agentic AI: A comprehensive survey of safety, ro- bustness, privacy, and system security,” Academia AI Appl., vol. 2, no. 2, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://doi.org/10.20935/AcadAI8260",
+      "citation": "J. Qi et al., “Towards trustworthy agentic AI: A comprehensive survey of safety, robustness, privacy, and system security,” Academia AI Applications, vol. 2, no. 2, Apr. 2026.",
       "url": "https://doi.org/10.20935/AcadAI8260"
     },
     {
       "number": 1002,
       "key": "allegrini2025formalizing",
-      "citation": "E. Allegrini, A. Shreekumar, and Z. B. Celik, “Formalizing the safety, security, and functional properties of agentic AI systems,” in Proc. ICLR Workshop on Agents in the Wild: Safety, Security, and Beyond, Vienna, Austria, Apr. 2026, to appear.",
-      "url": ""
+      "citation": "E. Allegrini, A. Shreekumar, and Z. B. Celik, “Formalizing the safety, security, and functional properties of agentic AI systems,” in Proc. ICLR Workshop on Agents in the Wild: Safety, Security, and Beyond, Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://iclr.cc/virtual/2026/10016309",
+      "url": "https://iclr.cc/virtual/2026/10016309"
     },
     {
       "number": 1003,
       "key": "prinos2026stable",
-      "citation": "K.Prinosetal.,“Stableagenticcontrol:Tool-mediatedLLMarchitectureforautonomous cyber defense,” arXiv, May 2026. arXiv: 2605.03034 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.03034",
+      "citation": "K. Prinos et al., Stable agentic control: Tool-mediated LLM architecture for autonomous cyber defense, May 2026. arXiv: 2605.03034 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.03034",
       "url": "https://arxiv.org/abs/2605.03034"
     },
     {
       "number": 1004,
       "key": "qiye2026microsoft",
-      "citation": "企业 IT 培训. “微软 build 2026 重磅发布 AI 智能体控制规范 ACS,” Accessed: Jul. 20, 2026. [Online]. Available: https://www.zpedu.com/it/ai/38329.html",
+      "citation": "企业IT培训, “微软Build 2026重磅发布AI智能体控制规范ACS,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://www.zpedu.com/it/ai/38329.html",
       "url": "https://www.zpedu.com/it/ai/38329.html"
     },
     {
       "number": 1005,
       "key": "tiwariexecute",
-      "citation": "R. Tiwari and D. Williams, “Execute-only agents: Architectural defense against prompt injection for AI agents,” arXiv preprint arXiv:2606.10749, 2026.",
-      "url": ""
+      "citation": "R. Tiwari and D. Williams, “Execute-only agents: Architectural defense against prompt injection for AI agents,” in Proc. Agentic OS Workshop, Pittsburgh, PA, USA, Mar. 2026, to appear. [Online]. Available: https://os-for-agent.github.io/papers/AgenticOS_2026_paper_21.pdf",
+      "url": "https://os-for-agent.github.io/papers/AgenticOS_2026_paper_21.pdf"
     },
     {
       "number": 1006,
       "key": "liu2026safeagent",
-      "citation": "H. Liu, E. Ilyushin, J. Ni, and M. Zhu, “SafeAgent: A runtime protection architecture for agentic systems,” arXiv, Apr. 2026. arXiv: 2604.17562 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2604.17562",
+      "citation": "H. Liu, E. Ilyushin, J. Ni, and M. Zhu, SafeAgent: A runtime protection architecture for agentic systems, Apr. 2026. arXiv: 2604.17562 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2604.17562",
       "url": "https://arxiv.org/abs/2604.17562"
     },
     {
       "number": 1007,
       "key": "vissers2026matra",
+<<<<<<< Updated upstream
       "citation": "T. Van hamme et al., “MATRA: Modeling the attack surface of agentic AI systems-OpenClaw case study,” in Proc. Int. Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI), Lisbon, Portugal, Jul. 2026, to appear.",
+=======
+      "citation": "T. Van Hamme et al., “MATRA: Modeling the attack surface of agentic AI systems—OpenClaw case study,” in Proc. International Workshop on Designing and Measuring Security in Systems with AI, Lisbon, Portugal, Jul. 2026, to appear.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 1008,
       "key": "zhiding2026zscaler",
-      "citation": "至顶网, Zscaler 零信任架构如何为智能体 AI 时代保驾护航, Jun. 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://net.zhiding.cn/network_security_ zone/2026/0611/3190210.shtml",
+      "citation": "至顶网, “Zscaler零信任架构如何为智能体AI时代保驾护航,” 2026. Accessed: Jul. 20, 2026. [Online]. Available: https://net.zhiding.cn/network_security_zone/2026/0611/3190210.shtml",
       "url": "https://net.zhiding.cn/network_security_zone/2026/0611/3190210.shtml"
     },
     {
       "number": 1009,
       "key": "amazon2026secure",
-      "citation": "Amazon Web Services, Secure AI agents with policy and lambda interceptors in amazon bedrock agentcore gateway, AWS Machine Learning Blog, Jun. 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://aws.amazon.com/cn/blogs/machine-learning/ secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock- agentcore-gateway/",
+      "citation": "Amazon Web Services, “Secure AI Agents with Policy and Lambda Interceptors in Amazon Bedrock AgentCore Gateway,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://aws.amazon.com/cn/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
       "url": "https://aws.amazon.com/cn/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/"
     },
     {
       "number": 1010,
       "key": "nirmata2026policy",
-      "citation": "Nirmata, Policy-driven authorization for AI agents with kyverno and AWS agentcore, NirmataBlog,Apr.2026.Accessed:Jul.21,2026.[Online].Available:https://nirmata. com/2026/04/08/policy-driven-authorization-for-ai-agents-with-kyverno- and-aws-agentcore/",
+      "citation": "Nirmata, “Policy-Driven Authorization for AI Agents with Kyverno and AWS AgentCore,” 2026. [Online]. Available: https://nirmata.com/2026/04/08/policy-driven-authorization-for-ai-agents-with-kyverno-and-aws-agentcore/",
       "url": "https://nirmata.com/2026/04/08/policy-driven-authorization-for-ai-agents-with-kyverno-and-aws-agentcore/"
     },
     {
       "number": 1011,
       "key": "li2026agentic",
-      "citation": "H. Li, D. Xu, M. Chen, and Y. Liu, “Agentic open RAN: A deterministic and auditable framework for intent-driven radio control,” in Proc. IEEE Int. Conf. Commun. (ICC), Beijing, China, Jun. 2026, pp. 1–6.",
+      "citation": "H. Li, D. Xu, M. Chen, and Y. Liu, “Agentic open RAN: A deterministic and auditable framework for intent-driven radio control,” in Proc. IEEE International Conference on Communications, Glasgow, Scotland, UK, Jun. 2026, pp. 1–6.",
       "url": ""
     },
     {
       "number": 1012,
       "key": "wang2026shadows",
+<<<<<<< Updated upstream
       "citation": "X. Wang, K. Huang, B. Liang, H. Li, and X. Du, “Shadows in the code: Exploring the risks and defenses of LLM-based multi-agent software development systems,” in Proc. AAAI Conf. Artif. Intell., vol. 40, Jan. 2026, pp. 37970–37978.",
+=======
+      "citation": "X. Wang, K. Huang, B. Liang, H. Li, and X. Du, “Shadows in the code: Exploring the risks and defenses of LLM-based multi-agent software development systems,” in Proc. AAAI Conference on Artificial Intelligence, Singapore, Jan. 2026, pp. 37 970–37 978.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -10617,26 +11027,31 @@ const DATA = {
     {
       "number": 1014,
       "key": "adcersa2026symjack",
-      "citation": "Adversa AI, SymJack: The approval prompt is lying to you: A symlink-hijack RCE in six AI coding agents, Adversa AI Blog, May 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://adversa.ai/blog/the-approval-prompt-is-lying-to-you- symlink-rce-in-five-ai-coding-agents-claude-code-cursor-antigravity- copilot-grok-build/",
+      "citation": "Adversa AI, “SymJack: The Approval Prompt Is Lying to You: A Symlink-Hijack RCE in Six AI Coding Agents,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://adversa.ai/blog/the-approval-prompt-is-lying-to-you-symlink-rce-in-five-ai-coding-agents-claude-code-cursor-antigravity-copilot-grok-build/",
       "url": "https://adversa.ai/blog/the-approval-prompt-is-lying-to-you-symlink-rce-in-five-ai-coding-agents-claude-code-cursor-antigravity-copilot-grok-build/"
     },
     {
       "number": 1015,
       "key": "boisvert2025silent",
+<<<<<<< Updated upstream
       "citation": "L. Boisvert et al., “Silent Sabotage: Injecting Backdoors into AI Agents Through Fine-Tuning,” in Proc. Workshop on Computer Use Agents (ICML), Vancouver, Canada, Jul. 2025, to appear.",
       "url": ""
+=======
+      "citation": "L. Boisvert et al., “Silent sabotage: Injecting backdoors into AI agents through fine-tuning,” in Proc. ICML Workshop on Computer Use Agents, Vancouver, Canada, Jul. 2025, to appear. [Online]. Available: https://icml.cc/virtual/2025/49791",
+      "url": "https://icml.cc/virtual/2025/49791"
+>>>>>>> Stashed changes
     },
     {
       "number": 1016,
       "key": "hao2026poise",
-      "citation": "H. Hao et al., “POISE: Position-aware undetectable skill injection on LLM agents,” arXiv, Jun. 2026. arXiv: 2606.07943 [cs.CR]. [Online]. Available: https://arxiv. org/abs/2606.07943",
+      "citation": "H. Hao et al., POISE: Position-aware undetectable skill injection on LLM agents, Jun. 2026. arXiv: 2606.07943 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.07943",
       "url": "https://arxiv.org/abs/2606.07943"
     },
     {
       "number": 1017,
       "key": "wang2026hijacking",
-      "citation": "H. Wang, S. Yang, Y. Chen, and P. Liu, “Hijacking agent memory: Stealthy trojan at- tacksthroughconversationalinteraction,”arXiv,May2026.arXiv:2605.29960[cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.29960",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+      "citation": "H. Wang, S. Yang, Y. Chen, and P. Liu, Hijacking agent memory: Stealthy trojan attacks through conversational interaction, May 2026. arXiv: 2605.29960 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.29960",
+      "url": "https://arxiv.org/abs/2605.29960"
     },
     {
       "number": 1018,
@@ -10647,307 +11062,320 @@ const DATA = {
     {
       "number": 1019,
       "key": "Infosecurity2026new",
-      "citation": "Infosecurity Magazine, New ”Agentjacking” attacks could hijack AI coding agents, Jun. 2026.Accessed:Jul.21,2026.[Online].Available:https://www.infosecurity-magazine. com/news/agentjacking-attacks-hijack-ai/",
+      "citation": "Infosecurity Magazine, “New \"Agentjacking\" Attacks Could Hijack AI Coding Agents,” 2026. [Online]. Available: https://www.infosecurity-magazine.com/news/agentjacking-attacks-hijack-ai/",
       "url": "https://www.infosecurity-magazine.com/news/agentjacking-attacks-hijack-ai/"
     },
     {
       "number": 1020,
       "key": "chen2026iterinject",
-      "citation": "Z. Chen et al., “IterInject: Indirect prompt injection against LLM agents via feedback- guided iterative optimization,” arXiv, May 2026, Submitted to EMNLP 2026. arXiv: 2605.24659 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.24659",
+      "citation": "Z. Chen et al., IterInject: Indirect prompt injection against LLM agents via feedback-guided iterative optimization, May 2026. arXiv: 2605.24659 [cs.LG]. [Online]. Available: https://arxiv.org/abs/2605.24659",
       "url": "https://arxiv.org/abs/2605.24659"
     },
     {
       "number": 1021,
       "key": "luo2026alignment",
-      "citation": "M. Luo et al., “When alignment isn’t enough: Response-path attacks on llm agents,” arXiv preprint arXiv:2605.02187, 2026.",
-      "url": ""
+      "citation": "M. Luo et al., Rewriting the response path: Silent tampering and provider-signed defense in BYOK LLM agents, May 2026. arXiv: 2605.02187 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.02187",
+      "url": "https://arxiv.org/abs/2605.02187"
     },
     {
       "number": 1022,
       "key": "fan2025peerguard",
-      "citation": "F. Fan and X. Li, “Peerguard: Defending multi-agent systems against backdoor attacks through mutual reasoning,” in In Proceedings of the IEEE International Conference on Information Reuse and Integration and Data Science (IRI), IEEE, 2025, pp. 234–239.",
+      "citation": "F. Fan and X. Li, “PeerGuard: Defending multi-agent systems against backdoor attacks through mutual reasoning,” in Proc. IEEE International Conference on Information Reuse and Integration for Data Science, San Jose, CA, USA, Aug. 2025, pp. 234–239.",
       "url": ""
     },
     {
       "number": 1023,
       "key": "lin2026survey",
-      "citation": "Z. Lin, C. Li, and K. Chen, “A surveyon the securityof long-term memory in llm agents: Toward mnemonic sovereignty,” arXiv preprint arXiv:2604.16548, 2026.",
-      "url": ""
+      "citation": "Z. Lin, C. Li, and K. Chen, A survey on the security of long-term memory in LLM agents: Toward mnemonic sovereignty, Apr. 2026. arXiv: 2604.16548 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.16548",
+      "url": "https://arxiv.org/abs/2604.16548"
     },
     {
       "number": 1024,
       "key": "luo2026shadowmerge",
-      "citation": "Y. Luo et al., “Shadowmerge: A novel poisoning attack on graph-based agent memory via relation-channel conflicts,” arXiv preprint arXiv:2605.09033, 2026.",
-      "url": ""
+      "citation": "Y. Luo et al., Shadowmerge: A novel poisoning attack on graph-based agent memory via relation-channel conflicts, May 2026. arXiv: 2605.09033 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.09033",
+      "url": "https://arxiv.org/abs/2605.09033"
     },
     {
       "number": 1025,
       "key": "patel2026vats",
-      "citation": "H. Patel and K. Pai, “Vats: Exploiting implicit authority in error-path injection via systematic mutation,” arXiv preprint arXiv:2606.07992, 2026.",
+      "citation": "H. Patel and K. Pai, “VATS: Exploiting implicit authority in error-path injection via systematic mutation,” in Proc. ICML Workshop on Agents in the Wild, Seoul, South Korea, Jul. 2026, to appear.",
       "url": ""
     },
     {
       "number": 1026,
       "key": "xu2026security",
-      "citation": "L. Xu and X. Chen, “Security attack and defense strategies for autonomous agent frame- works:Alayeredreviewwithopenclawasacasestudy,”arXivpreprintarXiv:2604.27464, 2026.",
-      "url": "https://www.alibabacloud.com/help/en/asc/latest/agent-risk-1"
+      "citation": "L. Xu and X. Chen, Security attack and defense strategies for autonomous agent frameworks: A layered review with OpenClaw as a case study, Apr. 2026. arXiv: 2604.27464 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.27464",
+      "url": "https://arxiv.org/abs/2604.27464"
     },
     {
       "number": 1027,
       "key": "bu2026spade",
-      "citation": "Y. Bu et al., Spade-bench: Evaluating spontaneous strategic deception in agents via plan- action divergence, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/ 2606.02380",
+      "citation": "Y. Bu et al., SPADE-bench: Evaluating spontaneous strategic deception in agents via plan-action divergence, Jun. 2026. arXiv: 2606.02380 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.02380",
       "url": "https://arxiv.org/abs/2606.02380"
     },
     {
       "number": 1028,
       "key": "bisconti2026boiling",
-      "citation": "P. Bisconti et al., Boiling the frog: A multi-turn benchmark for agentic safety, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.22643",
+      "citation": "P. Bisconti et al., Boiling the frog: A multi-turn benchmark for agentic safety, May 2026. arXiv: 2605.22643 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.22643",
       "url": "https://arxiv.org/abs/2605.22643"
     },
     {
       "number": 1029,
       "key": "yan2026trust",
-      "citation": "L. Yan et al., Trust no tool: Evaluating and defending llm agents under untrusted tool feedback, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.",
+      "citation": "L. Yan et al., Trust no tool: Evaluating and defending LLM agents under untrusted tool feedback, May 2026. arXiv: 2605.17453 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.17453",
       "url": "https://arxiv.org/abs/2605.17453"
     },
     {
       "number": 1030,
       "key": "feng2026braveguard",
-      "citation": "Y. Feng et al., Braveguard: From open-world threats to safer computer-use agents, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2606.01166",
+      "citation": "Y. Feng et al., BraveGuard: From open-world threats to safer computer-use agents, Jun. 2026. arXiv: 2606.01166 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.01166",
       "url": "https://arxiv.org/abs/2606.01166"
     },
     {
       "number": 1031,
       "key": "bensalem2026position",
-      "citation": "S. Bensalem et al., “Position: A three-layer probabilistic assume-guarantee architecture isstructurallyrequiredforsafellmagentdeployment,”arXiv preprint arXiv:2605.18672, 2026.",
-      "url": ""
+      "citation": "S. Bensalem et al., Position: A three-layer probabilistic assume-guarantee architecture is structurally required for safe LLM agent deployment, May 2026. arXiv: 2605 . 18672 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.18672",
+      "url": "https://arxiv.org/abs/2605.18672"
     },
     {
       "number": 1032,
       "key": "li2026traces",
-      "citation": "J. Li, Y. Li, B. Zhang, R. Tang, and K.-H. Huang, Traces: Proactive safety auditing for multi-turn llm agents via trajectory-state modeling, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.27690",
+      "citation": "J. Li, Y. Li, B. Zhang, R. Tang, and K.-H. Huang, TRACES: Proactive safety auditing for multi-turn LLM agents via trajectory-state modeling, May 2026. arXiv: 2605.27690 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.27690",
       "url": "https://arxiv.org/abs/2605.27690"
     },
     {
       "number": 1033,
       "key": "liu2026agentdog",
-      "citation": "D.Liu,Q.Ren,C.Qian,S.Shao,andY.Xie,Agentdog:Adiagnosticguardrailframework for ai agent safety and security, 2026. Accessed: 2026. [Online]. Available: https:// arxiv.org/abs/2601.18491",
+      "citation": "D. Liu, Q. Ren, C. Qian, S. Shao, and Y. Xie, AgentDoG: A diagnostic guardrail framework for AI agent safety and security, Jan. 2026. arXiv: 2601.18491 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2601.18491",
       "url": "https://arxiv.org/abs/2601.18491"
     },
     {
       "number": 1034,
       "key": "leong2026defense",
-      "citation": "J. W. Leong, Defense effectiveness across architectural layers: A mechanistic evaluation of persistent memory attacks on stateful llm agents, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.08442",
+      "citation": "J. W. Leong, Defense effectiveness across architectural layers: A mechanistic evaluation of persistent memory attacks on stateful LLM agents, May 2026. arXiv: 2605.08442 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.08442",
       "url": "https://arxiv.org/abs/2605.08442"
     },
     {
       "number": 1035,
       "key": "yin2026on-policy",
-      "citation": "B. Yin, Q. Li, and X. Wang, On-policy self-evolution via failure trajectories for agentic safety alignment, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/ 2605.11882",
+      "citation": "B. Yin, Q. Li, and X. Wang, On-policy self-evolution via failure trajectories for agentic safety alignment, May 2026. arXiv: 2605.11882 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.11882",
       "url": "https://arxiv.org/abs/2605.11882"
     },
     {
       "number": 1036,
       "key": "hong2026trace",
-      "citation": "Z. Hong et al., Trace: Trajectory risk-aware compression for long-horizon agent safety, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2606.00611",
+      "citation": "Z. Hong et al., TRACE: Trajectory risk-aware compression for long-horizon agent safety, Jun. 2026. arXiv: 2606.00611 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.00611",
       "url": "https://arxiv.org/abs/2606.00611"
     },
     {
       "number": 1037,
       "key": "fernandez2026operationalizing",
-      "citation": "M. Fernandez, Operationalizing reconstructive authority: Runtime construction, depen- dency resolution, and execution gating in autonomous agent systems, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.23935",
+      "citation": "M. Fernandez, Operationalizing reconstructive authority: Runtime construction, dependency resolution, and execution gating in autonomous agent systems, May 2026. arXiv: 2605.23935 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.23935",
       "url": "https://arxiv.org/abs/2605.23935"
     },
     {
       "number": 1038,
       "key": "jin2026skillsafetybench",
-      "citation": "C. Jin et al., Skillsafetybench: Evaluating agent safety under skill-facing attack surfaces, 2026. Accessed: 2026. [Online]. Available: https://arxiv.org/abs/2605.12015",
+      "citation": "C. Jin et al., SkillSafetyBench: Evaluating agent safety under skill-facing attack surfaces, May 2026. arXiv: 2605.12015 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.12015",
       "url": "https://arxiv.org/abs/2605.12015"
     },
     {
       "number": 1039,
       "key": "Ramesh2026Misconfigured",
-      "citation": "R. Ramesh, Misconfigured ai agents let attacks slip past controls, 2026. [Online]. Avail- able:https://www.govinfosecurity.com/misconfigured-ai-agents-let-attacks- slip-past-controls",
+      "citation": "Rashmi Ramesh, “Misconfigured AI Agents Let Attacks Slip Past Controls,” 2026. [Online]. Available: https://www.govinfosecurity.com/misconfigured-ai-agents-let-attacks-slip-past-controls",
       "url": "https://www.govinfosecurity.com/misconfigured-ai-agents-let-attacks-slip-past-controls"
     },
     {
       "number": 1040,
       "key": "Deng2026when",
-      "citation": "Q. Deng, When ai agents go online, defaults become vulnerabilities, 2026. [Online]. Available: https://aurascape.ai/resources/auralabs-research/mcp-default- secret-vulnerability-arcade-aurascape/#content",
+      "citation": "Qi Deng, “When AI Agents Go Online, Defaults Become Vulnerabilities,” 2026. [Online]. Available: https://aurascape.ai/resources/auralabs-research/mcp-default-secret-vulnerability-arcade-aurascape/#content",
       "url": "https://aurascape.ai/resources/auralabs-research/mcp-default-secret-vulnerability-arcade-aurascape/#content"
     },
     {
       "number": 1041,
       "key": "cloudl2026aws",
-      "citation": "C. S. A. A. S. Initiative, “Aws bedrock agentcore as enterprise attack surface: Ai agent apis and the execution boundary problem,” 2026. [Online]. Available: https://labs. cloudsecurityalliance.org/research/csa-research-note-bedrock-agentcore- enterprise-attack-surfac/?__cf_chl_f_tk=RyLgW.r5h1QLSO1BvwMCweKRgXBRkgv4ky_ mpFIgHlM-1783154215-1.0.1.1-FNh1L3hyOY5xeC16GUbKMzpYp90zN23X0nGFQ7rwMgM",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-bedrock-agentcore-enterprise-attack-surfac/?__cf_chl_f_tk=RyLgW.r5h1QLSO1BvwMCweKRgXBRkgv4ky_mpFIgHlM-1783154215-1.0.1.1-FNh1L3hyOY5xeC16GUbKMzpYp90zN23X0nGFQ7rwMgM"
+      "citation": "Cloud Security Alliance AI Safety Initiative. “Aws bedrock agentcore as enterprise attack surface: AI agent apis and the execution boundary problem,” Accessed: Jul. 29, 2026. [Online]. Available: https://labs.cloudsecurityalliance.org/research/csa-research-note-bedrock-agentcore-enterprise-attack-surfac/",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-bedrock-agentcore-enterprise-attack-surfac/"
     },
     {
       "number": 1042,
       "key": "cracks2026ori",
-      "citation": "O. Hadad, Rogue agents: Insider threats at machine speed, 2026. [Online]. Available: https://learn.snyk.io/lesson/rogue-agents/?ecosystem=aiml",
+      "citation": "Ori Hadad, “Rogue Agents: Insider Threats at Machine Speed,” 2026. [Online]. Available: https://learn.snyk.io/lesson/rogue-agents/?ecosystem=aiml",
       "url": "https://learn.snyk.io/lesson/rogue-agents/?ecosystem=aiml"
     },
     {
       "number": 1043,
       "key": "hossain2026containment",
-      "citation": "M. J. Hossain, M. A. Hossain, W. Liu, and N. Ansari, “The containment gap: How deployed agentic ai frameworks fail public-facing safety requirements,” arXiv preprint arXiv:2606.12797, 2026.",
+      "citation": "M. J. Hossain, M. A. Hossain, W. Liu, and N. Ansari, “The containment gap: How deployed agentic AI frameworks fail public-facing safety requirements,” in Proc. ICML Trustworthy Workshop on AI for Good, Seoul, South Korea, Jul. 2026, to appear.",
       "url": ""
     },
     {
       "number": 1044,
       "key": "center2026request",
+<<<<<<< Updated upstream
       "citation": "C. for AI Standards, N. I. o. S. Innovation (CAISI), and T. (NIST), Request for information regarding security considerations for artificial intelligence agents, Jan. 2026. [On- line]. Available: https://www.federalregister.gov/documents/2026/01/08/2026- 00206/request-for-information-regarding-security-considerations-for- artificial-intelligence-agents",
       "url": "https://arxiv.org/abs/2603.12230"
+=======
+      "citation": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. “Request for information regarding security considerations for artificial intelligence agents,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents"
+>>>>>>> Stashed changes
     },
     {
       "number": 1045,
       "key": "dockerdash2026sasi",
-      "citation": "S. Levi, Dockerdash: Two attack paths, one ai supply chain crisis, 2026. [Online]. Avail- able: https://noma.security/blog/dockerdash-two-attack-paths-one-ai- supply-chain-crisis/",
+      "citation": "Sasi Levi, “Dockerdash: Two Attack Paths, One AI Supply Chain Crisis,” 2026. [Online]. Available: https://noma.security/blog/dockerdash-two-attack-paths-one-ai-supply-chain-crisis/",
       "url": "https://noma.security/blog/dockerdash-two-attack-paths-one-ai-supply-chain-crisis/"
     },
     {
       "number": 1046,
       "key": "cve2026-44338",
-      "citation": "M. Corporation, Cve-2026-44338: Praisonai authentication bypass, 2026. [Online]. Avail- able: https://nvd.nist.gov/vuln/detail/CVE-2026-44338",
+      "citation": "MITRE Corporation. “CVE-2026-44338: Praisonai authentication bypass,” Accessed: Jul. 21, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2026-44338",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44338"
     },
     {
       "number": 1047,
       "key": "cve2025-34291",
-      "citation": "M. Corporation, Cve-2025-34291: Langflow cross-site request forgery (csrf) and remote code execution (rce), 2025. [Online]. Available: https://nvd.nist.gov/vuln/detail/ CVE-2025-34291",
+      "citation": "MITRE Corporation. “CVE-2025-34291: Langflow cross-site request forgery (CSRF) and remote code execution (RCE),” Accessed: Jul. 21, 2026. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2025-34291",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-34291"
     },
     {
       "number": 1048,
       "key": "chua2025thought",
-      "citation": "J. Chua, J. Betley, M. Taylor, and O. Evans, “Thought crime: Backdoors and emergent misalignment in reasoning models,” arXiv preprint arXiv:2506.13206, 2025.",
-      "url": ""
+      "citation": "J. Chua, J. Betley, M. Taylor, and O. Evans, Thought crime: Backdoors and emergent misalignment in reasoning models, Jun. 2025. arXiv: 2506.13206 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2506.13206",
+      "url": "https://arxiv.org/abs/2506.13206"
     },
     {
       "number": 1049,
       "key": "zhang2025udora",
-      "citation": "J. Zhang, S. Yang, and B. Li, “Udora: A unified red teaming framework against llm agents by dynamically hijacking their own reasoning,” arXiv preprint arXiv:2503.01908, 2025.",
-      "url": ""
+      "citation": "J. Zhang, S. Yang, and B. Li, UDora: A unified red teaming framework against LLM agents by dynamically hijacking their own reasoning, Mar. 2025. arXiv: 2503.01908 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2503.01908",
+      "url": "https://arxiv.org/abs/2503.01908"
     },
     {
       "number": 1050,
       "key": "cui2025mad",
-      "citation": "Y. Cui and H. Du, “Mad-spear: A conformity-driven prompt injection attack on multi- agent debate systems,” arXiv preprint arXiv:2507.13038, 2025.",
-      "url": ""
+      "citation": "Y. Cui and H. Du, MAD-spear: A conformity-driven prompt injection attack on multi-agent debate systems, Jul. 2025. arXiv: 2507.13038 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2507.13038",
+      "url": "https://arxiv.org/abs/2507.13038"
     },
     {
       "number": 1051,
       "key": "wang2025freezevla",
-      "citation": "X. Wang et al., “Freezevla: Action-freezing attacks against vision-language-action mod- els,” arXiv preprint arXiv:2509.19870, 2025.",
-      "url": ""
+      "citation": "X. Wang et al., FreezeVLA: Action-freezing attacks against vision-language-action models, Sep. 2025. arXiv: 2509.19870 [cs.CV]. [Online]. Available: https://arxiv.org/abs/2509.19870",
+      "url": "https://arxiv.org/abs/2509.19870"
     },
     {
       "number": 1052,
       "key": "zhan2025visual",
-      "citation": "Q. Zhan et al., “Visual backdoor attacks on mllm embodied decision making via con- trastive trigger learning,” arXiv preprint arXiv:2510.27623, 2025.",
-      "url": ""
+      "citation": "Q. Zhan et al., “BEAT: Visual backdoor attacks on VLM-based embodied agents via contrastive trigger learning,” in Proc. International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr. 2026, to appear. [Online]. Available: https://arxiv.org/abs/2510.27623",
+      "url": "https://arxiv.org/abs/2510.27623"
     },
     {
       "number": 1053,
       "key": "li2025agenttypo",
-      "citation": "Y. Li, Y. Cao, D. Wang, and B. Xiao, “Agenttypo: Adaptive typographic prompt in- jection attacks against black-box multimodal agents,” arXiv preprint arXiv:2510.04257, 2025.",
-      "url": ""
+      "citation": "Y. Li, Y. Cao, D. Wang, and B. Xiao, AgentTypo: Adaptive typographic prompt injection attacks against black-box multimodal agents, Oct. 2025. arXiv: 2510.04257 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2510.04257",
+      "url": "https://arxiv.org/abs/2510.04257"
     },
     {
       "number": 1054,
       "key": "zhang2026memvenom",
-      "citation": "Y. Zhang et al., “Memvenom: Triggered poisoning of multimodal memories in web agents,” arXiv preprint arXiv:2606.10742, 2026.",
-      "url": ""
+      "citation": "Y. Zhang et al., MemVenom: Triggered poisoning of multimodal memories in web agents, Jun. 2026. arXiv: 2606.10742 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.10742",
+      "url": "https://arxiv.org/abs/2606.10742"
     },
     {
       "number": 1055,
       "key": "lee2025prompt",
-      "citation": "D. Lee, M. Tiwari, and B. Miranda, “Prompt infection: Llm-to-llm prompt injection within multi-agent systems,” in In Proceedings of the European Symposium on Research in Computer Security, Springer, 2025, pp. 511–520.",
+      "citation": "D. Lee, M. Tiwari, and B. Miranda, “Prompt infection: LLM-to-LLM prompt injection within multi-agent systems,” in Proc. European Symposium on Research in Computer Security Workshops, Toulouse, France, Sep. 2025, pp. 511–520.",
       "url": ""
     },
     {
       "number": 1056,
       "key": "open2026mcp06",
-      "citation": "O.W.A.S.P.(OWASP),Mcp06:2025–intentflowsubversion,2026.[Online].Available: https://owasp.org/www-project-mcp-top-10/2025/MCP06-2025--Intent-Flow- Subversion",
-      "url": "https://owasp.org/www-project-mcp-top-10/2025/MCP06-2025–Intent-Flow-Subversion"
+      "citation": "OWASP. “Mcp06:2025 – intent flow subversion,” Accessed: Jul. 21, 2026. [Online]. Available: https://owasp.org/www-project-mcp-top-10/2025/MCP06-2025%E2%80%93Intent-Flow-Subversion",
+      "url": "https://owasp.org/www-project-mcp-top-10/2025/MCP06-2025%E2%80%93Intent-Flow-Subversion"
     },
     {
       "number": 1057,
       "key": "zou2026poison",
-      "citation": "W. Zou et al., “Poison once, exploit forever: Environment-injected memory poisoning attacks on web agents,” arXiv preprint arXiv:2604.02623, 2026.",
-      "url": ""
+      "citation": "W. Zou et al., Poison once, exploit forever: Environment-injected memory poisoning attacks on web agents, Apr. 2026. arXiv: 2604.02623 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.02623",
+      "url": "https://arxiv.org/abs/2604.02623"
     },
     {
       "number": 1058,
       "key": "belkhiter2026breaking",
-      "citation": "Y. Belkhiter, G. Zizzo, S. Maffeis, S. Tirupathi, and J. D. Kelleher, “Breaking mcp with function hijacking attacks: Novel threats for function calling and agentic models,” arXiv preprint arXiv:2604.20994, 2026.",
-      "url": ""
+      "citation": "Y. Belkhiter, G. Zizzo, S. Maffeis, S. Tirupathi, and J. D. Kelleher, Breaking MCP with function hijacking attacks: Novel threats for function calling and agentic models, Apr. 2026. arXiv: 2604.20994 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.20994",
+      "url": "https://arxiv.org/abs/2604.20994"
     },
     {
       "number": 1059,
       "key": "li2026flowsteer",
-      "citation": "F. Li, J. Wu, T. Fu, N. Jaques, W. Zhou, and M.-Y. Kan, “Flowsteer: Prompt-only workflow steering exposes planning-time vulnerabilities in multi-agent llm systems,” arXiv preprint arXiv:2605.11514, 2026.",
-      "url": ""
+      "citation": "F. Li, J. Wu, T. Fu, N. Jaques, W. Zhou, and M.-Y. Kan, FlowSteer: Prompt-only workflow steering exposes planning-time vulnerabilities in multi-agent LLM systems, May 2026. arXiv: 2605.11514 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2605.11514",
+      "url": "https://arxiv.org/abs/2605.11514"
     },
     {
       "number": 1060,
       "key": "frimpong2026ai",
-      "citation": "V. Frimpong, “AI Debris: Residual risk and the afterlife of failed AI systems,” arXiv preprint arXiv:2606.12432, 2026. [Online]. Available: https://arxiv.org/abs/2606.",
+      "citation": "V. Frimpong, AI debris: Residual risk and the afterlife of failed AI systems, 2026. arXiv: 2606.12432 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2606.12432",
       "url": "https://arxiv.org/abs/2606.12432"
     },
     {
       "number": 1061,
       "key": "ietf2026governance",
-      "citation": "ietf, Governance audit record (gar) for agentic ai systems, 2026. [Online]. Available: https://datatracker.ietf.org/doc/draft-sato-soos-gar/",
+      "citation": "T. Sato. “The governance audit record (GAR) for agentic AI systems,” Accessed: Jul. 21, 2026. [Online]. Available: https://datatracker.ietf.org/doc/draft-sato-soos-gar/",
       "url": "https://datatracker.ietf.org/doc/draft-sato-soos-gar/"
     },
     {
       "number": 1062,
       "key": "herrador2026spaiware",
+<<<<<<< Updated upstream
       "citation": "M. Herrador and J. Rehberger, “Spaiware: Uncovering a novel artificial intelligence at- tackvectorthroughpersistentmemoryinllmapplicationsandagents,”future generation computer systems, vol. 174, p. 107994, 2026.",
+=======
+      "citation": "M. Herrador and J. Rehberger, “SpAIware: Uncovering a novel artificial intelligence attack vector through persistent memory in LLM applications and agents,” Future Generation Computer Systems, vol. 174, p. 107 994, Jan. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 1063,
       "key": "gartner2026gartner",
-      "citation": "gartner, Gartner says applying uniform governance across ai agents will lead to en- terprise ai agent failure, 2026. [Online]. Available: https://www.gartner.com/en/ newsroom/press-releases/2026-05-26-gartner-says-applying-uniform- governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure",
+      "citation": "gartner, “gartner says applying uniform governance across ai agents will lead to enterprise ai agent failure,” 2026. [Online]. Available: https://www.gartner.com/en/newsroom/press-releases/2026-05-26-gartner-says-applying-uniform-governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure",
       "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-26-gartner-says-applying-uniform-governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure"
     },
     {
       "number": 1064,
       "key": "the2026cloud",
-      "citation": "cloud latitude, The dark side of autonomy: Agentic ai orphan security risks, 2026. [On- line]. Available: https://cloudlatitude.com/insights/artificial-intelligence/ the-dark-side-of-autonomy-agentic-ai-orphan-security-risks/",
+      "citation": "cloud latitude, “the dark side of autonomy: agentic ai orphan security risks,” 2026. [Online]. Available: https://cloudlatitude.com/insights/artificial-intelligence/the-dark-side-of-autonomy-agentic-ai-orphan-security-risks/",
       "url": "https://cloudlatitude.com/insights/artificial-intelligence/the-dark-side-of-autonomy-agentic-ai-orphan-security-risks/"
     },
     {
       "number": 1065,
       "key": "the2026mcp10",
-      "citation": "the open worldwide application security project (owasp), Mcp10:2025 –context injection & over-sharing, 2026. [Online]. Available: https://owasp.org/www-project-mcp- top-10/2025/MCP10-2025%E2%80%93ContextInjection&OverSharing",
+      "citation": "OWASP. “Mcp10:2025 – context injection & over-sharing,” Accessed: Jul. 21, 2026. [Online]. Available: https://owasp.org/www-project-mcp-top-10/2025/MCP10-2025%E2%80%93ContextInjection&OverSharing",
       "url": "https://owasp.org/www-project-mcp-top-10/2025/MCP10-2025%E2%80%93ContextInjection&OverSharing"
     },
     {
       "number": 1066,
       "key": "yu2026operational",
-      "citation": "F. Carroll and B. L. Bentley, “Operational hallucination and safety drift in production AI agents,” in Proc. IEEE Int. Conf. AI Data Anal. (ICAD), London, UK, Sep. 2026, pp. 1145–1152.",
+      "citation": "S. Yu, F. Carroll, and B. L. Bentley, “Operational hallucination and safety drift in AI agents,” in Proc. IEEE International Conference on AI and Data Analytics, Boston, Massachusetts, USA, Jun. 2026.",
       "url": ""
     },
     {
       "number": 1067,
       "key": "liu2025longcontextfail",
-      "citation": "Y. Liu, When refusals fail: Unstable safety mechanisms in long-context llm agents, 2025. arXiv: 2512.02445 [cs.CR].",
+      "citation": "T. Hadeliya, M. A. Jauhar, N. Sakpal, and D. Cruz, “When refusals fail: Unstable safety mechanisms in long-context LLM agents,” in Proc. AAAI Workshop on Trustworthy Agentic AI, Singapore, Jan. 2026.",
       "url": ""
     },
     {
       "number": 1068,
       "key": "zhang2026proxytrade",
-      "citation": "L. Zhang, Peak + accumulation: A proxy-level scoring formula for multi-turn llm attack detection, 2026. arXiv: 2602.11247 [cs.CR].",
-      "url": ""
+      "citation": "J. A. Corll, Peak + accumulation: A proxy-level scoring formula for multi-turn LLM attack detection, Feb. 2026. arXiv: 2602.11247 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2602.11247",
+      "url": "https://arxiv.org/abs/2602.11247"
     },
     {
       "number": 1069,
       "key": "storf2026constitutional",
+<<<<<<< Updated upstream
       "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional Black-Box Monitoring for Scheming in LLM Agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
+=======
+      "citation": "S. Storf, R. Barton-Cooper, J. Peters-Gill, and M. Hobbhahn, “Constitutional black-box monitoring for scheming in LLM agents,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -10965,7 +11393,7 @@ const DATA = {
     {
       "number": 1072,
       "key": "kurshan2025agenticregulatorrisksai",
-      "citation": "E. Kurshan, T. Balch, and D. Byrd, The agentic regulator: Risks for AI in finance and a pro- posed agent-based framework for governance, Dec. 2025. arXiv: 2512.11933 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2512.11933",
+      "citation": "E. Kurshan, T. Balch, and D. Byrd, The agentic regulator: Risks for AI in finance and a proposed agent-based framework for governance, Dec. 2025. arXiv: 2512.11933 [cs.CY]. [Online]. Available: https://arxiv.org/abs/2512.11933",
       "url": "https://arxiv.org/abs/2512.11933"
     },
     {
@@ -10983,62 +11411,66 @@ const DATA = {
     {
       "number": 1075,
       "key": "nguyen2026securitymas",
-      "citation": "C. Allen, Security considerations for multi-agent systems, 2026. arXiv: 2603.09002 [cs.MA].",
+      "citation": "T. Nguyen, M. Ndebugre, and D. Arremsetty, Security considerations for multi-agent systems, Mar. 2026. arXiv: 2603.09002 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.09002",
       "url": "https://arxiv.org/abs/2603.09002"
     },
     {
       "number": 1076,
       "key": "archsec2026multiarch",
-      "citation": "B. Hagag and W. Anderson, Architecture matters for multi-agent security, 2026. arXiv: 2604.23459 [cs.MA].",
-      "url": ""
+      "citation": "B. Hagag, W. L. Anderson, C. S. de Witt, and S. Scheffler, Architecture matters for multi-agent security, Apr. 2026. arXiv: 2604.23459 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2604.23459",
+      "url": "https://arxiv.org/abs/2604.23459"
     },
     {
       "number": 1077,
       "key": "stanford2026aiindex",
-      "citation": "Stanford University, Institute for Human-Centered AI (HAI), “Ai index report 2026,” Stanford University, Institute for Human-Centered AI, Tech. Rep., Apr. 2026. Accessed: Jul. 21, 2026.",
-      "url": ""
+      "citation": "S. Sajadieh et al., Artificial intelligence index report 2026, Apr. 2026. arXiv: 2606.15708 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2606.15708",
+      "url": "https://arxiv.org/abs/2606.15708"
     },
     {
       "number": 1078,
       "key": "wood2026operfail",
-      "citation": "E. Wood, M. Park, and A. Rao, “What breaks when LLMs code? characterizing opera- tional safety failures of agentic code assistants,” arXiv, May 2026. arXiv: 2605.30777 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2605.30777",
+      "citation": "E. Wood, M. Park, and A. Rao, What breaks when LLMs code? characterizing operational safety failures of agentic code assistants, May 2026. arXiv: 2605.30777 [cs.SE]. [Online]. Available: https://arxiv.org/abs/2605.30777",
       "url": "https://arxiv.org/abs/2605.30777"
     },
     {
       "number": 1079,
       "key": "carroll2026operhallu",
-      "citation": "S. Yu, F. Carroll, and B. L. Bentley, “Operational hallucination and safety drift in ai agents,” 2026.",
+      "citation": "S. Yu, F. Carroll, and B. L. Bentley, “Operational hallucination and safety drift in AI agents,” in Proc. IEEE Int. Conf. AI Data Analytics (ICAD), Boston, Massachusetts, USA, Jun. 2026, pp. 1–8.",
       "url": ""
     },
     {
       "number": 1080,
       "key": "li2025dissonance",
+<<<<<<< Updated upstream
       "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les Dissonances: Cross-Tool Harvestingand Polluting in Pool-of-Tools Empowered LLM Agents,”inProc. Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb. 2025.",
+=======
+      "citation": "Z. Li, J. Cui, X. Liao, and L. Xing, “Les dissonances: Cross-tool harvesting and polluting in pool-of-tools empowered LLM agents,” in Proc. Network and Distributed System Security Symposium, San Diego, CA, USA, Feb. 2026.",
+>>>>>>> Stashed changes
       "url": "https://cse.ucsd.edu/research/cryptography-security-privacy"
     },
     {
       "number": 1081,
       "key": "suwansathit2026openclaw",
-      "citation": "H. Zhang, Y. Nian, and Y. Zhao, “Agent audit: A security analysis system for LLM agent applications,” arXiv, Mar. 2026. arXiv: 2603.22853. [Online]. Available: https://arxiv.org/abs/2603.22853",
-      "url": "https://arxiv.org/abs/2603.22853"
+      "citation": "S. Suwansathit, Y. Zhang, and G. Gu, A security analysis of the OpenClaw AI agent framework, Mar. 2026. arXiv: 2603.27517 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.27517",
+      "url": "https://arxiv.org/abs/2603.27517"
     },
     {
       "number": 1082,
       "key": "al2026remembering",
-      "citation": "Y. Louck, “Origin-bound memory: Securing LLM-agent long-term memory against poi- soning,” arXiv, Jun. 2026. arXiv: 2606.24322 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.24322",
-      "url": "https://docs.databricks.com/aws/en/agents/agent-framework/stateful-agents"
+      "citation": "A. Al-Tawaha, S. Gu, P. Niu, R. Jia, and M. Jin, Remembering more, risking more: Longitudinal safety risks in memory-equipped LLM agents, 2026. arXiv: 2605.17830 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2605.17830",
+      "url": "https://arxiv.org/abs/2605.17830"
     },
     {
       "number": 1083,
       "key": "zhongguo202zhongguo2",
-      "citation": "china 通信学会. “中国通信学会网络和数据安全专委会发布《云上智能体服务网络和数据安全 自律公约 (2026 版)》,” Accessed: Jul. 21, 2026. [Online]. Available: https://www.china-cic.cn/Detail/24/60/7279",
+      "citation": "中国通讯学会, “中国通信学会网络和数据安全专委会发布《云上智能体服务网络和数据安全自律公约(2026版)》,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://www.china-cic.cn/Detail/24/60/7279",
       "url": "https://www.china-cic.cn/Detail/24/60/7279"
     },
     {
       "number": 1084,
       "key": "evidgate2026latency",
-      "citation": "Y. Wang et al., “From agent traces to trust: A survey of evidence tracing and execution provenance in LLM agents,” arXiv, Jun. 2026. arXiv: 2606.04990 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.04990",
-      "url": "https://arxiv.org/abs/2606.04990"
+      "citation": "F. Wang and Z. Tian, Evidence-bound gateway-path provenance for third-party LLM inference, Jun. 2026. arXiv: 2606.22560 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2606.22560",
+      "url": "https://arxiv.org/abs/2606.22560"
     },
     {
       "number": 1085,
@@ -11055,7 +11487,7 @@ const DATA = {
     {
       "number": 1087,
       "key": "chen2025blocka2a",
-      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, Blocka2a: Towards secure and verifiable agent-to- agent interoperability, 2025. arXiv: 2508.01332. [Online]. Available: https://arxiv. org/abs/2508.01332",
+      "citation": "Z. Zou, Z. Liu, L. Zhao, and Q. Zhan, BlockA2A: Towards secure and verifiable Agent-to-Agent interoperability, Aug. 2025. arXiv: 2508.01332 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2508.01332",
       "url": "https://arxiv.org/abs/2508.01332"
     },
     {
@@ -11091,13 +11523,13 @@ const DATA = {
     {
       "number": 1093,
       "key": "sharma2025interoperability",
-      "citation": "R. Sharma, M. de Vos, P. Chari, R. Raskar, and A.-M. Kermarrec, “Position: Collaborative agentic AI needs interoperability across ecosystems,” in Proc. 43rd International Conference",
-      "url": ""
+      "citation": "R. Sharma, M. de Vos, P. Chari, R. Raskar, and A.-M. Kermarrec, “Position: Collaborative agentic AI needs interoperability across ecosystems,” in Proc. 43rd International Conference on Machine Learning, Seoul, South Korea, Jul. 2026. [Online]. Available: 10.48550/arXiv.2602.16811",
+      "url": "10.48550/arXiv.2602.16811"
     },
     {
       "number": 1094,
       "key": "wibowo2025toward",
-      "citation": "J. A. Wibowo and G. C. Polyzos, Toward a safe internet of agents, Dec. 2025. arXiv: 2512.0 0520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.00520",
+      "citation": "J. A. Wibowo and G. C. Polyzos, Toward a safe internet of agents, Dec. 2025. arXiv: 2512.00520 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2512.00520",
       "url": "https://arxiv.org/abs/2512.00520"
     },
     {
@@ -11109,13 +11541,13 @@ const DATA = {
     {
       "number": 1096,
       "key": "xie2026errorcascades",
-      "citation": "Y. Xie et al., From spark to fire: Modeling and mitigating error cascades in LLM-based multi- agent collaboration, Mar. 2026. arXiv: 2603.04474 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2603.04474",
+      "citation": "Y. Xie et al., From spark to fire: Modeling and mitigating error cascades in LLM-based multi-agent collaboration, Mar. 2026. arXiv: 2603.04474 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2603.04474",
       "url": "https://arxiv.org/abs/2603.04474"
     },
     {
       "number": 1097,
       "key": "venkatesh2026caspian",
-      "citation": "K. Venkatesh, J. Isbarov, S. Amin, M. Kantarcioglu, and J. Cui, CASPIAN: Online detection and attribution of cascade attacks in LLM multi-agent systems via cross-channel causal mon- itoring, May 2026. arXiv: 2605.19240 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2605.19240",
+      "citation": "K. Venkatesh, J. Isbarov, S. Amin, M. Kantarcioglu, and J. Cui, CASPIAN: Online detection and attribution of cascade attacks in LLM multi-agent systems via cross-channel causal monitoring, May 2026. arXiv: 2605.19240 [cs.MA]. [Online]. Available: https://arxiv.org/abs/2605.19240",
       "url": "https://arxiv.org/abs/2605.19240"
     },
     {
@@ -11133,7 +11565,11 @@ const DATA = {
     {
       "number": 1100,
       "key": "ceka2025traceability",
+<<<<<<< Updated upstream
       "citation": "I. Ceka et al., “Understanding Automated Program Repair Agents Through the Lens of Traceability: An Empirical Study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
+=======
+      "citation": "I. Ceka et al., “Understanding automated program repair agents through the lens of traceability: An empirical study,” in Proc. 35th ACM SIGSOFT International Symposium on Software Testing and Analysis, Oakland, CA, USA, Oct. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11163,13 +11599,13 @@ const DATA = {
     {
       "number": 1105,
       "key": "zhang2026rover",
-      "citation": "Y. Zhang, J. Wang, D. Berzin, M. Mirchev, and A. Roychoudhury, “Fixing security vulner- abilities with agentic AI in OSS-Fuzz,” in Proc. IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice, Rio de Janeiro, Brazil, Apr. 2026, pp. 374–384.",
+      "citation": "Y. Zhang, J. Wang, D. Berzin, M. Mirchev, and A. Roychoudhury, “Fixing security vulnerabilities with agentic AI in OSS-Fuzz,” in Proc. IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice, Rio de Janeiro, Brazil, Apr. 2026, pp. 374–384.",
       "url": ""
     },
     {
       "number": 1106,
       "key": "chen2026acrfence",
-      "citation": "Y. Zheng, Y. Yang, W. Zhang, and A. Quinn, ACRFence: Preventing semantic rollback attacks in agent checkpoint-restore, Mar. 2026. arXiv: 2603.20625 [cs.CR]. [Online]. Available: http s://arxiv.org/abs/2603.20625",
+      "citation": "Y. Zheng, Y. Yang, W. Zhang, and A. Quinn, ACRFence: Preventing semantic rollback attacks in agent checkpoint-restore, Mar. 2026. arXiv: 2603.20625 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2603.20625",
       "url": "https://arxiv.org/abs/2603.20625"
     },
     {
@@ -11187,13 +11623,17 @@ const DATA = {
     {
       "number": 1109,
       "key": "hann2026snykagentfix",
-      "citation": "B. Hann and D. Alessi. “Introducing the new agentic architecture for Snyk agent fix: Faster, smarter, and more secure,” Accessed: Jul. 21, 2026. [Online]. Available: https://snyk.io/blog/snyk-agent-fix-agentic-architecture/",
+      "citation": "B. Hann and D. Alessi, “Introducing the New Agentic Architecture for Snyk Agent Fix: Faster, Smarter, and More Secure,” 2026. Accessed: Jul. 21, 2026. [Online]. Available: https://snyk.io/blog/snyk-agent-fix-agentic-architecture/",
       "url": "https://snyk.io/blog/snyk-agent-fix-agentic-architecture/"
     },
     {
       "number": 1110,
       "key": "han2026rethinking",
+<<<<<<< Updated upstream
       "citation": "W. Han et al., “Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
+=======
+      "citation": "W. Han et al., “Rethinking the capability of fine-tuned language models for automated vulnerability repair,” in Proc. IEEE/ACM 48th International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11205,7 +11645,11 @@ const DATA = {
     {
       "number": 1112,
       "key": "kaniewski2026revisiting",
+<<<<<<< Updated upstream
       "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
+=======
+      "citation": "S. Kaniewski, F. Schmidt, and T. Heer, “Revisiting Vul-RAG: Reproducibility and replicability of RAG-based vulnerability detection with open-weight models,” in Proc. International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security, Linköping, Sweden, Aug. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
@@ -11223,13 +11667,17 @@ const DATA = {
     {
       "number": 1115,
       "key": "yang2026secrepair",
-      "citation": "C. Yang et al., “SeCuRepair: Semantics-aligned, curriculum-driven, and reasoning-enhanced vulnerability repair framework,” in Proc. 64th Annual Meeting of the Association for Computa- tional Linguistics (ACL) (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 32108– 32123.",
+      "citation": "C. Yang et al., “SeCuRepair: Semantics-aligned, curriculum-driven, and reasoning-enhanced vulnerability repair framework,” in Proc. 64th Annual Meeting of the Association for Computational Linguistics (ACL) (Volume 1: Long Papers), San Diego, CA, USA, Jul. 2026, pp. 32 108– 32 123.",
       "url": ""
     },
     {
       "number": 1116,
       "key": "openai2025aardvark",
+<<<<<<< Updated upstream
       "citation": "OpenAI Security Team. “introducing aardvark: autonomous AI security research agent,” Accessed: Jul. 21, 2026. [Online]. Available: https://openai.com/research/aardvark",
+=======
+      "citation": "OPENAI SECURITY TEAM, “Introducing Aardvark: Autonomous AI Security Research Agent,” 2025. [Online]. Available: https://openai.com/research/aardvark",
+>>>>>>> Stashed changes
       "url": "https://openai.com/research/aardvark"
     },
     {
@@ -11253,49 +11701,57 @@ const DATA = {
     {
       "number": 1120,
       "key": "jamshidi2026collectivehallucination",
-      "citation": "S. Jamshidi, “Collective hallucination in multi-agent LLMs: Modeling and defense,” arXiv, Jun. 2026. arXiv: 2606.07941. Accessed: Jul. 30, 2026. [Online]. Available: https://arxiv.org/abs/2606.07941",
+      "citation": "S. Jamshidi, Collective hallucination in multi-agent LLMs: Modeling and defense, Jun. 2026. arXiv: 2606.07941. Accessed: Jul. 30, 2026. [Online]. Available: https://arxiv.org/abs/2606.07941",
       "url": "https://arxiv.org/abs/2606.07941"
     },
     {
       "number": 1121,
       "key": "lu2026vulnerabilityreasoning",
-      "citation": "L. Lu, Y. Zhao, H. Rao, K. Zhang, and H. Wang, “Evaluating and enhancing the vulnera- bility reasoning capabilities of large language models,” arXiv, Feb. 2026. arXiv: 2602.06687. Accessed: Jul. 30, 2026. [Online]. Available: https://arxiv.org/abs/2602.06687",
+      "citation": "L. Lu, Y. Zhao, H. Rao, K. Zhang, and H. Wang, Evaluating and enhancing the vulnerability reasoning capabilities of large language models, Feb. 2026. arXiv: 2602.06687. Accessed: Jul. 30, 2026. [Online]. Available: https://arxiv.org/abs/2602.06687",
       "url": "https://arxiv.org/abs/2602.06687"
     },
     {
       "number": 1122,
       "key": "wu2026routerhg",
-      "citation": "Y. Xiao et al., “ROUTERHGC: Optimized router for LLM-based multi-agent systems via het- erogeneous graph contrastive learning,” in Proc. Findings of the Association for Computational Linguistics: ACL, San Diego, CA, USA, Jul. 2026, pp. 31759–31789.",
+      "citation": "Y. Xiao et al., “ROUTERHGC: Optimized router for LLM-based multi-agent systems via heterogeneous graph contrastive learning,” in Proc. Findings of the Association for Computational Linguistics: ACL, San Diego, CA, USA, Jul. 2026, pp. 31 759–31 789.",
       "url": ""
     },
     {
       "number": 1123,
       "key": "zhang2026oimas",
-      "citation": "J. Wang et al., Orchestrating intelligence: Confidence-aware routing for eﬀicient multi-agent collaboration across multi-scale models, Jan. 2026. arXiv: 2601.04861 [cs.AI]. [Online]. Avail- able: https://arxiv.org/abs/2601.04861",
+      "citation": "J. Wang et al., Orchestrating intelligence: Confidence-aware routing for eﬀicient multi-agent collaboration across multi-scale models, Jan. 2026. arXiv: 2601.04861 [cs.AI]. [Online]. Available: https://arxiv.org/abs/2601.04861",
       "url": "https://arxiv.org/abs/2601.04861"
     },
     {
       "number": 1124,
       "key": "Yildiz_2026_scheduler",
-      "citation": "M. Yildiz, P. Spadaccino, A. Rolich, F. Cuomo, and A. Baiocchi, “Towards multi-model LLM schedulers: Empirical insights into offloading and preemption,” in Proc. Mediterranean Artifi- cial Intelligence and Networking Conference, Mondello, Palermo, Italy, Jul. 2026, to appear.",
+      "citation": "M. Yildiz, P. Spadaccino, A. Rolich, F. Cuomo, and A. Baiocchi, “Towards multi-model LLM schedulers: Empirical insights into offloading and preemption,” in Proc. Mediterranean Artificial Intelligence and Networking Conference, Mondello, Palermo, Italy, Jul. 2026, to appear.",
       "url": "https://arxiv.org/abs/2605.19593"
     },
     {
       "number": 1125,
       "key": "Wang_2026_M2CVD",
+<<<<<<< Updated upstream
       "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability un- derstanding through multi-model collaboration for code vulnerability detection,” ACM Transactions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
+=======
+      "citation": "Z. Wang, G. Li, J. Li, M. Yan, Y. Xiong, and Z. Jin, “M2CVD: Enhancing vulnerability understanding through multi-model collaboration for code vulnerability detection,” ACM Transactions on Software Engineering and Methodology, vol. 35, no. 7, pp. 1–25, Jul. 2026.",
+>>>>>>> Stashed changes
       "url": ""
     },
     {
       "number": 1126,
       "key": "dou2026enhancing",
+<<<<<<< Updated upstream
       "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: addressing catastrophic forgetting via hybrid-confidence-aware selective replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
+=======
+      "citation": "X. Dou, H. Bahsi, and A. Guerra-Manzanares, “Enhancing continual learning for software vulnerability prediction: Addressing catastrophic forgetting via hybrid-confidence-aware selective replay for temporal LLM fine-tuning,” in Proc. International Conference on Information Systems Security and Privacy, Marbella, Spain, Mar. 2026, pp. 474–485.",
+>>>>>>> Stashed changes
       "url": "https://arxiv.org/abs/2602.23834"
     },
     {
       "number": 1127,
       "key": "xue2025learning",
-      "citation": "J. Xue, X. Chen, Z. Cui, and Y. Liu, “Learning never stops: Improving software vulnerabil- ity type identification via incremental learning,” Journal of Systems and Software, vol. 230, p. 112544, Dec. 2025.",
+      "citation": "J. Xue, X. Chen, Z. Cui, and Y. Liu, “Learning never stops: Improving software vulnerability type identification via incremental learning,” Journal of Systems and Software, vol. 230, p. 112 544, Dec. 2025.",
       "url": ""
     },
     {
@@ -11325,7 +11781,7 @@ const DATA = {
     {
       "number": 1132,
       "key": "liu2026your",
-      "citation": "H. Liu, C. Shou, H. Wen, Y. Chen, R. J. Fang, and Y. Feng, Your agent is mine: Measuring malicious intermediary attacks on the LLM supply chain, Apr. 2026. arXiv: 2604.08407 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.08407",
+      "citation": "H. Liu, C. Shou, H. Wen, Y. Chen, R. J. Fang, and Y. Feng, Your agent is mine: Measuring malicious intermediary attacks on the LLM supply chain, Apr. 2026. arXiv: 2604 . 08407 [cs.CR]. [Online]. Available: https://arxiv.org/abs/2604.08407",
       "url": "https://arxiv.org/abs/2604.08407"
     },
     {
@@ -11361,7 +11817,7 @@ const DATA = {
     {
       "number": 1138,
       "key": "gasmi2026bridging",
-      "citation": "T. Gasmi, R. Guesmi, J. Bennaceur, and I. Belhadj, “Bridging AI and software security: A comparative vulnerability assessment of LLM agent deployment paradigms,” Information Sciences, vol. 740, p. 123231, Jun. 2026.",
+      "citation": "T. Gasmi, R. Guesmi, J. Bennaceur, and I. Belhadj, “Bridging AI and software security: A comparative vulnerability assessment of LLM agent deployment paradigms,” Information Sciences, vol. 740, p. 123 231, Jun. 2026.",
       "url": ""
     },
     {
@@ -11416,7 +11872,7 @@ const DATA = {
     },
     {
       "key": "li2026agentharness",
-      "type": "others",
+      "type": "misc",
       "title": "Agent Harness Engineering: A Survey",
       "author": "Li, Junjie and Xiao, Xi and Zhang, Yunbei and Liu, Chen and Zhao, Lin and Liao, Xiaoying and Ji, Yingrui and Wang, Janet and Gu, Jianyang and Ge, Yingqiang and Xu, Weijie and Fang, Xi and Xu, Xiang and Zhao, Tianchen and Kim, Youngeun and Wang, Tianyang and Hamm, Jihun and Krishnaswamy, Smita and Huan, Jun and Reddy, Chandan",
       "year": "2026",
@@ -11956,7 +12412,7 @@ const DATA = {
     },
     {
       "key": "christodorescu2026agent",
-      "type": "misc",
+      "type": "inproceedings",
       "title": "Agent Security Is a Systems Problem",
       "author": "Christodorescu, Mihai and Fernandes, Earlence and Hooda, Ashish and Jha, Somesh and Rehberger, Johann and Chaudhuri, Kamalika and Fu, Xiaohan and Shams, Khawaja and Amir, Guy and Choi, Jihye and Choudhary, Sarthak and Palumbo, Nils and Labunets, Andrey and Pandya, Nishit V.",
       "year": "2026",
@@ -16123,7 +16579,7 @@ const DATA = {
     },
     {
       "key": "khanSAFER2025",
-      "type": "misc",
+      "type": "inproceedings",
       "title": "Safety Aware Task Planning via Large Language Models in Robotics",
       "author": "Khan, Azal Ahmad and Andrev, Michael and Murtaza, Muhammad Ali and Aguilera, Sergio and Zhang, Rui and Ding, Jie and Hutchinson, Seth and Anwar, Ali",
       "year": "2025",
@@ -17896,7 +18352,7 @@ const DATA = {
     },
     {
       "key": "b3bench2026",
-      "type": "misc",
+      "type": "inproceedings",
       "title": "Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents",
       "author": "Arceo, Francisco Javier and Narsing, Varsha Prasad",
       "year": "2026",
